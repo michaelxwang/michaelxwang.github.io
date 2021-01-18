@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Tax and life.
+title: Tax and life
 description: >-
   Professional tax preparation since 2005. All 50 state and DC. Highest credential awarded by the IRS. Life time guarantee.
 baseurl: "" # the subpath of your site, e.g. /blog
