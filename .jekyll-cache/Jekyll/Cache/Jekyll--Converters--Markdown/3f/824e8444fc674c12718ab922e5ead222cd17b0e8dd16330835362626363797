@@ -1,0 +1,100 @@
+I"U<p>RSU’s (Restrict Stock Units) are the company stocks given to you usually for free,
+however upon receiving the shares vested, you have to pay tax based on the fair market value of
+the stocks as compensation (federal, state, and FICA taxes). There are two ways you can pay:
+sell some stocks (sell to cover which is  default) or you come out with cash from your pocket.</p>
+
+<p>Upon selling the stocks, you recognize a capital gain or loss. You pay
+<a href="https://en.wikipedia.org/wiki/Capital_gains_tax_in_the_United_States">long term capital gain rate</a> up to 20%
+on capital gain if you hold it for more than a year, and ordinary income tax (federal, state income tax only without
+FICA) for short term capital gain or capital loss (tax savings).</p>
+
+<p>Example:</p>
+
+<blockquote>
+  <ul>
+    <li>Number of shares vested: 100</li>
+    <li>Fair Market Value per share on vesting: $90</li>
+    <li>Sale price: $x</li>
+  </ul>
+</blockquote>
+
+<p>In this example, you pay compensation income tax at time of vesting on $90 per share, and
+you pay capital gain tax at time of sale on the proceed per share ($x - $90).</p>
+
+<p>By the way, if you just copy from 1099-B to Turbo tax without adjustment on cost basis, then
+you will end up with paying tax twice, and most of people do.</p>
+
+<p>If you need more info on RSU taxation, please click <a href="/tax/2019/11/19/ISO-RSU-ESPP.html">here</a>.</p>
+
+<p>To better understand the pro and con’s of “sell to cover” and “cash to cover”, let us
+work out answers of different scenarios based on above example:</p>
+
+<ul>
+  <li>
+    <p>(a) If you sell to cover, and the stock price doubled after 1+ year and you sell it,
+what is the total gain after taxes?</p>
+  </li>
+  <li>
+    <p>(b) If you sell to cover, and the stock price become $0 and you sell it,
+what is the total gain or loss after taxes?</p>
+  </li>
+  <li>
+    <p>(c) If you cover with cash, and the stock price doubled after 1+ year and you sell it,
+what is the total gain after taxes?</p>
+  </li>
+  <li>
+    <p>(d) If you cover with cash, and the stock price become $0 and you sell it,
+what is the total gain (or loss) after taxes?</p>
+  </li>
+</ul>
+
+<p>The answers are likely different for different people as their marginal tax rates
+are not the same. Let us work out specific answers for John Doe who is a single CA
+residents and has the following tax rates:</p>
+
+<ul>
+  <li>Federal marginal tax rate: 24%</li>
+  <li>State marginal tax rate: 9.3%</li>
+  <li>FICA tax rate: 7.65% (suppose he has not reached the max yet)</li>
+  <li>Compensation income marginal tax rate: 24% + 9.3% + 7.65% = 41%</li>
+  <li>Ordinary income marginal tax rate: 24% + 9.3% = 33.3%</li>
+  <li>Long term capital gain tax rate: 15%</li>
+</ul>
+
+<p>So in his case, he needs either to sell 41 shares (leaving 59 shares on his account),
+or come up equivalent amount of cash ($90 * 41 = $3,690) to cover the taxes upon receiving the shares.</p>
+
+<p>Let us also ignore the time value of money (today’s money worth more than the same
+amount of money in the future) in the calculation, however, if the loss is huge
+the time value of money can no longer be ignore as you won’t be able recover
+the capital loss within your life time since the allowed capital loss deduction
+is limited to $3,000 per year ($1,500 for married filing separately).</p>
+
+<p>Answers:</p>
+
+<p>[a] The total gain on sale = $180 * 59 = $10,620,<br />
+    the taxable amount = [$180 - $90] * 59 = $5,310,<br />
+    the tax to be paid on capital gain = $5,310 * 15% = $797,<br />
+    so the net gain is $10,620 - $797 = $9,823.</p>
+
+<p>[b] The total gain on sale = $0,<br />
+    the taxable amount = [$0 - $90] * 59 = -$5,310,<br />
+    the tax to be paid on capital loss = -$5,310 * 33.3% = -$1,768,<br />
+    so the net gain is $0 - [-$1,768] = $1,768.</p>
+
+<p>[c] The total gain on sale = $180 * 100 = $18,000,<br />
+    the taxable amount = [$180 - $90] * 100 = $9,000,<br />
+    the tax to be paid on capital gain = $9,000 * 15% = $1,350,<br />
+    so the net gain is $18,000 - $1,350 - $3,690 [cash to cover] = $12,960.</p>
+
+<p>[d] The total gain on sale = $0,<br />
+    the taxable amount = [$0 - $90] * 100 = -$9,000,<br />
+    the tax to be paid on capital loss = -$9,000 * 33.3% = -$2,997,<br />
+    so the net gain is $0 - [-$2,997] - $3690 [cash to cover] = -$693.</p>
+
+<p>So yes, you could have a net loss if you do not sell to cover or do not
+cover completely when stock price drops later on, and this is due to
+the difference between compensation income tax rate [with FICA] and
+ordinary income rate [without FICA], and the time value [take long time
+to recover or not be able to recover during one’s life time].</p>
+:ET

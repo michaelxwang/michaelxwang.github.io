@@ -1,0 +1,54 @@
+I"�<p><img src="/assets/images/20210105-basic-backdoor-Roth-IRA.jpg" /></p>
+
+<p>We hold these truths to be self-evident that</p>
+
+<ul>
+  <li>Everyone can contribute to traditional IRA, even Bill Gates if he likes, it is just how much one can deduct from her income, zero, partial, or the full amount.</li>
+  <li>Everyone can put money to ROTH IRA, even Bill Gates if he likes, it is just a matter that it is done through “front door” (direct contribution) or “back door” (conversion).</li>
+</ul>
+
+<p>How do you contribute to ROTH IRA via “back door”? Here is the run book:</p>
+
+<ol>
+  <li>Make sure you do not have tradition IRA without basis [or a rollover IRA from 401(k)] or get rid of it (see footnote).</li>
+  <li>You contribute to traditional IRA in the amount X.</li>
+  <li>You convert the full amount to ROTH IRA at earliest possible time when the fund is available <em>without paying withholding tax</em>.</li>
+  <li>Provide (a) the contribution and (b) distribution information to your accountant or your tax software.</li>
+</ol>
+
+<p>Here is what you will see on your tax form when it is done right:</p>
+
+<ul>
+  <li>You report the deductible amount Y (0 &lt;= Y &lt;= X) in the year where the contribution is allocated.</li>
+  <li>You report the income amount Y in the year where the conversion is made.</li>
+</ul>
+
+<p>The deduction and income cancels each other, and the end result is that you have contributed X to ROTH IRA.</p>
+
+<p>Example:</p>
+
+<ul>
+  <li>You do not have 401(k) plan.</li>
+  <li>On 2019-04-01 you contributed $5,500 to traditional IRA allocated to 2018,</li>
+  <li>On 2019-04-01 you contributed $6,000 to traditional IRA allocated to 2019,</li>
+  <li>On 2019-04-03 you converted the full amount $11,500 to ROTH IRA.</li>
+</ul>
+
+<p>Here is how you report:</p>
+
+<ul>
+  <li>On your 2018 form 1040, you report deduction Y1 ($5,500).</li>
+  <li>On your 2019 form 1040, you report deduction Y2 ($6,000) and income Y1 + Y2 ($11,500).</li>
+</ul>
+
+<p>If the situation is that you have 401(k) and high enough wage, or you choose not to deduct, then Y1 = Y2 = 0.</p>
+
+<p>Footnote:</p>
+
+<ul>
+  <li>The contribution is in <a href="https://www.irs.gov/pub/irs-pdf/f5498.pdf">Form 5498</a> but it normally comes after the filing deadline, so provide the information of the amount, and year allocated to.</li>
+  <li>The distribution is in <a href="https://www.irs.gov/pub/irs-pdf/f1099r.pdf">Form 1099-R</a> and it will come before the deadline. The distribution code should be 02 (early distribution but exception applies).</li>
+  <li>If you do have traditional IRA or rollover IRA from 401(k) for which you have not paid taxes yet (“old money”), then you would need to convert it to ROTH IRA and pay tax first, which is the original intent of the “back door”. If you do not have “old money” or have got rid of it, there is nothing wrong nor illegal for the “new money” to take a free ride via the “back door”. I would not recommend to mix the “old money” without basis with “new money” with basis for the sake of sanity, or you will need to keep track of the basis via <a href="https://www.irs.gov/pub/irs-pdf/f8606.pdf">Form 8606</a>, rollover the “old money” and “new money” proportionally, and pay tax on the “old money”.</li>
+  <li>If you do not know if you should enter through the “front door” or “back door”, then you can wait until you file your tax. The dead line for contributing to prior year is 4/15 next year. This is why Form 5498 comes after the filing dead line.</li>
+</ul>
+:ET

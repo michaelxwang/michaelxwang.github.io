@@ -1,0 +1,213 @@
+I"x<p>If you have Incentive Stock Options (ISO), Employee Stock Purchase Plan (ESPP),
+and Restricted Stock Unit (RSU), then most likely than not, you have overpaid
+your taxes. Among the tax returns that I have reviewed, many returns involving
+ISO, ESPP, or RSU were done correctly.</p>
+
+<p>If you have ISO, ESPP, or RSU, you should read this because effective
+January 1st 2014, the IRS changed how cost basis is reported on your 1099-B
+tax form sent to you by your broker. You should make adjustment in order not
+to pay your tax twice.</p>
+
+<p>In order to explain the problems, we need to introduction some background information.</p>
+
+<p>Stock options has two types:</p>
+
+<ul>
+  <li>Statutory stock option</li>
+  <li>Non-statutory stock option</li>
+</ul>
+
+<p>Common Statutory stock options include:</p>
+
+<ul>
+  <li>Incentive Stock Options (ISO)</li>
+  <li>Employee Stock Purchase Plan (ESPP)</li>
+</ul>
+
+<p>Common Non-statutory stock options include:</p>
+
+<ul>
+  <li>Restricted Stock Unit (RSU)</li>
+</ul>
+
+<p>Qualifying disposition:</p>
+
+<ul>
+  <li>sales after 1 year of grant</li>
+  <li>sales after 2 years of offer.</li>
+</ul>
+
+<p>Disqualifying disposition:</p>
+
+<ul>
+  <li>otherwise.</li>
+</ul>
+
+<p>Capital gain are divided into long term and short term. Long term capital gain is
+derived from the stocks that you hold for more than 1 year, otherwise it is
+short term. You pay capital gain as ordinary income as defined below, you pay
+long term capital again at reduced rate, short term at the marginal rate.</p>
+
+<p>Ordinary income: Income subject to income tax only, but not
+FICA tax (social security tax and medicare tax). Example:
+bank interest, capital gain.</p>
+
+<p>Compensation: income not only subject to income tax, but also
+FICA tax. Example, your wage.</p>
+
+<h4 id="iso">ISO</h4>
+
+<p>Only pay tax when sold.</p>
+
+<p>Qualifying disposition: only pays tax as long term capital gain (or loss) based on
+sale price and the option purchase price, not as compensation.</p>
+
+<p>Disqualifying disposition: pay tax as ordinary income up to your gain.</p>
+
+<blockquote>
+  <p>Example 1:</p>
+
+  <ul>
+    <li>Market price: $100</li>
+    <li>Option purchase price: $70</li>
+    <li>Sale price: $90</li>
+  </ul>
+</blockquote>
+
+<p>The ordinary income (Box 1 of W-2) is $20 ($90 - $70, up to the gain), and
+the capital gain is $0 (not to pay tax twice).</p>
+
+<blockquote>
+  <p>Example 2:</p>
+
+  <ul>
+    <li>Market price: $100</li>
+    <li>Option purchase price: $70</li>
+    <li>Sale price: $120</li>
+  </ul>
+</blockquote>
+
+<p>The ordinary income (Box 1 of W-2) is $30 ($100 - $70), and
+the capital gain (long or short depending on holding period) on $20 ($120 - $100).</p>
+
+<p>For both situations, the broker will report the option purchase price ($70) as cost basis,
+you need to increase the cost basis to reflect the ordinary income realized, or you end
+up paying tax twice.</p>
+
+<h4 id="espp">ESPP</h4>
+
+<p>Same as ISO, you pay tax only when the stocks are sold.</p>
+
+<p>– Qualifying disposition realizes ordinary income up to the gain.</p>
+
+<blockquote>
+  <p>Example:</p>
+
+  <ul>
+    <li>FMV = 100</li>
+    <li>Purchase price: 85</li>
+    <li>Sale price: 90</li>
+  </ul>
+</blockquote>
+
+<p>Ordinary income is $90 - $85 = $5 (up to the gain), and the
+capital gain is $0.</p>
+
+<p>The broker will report that you have a $5 gain ($90 - $85), you
+should increase your basis by $5 to derive $0 gain because the $5
+has been reported as regular income on your W-2.</p>
+
+<p>– Disqualifying disposition must realize ordinary income of bargain element
+(FMV at grant minus purchase price) at year of sale even there is a loss.
+The cost basis is the purchase price plus the bargain element, ie, the
+FMV value.</p>
+
+<blockquote>
+  <p>Example:</p>
+
+  <ul>
+    <li>FMV = 100</li>
+    <li>Purchase price: 85</li>
+    <li>Sale price: 90</li>
+  </ul>
+</blockquote>
+
+<p>The ordinary income: 100 - 85 = 15, and the capital gain: 90 - 100 = -10.</p>
+
+<p>The broker will report that you have a $5 gain ($90 - $85), you
+should adjust your basis to reflect a $10 loss because the $15
+has been reported as regular income on your W-2.</p>
+
+<p>Some companies have a look-back provision to determine the purchase
+price, so the purchase price could be much lower than the market
+price, as a result of this the ordinary income could be much larger, and so
+the adjustment on the basis. If you do not make adjustment, then
+you are paying tax twice on this part of income, once as ordinary
+income, and once as capital gain.</p>
+
+<p>For those who study computer science, I will provide a concise
+formula. Suppose the FMV is M, Purchase price is P (which is lower than M with employee discount), and Sale price is S, then:</p>
+
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">Ordinary income O = qualified ? min(M-P, max(S-P,0)) : M-P</code></li>
+  <li><code class="language-plaintext highlighter-rouge">Capital income C = S - (P+O)</code></li>
+</ul>
+
+<p>Since tax is higher or equal on ordinary income than capital gain, qualified disposition pays less or equal taxes
+than disqualified disposition. When S&gt;=M, they converge.</p>
+
+<p>Most people forget the O in above formula in computing capital income, they pay tax on O twice, once as ordinary income
+and once as capital gain.</p>
+
+<h4 id="rsu">RSU</h4>
+
+<p>RSU is non-statuary stock option. You do not pay tax when the stock
+was granted, but you pay taxes when the stock was transferred to you
+before you sell it. You pay tax on the benefit you get (market price
+minus the purchase price) as <em>compensation</em>.</p>
+
+<p>You can either transfer external money to pay for the taxes, but by default
+they will sell some stocks to cover the tax.
+If you do not sell enough stock to cover the taxes, and later the
+stock becomes worthless, you may not have enough money to cover
+the taxes.</p>
+
+<blockquote>
+  <p>Example:</p>
+
+  <ul>
+    <li>Number of shares: 10</li>
+    <li>Purchase price: $0</li>
+    <li>Share price: $1,000</li>
+  </ul>
+</blockquote>
+
+<p>$10,000 ($1,000 * 100) will be taxed as ordinary income. Suppose 40%
+of tax needs to be paid, then you need either to come up with
+$4,000 to pay taxes from your pocket, you sell 4 shares
+to cover the taxes ($1,000 * 4).</p>
+
+<p>If you sell 4 shares to cover the taxes, then on your brokerage
+form, it will show that you have a $4,000 capital again because
+the purchase price is $0. However because the benefit of having the
+stock for free has been added to your W-2 and taxed as
+compensation, then you should increase your basis to $4,000 to
+derive a $0 gain. Because of cost of sale, you should have a 
+small loss. If you do not do this, then you will pay taxes
+twice, once as compensation, and once as capital gain.</p>
+
+<p>Suppose after many years, you want to sell the rest of 6 shares
+and you forgot that you have paid taxes already up to $1,000 per share
+and the company does not provide you with the proper paperwork, you will
+end up paying taxes again.</p>
+
+<p>Documents needed for the cost basis adjustment:</p>
+
+<ul>
+  <li>Form 3921 from employer if you have ISO or RSU.</li>
+  <li>Form 3922 from employer if you have sold stocks from ESPP.</li>
+</ul>
+
+<p>Those are official forms, but I have seen supplemental document from
+brokers to help you make adjustment for the cost basis.</p>
+:ET

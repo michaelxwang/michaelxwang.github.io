@@ -1,0 +1,252 @@
+I"h%<p>If you are self employed (SE), or burn the midnight oil to make extra
+money, then you are familiar with form 1099-MISC. When you file tax,
+besides income tax, you need to pay SE tax on IRS <a href="https://www.irs.gov/pub/irs-pdf/f1040sse.pdf">schedule SE</a>,
+a simplified version is shown here:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>   1a Net farm profit or (loss) from Schedule F
+    b ... enter the amount of Conservation Reserve Program payments ...
+   2 (*) Net profit or (loss) from Schedule C
+   3 Combine lines 1a, 1b, and 2 
+   4 (*) Multiply line 3 by 92.35% (0.9235)
+   5 (*) Multiply line 4 by 15.3% (0.153). 
+   6 (*) Deduction for one-half of self-employment tax. Multiply line 5 by 50% (0.50).
+</code></pre></div></div>
+
+<p>where 1a and 1b are rare form of income most of us do not have, so
+basically to figure out the SE tax, you multiple the net profit by 92.35%,
+and then 15.3%.</p>
+
+<p>The percentage 15.3% is the SE tax, also called FICA tax to fund the social security
+and medicare. For employees, these two taxes appear in Box 4 and 6 of
+your W-2. If you are not highly paid individual who are affected by
+additional medicare tax as added by the Affordable Care Act (ACA, aka
+Obama Care), then you can verify that the social security tax <em>withheld</em>,
+and medicare tax <em>withheld</em> are 6.20% and 1.45% respectively, or 7.65%
+together. Not shown on W-2, but the employer also contribute the same
+amount. As a SE person, you are employer and employee at the same time,
+so you pays the double amount: 7.65% * 2 = 15.3%. This explains the FICA
+tax rate, but where does 92.35% (0.9235) comes from?</p>
+
+<p>Apparently, the percentate comes from:</p>
+
+<p>1 - 7.65% = 92.35%</p>
+
+<p>i.e. the percentage left after one-half of the SE tax (employer portion)
+deducted.</p>
+
+<p>However this is incorrect because you deduct the employer’s portion
+based on the net income, but actually pay the same percentage based on
+the amount after deduction. Let the net income to be N, the employer’s
+portion you <em>deduct</em> is:</p>
+
+<p>N * 7.65%</p>
+
+<p>The employer’s portion that you <em>pay</em> is:</p>
+
+<p>N*(1-7.65%)*7.65%</p>
+
+<p>These two amounts should be equal but are not equal.</p>
+
+<p>The correct percentage X that you deduct should be the tax you actually paid, or:</p>
+
+<p>N*(1-X)*7.65% = N*X</p>
+
+<p>OR X = 7.65%/(1+7.65%) = 7.11%.</p>
+
+<p>Using the formula for <a href="https://en.wikipedia.org/wiki/Taylor_series">Taylor series expansion</a>, and ignore the second
+order and higher, we have:</p>
+
+<p>X = 1 - 7.65% = 92.35%</p>
+
+<p>So we can say the percentage that IRS used is first order approximation of
+the Taylor series, although there is no such a need as this is a constant
+that only need to be compute once. Fortunately this “approximation”
+favors the taxpayer.</p>
+
+<p>In computing the retirement contribution of SE person, however, IRS is
+not so lucky but has to face the mathematical reality.</p>
+
+<p>When setting up a SE retirement plan, you need to set a plan contribution
+percentage up to 25% based on the plan compensation. While this is easy
+to compute for your employees as the plan compensation is the net income
+without adjustment. For the SE person to make his own contribution it
+is <a href="https://www.irs.gov/retirement-plans/self-employed-individuals-calculating-your-own-retirement-plan-contribution-and-deduction">“more complicated”</a> because the net income should exclude the
+contribution amount to arrive plan compensation. For example, if your
+plan contribution rate is 10%, and your net income is 100. If you use
+the plan rate then your contribution is 100*10% = 10, and the plan
+compensation is 100 - 10 = 90, so the contribution percentage becomes
+10/90 = 11.11% which violates the preset plan contribution percentage. In
+<a href="https://www.irs.gov/retirement-plans/self-employed-individuals-calculating-your-own-retirement-plan-contribution-and-deduction">the words of IRS</a>:</p>
+
+<blockquote>
+  <p>your plan compensation and the amount of your own plan
+contribution/deduction depend on each other - to compute one, you need
+the other (this is a circular calculation).</p>
+</blockquote>
+
+<p>To solve this problem,
+IRS proposes to use a reduced rate which, of course is listed in a table
+found in <a href="https://www.irs.gov/publications/p560/ch05.html">Publication 560</a> together with worksheets, something that IRS
+does best. The table is copied below for all percentages from 1% to 25%:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: right">Plan rate (R)</th>
+      <th style="text-align: right">Your rate (r)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: right">1</td>
+      <td style="text-align: right">.009901</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">2</td>
+      <td style="text-align: right">.019608</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">3</td>
+      <td style="text-align: right">.029126</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">4</td>
+      <td style="text-align: right">.038462</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">5</td>
+      <td style="text-align: right">.047619</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">6</td>
+      <td style="text-align: right">.056604</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">7</td>
+      <td style="text-align: right">.065421</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">8</td>
+      <td style="text-align: right">.074074</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">9</td>
+      <td style="text-align: right">.082569</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">10</td>
+      <td style="text-align: right">.090909</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">11</td>
+      <td style="text-align: right">.099099</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">12</td>
+      <td style="text-align: right">.107143</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">13</td>
+      <td style="text-align: right">.115044</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">14</td>
+      <td style="text-align: right">.122807</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">15</td>
+      <td style="text-align: right">.130435</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">16</td>
+      <td style="text-align: right">.137931</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">17</td>
+      <td style="text-align: right">.145299</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">18</td>
+      <td style="text-align: right">.152542</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">19</td>
+      <td style="text-align: right">.159664</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">20</td>
+      <td style="text-align: right">.166667</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">21</td>
+      <td style="text-align: right">.173554</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">22</td>
+      <td style="text-align: right">.180328</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">23</td>
+      <td style="text-align: right">.186992</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">24</td>
+      <td style="text-align: right">.193548</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">25*</td>
+      <td style="text-align: right">.200000*</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Let us see how to use the table. Use the same sample as above, if
+the plan rate is 10%, your rate should be reduced to 9.0909%. So your
+contribution is 100*9.0909% = 9.0909. The plan compensation is then 100 -
+9.0909 = 90.9091, and then plan contribution rate “magically” equals to
+9.0909/90.9091 = 10% within the margin of errors, which agrees with the
+plan policy.</p>
+
+<p>How does this “magic” occur? The “circular calculation” is actually
+called an equation in mathematical terms. Let N be net income, C be
+your contribution, R be the plan contribution rate, and P the plan
+compensation. True that Plan compensation depends on contribution:</p>
+
+<p>P = N - C</p>
+
+<p>True also the contribution depends on the plan compensation:</p>
+
+<p>C = P * R</p>
+
+<p>We can resolve this circular relationship mathematically, and get</p>
+
+<p>r = C/N = R/(1+R)</p>
+
+<p>where r is your rate defined as the ratio of
+contribution over the net income. We can easily verify, as an example,
+that when plan rate is 10%, the personal rate is 10%/(1+10%) = 9.0909%,
+which agrees with IRS table.</p>
+
+<p>We can take first derivative, or rewrite the C/N = 1/(1+1/R), or use
+the IRS table to show that the personal rate is monotonically increasing
+function of R, and the maximum personal rate is 20%.</p>
+
+<p>Here we assume the net income has been adjusted for SE tax with one-half
+of SE tax deducted. As we recall from discussion above, the SE tax is
+unadjusted net income times (1-7.65%) and times 15.3%, so the net income
+adjusted for SE tax is unadjusted net income times (1-(1-7.65%)*7.65%),
+so the maximum personal contribution rate over unadjusted net income is:</p>
+
+<p>20% * (1-(1-7.65%)*7.65%) = 18.587045%</p>
+
+<p>which is documented in <a href="https://en.wikipedia.org/wiki/SEP-IRA">Wikipedia</a>, which says:</p>
+
+<blockquote>
+  <p>the contribution limit for
+self-employed persons is more complicated; barring limits, it is
+18.587045% (approximately 18.6%) of net profit</p>
+</blockquote>
+
+<p>Now resolved the “complication”.</p>
+
+:ET
