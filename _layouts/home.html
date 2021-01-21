@@ -9,7 +9,7 @@ layout: default
 
 <p>
 {%- for category in site.categories -%}
-  <a href="cat/{{ category.title | downcase}}.html">{{ category.title }}</a> |&nbsp
+  <a href="/cat/{{ category.title | downcase}}.html">{{ category.title }}</a> |&nbsp
   {%- endfor -%}
 </p>
 
