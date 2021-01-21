@@ -48,8 +48,7 @@ collections:
   categories:
     output: true
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: categories
     values:
