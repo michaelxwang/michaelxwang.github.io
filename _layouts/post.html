@@ -1,6 +1,13 @@
 ---
 layout: default
 ---
+<p>
+    |&nbsp
+    {%- for category in site.categories -%}
+        <a href="/cat/{{category.title | downcase}}.html">{{ category.title }}</a> |&nbsp
+    {%- endfor -%}
+</p>
+
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">

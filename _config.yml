@@ -42,11 +42,12 @@ exclude:
   - vendor/ruby/
 show_excerpts: true
 paginate_path: "/page:num/"
-paginate: 5
+paginate: 1
 
 collections:
   categories:
     output: true
+
 defaults:
   - scope:
       path: ""

@@ -8,9 +8,10 @@ layout: default
   {%- endif -%}
 
 <p>
+|&nbsp
 {%- for category in site.categories -%}
-  <a href="/cat/{{ category.title | downcase}}.html">{{ category.title }}</a> |&nbsp
-  {%- endfor -%}
+  <a href="/cat/{{ category.title | downcase }}.html">{{ category.title }}</a> |&nbsp
+{%- endfor -%}
 </p>
 
   {%- if site.posts.size > 0 -%}
