@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Tax and life
 description: >-
-  Professional tax preparation since 2005. All 50 state and DC. Highest credential awarded by the IRS. Life time guarantee.
+  Professional tax preparation since 2005. All 50 states and DC. Highest credential awarded by the IRS. Life time guarantee.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # wechat: puravidawechat
