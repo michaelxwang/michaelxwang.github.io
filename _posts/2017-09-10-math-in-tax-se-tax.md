@@ -72,8 +72,13 @@ the Taylor series, although there is no such a need as this is a constant
 that only need to be compute once. Fortunately this "approximation"
 favors the taxpayer.
 
-In computing the retirement contribution of SE person, however, IRS is
-not so lucky but has to face the mathematical reality.
+By the way, the 92.35% of the net earnings from the Sch. C business is what
+listed as "Your Taxed Social Security Earnings" and "Your Taxed Medicare Earnings"
+in "Your Social Security Statement", and this ought to be what is used to compute
+the ["quarter of coverage"](https://www.ssa.gov/OACT/COLA/QC.html).
+
+In computing the retirement contribution of SE person, however, the IRS
+choose to face the mathematical reality.
 
 When setting up a SE retirement plan, you need to set a plan contribution
 percentage up to 25% based on the plan compensation. While this is easy
