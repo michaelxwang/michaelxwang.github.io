@@ -41,11 +41,11 @@ Please provide the following info for EACH person unless otherwise noted (new cl
 -  First name
 -  Middle name
 -  Last name
--  Social Security Numbers (or Tax IDs), see ITIN in SPECIAL SITUATION section if no SSN
 -  Date of Birth (MM/DD/YYYY)
+-  Social Security Numbers (or Tax IDs), see ITIN in SPECIAL SITUATION section if no SSN
+-  Email address (taxpayers only, not dependent)
 -  Address (taxpayers only, not dependent)
 -  Telephone number (taxpayers only, not dependent)
--  Email address (taxpayers only, not dependent)
 -  Occupation (taxpayers only, not dependent)
 
 ### Bank Information for tax refund or payment only (I do _not_ use it for filing fee, new client or changed info)
