@@ -131,24 +131,29 @@ If you have HSA (Health Savings Accounts), please provide:
     
 - Rent received.
 - Advertising.
+- HomeOwner Association (HOA) fees.
 - Auto and travel.
 - Cleaning and maintenance.
 - Commissions.
+- Gardening
 - Home insurance.
 - Private Mortgage Insurance (PMI).
 - Legal and other professional fees (tax preparation fee).
 - Management fees.
 - Mortgage interest paid to banks, etc.
 - Other interests.
+- Painting and decorating.
+- Pest control.
+- Plumbing and electrical.
 - Repairs.
 - Supplies.
 - Taxes.
+- Telephone and internet (provided to tenants).
 - Utilities.
-- HomeOwner Association (HOA) fees.
 - FIRST YEAR RENTAL: Rental starting date (MM/DD/YYYY).
 - FIRST YEAR RENTAL: Closing document.
 - FIRST YEAR RENTAL: Term of loan (e.g. 15 years, 30 years).
-- FIRST YEAR RENTAL: Land value near the rental starting date from the county website.
+- FIRST YEAR RENTAL: Appraisal near the rental starting date from the county website.
 - MIXED (RENTAL AND PRIMARY RESIDENT TOGETHER): Rental ratio.
 - PARTIAL YEAR AND MIXED: Specify expenses for what time period, for what space (entire house or the rental rooms).
 
