@@ -15,35 +15,41 @@ January 1st 2014, the IRS changed how cost basis is reported on your 1099-B
 tax form sent to you by your broker. You should make adjustment in order not
 to pay your tax twice.
 
-In order to explain the problems, we need to introduction some background information.
+In order to explain the problems, we need to define some terms used in the discussion.
 
-Stock options has two types:
+The following are the common example of stock options and the categories they belong:
 
 - Statutory stock option
+  - Incentive Stock Options (ISO)
+  - Employee Stock Purchase Plan (ESPP)
 - Non-statutory stock option
+  - Restricted Stock Unit (RSU)
 
-Common Statutory stock options include:
+When you sell the stock options, it can be either qualifying disposition or
+disqualifying disposition depending on the holding period:
 
-- Incentive Stock Options (ISO)
-- Employee Stock Purchase Plan (ESPP)
+```
+IF sale_date - exercise_date > 1 year AND
+   sale_date - offer_date    > 2 years
+THEN
+   It is "qualifying disposition"
+ELSE
+   It is "disqualifying disposition"
+```
 
-Common Non-statutory stock options include:
+Long term and short term capital gain have their normal definition:
 
-- Restricted Stock Unit (RSU)
+```
+IF holding period > 1 year
+THEN
+   It is long term capital gain and
+   you pay tax at reduced rate
+ELSE
+   It is short term capital gain and
+   you pay tax as "ordinary income" at the marginal rate
+```
 
-Qualifying disposition:
-
-- sales after 1 year of grant
-- sales after 2 years of offer.
-
-Disqualifying disposition:
-
-- otherwise.
-
-Capital gain are divided into long term and short term. Long term capital gain is
-derived from the stocks that you hold for more than 1 year, otherwise it is
-short term. You pay capital gain as ordinary income as defined below, you pay
-long term capital again at reduced rate, short term at the marginal rate.
+So you could have a disqualifying disposition but long term capital gain.
 
 Ordinary income: Income subject to income tax only, but not
 FICA tax (social security tax and medicare tax). Example:
@@ -51,6 +57,10 @@ bank interest, capital gain.
 
 Compensation: income not only subject to income tax, but also
 FICA tax. Example, your wage.
+
+Offer: the employer promised to give you stocks.
+
+Grant, exercise: the stocks became yours.
 
 #### ISO
 
@@ -63,18 +73,18 @@ Disqualifying disposition: pay tax as ordinary income up to your gain.
 
 > Example 1:
 > 
-> - Market price: $100
-> - Option purchase price: $70
+> - Market price at grant: $100
 > - Sale price: $90
+> - Option purchase price: $70
 
 The ordinary income (Box 1 of W-2) is $20 ($90 - $70, up to the gain), and
 the capital gain is $0 (not to pay tax twice).
 
 > Example 2:
 > 
-> - Market price: $100
-> - Option purchase price: $70
 > - Sale price: $120
+> - Market price at grant: $100
+> - Option purchase price: $70
 
 The ordinary income (Box 1 of W-2) is $30 ($100 - $70), and
 the capital gain (long or short depending on holding period) on $20 ($120 - $100).
@@ -91,9 +101,9 @@ Same as ISO, you pay tax only when the stocks are sold.
 
 > Example:
 > 
-> - FMV = 100
-> - Purchase price: 85
+> - FMV at exercise = 100
 > - Sale price: 90
+> - Purchase price: 85
  
 Ordinary income is $90 - $85 = $5 (up to the gain), and the
 capital gain is $0.
@@ -109,9 +119,9 @@ FMV value.
 
 > Example:
 > 
-> - FMV = 100
-> - Purchase price: 85
+> - FMV at exercise = 100
 > - Sale price: 90
+> - Purchase price: 85
  
 The ordinary income: 100 - 85 = 15, and the capital gain: 90 - 100 = -10.
  
@@ -126,16 +136,24 @@ the adjustment on the basis. If you do not make adjustment, then
 you are paying tax twice on this part of income, once as ordinary
 income, and once as capital gain.
 
-For those who study computer science, I will provide a concise
-formula. Suppose the FMV is M, Purchase price is P (which is lower than M with employee discount), and Sale price is S, then:
+The following psudo code can help to visualize the logic:
 
-- `Ordinary income O = qualified ? min(M-P, max(S-P,0)) : M-P`
-- `Capital income C = S - (P+O)`
+```
+IF qualified
+  IF Sale price >= Purchase price
+    Ordinary income = Sale price - Purchase price
+  ELSE
+    Ordinary income = 0
+ELSE
+  Ordinary income = FMV at exercise - Purchase price
+
+Capital gain = Sale price - (Purchase price + Ordinary income)
+```
 
 Since tax is higher or equal on ordinary income than capital gain, qualified disposition pays less or equal taxes
-than disqualified disposition. When S>=M, they converge.
+than disqualified disposition. When Sale price >= FMV at exercise, they converge.
 
-Most people forget the O in above formula in computing capital income, they pay tax on O twice, once as ordinary income
+Most people forget the Ordinary income in above formula in computing capital gain, they pay tax on Ordinary income twice, once as ordinary income
 and once as capital gain.
 
 #### RSU
