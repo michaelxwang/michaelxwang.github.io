@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tax notes: capital gains, dividends, and interest for nonresidents"
+title: "Tax notes: capital gains, dividends, and interest for residents and nonresidents"
 categories:
 - tax
 ---
