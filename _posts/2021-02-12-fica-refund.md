@@ -54,7 +54,7 @@ Ogden, UT 84201-0038
 Check [Publication 519][pub 519] for current address.
 
 This is a lengthy process because the government job is secure, they do not need to work as hard as we do. I
-sent in a request in May 2019, and it took nearly a year for the refund to be issued, and this is pre-pandemic
+sent in a request in May 2019 for a client, and it took nearly a year for the refund to be issued, and this is pre-pandemic
 of 2019. Experience shows that if you keep thinking of it, it will never come. Only after you forget about it,
 it will come. So as soon as you send in the request, it is better not to think about it.
 
