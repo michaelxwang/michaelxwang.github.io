@@ -382,4 +382,12 @@ rate and report in U.S. dollars, you can use the
 | 12/25/2020 | Cash from Santa Claus | $880,000 |
 | Total | |                           $888,888 |
 
+### Given gift more than annual exclusion list \$15,000 (2020) to file [Form 709](https://www.irs.gov/pub/irs-pdf/f709.pdf)
+
+- Donee’s name and address
+- Relationship to donor (if any)
+- Description of gift
+- If the gift was of securities, give CUSIP no.
+- If closely held entity, give EIN
+
 I hope this checklist helps you to prepare your tax documents.
