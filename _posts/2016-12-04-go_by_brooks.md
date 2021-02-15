@@ -21,7 +21,7 @@ title: 適之於溪 (Go By Brooks)
 適之於洋  
 有鯨巡航  
 我之怀人  
-本心不殇
+愚心不殇
 
 Go By Brooks  
 [Canada] Leonard Cohen (9/21/1934 - 11/7/2016)
