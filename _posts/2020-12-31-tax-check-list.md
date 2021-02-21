@@ -157,6 +157,11 @@ If you have HSA (Health Savings Accounts), please provide:
 - MIXED (RENTAL AND PRIMARY RESIDENT TOGETHER): Rental ratio.
 - PARTIAL YEAR AND MIXED: Specify expenses for what time period, for what space (entire house or the rental rooms).
 
+### Sale of a real estate property
+
+- Both [Closing documents][closing doc] when you bought and sold the property.
+- [1099-S](https://www.irs.gov/pub/irs-pdf/f1099s.pdf) if issued.
+
 ### Cash donations up to $300
 
 - Please upload your receipts.
@@ -192,7 +197,7 @@ deductible items such as donation, medical expense, state tax paid.
 The itemized deduction items: 
     
 - Mortgage and home equity interests [Form 1098](https://www.irs.gov/pub/irs-pdf/f1098.pdf).
-- Closing documents if in the year you bought, sold, or re-financed your home or other real estate ([Closing disclosure](https://files.consumerfinance.gov/f/201311_cfpb_kbyo_closing-disclosure.pdf), [1099-S](https://www.irs.gov/pub/irs-pdf/f1099s.pdf)).
+- [Closing document][closing doc] if you bought, sold, or re-financed your home or other real estate in the year.
 - Real Estate Tax, most likely on [Form 1098](https://www.irs.gov/pub/irs-pdf/f1098.pdf) as well.
 - Energy property based on manufacturer's certification document.
 - Personal Property Tax (car tax). In California, vehicle [license fee](https://lao.ca.gov/1998/061798_vlf_primer/061798_vlf.html) is deductible, use [this page](https://www.dmv.ca.gov/wasapp/FeeCalculatorWeb/vlfForm.do) to find the vehicle license fee. In most major metropolitan areas of Pierce, King, and Snohomish counties of Washington state, Regional Transit Authority tax [(RTA excise tax)](https://www.yelp.com/biz_photos/rainier-vehicle-and-vessel-licensing-seattle?select=ALoVRzNvpNoJxOdA_zJiow) is deductible.
@@ -308,7 +313,7 @@ supplies, eye exams, glasses, contacts, co-pays, medical transportation
 - Are you citizen of China (for US-China tax treaty)?
 - If status changed, the date of change (MM/DD/YYYY). For example, "10/01/2020 from F1 to H1B."
 - How many days (including partial days) have you stayed in US in 2020, 2019, 2018 respectively? You can get your travel history outside the United States from the [I94 Website](https://i94.cbp.dhs.gov/I94/#/history-search) and use the [Days Calculator](https://www.timeanddate.com/date/durationresult.html) to compute days between two dates.
-- Is the number of days in US in 2020 consistent with the Multi-state informatin provided earlier?
+- Is the number of days in US in 2020 consistent with the Multi-state information provided earlier?
 - [New client only] Did you file last year? If so what form used (1040, 1040A, 1040EZ, 1040NR, 1040NR-EZ)?
 - [New client only] How many months have you claimed US-China tax treaty 20(c) in previous years?
 
@@ -391,3 +396,5 @@ rate and report in U.S. dollars, you can use the
 - If closely held entity, give EIN
 
 I hope this checklist helps you to prepare your tax documents.
+
+[closing doc]: https://files.consumerfinance.gov/f/201311_cfpb_kbyo_closing-disclosure.pdf
