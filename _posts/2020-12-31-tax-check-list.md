@@ -200,7 +200,13 @@ The itemized deduction items:
 - [Closing document][closing doc] if you bought, sold, or re-financed your home or other real estate in the year.
 - Real Estate Tax, most likely on [Form 1098](https://www.irs.gov/pub/irs-pdf/f1098.pdf) as well.
 - Energy property based on manufacturer's certification document.
-- Personal Property Tax (car tax). In California, vehicle [license fee](https://lao.ca.gov/1998/061798_vlf_primer/061798_vlf.html) is deductible, use [this page](https://www.dmv.ca.gov/wasapp/FeeCalculatorWeb/vlfForm.do) to find the vehicle license fee. In most major metropolitan areas of Pierce, King, and Snohomish counties of Washington state, Regional Transit Authority tax [(RTA excise tax)](https://www.yelp.com/biz_photos/rainier-vehicle-and-vessel-licensing-seattle?select=ALoVRzNvpNoJxOdA_zJiow) is deductible.
+- Personal Property Tax (car tax).
+  - VA: Car tax is deductible. If your car is in Fairfax county, use [this page](https://www.fairfaxcounty.gov/dta_mobileepay/BillQuest.aspx) to get your car tax. In Fairfax city, use [this page](https://eservices.fairfaxva.gov/taxes/default.aspx).
+  - CA: Vehicle [license fee](https://lao.ca.gov/1998/061798_vlf_primer/061798_vlf.html) is deductible, use [this page](https://www.dmv.ca.gov/wasapp/FeeCalculatorWeb/vlfForm.do) to find the vehicle license fee.
+  - WA: In most major metropolitan areas of Pierce, King, and
+  Snohomish counties of Washington state, Regional Transit Authority
+  tax [RTA excise tax](https://www.yelp.com/biz_photos/rainier-vehicle-and-vessel-licensing-seattle?select=ALoVRzNvpNoJxOdA_zJiow)
+  which is a line item in car registration is deductible, use [this page](https://www.dol.wa.gov/vehicleregistration/renewyourtabs.html) to find the RTA tax.
 - Gifts to charity (cash and non-cash).
 - Un-reimbursement expenses related to volunteer work.
 - Investment interest (margin interest).
