@@ -1,19 +1,38 @@
 ---
 layout: post
-title: How to request FICA tax erroneously withheld from nonresidents?
+title: How to pay FICA tax erroneously not withheld and request FICA tax refund erroneously withheld?
 categories:
 - tax
 ---
 
-### 0 - What is FICA tax?
+### 0 - What is FICA tax and who should and should not pay?
 
 Federal Insurance Contributions Act tax, or commonly known as
 [FICA tax][fica], also called payroll tax, is the tax paid to Social Security
 Administration (SSA) via the payroll process. The company pays
-half, and withholds other half from the employee. Non-residents (for example, F1
-students within 5 years) do not need to pay this tax.
+half, and withholds other half from the employee. 
 
-### 1 - What do I do if the FICA tax is erroneously withheld?
+The IRS [says](https://www.irs.gov/individuals/international-taxpayers/foreign-student-liability-for-social-security-and-medicare-taxes):
+
+> ... allow an exemption from social security/Medicare taxes
+> to alien students, scholars, teachers, researchers, trainees,
+> physicians, au pairs, summer camp workers, and other nonimmigrants
+> who have entered the United States on F-1, J-1, M-1, Q-1, or Q-2
+> visas and who are still classified as NONRESIDENT ALIENS under the
+> residency rules of the Internal Revenue Code.
+
+> Foreign students in F-1, J-1, M-1, Q-1 or Q-2 nonimmigrant status
+> who have been in the United States more than 5 calendar years are
+> RESIDENT ALIENS and are liable for social security/Medicare taxes
+> (unless they are exempt from FICA under the "student FICA exemption"
+> discussed below).
+
+### 1 - How do I pay the FICA tax erroneously not withheld?
+
+Go to your HR department of your company and make a confession, they will correct their payroll
+to pay their half and your half, and you write a check to reimburse your company.
+
+### 2 - What do I do if the FICA tax is erroneously withheld?
 
 You do it in two steps:
 
