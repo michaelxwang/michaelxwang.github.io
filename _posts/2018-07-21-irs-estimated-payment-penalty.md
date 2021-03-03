@@ -40,11 +40,11 @@ The penalty will not apply if you satisfy one of the following
 conditions (see [form 2210](https://www.irs.gov/pub/irs-pdf/f2210.pdf)
 and [form 2210 instruction](https://www.irs.gov/pub/irs-pdf/f1040.pdf)):
 
-- `The current year withholding >= current year tax liability * 90%`
-- `The current year withholding > current year tax liability - $1,000`
-- `The current year withholding >= last year's tax liability * X`, where `X = 110%` if the
+- The _current_ year withholding is more than _current_ year tax liability * 90%.
+- The _current_ year withholding is more than _current_ year tax liability - $1,000.
+- The _current_ year withholding is more than _last year_'s tax liability * X`, where `X = 110% if the
 adjusted gross income on your previous year's return is over $150,000,
-or over $75,000 if you are married filing separately, otherwise `X = 100%`.
+or over $75,000 if you are married filing separately, otherwise X = 100%.
 A special case is that you had no tax liability for prior year and
 you were a U.S. citizen or resident alien for the entire year.
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to pay FICA tax erroneously not withheld and request FICA tax refund erroneously withheld?
+title: How to pay FICA tax or request FICA tax refund?
 categories:
 - tax
 ---
