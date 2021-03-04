@@ -201,8 +201,9 @@ The itemized deduction items:
 - Real Estate Tax, most likely on [Form 1098](https://www.irs.gov/pub/irs-pdf/f1098.pdf) as well.
 - Energy property based on manufacturer's certification document.
 - Personal Property Tax (car tax).
-  - VA: Car tax is deductible. If your car is in Fairfax county, use [this page](https://www.fairfaxcounty.gov/dta_mobileepay/BillQuest.aspx) to get your car tax. In Fairfax city, use [this page](https://eservices.fairfaxva.gov/taxes/default.aspx).
   - CA: Vehicle [license fee](https://lao.ca.gov/1998/061798_vlf_primer/061798_vlf.html) is deductible, use [this page](https://www.dmv.ca.gov/wasapp/FeeCalculatorWeb/vlfForm.do) to find the vehicle license fee.
+  - MA: Vehicle excise tax.
+  - VA: Car tax is deductible. If your car is in Fairfax county, use [this page](https://www.fairfaxcounty.gov/dta_mobileepay/BillQuest.aspx) to get your car tax. In Fairfax city, use [this page](https://eservices.fairfaxva.gov/taxes/default.aspx).
   - WA: In most major metropolitan areas of Pierce, King, and
   Snohomish counties of Washington state, Regional Transit Authority
   tax [RTA excise tax](https://www.yelp.com/biz_photos/rainier-vehicle-and-vessel-licensing-seattle?select=ALoVRzNvpNoJxOdA_zJiow)
