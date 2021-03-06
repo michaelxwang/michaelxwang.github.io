@@ -34,19 +34,28 @@ NB, Special benefit for married couple: if one spouse is a resident at the end o
 
 If you are not sure, please describe your situation.
 
-### Personal Information
+### Personal Information (new client or changed info):
 
-Please provide the following info for EACH person unless otherwise noted (new client or changed info):
+Please provide the following info for taxpayer (and spouse if filing jointly):
 
 -  First name
 -  Middle name
 -  Last name
 -  Date of Birth (MM/DD/YYYY)
 -  Social Security Numbers (or Tax IDs), see ITIN in SPECIAL SITUATION section if no SSN
--  Email address (taxpayers only, not dependent)
--  Address (taxpayers only, not dependent)
--  Telephone number (taxpayers only, not dependent)
--  Occupation (taxpayers only, not dependent)
+-  Email address
+-  Address
+-  Telephone number
+-  Occupation
+
+and for EACH dependent:
+
+-  First name
+-  Middle name
+-  Last name
+-  Date of Birth (MM/DD/YYYY)
+-  Social Security Numbers (or Tax IDs), see ITIN in SPECIAL SITUATION section if no SSN
+-  Relationship (Son, Daughter, Dad, Mom, etc)
 
 ### Bank Information for tax refund or payment only (I do _not_ use it for filing fee, new client or changed info)
     
