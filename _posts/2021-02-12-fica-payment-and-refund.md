@@ -82,6 +82,7 @@ The income tax return touches FICA tax only in special cases:
 
 - Excess social security tax withheld by multiple employers
 - Insufficient FICA taxes withheld for tipped employees - employers cannot withhold taxes from the tips paid by the customers. 
+- Additional Medicare Tax for people with high income (200,000 for single and 250,000 marrried in 2020).
 
 Income tax return does not cover the situation where the FICA tax
 erroneously withheld by the employers. You can go ahead filing your
