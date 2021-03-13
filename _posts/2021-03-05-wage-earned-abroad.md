@@ -100,7 +100,7 @@ While each state has its own rules to determine residency, California
 is most welcoming. That you left California does not necessarily mean
 you are not a resident; it depends on your intent to return
 ("domicile"). While intention is hard to measure, California kindly provides a safe
-harbor rule: if you are outside of California for 546 consecutive days, then
+harbor rule in [this guideline][ca]: if you are outside of California for 546 consecutive days, then
 you are permitted to consider yourself a nonresident of California.
 
 After reading about tax law, I came to the conclusion that the law is more than a set of random rules. It has its own internal logic.
@@ -121,3 +121,4 @@ in the form of taxes.
 [pub519]: https://www.irs.gov/pub/irs-pdf/p519.pdf
 [irs-web]: https://www.irs.gov/individuals/international-taxpayers/persons-employed-abroad-by-a-us-person
 [thomson]: https://tax.thomsonreuters.com/site/wp-content/pdf/nra-tax/Challenges-Foreign-National-Taxpayers-ebook.pdf
+[ca]: https://www.ftb.ca.gov/forms/2020/2020-1031-publication.pdf
