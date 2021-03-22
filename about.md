@@ -19,4 +19,4 @@ Tax Professional Since 2005, All 50 States + DC.
 Email: mwang@unixlabplus.com  
 Wechat ID: puravidawechat
 
-[ea]: https://en.wikipedia.org/wiki/Enrolled_agent
+[ea]: {{ baseurl }}/assets/images/20150121-ea.pdf
