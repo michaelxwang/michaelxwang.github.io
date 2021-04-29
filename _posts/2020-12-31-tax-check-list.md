@@ -1,4 +1,4 @@
----
+--
 layout: post
 title: 2020 Tax Return Checklist
 categories:
@@ -7,20 +7,23 @@ categories:
 
 Checklist ['tʃeklist]: n. a list of items (names or tasks etc.) to be checked or consulted.
 
-You do not need to answer every question but just to pay attention applicable to you.
-Create a file with personal info, and upload along with tax documents. 
+You do not need to answer every question but just to provide tax documents applicable to you,
+additionally provide a basic info not covered by tax documents. You can create a
+Google doc after you entered your link by clicking "+ New", or create your own
+simple word or text document and upload along with tax documents. Please do not imbed
+tax documents in the check list info doc. 
 
 ### Are you a resident or nonresident?
 
 - Were you (or your spouse if married) a citizen, a permanent resident (green card holder), or a professional worker with an H-1B, L1 visa for the entire year of 2020?
-- If the answer to question is NO, please list your (and your spouse's if married) complete visa history in a format shown below:
+- If you have not been a resident for current year and prior year, please list your (and your spouse's if married) complete visa (status) history in a format shown below:
 
    -   20XX F1
    -   20XX F1
    -   20XX-01-01 - 20XX-09-30 F1
    -   20XX-10-01 - 20XX-12-31 H1B
 
-and be sure to provide information in "Nonresident" section of this checklist.
+and be sure to provide information in _Nonresident_ section at the end of this checklist.
 
 NB, Special benefit for married couple: if one spouse is a resident at the end of year 2020, you and your nonresident spouse can elect to file jointly as residents.
 
@@ -31,8 +34,7 @@ NB, Special benefit for married couple: if one spouse is a resident at the end o
 - Married filing separately (MFS)
 - Head of Household (HOH)
 - Qualifier window(er) (QW)
-
-If you are not sure, please describe your situation.
+- Not sure, please describe your situation
 
 ### Personal Information (new client or changed info):
 
@@ -64,25 +66,29 @@ and for EACH dependent:
 - Your account number (as appeared on your checkbook if you use checking account)
 - Your account type (Checking or Savings)
     
-### Last year taxes if itemized (new client only)
+### Last year taxes if itemized and other carryover items (new client only)
 
-If I did not prepare your return and any of the taxpayers _itemized_
+- Please provide last year's return (federal and state)
+
+  _OR_
+
+  answer the following questions (please note the _or_ condition, i.e. if you provide last year's return then you do not need to answer
+the following questions, as I can read myself and I prefer that way. 
+
+- If I did not prepare your return and any of the taxpayers _itemized_
 last year (nonresidents not from India have to itemize), please
 list tax owed and paid to, or refund received from EACH of the
 states in the format below:
 
-- VA: owed and paid $500
-- DC: refund of $300
+  - VA: owed and paid $500
+  - DC: refund of $300
 
-The information is in your last year's return, 1099-G the state sent out, or your bank record.
+  The information is in your last year's return, 1099-G the state sent out, or your bank record.
 
-### Other carryover items (new client only)
+- Stock unallowed loss, investment interest expense, continued depreciation, etc.
+- Federal and state AGI, and tax liability. 
 
-Stock, investment interest expense, and other _carry-over_ items, continued depreciation, etc.
-
-- Please provide last year's return
-
-### Multi-states info
+### Location info
 
 Please list where you were for the entire year in a format as shown
 below, accurate to the state or country. Vacation within the US
@@ -96,10 +102,12 @@ Website](https://i94.cbp.dhs.gov/I94/#/history-search).
 
 Residents do not need to list travel outside the United States.
 
-### Economic Impact payments received
+### Amounts of economic Impact payments (aka stimulus check, COVID-19 assistance) received
 
-- First round
-- Second round
+- First round: ($xxxx.xx or describe your situation)
+- Second round: ($xxxx.xx or describe your situation)
+
+NB: The "third round" (Biden's money) is not covered in 2020 tax return. After you filed 2020 return, you may received it or it might be recovered in 2021 return, it is not sure at this moment.
 
 ### Income
     
@@ -120,9 +128,10 @@ Residents do not need to list travel outside the United States.
 
 If you have HSA (Health Savings Accounts), please provide:
 
-- Is it a "self-only" plan (insurance only covers yourself) or a family plan?
-- [1099-SA](https://www.irs.gov/pub/irs-pdf/f1099sa.pdf) or the amount spent from HSA. Zero is also a valid number and meaningful information.
-- Amount you contributed yourself _apart from payroll process_.
+- Is it a "self-only" plan (insurance only covers yourself) or a family plan? i.e. does the insurance cover only yourself or a family member as well?
+- [1099-SA](https://www.irs.gov/pub/irs-pdf/f1099sa.pdf) or the amount spent from HSA. Zero is also a meaningful number.
+- All the spending from the HSA were used for medical purpose and not reimbursed?
+- Amount you contributed yourself by depositing a check or making a bank transfer.
 - [5498-SA](https://www.irs.gov/pub/irs-pdf/f5498sa.pdf) if you have it (optional).
 
 ### Financial Assets
@@ -160,9 +169,9 @@ If you have HSA (Health Savings Accounts), please provide:
 - Telephone and internet (provided to tenants).
 - Utilities.
 - FIRST YEAR RENTAL: Rental starting date (MM/DD/YYYY).
-- FIRST YEAR RENTAL: Closing document.
+- FIRST YEAR RENTAL: [Closing document][closing doc], aka settlement doc, HUD-1, ALTA, which is 2-3 pages with numbers (I do not words for lawyers).
 - FIRST YEAR RENTAL: Term of loan (e.g. 15 years, 30 years).
-- FIRST YEAR RENTAL: Appraisal near the rental starting date from the county website.
+- FIRST YEAR RENTAL: [Assessment][assessment] near the rental starting date from the county website.
 - MIXED (RENTAL AND PRIMARY RESIDENT TOGETHER): Rental ratio.
 - PARTIAL YEAR AND MIXED: Specify expenses for what time period, for what space (entire house or the rental rooms).
 
@@ -325,13 +334,15 @@ supplies, eye exams, glasses, contacts, co-pays, medical transportation
 
 ### Nonresident
 
-- Are you citizen of India (for US-India tax treaty)?
-- Are you citizen of China (for US-China tax treaty)?
-- If status changed, the date of change (MM/DD/YYYY). For example, "10/01/2020 from F1 to H1B."
-- How many days (including partial days) have you stayed in US in 2020, 2019, 2018 respectively? You can get your travel history outside the United States from the [I94 Website](https://i94.cbp.dhs.gov/I94/#/history-search) and use the [Days Calculator](https://www.timeanddate.com/date/durationresult.html) to compute days between two dates.
-- Is the number of days in US in 2020 consistent with the Multi-state information provided earlier?
+- Which country are you a citizen of (China, India, or other country)?
+- If status ever changed in the current year or a prior year, the date of change (MM/DD/YYYY). For example, "10/01/2020 from F1 to H1B."
+- How many days (including partial days) have you stayed in the US in 2020, 2019, 2018 respectively? You can get your travel history outside the United States from the [I94 Website](https://i94.cbp.dhs.gov/I94/#/history-search) and use the [Days Calculator](https://www.timeanddate.com/date/durationresult.html) to compute days between two dates.
+- Is the number of days in US in 2020 consistent with the location information provided earlier?
+- Have you applied for green card?
+- Have you received form 1042-S?
+- Does any wage document include treaty deduction (we cannot deduction twice)?
 - [New client only] Did you file last year? If so what form used (1040, 1040A, 1040EZ, 1040NR, 1040NR-EZ)?
-- [New client only] How many months have you claimed US-China tax treaty 20(c) in previous years?
+- [New client only] In what years have you filed federal taxes claiming US-China tax treaty 20(c)? You do not need to answer the question if you have provided last year's return.
 
 ### Foreign Earned Income Exclusion (FEIE)
 
@@ -414,3 +425,4 @@ rate and report in U.S. dollars, you can use the
 I hope this checklist helps you to prepare your tax documents.
 
 [closing doc]: https://files.consumerfinance.gov/f/201311_cfpb_kbyo_closing-disclosure.pdf
+[assessment]: https://www.fairfaxcounty.gov/news/sites/news/files/Assets/images/real-estate-assessment-notice-2021-large.png
