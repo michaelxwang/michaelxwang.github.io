@@ -64,11 +64,11 @@ For general situations, we have to do a numeric calculation. Let us take a real 
 
 The taxpayers were married and their tax brackets are 24% for federal and 6.4% for state, so there effective interest rate are:
 
-- S = 3.25\% * (1-30.4\%) = 2.26\%
-- L = 3.25\%
-- M = 4.00\% * (1-30.4\%) = 2.78\%
+- S = 3.25% * (1-30.4%) = 2.26%
+- L = 3.25%
+- M = 4.00% * (1-30.4%) = 2.78%
 
-The standard deduction for married filing joint is 24K, the maximum tax deduction is 10K, so there are 14K interest or 14K/3.25\% or 431K below the standard deduction, and 189K above the standard deduction. Suppose they pay down 50K principal plus interest, then:
+The standard deduction for married filing joint is 24K, the maximum tax deduction is 10K, so there are 14K interest or 14K/3.25% or 431K below the standard deduction, and 189K above the standard deduction. Suppose they pay down 50K principal plus interest, then:
 
 - a=189K/50K = 3.78
 - c=431K/50K = 8.62
@@ -78,7 +78,7 @@ Substitute these number in the equation:
 
 <img src="https://latex.codecogs.com/svg.latex?\small&space;
 \begin{align*}
-P - R &= 2 * 50000 * [3.78*(2.78\%- 2.26\%) - 8.62*(3.25\%-2.78\%)] \\
+P - R &= 2 * 50000 * [3.78*(2.78%- 2.26%) - 8.62*(3.25%-2.78%)] \\
          &= -2086 \\
 \end{align*}
 ">
