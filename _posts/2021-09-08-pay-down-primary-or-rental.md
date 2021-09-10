@@ -46,15 +46,15 @@ P-R = bY[a(M-S) - c(L-M)]
 
 Without numeric calculation, we can reach the following conclusions:
 
-- If $M<=S$, then $P-R<0$, i.e. we should pay primary residence first. This is obvious, if the interest rate on rental is small, of course we should pay primary home first.
-- If $M>=L$, then $P-R>0$, i.e. we should pay rental home first. This is equally obvious.
+- If M<=S, then P-R<0, i.e. we should pay primary residence first. This is obvious, if the interest rate on rental is small, of course we should pay primary home first.
+- If M>=L, then P-R>0, i.e. we should pay rental home first. This is equally obvious.
 
-Let us concentrate on the interesting situation when $S<M<L$. We can conclude that:
+Let us concentrate on the interesting situation when S<M<L. We can conclude that:
 
-- when $a=0$, $P-R<0$, i.e. we should pay primary residence first. This is obvious since we only have two pools of debt, we need to pay the one with higher interest rate. 
-- when $a=\infty$, $P-R>0$, i.e. we should pay rental home first. This is easy to understand: even though it is better to reach the debt below the standard deduction, but it takes hopelessly long, let us just pay rental first. 
+- when a=0, P-R<0, i.e. we should pay primary residence first. This is obvious since we only have two pools of debt, we need to pay the one with higher interest rate. 
+- when a is infinity, P-R>0, i.e. we should pay rental home first. This is easy to understand: even though it is better to reach the debt below the standard deduction, but it takes hopelessly long, let us just pay rental first. 
 
-From the equation we can also see that $b$ does not change the direction of $P-R<0$, but it just amplifies the quantity. This is a bit hard to explain in word, but is a correct mathematical result.
+From the equation we can also see that "b" does not change the direction of P-R, but it just amplifies the quantity. This is a bit hard to explain in word, but is a correct mathematical result.
 
 For general situations, we have to do a numeric calculation. Let us take a real example:
 
@@ -64,15 +64,15 @@ For general situations, we have to do a numeric calculation. Let us take a real 
 
 The taxpayers were married and their tax brackets are 24% for federal and 6.4% for state, so there effective interest rate are:
 
-- $S = 3.25\% * (1-30.4\%) = 2.26\%$
-- $L = 3.25\%$
-- $M = 4.00\% * (1-30.4\%) = 2.78\%$
+- S = 3.25\% * (1-30.4\%) = 2.26\%
+- L = 3.25\%
+- M = 4.00\% * (1-30.4\%) = 2.78\%
 
-The standard deduction for married filing joint is 24K, the maximum tax deduction is 10K, so there are 14K interest or $14K/3.25\%$ or 431K below the standard deduction, and 189K above the standard deduction. Suppose they pay down 50K principal plus interest, then:
+The standard deduction for married filing joint is 24K, the maximum tax deduction is 10K, so there are 14K interest or 14K/3.25\% or 431K below the standard deduction, and 189K above the standard deduction. Suppose they pay down 50K principal plus interest, then:
 
-- $a=189K/50K = 3.78$
-- $c=431K/50K = 8.62$
-- $b=100K/50K = 2.00$
+- a=189K/50K = 3.78
+- c=431K/50K = 8.62
+- b=100K/50K = 2.00
 
 Substitute these number in the equation:
 
