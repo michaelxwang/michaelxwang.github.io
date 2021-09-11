@@ -1,4 +1,3 @@
-2021-09-08-pay-down-primary-or-rental.md
 ---
 layout: post
 title: "Primary residence or rental home: which one to pay down first?"
