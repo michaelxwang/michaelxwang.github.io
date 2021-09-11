@@ -1,3 +1,4 @@
+2021-09-08-pay-down-primary-or-rental.md
 ---
 layout: post
 title: "Primary residence or rental home: which one to pay down first?"
@@ -13,7 +14,6 @@ Suppose you borrow \$10,000 from bank, and the interest rate is 4%, then you pay
 
 The interest you paid on the rental property to the mortgage company is always deductible, so you always pay the reduced effective interest rate. The interest you paid on the primary resident can be divided into two parts: the part above the standard deduction is tax deductible, and you pay the reduced effective interest rate; the part below is not deductible, you pay the interest at the face value. 
 
-<img src="{{ baseurl }}/assets/images/20210911-mortgage.pdf">
 <img src="/assets/images/20210911-mortgage.pdf">
 
 So the problem is coverted to a math problem: We have to three pools of debt as shown in the digram with a dependency that we have to pay the debt on primary residence above standard deduction before the debt below the standard deduction, which one should we pay first, the primary residence or the rental home. Let us calculate each and compare.

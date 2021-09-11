@@ -5,7 +5,7 @@ categories:
 - tax
 ---
 
-<img src="{{ baseurl }}/assets/images/20210105-mega-backdoor-Roth-IRA.jpg">
+<img src="/assets/images/20210105-mega-backdoor-Roth-IRA.jpg">
 
 Mega backdoor Roth conversion is a 401(k) plan that, as shown in diagram, consists of:
 
