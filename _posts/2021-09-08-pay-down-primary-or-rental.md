@@ -17,9 +17,6 @@ The interest you paid on the rental property to the mortgage company is always d
 
 So the problem is coverted to a math problem: We have to three pools of debt as shown in the digram with a dependency that we have to pay the debt on primary residence above standard deduction before the debt below the standard deduction, which one should we pay first, the primary residence or the rental home. Let us calculate each and compare.
 
-- We pay interest and equal amount Y towards the principal
-- We pay the end of each year
-
 Let us assume we pay interest and equal amount Y towards the principal each year, and that we pay at the end of the year, the total amount of money paid P if we pay primary residence first is:
 
 <img src="https://latex.codecogs.com/svg.latex?\small&space;
