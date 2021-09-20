@@ -43,6 +43,7 @@ Please provide the following info for taxpayer (and spouse if filing jointly):
 -  First name
 -  Middle name
 -  Last name
+-  pronouns (He/Him/His, She/Her/Hers, They/Them/Theirs)
 -  Date of Birth (MM/DD/YYYY)
 -  Social Security Numbers (or Tax IDs), see ITIN in SPECIAL SITUATION section if no SSN
 -  Email address
@@ -361,22 +362,20 @@ supplies, eye exams, glasses, contacts, co-pays, medical transportation
   - 07/16/2020 - 02/19/2021 in China.
 - Did you maintain a home in the United States while living abroad? 
    - If yes, please provide the address of your home,  rented or not, the names of the occupants, and their relationship to you.
-   - The last year you filed foreign earned income exclusion (Form 2555)?
-   - Qualified foreign housing expenses:
-     - Rent
-     - Utilities (except for telephone, TV services, and internet)
-     - Personal property insurance (such as homeowner’s or renter’s insurance)
-     - Leasing fees
-     - Furniture rental
-     - Parking rental
-     - Repairs
-
-     NB, Qualified foreign housing expenses do _NOT_ include:  
-
-     - Mortgage payments  
-     - Domestic labor (maids, housekeepers, etc.)  
-     - Purchased furniture  
-     - Anything deemed “lavish or extravagant”
+- The last year you filed foreign earned income exclusion (Form 2555)?
+- Qualified foreign housing expenses:
+  - Rent
+  - Utilities (except for telephone, TV services, and internet)
+  - Personal property insurance (such as homeowner’s or renter’s insurance)
+  - Leasing fees
+  - Furniture rental
+  - Parking rental
+  - Repairs
+- Qualified foreign housing expenses do _NOT_ include:  
+  - Mortgage payments  
+  - Domestic labor (maids, housekeepers, etc.)  
+  - Purchased furniture  
+  - Anything deemed “lavish or extravagant”
 
 ### Report of Foreign Bank and Financial Accounts (aka FBAR, FinCen Form 114, FATCA) and Form 8938
 
