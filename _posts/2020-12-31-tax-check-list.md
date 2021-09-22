@@ -43,7 +43,7 @@ Please provide the following info for taxpayer (and spouse if filing jointly):
 -  First name
 -  Middle name
 -  Last name
--  pronouns (He/Him/His, She/Her/Hers, They/Them/Theirs)
+-  Pronouns (He/Him/His, She/Her/Hers, They/Them/Theirs)
 -  Date of Birth (MM/DD/YYYY)
 -  Social Security Numbers (or Tax IDs), see ITIN in SPECIAL SITUATION section if no SSN
 -  Email address
@@ -345,7 +345,7 @@ supplies, eye exams, glasses, contacts, co-pays, medical transportation
 - [New client only] Did you file last year? If so what form used (1040, 1040A, 1040EZ, 1040NR, 1040NR-EZ)?
 - [New client only] In what years have you filed federal taxes claiming US-China tax treaty 20(c)? You do not need to answer the question if you have provided last year's return.
 
-### Foreign Earned Income Exclusion (FEIE)
+### Foreign Earned Income Exclusion (FEIE) / Foreign Tax Credit (FTC)
 
 - Of what country are you a citizen/national?
 - Visa in foreign country, how long does it need to renew?
