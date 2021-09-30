@@ -58,7 +58,7 @@ and for EACH dependent:
 -  Last name
 -  Date of Birth (MM/DD/YYYY)
 -  Social Security Numbers (or Tax IDs), see ITIN in SPECIAL SITUATION section if no SSN
--  Relationship (Son, Daughter, Dad, Mom, etc)
+-  Relationship (the dependent is your Son|Daughter|Dad|Mom|...?)
 
 ### Bank Information for tax refund or payment only (I do _not_ use it for filing fee, new client or changed info)
     
@@ -108,7 +108,7 @@ Residents do not need to list travel outside the United States.
 - First round: ($xxxx.xx or describe your situation)
 - Second round: ($xxxx.xx or describe your situation)
 
-NB: The "third round" (Biden's money) is not covered in 2020 tax return. After you filed 2020 return, you may received it or it might be recovered in 2021 return, it is not sure at this moment.
+NB: The "third round" ("Biden's money") is not covered in the 2020 tax return. After you file your 2020 return, you may receive it or it might be recovered in 2021 return, it is not certain at this moment.
 
 ### Income
     
@@ -338,11 +338,11 @@ supplies, eye exams, glasses, contacts, co-pays, medical transportation
 - Which country are you a citizen of (China, India, or other country)?
 - If status ever changed in the current year or a prior year, the date of change (MM/DD/YYYY). For example, "10/01/2020 from F1 to H1B."
 - How many days (including partial days) have you stayed in the US in 2020, 2019, 2018 respectively? You can get your travel history outside the United States from the [I94 Website](https://i94.cbp.dhs.gov/I94/#/history-search) and use the [Days Calculator](https://www.timeanddate.com/date/durationresult.html) to compute days between two dates.
-- Is the number of days in US in 2020 consistent with the location information provided earlier?
-- Have you applied for green card?
+- Is the number of days in the US in 2020 consistent with the location information provided earlier?
+- Have you applied for a green card?
 - Have you received form 1042-S?
-- Does any wage document include treaty deduction (we cannot deduction twice)?
-- [New client only] Did you file last year? If so what form used (1040, 1040A, 1040EZ, 1040NR, 1040NR-EZ)?
+- Does any wage document include treaty deduction (we cannot deduct twice)?
+- [New client only] Did you file last year? If so, what form used (1040, 1040A, 1040EZ, 1040NR, 1040NR-EZ)?
 - [New client only] In what years have you filed federal taxes claiming US-China tax treaty 20(c)? You do not need to answer the question if you have provided last year's return.
 
 ### Foreign Earned Income Exclusion (FEIE) / Foreign Tax Credit (FTC)
@@ -356,7 +356,7 @@ supplies, eye exams, glasses, contacts, co-pays, medical transportation
 - Employer's U.S. address if it has one.
 - Income earned in U.S. dollars, use [IRS published conversion rate](https://www.irs.gov/individuals/international-taxpayers/yearly-average-currency-exchange-rates).
 - Do you pay income tax to foreign country on the foreign earned income? If so, please provide document showing taxable income and tax paid.
-- List travel history to the US in format below from 01/01/2018 until now.
+- List travel history to and from the US in format below from 01/01/2018 until now.
   - 11/01/2019 - 06/31/2020 in China.
   - 07/01/2020 - 07/15/2020 in US, earned $0.
   - 07/16/2020 - 02/19/2021 in China.
@@ -403,9 +403,9 @@ rate and report in U.S. dollars, you can use the
 | Euro | 0.817788 |
 | Hong Kong Dollar | 7.753623 |
 
-### Resident received more than $100,000 from nonresident to file [Form 3520](https://www.irs.gov/pub/irs-pdf/f3520.pdf)
+### _Resident_ received more than $100,000 from _nonresident_ to file [Form 3520](https://www.irs.gov/pub/irs-pdf/f3520.pdf)
 
-- A list of dates and amounts of gifts. Example:
+You do not pay tax, but need to report. You need to provide list of dates and amounts of gifts. Example:
 
 | Date | Description | Amount |
 | --- | --- | ---: |
