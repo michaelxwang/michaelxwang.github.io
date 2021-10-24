@@ -11,7 +11,7 @@ The Tentative Minimum Tax (TMT) is the tax computed with a parallel method diffe
 
 The relationship among Regular Income Tax (RIT), Tentative Minimum Tax (TMT), and Alternative Minimum Tax (AMT) are shown in the picture below:
 
-<img src="/assets/images/2018-01-01-amt.png">
+<img src="/assets/images/20180101-amt.png">
 
 When Tenative Minimum Tax (TMT) is greater than the Regular Income Tax (RIT), then we say you have hit the AMT, or you pay this _additional_ tax on top of the regular tax as formulated on form 1040. In reality, however, it is not that you pay another tax called AMT tax, but you just pay Tentative Minimum Tax (TMT), because AMT can be expressed as:
 
