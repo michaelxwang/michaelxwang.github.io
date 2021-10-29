@@ -1,0 +1,43 @@
+---
+layout: default
+title: About
+permalink: /about/
+---
+<!DOCTYPE html>
+<html>
+	<head>
+<style>
+ul.a {
+  list-style-position: outside;
+}
+
+ul.b {
+  list-style-position: inside;
+}
+ul.c {
+  list-style-type: none;
+  padding-left: 0;
+}
+</style>
+</head>
+  <body>
+	  <ul class="b">
+		  <li>Highest credential awarded by the IRS.</li>
+		  <li>{{ site.time | date: "%Y" | minus: 2005 | plus: 1 }} years experience as a tax professional since 2005.</li>
+		  <li>Worked in a leading tax preparation company before going independent.
+                  <li>Simple, secure, guaranteed for life.
+	  </ul>
+    <ul class="c">
+      <li>Michael Wang, <a href="/assets/images/20150121-ea.pdf" target="_blank">EA</a>, <a href="/assets/images/20211010-ma.pdf" target="_blank">MA</a></li>
+      <li><img src="https://open.weixin.qq.com/zh_CN/htmledition/res/assets/res-design-download/icon24_appwx_logo.png"> puravidawechat</li>
+      <li>&#128231; mwang@unixlabplus.com</li>
+    </ul>
+
+    <ul class="c">
+      <li>PS: This website is powered by <img style='vertical-align:bottom;' src="/assets/images/jekyll-logo-black-red-solid.png" width=70 height=24>, 
+    and the source code is hosted on <img style="vertical-align:bottom;" src="/assets/images/GitHub_Logo.png" width=70 height=24> <a href="https://github.com/michaelxwang/michaelxwang.github.io">here</a>.
+      </li>
+    </ul>
+
+  </html>
+</body>

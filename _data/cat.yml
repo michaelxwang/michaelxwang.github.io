@@ -1,0 +1,12 @@
+- name: tax
+  color: red
+- name: math
+  color: green
+- name: poetry
+  color: green
+- name: prose
+  color: green
+- name: spanish
+  color: green
+- name: travel
+  color: green
