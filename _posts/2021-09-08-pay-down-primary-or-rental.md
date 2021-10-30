@@ -5,8 +5,6 @@ categories:
 - tax
 ---
 
-## Primary residence or rental home: which one to pay down first?
-
 A client recently asked me: I have some cash at hand, should I pay down the mortgage on my primary home first or on rental home. The answer depends on a few factors, let us convert the tax question to a general math question.
 
 Suppose you borrow \$10,000 from bank, and the interest rate is 4%, then you pay \$400 interest. Suppose the mortgage interest is duductible, and your highest tax rate is 22%, you can "save" \$400 * 22%, or \$88. So you effectively paid \$400 - \$88, or \$312 interest, that is, your effective interest rate is 3.12%. From now on, when we talk about interest, it means effective interest with tax effect included unless it is specified.

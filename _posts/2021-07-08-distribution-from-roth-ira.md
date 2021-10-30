@@ -5,8 +5,6 @@ categories:
 - tax
 ---
 
-## Roth IRA Distribution Rules
-
 - For qualified distributions, both contribution and earning are free from tax and penalty.
 - Contribution can be withdrawn any time without tax and penalty regardless age and how long the account has been opened.
 - Conversion more than 5 years is not subject to penalty.
