@@ -151,7 +151,7 @@ If you have HSA (Health Savings Accounts), please provide:
 - Rent received.
 - Advertising.
 - HomeOwner Association (HOA) fees.
-- Auto and travel.
+- Auto and travel (see "Auto expenses for business use" section).
 - Cleaning and maintenance.
 - Commissions.
 - Gardening
@@ -170,7 +170,7 @@ If you have HSA (Health Savings Accounts), please provide:
 - Telephone and internet (provided to tenants).
 - Utilities.
 - FIRST YEAR RENTAL: Rental starting date (MM/DD/YYYY).
-- FIRST YEAR RENTAL: [Closing document][closing doc], aka settlement doc, HUD-1, ALTA, which is 2-3 pages with numbers (I do not words for lawyers).
+- FIRST YEAR RENTAL: [Closing document][closing doc], aka settlement doc, HUD-1, ALTA, which is 2-3 pages with numbers (not words for lawyers).
 - FIRST YEAR RENTAL: Term of loan (e.g. 15 years, 30 years).
 - FIRST YEAR RENTAL: [Assessment][assessment] near the rental starting date from the county website.
 - MIXED (RENTAL AND PRIMARY RESIDENT TOGETHER): Rental ratio.
@@ -261,17 +261,11 @@ supplies, eye exams, glasses, contacts, co-pays, medical transportation
     
 ### Self Employed Business
     
-- Business income ([1099-MISC](https://www.irs.gov/pub/irs-pdf/f1099msc.pdf) and own records).
+- Business income ([1099-NEC](https://www.irs.gov/pub/irs-pdf/f1099nec.pdf) and own records).
 - Partnership SE income (Schedules [K-1](https://www.irs.gov/pub/irs-pdf/f1065sk1.pdf)).
 - Employment taxes and other retirement plan contributions.
 - Auto loans and leases if for business use.
-- Auto repairs and expenses if for business use. Information needed to claim by mileage (Most people use):
-  - Description of vehicle.
-  - Date placed in service.
-  - Total mileage.
-  - Business mileage.
-  - Personal property tax.
-  - Car loan interest.
+- Auto expenses (see "Auto expenses for business use" section).
 - Entertainment and meals.
 - Job hunting expenses.
 - Lodging.
@@ -287,6 +281,17 @@ supplies, eye exams, glasses, contacts, co-pays, medical transportation
 - Travel.
 - Uniform and cost of cleaning.
 - Internet expenses if for business use.
+
+### Auto expenses for business use
+
+Applicable for rental and self employed only, not for employees. Information needed to claim by mileage (Most people use):
+
+- Description of vehicle.
+- Date placed in service.
+- Total mileage.
+- Business mileage.
+- Personal property tax.
+- Car loan interest.
 
 ### Medical Insurance Documents
     
