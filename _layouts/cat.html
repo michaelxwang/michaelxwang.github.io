@@ -5,7 +5,7 @@ layout: default
         {%- assign topic = page.name | replace: ".html", "" %}
         {% for post in site.posts %}
         {% if post.categories contains topic %}
-	<li><a href="{{post.url}}" target="_blank">{{ post.title }}</a><span>{{ post.date | date: site.minima.date_format }}</span></li>
+	<li><a href="{{post.url}}" target="_self">{{ post.title }}</a><span>{{ post.date | date: site.minima.date_format }}</span></li>
         {% endif %}
         {% endfor %}
       </div>
