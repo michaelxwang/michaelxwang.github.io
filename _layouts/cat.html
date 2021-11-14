@@ -1,20 +1,7 @@
 ---
+layout: default
 ---
-<!DOCTYPE html>
-<html>
-  {%- include head.html -%}
-  <body>
-    {%- include header.html -%}
-    <main class="page-content" aria-label="Content">
       <div class="wrapper">
-        <div class="slogan">
-          {%- for item in site.data.cat -%}
-          {% if item.name != site.data.cat[0].name %}&nbsp|&nbsp{% endif %}
-          {%- assign link = "/cat/" | append: item.name | downcase | append: ".html" %}
-          {% if page.url == link %}<span style="color:blue;">&#9733 </span>{% endif %}
-	  <a href="{{ link }}"{% if page.url == link %} class="current"{% endif %}><span style="color: {{ item.color }};"> {{ item.name }}</span></a>
-          {%- endfor -%}
-        </div>
         {%- assign topic = page.name | replace: ".html", "" %}
         {% for post in site.posts %}
         {% if post.categories contains topic %}
@@ -22,7 +9,3 @@
         {% endif %}
         {% endfor %}
       </div>
-    </main>
-    {%- include footer.html -%}
-  </body>
-</html>
