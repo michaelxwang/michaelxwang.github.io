@@ -7,18 +7,26 @@
       <div class="wrapper">
         <div class="slogan">
           {%- for item in site.data.cat -%}
-            {% if item.name != site.data.cat[0].name %}&nbsp|&nbsp{% endif %}
-            {%- assign link = "/cat/" | append: item.name | downcase | append: ".html" %}
-            {%- assign url_split = page.url | split: "/" %}
+            {%- if item.name != site.data.cat[0].name -%}&nbsp|&nbsp{%- endif -%}
+            {%- assign link = "/cat/" | append: item.name | downcase | append: ".html" -%}
 
-            {% if page.url == link or url_split[1] == item.name %}
-              {%- assign is_current = true %}
-            {% else %}
-              {%- assign is_current = false %}
-            {% endif %}
+	    {%- if page.url == link -%}
+              {%- assign is_current = true -%}
+            {%- else _%}
+              {%- assign is_current = false -%}
+            {%- endif -%}
 
-            {% if is_current %}<span style="color:blue;">&#9733 </span>{% endif %}
-            <a href="{{ link }}"{% if is_current %}class="current"{% endif %}><span style="color: {{ item.color }};"> {{ item.name }}</span></a>
+	    {%- unless is_current -%}
+	      {%- for cat in page.categories -%}
+	        {%- if cat == item.name -%}
+		  {%- assign is_current = true -%}
+		  {%- break -%}
+		{%- endif -%}
+	      {%- endfor -%}
+	    {%- endunless -%}
+
+            {%- if is_current -%}<span style="color:blue;">&#9733 </span>{%- endif -%}
+            <a href="{{ link }}"{%- if is_current -%}class="current"{%- endif -%}><span style="color: {{ item.color }};"> {{ item.name }}</span></a>
           {%- endfor -%}
         </div>
         {{ content }}

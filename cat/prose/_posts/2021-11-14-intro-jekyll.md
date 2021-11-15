@@ -34,11 +34,12 @@ I use data because it provides an `ordered` list while `site.categories` does no
 {% raw %}{%- for item in site.data.cat -%}
   {%- assign link = "/cat/" | append: item.name | downcase | append: ".html" %}
   ...
-  <a href="{{ link }}"> {{ item.name }}</span></a>
+  {%- if is_current -%}<span style="color:blue;">&#9733 </span>{%- endif -%}
+  <a href="{{ link }}"{%- if is_current -%}class="current"{%- endif -%}><span style="color: {{ item.color }};"> {{ item.name }}</span></a>
 {%- endfor -%}{% endraw %}
 ```
 
-That is, for each item, I set up a link. 
+That is, for each item, I set up a link. There are indications on categories you are reading, so you will not get lost.
 
 - Set up the link
 
