@@ -58,7 +58,7 @@ and for EACH dependent:
 -  Last name
 -  Date of Birth (MM/DD/YYYY)
 -  Social Security Numbers (or Tax IDs), see ITIN in SPECIAL SITUATION section if no SSN
--  Relationship (the dependent is your Son|Daughter|Dad|Mom|...?)
+-  Relationship (the dependent is your Son/Daughter/Dad/Mom/...?)
 
 ### Bank Information for tax refund or payment only (I do _not_ use it for filing fee, new client or changed info)
     
