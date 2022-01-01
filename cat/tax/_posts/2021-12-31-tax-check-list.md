@@ -10,8 +10,8 @@ Checklist ['tʃeklist]: n. a list of items (names or tasks etc.) to be checked o
 You do not need to answer every question but just to provide tax documents applicable to you,
 additionally provide a basic info not covered by tax documents. You can create a
 Google doc after you entered your link by clicking "+ New", or create your own
-simple word or text document and upload along with tax documents. Please do not imbed
-tax documents in the check list info doc. 
+simple word or text document and upload along with tax documents. Please do not embed
+tax documents in the checklist info doc. 
 
 ### Are you a resident or nonresident?
 
@@ -23,9 +23,9 @@ tax documents in the check list info doc.
    -   20XX-01-01 - 20XX-09-30 F1
    -   20XX-10-01 - 20XX-12-31 H1B
 
-and be sure to provide information in _Nonresident_ section at the end of this checklist.
+and be sure to provide information in the _Nonresident_ section at the end of this checklist.
 
-NB, Special benefit for married couple: if one spouse is a resident at the end of year 2021, you and your nonresident spouse can elect to file jointly as residents.
+NB, Special benefit for married couples: if one spouse is a resident at the end of year 2021, you and your nonresident spouse can elect to file jointly as residents.
 
 ### What is your filing status?
 
@@ -128,13 +128,13 @@ If you have HSA (Health Savings Accounts), please provide:
 
 - Is it a "self-only" plan (insurance only covers yourself) or a family plan? i.e. does the insurance cover only yourself or a family member as well?
 - [1099-SA](https://www.irs.gov/pub/irs-pdf/f1099sa.pdf) or the amount spent from HSA. Zero is also a meaningful number.
-- All the spending from the HSA were used for medical purpose and not reimbursed?
+- All the spending from the HSA was used for medical purposes and not reimbursed?
 - Amount you contributed yourself by depositing a check or making a bank transfer.
 - [5498-SA](https://www.irs.gov/pub/irs-pdf/f5498sa.pdf) if you have it (optional).
 
 ### Financial Assets
     
-- Interest income statements ([1099-INT](https://www.irs.gov/pub/irs-pdf/f1099int.pdf), [1099-OID](https://www.irs.gov/pub/irs-pdf/f1099oid.pdf)). Please do not forget the in the interest paid by the IRS and states.
+- Interest income statements ([1099-INT](https://www.irs.gov/pub/irs-pdf/f1099int.pdf), [1099-OID](https://www.irs.gov/pub/irs-pdf/f1099oid.pdf)). Please do not forget the interest paid by the IRS and states.
 - Dividend income statements ([1099-DIV](https://www.irs.gov/pub/irs-pdf/f1099div.pdf)).
 - Proceeds from stock, mutual fund, and bond sale ([1099-B](https://www.irs.gov/pub/irs-pdf/f1099b.pdf)).
 - Virtual currencies ([faq](https://www.irs.gov/individuals/international-taxpayers/frequently-asked-questions-on-virtual-currency-transactions)).
@@ -213,7 +213,7 @@ deductible items such as donation, medical expense, state tax paid.
 The itemized deduction items: 
     
 - Mortgage and home equity interests [Form 1098](https://www.irs.gov/pub/irs-pdf/f1098.pdf).
-- [Closing document][closing doc] if you bought, sold, or re-financed your home or other real estate in the year.
+- [Closing document][closing doc] if you bought, sold, or refinanced your home or other real estate in the year.
 - Real Estate Tax, most likely on [Form 1098](https://www.irs.gov/pub/irs-pdf/f1098.pdf) as well.
 - Energy property based on manufacturer's certification document.
 - Personal Property Tax (car tax).
@@ -236,7 +236,7 @@ supplies, eye exams, glasses, contacts, co-pays, medical transportation
     
 - Adoption expenses.
 - Alimony paid.
-- Moving expenses (for military move, and move to followingstates) if you drove, you can use mileage plus hotel; if you flew, the air ticket.
+- Moving expenses (for military move, and move to following states) if you drove, you can use mileage plus hotel; if you flew, the air ticket.
 
   The states that allows moving expenses include:
 
@@ -253,7 +253,7 @@ supplies, eye exams, glasses, contacts, co-pays, medical transportation
 ### Education expenses of you or your dependents
     
 - Tuition and Education fees: [1098-T](https://www.irs.gov/pub/irs-pdf/f1098t.pdf), if box 1 (payments received) is empty also student account statement or bank transfer showing amount paid).
-- Student Load interest: [1098-E](https://www.irs.gov/pub/irs-pdf/f1098e.pdf).
+- Student Loan interest: [1098-E](https://www.irs.gov/pub/irs-pdf/f1098e.pdf).
 - [Educator Expense Deduction](https://www.irs.gov/taxtopics/tc458) up to $250 for K-12 teachers. 
     
 ### Self Employed Business
@@ -292,7 +292,7 @@ Applicable for rental and self employed only, not for employees. Information nee
 
 ### Medical Insurance Documents
     
-- [1095-A](https://www.irs.gov/pub/irs-pdf/f1095a.pdf) if have bought health insuracne from marketplace (aka Obama care).
+- [1095-A](https://www.irs.gov/pub/irs-pdf/f1095a.pdf) if you have bought health insurance from the marketplace (aka Obama care).
 - [1095-B](https://www.irs.gov/pub/irs-pdf/f1095b.pdf), or [1095-C](https://www.irs.gov/pub/irs-pdf/f1095c.pdf) if you live in a state that requires insurance coverage:
   - NJ
   - CA
@@ -333,7 +333,7 @@ Applicable for rental and self employed only, not for employees. Information nee
 - The photo page of the applicant's passport.
 - The visa page of the applicant's passport.
 - The most recent entry stamp page of the applicant's passport.
-- The most recent school transcript (For child under 18).
+- The most recent school transcript (For children under 18).
 
 ### Nonresident
 
@@ -344,7 +344,7 @@ Applicable for rental and self employed only, not for employees. Information nee
 - Have you applied for a green card?
 - Have you received form 1042-S?
 - Does any wage document include treaty deduction (we cannot deduct twice)?
-- [New client only] Did you file last year? If so, what form used (1040, 1040A, 1040EZ, 1040NR, 1040NR-EZ)?
+- [New client only] Did you file last year? If so, what form was used (1040, 1040A, 1040EZ, 1040NR, 1040NR-EZ)?
 - [New client only] In what years have you filed federal taxes claiming US-China tax treaty 20(c)? You do not need to answer the question if you have provided last year's return.
 
 ### Foreign Earned Income Exclusion (FEIE) / Foreign Tax Credit (FTC)
@@ -357,10 +357,10 @@ Applicable for rental and self employed only, not for employees. Information nee
 - Employer's foreign address including postal code.
 - Employer's U.S. address if it has one.
 - Income earned in U.S. dollars, use [IRS published conversion rate](https://www.irs.gov/individuals/international-taxpayers/yearly-average-currency-exchange-rates).
-- Do you pay income tax to foreign country on the foreign earned income? If so, please provide document showing taxable income and tax paid.
+- Do you pay income tax to a foreign country on the foreign earned income? If so, please provide a document showing taxable income and tax paid.
 - List travel history to and from the US in format below from 01/01/2018 until now.
   - 11/01/2018 - 06/31/2019 in China.
-  - 07/01/2019 - 07/15/2021 in US, earned $0.
+  - 07/01/2019 - 07/15/2021 in the US, earned $0.
   - 07/16/2021 - 02/19/2022 in China.
 - Did you maintain a home in the United States while living abroad? 
    - If yes, please provide the address of your home,  rented or not, the names of the occupants, and their relationship to you.
@@ -388,9 +388,9 @@ please provide information on EACH of the accounts as follows:
 - Bank name.
 - Type (Bank, Securities, Other - Please specify).
 - Owner if married file jointly (Taxpayer - the person listed first on the tax form, Spouse, or Joint).
-- Address in English including postal code (can use head quarter's address).
+- Address in English including postal code (can use headquarter's address).
 - Account number.
-- Maximum value of account during calendar year in US dollars (not taxable).
+- Maximum value of account during the calendar year in US dollars (not taxable).
 - Interest generated from the account in US dollars (taxable).
 - Dividend generated from the account in US dollars (taxable).
 
