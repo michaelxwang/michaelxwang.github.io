@@ -249,7 +249,7 @@ supplies, eye exams, glasses, contacts, co-pays, medical transportation
 - Address of the provider.
 - Tax ID or SSN of provider.
 - Amount you paid.
-- [Letter 6419](https://media.wgrz.com/assets/CCT/images/ebad6c8b-8a77-4ef1-9e6b-26200fb8443c/ebad6c8b-8a77-4ef1-9e6b-26200fb8443c_1140x641.jpg) for Advance Child Tax Credit (AdvCTC) received, clieck [here](https://www.irs.gov/credits-deductions/2021-child-tax-credit-and-advance-child-tax-credit-payments-frequently-asked-questions) for more information.
+- [Letter 6419](https://media.wgrz.com/assets/CCT/images/ebad6c8b-8a77-4ef1-9e6b-26200fb8443c/ebad6c8b-8a77-4ef1-9e6b-26200fb8443c_1140x641.jpg) for both parents for Advance Child Tax Credit (AdvCTC) received, clieck [here](https://www.irs.gov/credits-deductions/2021-child-tax-credit-and-advance-child-tax-credit-payments-frequently-asked-questions) for more information.
     
 ### Education expenses of you or your dependents
     
