@@ -401,10 +401,10 @@ rate and report in U.S. dollars, you can use the
 
 | Country | 1.00 USD |
 | --- | ---: |
-| Canadian Dollar | 1.275410 |
-| Chinese Yuan Renminbi | 6.528628 |
-| Euro | 0.817788 |
-| Hong Kong Dollar | 7.753623 |
+| Canadian Dollar | 1.265572 |
+| Chinese Yuan Renminbi | 6.355095 |
+| Euro | 0.879004 |
+| Hong Kong Dollar | 7.797294 |
 
 ### _Resident_ received more than $100,000 from _nonresident_ to file [Form 3520](https://www.irs.gov/pub/irs-pdf/f3520.pdf)
 
