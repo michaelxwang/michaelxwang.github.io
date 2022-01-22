@@ -8,7 +8,7 @@ categories:
 If you have Incentive Stock Options (ISO), Employee Stock Purchase Plan (ESPP),
 and Restricted Stock Unit (RSU), then most likely than not, you have overpaid
 your taxes. Among the tax returns that I have reviewed, many returns involving
-ISO, ESPP, or RSU were done correctly.
+ISO, ESPP, or RSU were not done correctly.
 
 If you have ISO, ESPP, or RSU, you should read this because effective
 January 1st 2014, the IRS changed how cost basis is reported on your 1099-B
