@@ -60,12 +60,16 @@ and for EACH dependent:
 -  Social Security Numbers (or Tax IDs), see ITIN in SPECIAL SITUATION section if no SSN
 -  Relationship (the dependent is your Son/Daughter/Dad/Mom/...?)
 
-### Bank Information for tax refund or payment only (I do _not_ use it for filing fee, new client or changed info)
+### Bank information for tax refund or payment only (I do _not_ use it for filing fee, new client or changed info)
     
 - Bank name
 - Bank routing number (as appeared on your checkbook if you use checking account)
 - Your account number (as appeared on your checkbook if you use checking account)
 - Your account type (Checking or Savings)
+
+### Virtual currency question
+
+At any time during 2021, did you receive, sell, exchange, or otherwise dispose of any financial interest in any virtual currency (Yes/No)?
     
 ### Last year taxes if itemized and other carryover items (new client only)
 
