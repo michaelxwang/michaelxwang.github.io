@@ -399,12 +399,19 @@ Please convert to U.S. dollars using the end of the calendar year exchange
 rate and report in U.S. dollars, you can use the
 [x-rates](https://x-rates.com/). These are the selected exchange rates on 12/31/2021:
 
-| Country | 1.00 USD |
-| --- | ---: |
-| Canadian Dollar | 1.265572 |
-| Chinese Yuan Renminbi | 6.355095 |
-| Euro | 0.879004 |
-| Hong Kong Dollar | 7.797294 |
+| US Dollar | 1.00 USD | inv. 1.00 USD |
+| --- | ---: | ---: |
+|Chinese Yuan Renminbi|6.355095|0.157354|
+|Hong Kong Dollar|7.797294|0.128250|
+|Indian Rupee|74.499669|0.013423|
+|Canadian Dollar|1.265572|0.790157|
+|Euro|0.879004|1.137651|
+|British Pound|0.738780|1.353583|
+|Australian Dollar|1.375927|0.726783|
+|Singapore Dollar|1.348571|0.741526|
+|Swiss Franc|0.911805|1.096726|
+|Malaysian Ringgit|4.166037|0.240036|
+|Japanese Yen|115.120883|0.008687|
 
 ### _Resident_ received more than $100,000 from _nonresident_ to file [Form 3520](https://www.irs.gov/pub/irs-pdf/f3520.pdf)
 
