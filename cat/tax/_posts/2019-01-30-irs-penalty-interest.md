@@ -19,7 +19,8 @@ The estimated tax penalty (P\) is calculated based on:
 * The shortage to meet the required payment, T for the year, and T/4 each quarter. 
 
 * interest rate on each quarter (I<sub>1</sub>, I<sub>2</sub>, I<sub>3</sub>, I<sub>4</sub>) which is the [federal short-term rate](https://apps.irs.gov/app/picklist/list/federalRates.html) 
-in the first month of the previous quarter, rounded to the nearest integer, plus 3%. This rate is also directly documented in the lastest file in [this IRS drop](https://www.irs.gov/downloads/irs-drop).
+in the first month of the previous quarter, rounded to the nearest integer, plus 3%. This rate is also directly documented 
+[here](https://www.dol.gov/agencies/ebsa/employers-and-advisers/plan-administration-and-compliance/correction-programs/vfcp/table-of-underpayment-rates).
 
 * The length of the time owed. Since the quarterly
 estimated tax due dates for each quarter are: 4/15, 6/15, 9/15, and 1/15,
