@@ -29,7 +29,7 @@ assuming you pay tax on 4/15 next year.
 
 Therefore we have:
 
-<img src="https://latex.codecogs.com/svg.latex?\small&space;P = \frac{T}{4} (\frac{12}{12}I_1 + \frac{10}{12}I_2 + \frac{7}{13}I_1 + \frac{3}{12}I_4)">
+<img src="https://latex.codecogs.com/svg.latex?\small&space;P = \frac{T}{4} (\frac{12}{12}I_1 + \frac{10}{12}I_2 + \frac{7}{12}I_1 + \frac{3}{12}I_4)">
 
 For the year 2016, we have I<sub>1</sub> = I<sub>2</sub> = I<sub>3</sub> = I<sub>4</sub>= 4%, so
 
