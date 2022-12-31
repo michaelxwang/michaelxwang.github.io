@@ -3,5 +3,5 @@ layout: post
 title: Communication Protocol
 ---
 
-- [Communication Protocol for Returning Clients](/client/client-old.html){:target="_blank"}
-- [Communication Protocol for New Clients](/client/client-new.html){:target="_blank"}
+- [Simple Communication Protocol Mostly for Returning Clients](/client/client-old.html){:target="_blank"}
+- [Full Communication Protocol Mostly for New Clients](/client/client-new.html){:target="_blank"}
