@@ -149,8 +149,30 @@ If you have HSA (Health Savings Account), please provide:
 
 ### Landlord (A person who owns a home and rents it out to others for a fee)
 
-It would be easier to download [this rental expense spreadsheet](/download/Rental_Expense.xlsx) and fill it in. If you
-upload this file to Google Drive, then you can use Google sheets. 
+It would be easier to copy the Google sheets with rental expense template and fill it in.
+The following are two ways to copy the Google sheets:
+
+1. Copy file to drive
+   - Click [the spreadsheet](https://docs.google.com/spreadsheets/d/14VRuVSp_fDzMVPhopsCcKeWWTVUsdEayrBK4Mx2fJ3M)
+   - Click File of the Google sheets (not the browser)
+   - Select "Make a copy"
+   - Remove "Copy of " from "Name"
+   - Select "Folder" to be our shared folder
+2. Copy tab to sheets
+   - Go to you shared folder
+   - Click "+ New"
+   - Click "Google Sheets"
+   - Click "CREATE AND SHARE"
+   - Replace the name "Untitled spreadsheet" with "rental-expense-v20220725" (which forces the spreadsheet to save)
+   - Copy the URL like "https://docs.google.com/spreadsheets/d/..."
+   - Right click [the spreadsheet](https://docs.google.com/spreadsheets/d/14VRuVSp_fDzMVPhopsCcKeWWTVUsdEayrBK4Mx2fJ3M) and select "Open link in new tab"
+   - Click the down arrow in "Sample" tab, select "Copy to" and "New spreadsheet"
+   - Paste the URL ito "Search in Drive or Paste URL" field
+   - Select the Spreadsheet
+   - Click "Insert"
+
+On behalf of Google, I am sorry for the convoluted way of copying a file. If you have difficulty, please let me know and I will drop the file to
+your folder. Please avoid to download the Google sheets or to copy and paste because it will change the format and reduce the functionality. 
 
 - Rent received.
 - Advertising.
