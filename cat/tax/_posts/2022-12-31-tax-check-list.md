@@ -73,8 +73,9 @@ and for EACH dependent:
 
 ### Virtual currency question
 
-At any time during 2022, did you receive, sell, exchange, or otherwise dispose of any financial interest in any virtual currency (Yes/No)?
-    
+At any time during 2022, did you: (a) receive (as a reward, award, or payment for property or services); or (b) sell,
+exchange, gift, or otherwise dispose of a digital asset (or a financial interest in a digital asset) (Yes/No)?
+   
 ### Last year's taxes if itemized and other carryover items (new client only)
 
 - Please provide last year's return (federal and state)

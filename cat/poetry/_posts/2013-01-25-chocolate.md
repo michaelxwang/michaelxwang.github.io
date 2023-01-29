@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Dickinson Style · The chocolate
+title: Dickinson Style · A psalm of chocolate
 categories:
 - poetry
 ---
 
 ```
-The chocolate --
+A box of chocolate --
 enticed me to have a bite
 My heart told me:
 "Yes, you might!"
