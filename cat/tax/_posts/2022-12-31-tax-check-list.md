@@ -75,6 +75,16 @@ and for EACH dependent:
 
 At any time during 2022, did you: (a) receive (as a reward, award, or payment for property or services); or (b) sell,
 exchange, gift, or otherwise dispose of a digital asset (or a financial interest in a digital asset) (Yes/No)?
+
+The following actions do not require a Yes answer:
+
+- Holding a digital asset in a wallet or account;
+- Transferring a digital asset from one wallet or account you own or control to another wallet or account that you
+own or control; or
+- Purchasing digital assets using
+U.S. or other real currency, including
+through the use of electronic platforms
+such as PayPal and Venmo.
    
 ### Last year's taxes if itemized and other carryover items (new client only)
 
