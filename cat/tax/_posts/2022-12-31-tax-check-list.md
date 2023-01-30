@@ -164,23 +164,23 @@ It would be easier to copy the Google sheets with rental expense template and fi
 The following are two ways to copy the Google sheets:
 
 1. Copy file to drive
-   - Click [the spreadsheet](https://docs.google.com/spreadsheets/d/14VRuVSp_fDzMVPhopsCcKeWWTVUsdEayrBK4Mx2fJ3M)
-   - Click File of the Google sheets (not the browser)
-   - Select "Make a copy"
-   - Remove "Copy of " from "Name"
-   - Select "Folder" to be our shared folder
+   - Right click [the spreadsheet](https://docs.google.com/spreadsheets/d/14VRuVSp_fDzMVPhopsCcKeWWTVUsdEayrBK4Mx2fJ3M), and choose "Open Link in New Tab".
+   - Click File of the Google sheets (not the browser). If it is hidden, click the down arrow (v) to bring it up.
+   - Select "Make a copy".
+   - Remove "Copy of " from "Name".
+   - Select "Folder" to be our shared folder. Click "<" and choose "Shared with me". 
 2. Copy tab to sheets
-   - Go to you shared folder
-   - Click "+ New"
-   - Click "Google Sheets"
-   - Click "CREATE AND SHARE"
-   - Replace the name "Untitled spreadsheet" with "rental-expense-v20220725" (which forces the spreadsheet to save)
-   - Copy the URL like "https://docs.google.com/spreadsheets/d/..."
-   - Right click [the spreadsheet](https://docs.google.com/spreadsheets/d/14VRuVSp_fDzMVPhopsCcKeWWTVUsdEayrBK4Mx2fJ3M) and select "Open link in new tab"
-   - Click the down arrow in "Sample" tab, select "Copy to" and "New spreadsheet"
-   - Paste the URL ito "Search in Drive or Paste URL" field
-   - Select the Spreadsheet
-   - Click "Insert"
+   - Go to you shared folder.
+   - Click "+ New".
+   - Click "Google Sheets".
+   - Click "CREATE AND SHARE".
+   - Replace the name "Untitled spreadsheet" with "rental-expense-v20220725" (which forces the spreadsheet to save).
+   - Copy the URL like "https://docs.google.com/spreadsheets/d/...".
+   - Right click [the spreadsheet](https://docs.google.com/spreadsheets/d/14VRuVSp_fDzMVPhopsCcKeWWTVUsdEayrBK4Mx2fJ3M) and select "Open Link in New Tab".
+   - Click the down arrow in "Sample" tab, select "Copy to" and "New spreadsheet".
+   - Paste the URL ito "Search in Drive or Paste URL" field.
+   - Select the Spreadsheet.
+   - Click "Insert".
 
 On behalf of Google, I am sorry for the convoluted way of copying a file. If you have difficulty, please let me know and I will drop the file to
 your folder. Please avoid to download the Google sheets or to copy and paste because it will change the format and reduce the functionality. 
