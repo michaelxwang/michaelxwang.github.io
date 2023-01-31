@@ -213,10 +213,29 @@ your folder. Please avoid to download the Google sheets or to copy and paste bec
 - MIXED (RENTAL AND PRIMARY RESIDENT TOGETHER): Rental ratio.
 - PARTIAL YEAR AND MIXED: Specify expenses for what time period, and for what space (entire house or the rental rooms).
 
-### Sale of a real estate property
+### Sale of a primary home
 
-- Both [Closing documents][closing doc] when you bought and sold the property.
+The IRS allows for a tax exclusion of up to $250,000 ($500,000 for
+married couples filing jointly) of capital gains from the sale of
+a primary residence under certain conditions as specified in IRC 121.
+
+The conditions are:
+
+- The property must be the taxpayer's main home and owned by the
+taxpayer for at least two of the five years preceding the sale.
+- The exclusion can only be claimed once every two years.
+
+It's important to note that this exclusion may have limits or not apply
+in certain situations, such as if the home was used as a rental
+property, if the taxpayer was involved in a 1031 exchange.
+
+The following documents are needed to give us the rough estimate of the capital gain:
+
 - [1099-S](https://www.irs.gov/pub/irs-pdf/f1099s.pdf) if issued.
+- Both [Closing documents][closing doc] when you bought and sold the property.
+
+If is over the exclusion amount, then we will need the major improvements (that increase the home value) done during the years
+to bring down the capital gain. 
 
 ### Cash donations up to $300
 
@@ -253,7 +272,7 @@ deductible items such as donations, medical expenses, and state tax paid.
 The itemized deduction items: 
     
 - Mortgage and home equity interests [Form 1098](https://www.irs.gov/pub/irs-pdf/f1098.pdf).
-- [Closing document][closing doc] if you bought, sold, or refinanced your home or other real estate properties in the year.
+- [Closing document][closing doc] if you bought or refinanced your home in current year.
 - Real Estate Tax, most likely on [Form 1098](https://www.irs.gov/pub/irs-pdf/f1098.pdf) as well.
 - Energy property based on manufacturer's certification document.
 - Personal Property Tax (car tax).
