@@ -264,13 +264,13 @@ deductible items such as donations, medical expenses, and state tax paid.
 
 | Filing Status | Standard Deduction Amount |
 | --- | ---: |
-| Single | $12,400 |
-| Married Filing Jointly & Surviving Spouse | $24,800 |
-| Married Filing Separately | $12,400 |
-| Head of Household | $18,650 |
+| Single | $12,950 |
+| Married Filing Jointly & Surviving Spouse | $25,900 |
+| Married Filing Separately | $12,950 |
+| Head of Household | $19,400 |
 
 The itemized deduction items: 
-    
+
 - Mortgage and home equity interests [Form 1098](https://www.irs.gov/pub/irs-pdf/f1098.pdf).
 - [Closing document][closing doc] if you bought or refinanced your home in current year.
 - Real Estate Tax, most likely on [Form 1098](https://www.irs.gov/pub/irs-pdf/f1098.pdf) as well.
@@ -286,10 +286,22 @@ The itemized deduction items:
 - Gifts to charity (cash and non-cash).
 - Un-reimbursement expenses related to volunteer work.
 - Investment interest (margin interest).
-- Medical expenses (prescription, insurance premiums, medical
-supplies, eye exams, glasses, contacts, co-pays, medical transportation
-(miles), other) above 7.5% of your adjusted gross income.
-- Long-term care insurance premium.
+- After-tax medical expenses above 7.5% of your adjusted gross
+income. Healthy, high-income individuals should use pre-tax HSA or MFS.
+  - Prescription.
+  - Insurance premiums.
+  - Medical supplies.
+  - Eye exams.
+  - Glasses.
+  - Contacts.
+  - Co-pays.
+  - Medical transportation (miles).
+  - Long-term care insurance premium up to a maximum based on your age:
+    - $450 for ages 40 or under.
+    - $850 for ages between 41 to 50
+    - $1,690 for ages between 51 to 60
+    - $4,520 for ages between 61 to 70
+    - $5,640 for ages 71 or over
 
 ### Other separately accounted expenses
     
