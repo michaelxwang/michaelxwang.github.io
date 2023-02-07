@@ -388,6 +388,11 @@ Applicable for rental and self-employed only, not for employees. Information nee
 - NJ: rent or property tax paid.
 - VA: Long-term insurance premium is a state deduction.
 
+### [Use tax](https://en.wikipedia.org/wiki/Use_tax)
+
+Some states impose use tax on items purchased from out-of-state or foreign sellers that would have otherwise been subject to sales tax if purchased within the state.
+Please provide the total amount of these purchases, as well as the sales or use tax already paid to another state.
+
 ## SPECIAL SITUATIONS
 
 ### ITIN (Individual Taxpayer Identification Number) applicant (the person who needs ITIN) only:
