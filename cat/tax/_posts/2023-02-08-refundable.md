@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nonrefundable" electric vehicle credit explained
+title: Nonrefundable electric vehicle credit explained
 categories:
 - tax
 ---
