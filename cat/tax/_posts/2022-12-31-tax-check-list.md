@@ -164,7 +164,7 @@ It would be easier to copy the Google sheets with rental expense template and fi
 The following are two ways to copy the Google sheets:
 
 1. Copy file to drive
-   - Right click [the spreadsheet](https://docs.google.com/spreadsheets/d/14VRuVSp_fDzMVPhopsCcKeWWTVUsdEayrBK4Mx2fJ3M), and choose "Open Link in New Tab".
+   - Click <a href="https://docs.google.com/spreadsheets/d/14VRuVSp_fDzMVPhopsCcKeWWTVUsdEayrBK4Mx2fJ3M" target="_blank">the spreadsheet</a>.
    - Click File of the Google sheets (not the browser). If it is hidden, click the down arrow (v) to bring it up.
    - Select "Make a copy".
    - Remove "Copy of " from "Name".
@@ -328,6 +328,17 @@ income. Healthy, high-income individuals should use pre-tax HSA or MFS.
 - [Educator Expense Deduction](https://www.irs.gov/taxtopics/tc458) up to $250 for K-12 teachers. 
     
 ### Self Employed Business
+
+Using the Google Sheets template for self-employment can be a helpful way to guide you through the process.
+To make a copy of the template, follow these steps:
+
+- Click <a href="https://docs.google.com/spreadsheets/d/1ADLGlpD-Q_SvpOeqirCvc-TQMCaABDbSA0XTrXDfBo0" target="_blank">the spreadsheet</a>
+- Click File of the Google sheets (not the browser). If it is hidden, click the down arrow (v) to bring it up.
+- Select "Make a copy".
+- Remove "Copy of " from "Name".
+- Select "Folder" to be our shared folder. Click "<" and choose "Shared with me". 
+
+If you provide the business income and expenses manually, here is the list:
     
 - Business income ([1099-NEC](https://www.irs.gov/pub/irs-pdf/f1099nec.pdf) and own records).
 - Partnership SE income (Schedules [K-1](https://www.irs.gov/pub/irs-pdf/f1065sk1.pdf)).
