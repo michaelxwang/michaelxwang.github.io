@@ -237,10 +237,6 @@ The following documents are needed to give us the rough estimate of the capital 
 If is over the exclusion amount, then we will need the major improvements (that increase the home value) done during the years
 to bring down the capital gain. 
 
-### Cash donations up to $300
-
-- Please upload your receipts.
-
 ### Homeowner and itemizing items
 
 Provide the information when:
