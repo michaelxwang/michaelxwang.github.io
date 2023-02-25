@@ -125,7 +125,12 @@ Residents do not need to list travel outside the United States.
 ### Income
     
 - [W-2](https://www.irs.gov/pub/irs-pdf/fw2.pdf) wage forms from ALL employers for the year.
-- Pensions, annuities, and retirement plan distributions ([1099-R](https://www.irs.gov/pub/irs-pdf/f1099r.pdf)).
+- Pensions, annuities, and retirement plan distributions, IRA contribution.
+  - Source (money from) [Form 1099-R](https://www.irs.gov/pub/irs-pdf/f1099r.pdf).
+  - Source type (IRA, Roth IRA, 401K, Roth 401K, etc).
+  - Source balance at the end of year 2022.
+  - Target (money to) [Form 5498](https://www.irs.gov/pub/irs-pdf/f5498.pdf) if available, or provide date and amount contributed, and year allocated to.
+  - Target (money to) type.
 - Social Security benefits ([SSA-1099](https://secure.ssa.gov/apps10/poms/images/SSA1/G-SSA-1099-SM-1.pdf)).
 - Independent contractor and other miscellaneous income ([1099-MISC](https://www.irs.gov/pub/irs-pdf/f1099msc.pdf)).
 - Unemployment compensation ([1099-G](https://www.irs.gov/pub/irs-pdf/f1099g.pdf)).
