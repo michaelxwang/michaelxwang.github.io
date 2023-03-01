@@ -126,10 +126,10 @@ Residents do not need to list travel outside the United States.
     
 - [W-2](https://www.irs.gov/pub/irs-pdf/fw2.pdf) wage forms from ALL employers for the year.
 - Pensions, annuities, and retirement plan distributions, IRA contribution.
-  - Source (money from) [Form 1099-R](https://www.irs.gov/pub/irs-pdf/f1099r.pdf).
+  - Source (where money comes from) [Form 1099-R](https://www.irs.gov/pub/irs-pdf/f1099r.pdf).
   - Source balance at the end of year 2022.
-  - Source (money to) [Form 5498](https://www.irs.gov/pub/irs-pdf/f5498.pdf) if available, or provide date and amount contributed, and year allocated to.
-  - Target (money to) [Form 5498](https://www.irs.gov/pub/irs-pdf/f5498.pdf) if available, or provide the target (money to) type (IRA, Roth IRA, 401K, Roth 401K, etc).
+  - Source [Form 5498](https://www.irs.gov/pub/irs-pdf/f5498.pdf) if available, or provide date and amount contributed, and year allocated to.
+  - Target (where money goes to) [Form 5498](https://www.irs.gov/pub/irs-pdf/f5498.pdf) if available, or provide the target (money to) type (IRA, Roth IRA, 401K, Roth 401K, etc).
 - Social Security benefits ([SSA-1099](https://secure.ssa.gov/apps10/poms/images/SSA1/G-SSA-1099-SM-1.pdf)).
 - Independent contractor and other miscellaneous income ([1099-MISC](https://www.irs.gov/pub/irs-pdf/f1099msc.pdf)).
 - Unemployment compensation ([1099-G](https://www.irs.gov/pub/irs-pdf/f1099g.pdf)).
@@ -271,7 +271,7 @@ deductible items such as donations, medical expenses, and state tax paid.
 
 The itemized deduction items: 
 
-- Mortgage and home equity interests [Form 1098](https://www.irs.gov/pub/irs-pdf/f1098.pdf).
+- Mortgage and home equity interests [Form 1098](https://www.irs.gov/pub/irs-pdf/f1098.pdf). If the borrowed amount exceeds 750K, please provide the ending principal balance if not on the form 1098 already (the beginning balance and loan starting date should be on the form). For mortgage loans with uneven payments, please provide the average balance by adding the outstanding balance of a debt on each month during the taxable year that the debt is secured by a qualified residence, and dividing the sum by the number of months during the taxable year that the residence is a qualified residence, per [Reg §1.163-10T](https://www.law.cornell.edu/cfr/text/26/1.163-10T). 
 - [Closing document][closing doc] if you bought or refinanced your home in current year.
 - Real Estate Tax, most likely on [Form 1098](https://www.irs.gov/pub/irs-pdf/f1098.pdf) as well.
 - Energy property based on manufacturer's certification document.
