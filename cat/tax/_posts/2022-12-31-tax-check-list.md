@@ -515,11 +515,13 @@ You do not pay tax, but need to report. You need to provide list of dates and am
 
 ### Given gift more than the annual exclusion limit \$16,000 (2022) to file [Form 709](https://www.irs.gov/pub/irs-pdf/f709.pdf)
 
-- Donee’s name and address
-- Relationship to the donor (if any)
-- Description of gift
+- Last filed form 709.
+- Donee’s name.
+- Donne's address.
+- Relationship to the donor (if any).
+- Description of gift.
 - If the gift was of securities, give CUSIP no.
-- If a closely held entity, give EIN
+- If a closely held entity, give EIN.
 
 I hope this checklist helps you to prepare your tax documents.
 
