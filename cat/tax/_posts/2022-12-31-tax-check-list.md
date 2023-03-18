@@ -249,7 +249,7 @@ to bring down the capital gain.
 
 Provide the information when:
 
-- You have a large home mortgage payment (close to or over 14,800), or
+- You have a large home mortgage payment (more than the standard deduction minus 10,000), or
 - You live in a state which allows state itemized deduction while using the federal standard deduction
 
   The states that allow separate state itemized deduction:
