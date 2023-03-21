@@ -277,7 +277,7 @@ The itemized deduction items:
 
 - Mortgage and home equity interests [Form 1098](https://www.irs.gov/pub/irs-pdf/f1098.pdf). If the borrowed amount exceeds 750K, please provide the ending principal balance if not on the form 1098 already (the beginning balance and loan starting date should be on the form). For mortgage loans with uneven payments, please provide the average balance by adding the outstanding balance of a debt on each month during the taxable year that the debt is secured by a qualified residence, and dividing the sum by the number of months during the taxable year that the residence is a qualified residence, per [Reg §1.163-10T](https://www.law.cornell.edu/cfr/text/26/1.163-10T). 
 - [Closing document][closing doc] if you bought or refinanced your home in current year.
-- Real Estate Tax, most likely on [Form 1098](https://www.irs.gov/pub/irs-pdf/f1098.pdf) as well.
+- Real Estate Tax, if it is not on [Form 1098](https://www.irs.gov/pub/irs-pdf/f1098.pdf), you can get your county's tax payment history with amounts and dates paid. If you do not own the property for the full year, please upload the [closing document][closing doc] as there will be a county tax paid on closing.
 - Energy property based on manufacturer's certification document.
 - Personal Property Tax (car tax).
   - CA: The vehicle [license fee](https://lao.ca.gov/1998/061798_vlf_primer/061798_vlf.html) is deductible, use [this page](https://www.dmv.ca.gov/wasapp/FeeCalculatorWeb/vlfForm.do) to find the vehicle license fee.
@@ -432,7 +432,7 @@ Please provide the total amount of these purchases, as well as the sales or use 
 - If the status ever changed in the current year or a prior year, the date of change (MM/DD/YYYY). For example, "10/01/2022 from F1 to H1B."
 - How many days (including partial days) have you stayed in the US in 2022, 2021, and 2020 respectively? Do not count days when you were a nonresident with F or J visa. You can get your travel history outside the United States from the [I94 Website](https://i94.cbp.dhs.gov/I94/#/history-search) and use the [Days Calculator](https://www.timeanddate.com/date/durationresult.html) to compute days between two dates.
 - Is the number of days in the US in 2022 consistent with the location information provided earlier?
-- Have you applied for a green card?
+- Have you applied for a green card (i.e. submitted I-140)?
 - Have you received form 1042-S?
 - Does any wage document include a treaty deduction (we cannot deduct twice)?
 - [New client only] Did you file last year? If so, what form was used (1040, 1040A, 1040EZ, 1040NR, 1040NR-EZ)?
