@@ -5,7 +5,8 @@ categories:
 - tax
 ---
 
-If you are unable to file your tax return by the due date, you may request an extension of up to six months.
+If you are unable to file your tax return by the due date, you may request an extension of up to six months,
+The IRS <a href="https://www.irs.gov/taxtopics/tc304" target="_blank">Topic No. 304"</a> says.
 Filing an extension is a legal option and it will not have any negative impact on your chance of obtaining a green card.
 You can file an extension using one of the following three methods:
 
