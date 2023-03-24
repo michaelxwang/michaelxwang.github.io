@@ -1,11 +1,13 @@
 ---
 layout: post
-title: Make a payment to extend your time to file
+title: Make a payment to extend your time to file and to pay
 categories:
 - tax
 ---
 
-If you are unable to file your tax return by the due date, you may request an extension of up to six months. You can do this using one of the following three methods:
+If you are unable to file your tax return by the due date, you may request an extension of up to six months.
+Filing an extension is a legal option and it will not have any negative impact on your chance of obtaining a green card.
+You can file an extension using one of the following three methods:
 
 - Make an payment using <a href="https://www.irs.gov/payments/direct-pay" target="_blank">IRS Direct Pay</a>.
 - E-file <a href="https://www.irs.gov/pub/irs-pdf/f4868.pdf" target="_blank">Form 4868</a> with a payment electronically.
