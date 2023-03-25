@@ -21,6 +21,10 @@ on any unpaid amount. Therefore, it is important to make sufficient
 payment with the extension to avoid penalties. You can always get
 back any overpayment when you file your return.
 
+The IRS payment screen looks like the following, please select "Extention", and current year.
+
+<img src="/assets/images/20230325-extension.png"/>
+
 The IRS says in <a href="https://www.irs.gov/pub/irs-news/fs-08-12.pdf" target="_blank"> this document</a>:
 
 > There is no penalty for failure to file if you are due a refund.
