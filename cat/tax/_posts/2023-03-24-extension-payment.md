@@ -21,7 +21,23 @@ on any unpaid amount. Therefore, it is important to make sufficient
 payment with the extension to avoid penalties. You can always get
 back any overpayment when you file your return.
 
-If you do not owe any taxes, the "fail to file" penalty will be waived even if you do not file for an extension. From this, you know what they are looking for.
+The IRS says in <a href="https://www.irs.gov/pub/irs-news/fs-08-12.pdf" target="_blank"> this document</a>:
+
+> There is no penalty for failure to file if you are due a refund.
+> However, you cannot obtain a refund without filing a tax return.
+> If you wait too long to file, you may risk losing the refund
+> altogether. In cases where a return is not filed, the law provides
+> most taxpayers with a three-year window of opportunity for claiming
+> a refund.
+
+In other words, an extension to file taxes is not necessary when you are due a
+refund and do not owe any additional taxes. If you file your tax
+return after the regular filing deadline, you will not be charged
+any penalties or interest if you are due a refund. However, it is
+still a good idea to file your return as soon as possible to ensure
+you receive your refund in a timely manner. In some cases, you may need to file
+for an extension to protect your rights, such as when you need to apply for
+an Individual Taxpayer Identification Number (ITIN) or make contributions to a retirement account.
 
 Now, the question is how to determine if you owe taxes. To answer this question, I created a
 <a href="https://docs.google.com/spreadsheets/d/1BnjUtb6ul_p62k2YEdBXcjHWvZunSVw0Y2E3BqTKao0/edit#gid=895729579" target="_blank">Google sheets document</a>,
