@@ -21,11 +21,25 @@ on any unpaid amount. Therefore, it is important to make sufficient
 payment with the extension to avoid penalties. You can always get
 back any overpayment when you file your return.
 
-The IRS payment screen looks like the following, please select "Extention", and current year.
+Now, the question is how to determine the amount you owe. To answer this question, I created a
+<a href="https://docs.google.com/spreadsheets/d/1BnjUtb6ul_p62k2YEdBXcjHWvZunSVw0Y2E3BqTKao0/edit#gid=895729579" target="_blank">Google sheets document</a>,
+Simply plug in your numbers, and boom, you will get your answer.
+
+Instruction to use the spreadsheet:
+
+- Click the link.
+- Click File of the Google sheets (not of the browser). If "File" is hidden, click the down arrow (v) to bring it up.
+- Select “Make a copy”.
+- Edit the “Name”.
+- Select “Folder” where to be copied.
+- Use the copy.
+
+Once you know the amount, you can click the <a href="https://www.irs.gov/payments/direct-pay" target="_blank">IRS Direct Pay</a> to make an extension payment.
+The screen looks like the following, please select "Extention", and current year.
 
 <img src="/assets/images/20230325-extension.png"/>
 
-The IRS says in <a href="https://www.irs.gov/pub/irs-news/fs-08-12.pdf" target="_blank"> this document</a>:
+If you are sure you do not owe taxes, the IRS has this to say in <a href="https://www.irs.gov/pub/irs-news/fs-08-12.pdf" target="_blank"> its document</a>:
 
 > There is no penalty for failure to file if you are due a refund.
 > However, you cannot obtain a refund without filing a tax return.
@@ -42,19 +56,6 @@ still a good idea to file your return as soon as possible to ensure
 you receive your refund in a timely manner. In some cases, you may need to file
 for an extension to protect your rights, such as when you need to apply for
 an Individual Taxpayer Identification Number (ITIN) or make contributions to a retirement account.
-
-Now, the question is how to determine if you owe taxes. To answer this question, I created a
-<a href="https://docs.google.com/spreadsheets/d/1BnjUtb6ul_p62k2YEdBXcjHWvZunSVw0Y2E3BqTKao0/edit#gid=895729579" target="_blank">Google sheets document</a>,
-Simply plug in your numbers, and boom, you will get your answer.
-
-Instruction to use the spreadsheet:
-
-- Click the link.
-- Click File of the Google sheets (not of the browser). If "File" is hidden, click the down arrow (v) to bring it up.
-- Select “Make a copy”.
-- Edit the “Name”.
-- Select “Folder” where to be copied.
-- Use the copy.
 
 State taxes can be estimated similarly to federal taxes, but you should check the tax laws in your state. I do not have a spreadsheet for each state, but you can estimate the state tax owed by multiplying your state income by the highest state rate minus the tax you have already paid.
 
