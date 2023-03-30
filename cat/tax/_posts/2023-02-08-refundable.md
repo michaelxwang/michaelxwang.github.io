@@ -1,6 +1,6 @@
 ---
 layout: post
-title: refundable and nonrefundable credit explained
+title: Refundable and nonrefundable credit explained
 categories:
 - tax
 ---
