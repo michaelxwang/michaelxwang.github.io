@@ -440,6 +440,8 @@ Please provide the total amount of these purchases, as well as the sales or use 
 
 ### Foreign Earned Income Exclusion (FEIE) / Foreign Tax Credit (FTC)
 
+/* If you have any foreign names or addresses, please provide them in the original language in addition to the English translation. If I am familiar with a standard translation, I will use it. */
+
 - Of what country are you a citizen/national?
 - Visa in the foreign country, how long does it need to renew?
 - Foreign residency first established (i.e. when did you establish the foreign residency)?
