@@ -70,6 +70,7 @@ and for EACH dependent:
 - Bank routing number (as appeared on your checkbook if you use a checking account)
 - Your account number (as appeared on your checkbook if you use a checking account)
 - Your account type (Checking or Savings)
+- Account holder(s) /* If filing separately, the spouse who files for the return must have their name on the account. */
 
 ### Virtual currency question
 
