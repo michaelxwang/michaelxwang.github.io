@@ -319,13 +319,18 @@ income. Healthy, high-income individuals should use pre-tax HSA or MFS.
   - CA  
   - MA
 
-### Child care and child tax credit
+### Child and Dependent Care Expenses
     
-- Name of the provider.
-- Address of the provider.
-- Tax ID or SSN of the provider.
-- The amount you paid.
-    
+- Child name
+  - Name of the provider.
+  - Address of the provider.
+  - Tax ID or SSN of the provider.
+  - The amount you paid.
+
+Please create a list by child and by care provider, use Google sheet if necessary.
+
+/* Tuition for education does not count as care, but care with incidental education element does. For details, please click <a href="https://www.irs.gov/pub/irs-pdf/p503.pdf" target="_blank">IRS Publication 503</a>. */
+
 ### Education expenses of you or your dependents
     
 - Tuition and Education fees: [1098-T](https://www.irs.gov/pub/irs-pdf/f1098t.pdf), if box 1 (payments received) is empty also student account statement or bank transfer showing the amount paid).
