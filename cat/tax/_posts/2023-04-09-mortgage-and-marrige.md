@@ -29,7 +29,8 @@ protest), the decision applies to every state. Please note both of the court's d
 refer to the old limit, but the principle applies to the new limit.
 
 Regarding how to divide the mortgage interest between two unmarried co-owners, the IRS has two rules: you had an obligation to pay, and you paid.
-In my opinion, if we can agree on the distribution of wealth and debt, we don't need to involve the government or lawyers.
+In my opinion, if you can agree on the distribution of wealth and debt, you don't need to involve the government or lawyers.
+Like many things in tax, there is no analytic solution for an optimal allocation, but your accountant should know.
 
 This particular tax rule may seem to discourage marriage, but don't let the IRS dictate your love life. Instead, take inspiration from the Hungarian poet Sándor Petőfi, who wrote:
 
