@@ -1,0 +1,63 @@
+---
+layout: post
+title: How to Withhold Taxes for Married Dual-Income Families
+categories:
+- tax
+---
+
+Happily married people are often willing to share their joy with
+everyone. However, if you indicate "married" on the Employee's
+Withholding Certificate or [Form W-4][w4], you may encounter
+unexpected "surprises."
+
+When you fill in "married," have you provided your spouse's income?
+If not, the company will assume you are the only breadwinner in
+your family and withold taxes according to married tax rates. As a
+result, you will have more money in hand each time you get paid,
+but you will owe a lot of taxes when filing your tax return at the
+end of the year.
+
+The "standard" approach is to find the additional amount to be
+deducted from each paycheck based on both spouses' incomes in the
+appendix of [Form W-4][w4], divide it by the remaining number of
+paychecks, and then fill it in line 4(c). However, some people face
+practical difficulties with this approach because the income limit
+for the lower-earning spouse in this appendix is $120,000. If it
+exceeds this number, this method will not work. The next option is
+for you to visit the IRS' [Tax Withholding Estimator Website][es]
+to obtain the extra withholding amount.
+
+However, after all the effort, if the situation changes next year,
+you have to start all over again. If the tax is withheld insufficiently,
+even if it is fully paid when filing taxes, there will still be an
+estimated tax penalty for insufficient tax withholding.
+
+In fact, there is a simple and useful method: each spouse can
+withhold taxes as "Single or Married filing separately," but file
+a joint tax return. This approach is based on the fact that when
+two spouses' wages are similar or both very high, there is not much
+difference in tax liability between filing jointly and separately.
+You can check the difference in my comparison worksheet in the tax
+return that I provide for every married couple.
+
+This method is simple and easy to implement — just check one box — and
+it is a permanent solution, as the tax withholding will automatically
+adjust as your salary increases (or decreases).
+
+Like other aspects of marriage, when each person takes care of their
+own affairs, the couple will thrive together.
+
+PS: I would like to emphasize that I am suggesting you withhold
+taxes as married filing separately, not filing taxes separately.
+Unless there are special circumstances or you request it, filing a
+joint tax return is generally a good choice, at least in terms of
+saving filing fees.
+
+PS: I would like to emphasize that I am suggesting that you
+withhold taxes as married filing separately, not filing taxes
+separately. Unless there are special circumstances or you request
+it, filing a joint tax return is generally a good choice, at least you save
+filing fees.
+
+[w4]: https://www.irs.gov/pub/irs-pdf/fw4.pdf
+[es]: https://apps.irs.gov/app/tax-withholding-estimator
