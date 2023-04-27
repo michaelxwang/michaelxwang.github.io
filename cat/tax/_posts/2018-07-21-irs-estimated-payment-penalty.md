@@ -8,7 +8,7 @@ categories:
 
 Generally speaking, you need to pay estimated tax every quarter.
 If you did not pay enough, then you will pay "estimated tax penalty",
-this is what line 79 of [form 1040
+this is what line 38 of [form 1040
 ](https://www.irs.gov/pub/irs-pdf/f1040.pdf) is for.
 
 Although it is called "penalty", it is essentially an interest on
@@ -25,8 +25,8 @@ The IRS also publish the updated interest rate directly, the
 updated table is [here](https://www.dol.gov/agencies/ebsa/employers-and-advisers/plan-administration-and-compliance/correction-programs/vfcp/table-of-underpayment-rates),
 the first column is for personal, and second column is for large corporations.
 
-Since the due dates for each quarter's estimated payments are 4/15/2018, 6/15/2018, 9/15/2018, 1/15/2019 respectively, and due date for the tax
-return is 4/15/2019, so the tax payments for each quarter are late for 12, 10, 7, and 3 months respectively.
+Let us use 2018 for an example. Since the due dates for each quarter's estimated payments are 4/15/2018, 6/15/2018, 9/15/2018, 1/15/2019 respectively, and due date for the tax
+return is 4/15/2019, the length of tax owed for each quarter are late for 12, 10, 7, and 3 months respectively.
 Let us assume the income, estimated tax payment (or withholding) are the same for each quarter, i.e. you owe the same amount each quarter,
 the weighted average of annual interest rate for 2018 is:
 
@@ -38,8 +38,7 @@ or (100%|110%) of last year's tax (with details below for 100% vs 110%).
 
 Even the penalty is not a huge amount, it is better to avoid it.
 The penalty will not apply if you satisfy one of the following
-conditions (see [form 2210](https://www.irs.gov/pub/irs-pdf/f2210.pdf)
-and [form 2210 instruction](https://www.irs.gov/pub/irs-pdf/f1040.pdf)):
+conditions (see [form 2210][f2210]{:target="_blank"} and [form 2210 instruction][i2210]{:target="_blank"}:
 
 - The _current_ year withholding is more than _current_ year tax liability * 90%.
 - The _current_ year withholding is more than _current_ year tax liability - $1,000.
@@ -92,3 +91,6 @@ if you satisfy one of the following conditions:
 
 - You have paid 90% of the tax you owe, or the tax owed is less than $150, for the current year.
 - You have paid 100% (always 100% regardless of your income) of the tax you owed for the previous tax year.
+
+[f2210]: https://www.irs.gov/pub/irs-pdf/f2210.pdf
+[i2210]: https://www.irs.gov/pub/irs-pdf/i2210.pdf
