@@ -7,7 +7,7 @@ categories:
 
 Married individuals often ask me whether they should file taxes separately or jointly. This post aims to clarify this issue.
 
-The tax brackets for joint filers widen. Taking the [tax rate table][table] for 2022 as an example, the 10% bracket for both single and married filing separately is $0 - $10,275, while for joint filers, it is $0 - $20,550, exactly twice that of single filers. This rule no longer applies in the higher-income brackets (35%+). As the brackets widen, the combined income of joint filers generally increases. Whether joint filers pay more or less tax depends on whether the total income in each bracket increases or decreases. The diagram below provides an intuitive explanation.
+The tax brackets for joint filers widen. Taking the [tax rate table][table]{:target="_blank"} for 2022 as an example, the 10% bracket for both single and married filing separately is $0 - $10,275, while for joint filers, it is $0 - $20,550, exactly twice that of single filers. This rule no longer applies in the higher-income brackets (35%+). As the brackets widen, the combined income of joint filers generally increases. Whether joint filers pay more or less tax depends on whether the total income in each bracket increases or decreases. The diagram below provides an intuitive explanation.
 
 <img src="/assets/images/20220827-mfs-vs-mfj.png"/>
 
