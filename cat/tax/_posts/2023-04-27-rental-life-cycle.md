@@ -52,7 +52,7 @@ During the 10-year rental period, the investor experiences the following:
 - Gross annual rental income: $18,000 x 10 = $180,000
 - Total annual operating expenses (excluding depreciation): $8,900 x 10 = $89,000
 - Total interest paid on the mortgage over the first 10 years: Approximately $72,148 (from the mortgage amortization schedule at the end of this post)
-- Annual depreciation: $19,000 / 27.5 x 10 = $69,091
+- Annual depreciation: $190,000 / 27.5 x 10 = $69,091
 - Total deductible expenses (operating expenses + depreciation + mortgage interest): $89,000 + $72,148 + $69,091 = $230,239
 - Accumulated rental losses over the 10-year period (deductible expenses - rental income): $230,239 - $180,000 = $50,239
 
