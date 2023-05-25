@@ -13,7 +13,7 @@ The relationship among Regular Income Tax (RIT), Tentative Minimum Tax (TMT), an
 
 <img src="/assets/images/20180101-amt.png">
 
-When Tenative Minimum Tax (TMT) is greater than the Regular Income Tax (RIT), then we say you have hit the AMT, or you pay this _additional_ tax on top of the regular tax as formulated on form 1040. In reality, however, it is not that you pay another tax called AMT tax, but you just pay Tentative Minimum Tax (TMT), because AMT can be expressed as:
+When Tentative Minimum Tax (TMT) is greater than the Regular Income Tax (RIT), then we say you have hit the AMT, or you pay this _additional_ tax on top of the regular tax as formulated on form 1040. In reality, however, it is not that you pay another tax called AMT tax, but you just pay Tentative Minimum Tax (TMT), because AMT can be expressed as:
 
 ```
 AMT = TMT - RIT
@@ -39,7 +39,7 @@ It is computed by the following steps:
 
 ### Example
 
-A joint filer with AGI $150,000. Suppose all their deductions are unallowed for AMT purpose. The Tentative Minimum Tax (TMT) is computed as (Y2016):
+A joint filer with AGI $150,000. Suppose all their deductions are not allowed for AMT purpose. The Tentative Minimum Tax (TMT) is computed as (Y2016):
 
 ```
 TMT = (150,000 - 83,800) * 26% = 17,212
@@ -76,4 +76,4 @@ Bill and Hillary Clinton did not pay AMT in their [2015 tax return](http://www.t
 
 In [Donald Trump's 2005 tax return](http://www.taxhistory.org/thp/presreturns.nsf/Returns/6ECD0CC206C03A7F852580E90049B2B1/$file/trump2005tax.pdf), he paid _38 millions_ federal tax, of which _31 millions_ were attributed to AMT, without which he would have paid a little over 10% income tax of his AGI.
 
-In conclusion, when you hit AMT, it does not mean that you hit another tax, but IRS does not allow you to deduct anymore. The amount of AMT tax represents the tax you would have save if the deduction were allowed.
+In conclusion, when you hit AMT, it does not mean that you hit another tax, but IRS does not allow you to deduct anymore. The amount of AMT tax represents the tax you would have saved if the deduction were allowed.
