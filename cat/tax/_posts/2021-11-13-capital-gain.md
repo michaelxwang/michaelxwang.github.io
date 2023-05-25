@@ -5,8 +5,14 @@ categories:
 - tax
 ---
 
-Recently, the long term capital gain has gained much attention because Biden administration is planning to increase the tax rate. 
-The following diagram shows how the long term capital gain is taxed currently in all 6 base income and long term capital gain combinations. (The short term is taxed as ordinary income.)
+Recently, the long term capital gain has gained much attention because Biden administration is planning to increase the tax rate (However, the proposal did not succeed.)
+The following diagram shows how the long term capital gain is taxed currently in all 6 base income and long term capital gain combinations.
+The short term is taxed as ordinary income.
+
+The qualified dividend ix taxed the same as long term capital gain. A qualified dividend is a dividend paid
+by a U.S. corporation or a qualified foreign corporation that is held for at least 61 days during the 121-day period that begins 60 days before the ex-dividend date. 
+
+In the discussion below, please consider the term long term capital gain to include qualified dividend.
 
 <img src="/assets/images/20211113-capital-gain.png">
 
