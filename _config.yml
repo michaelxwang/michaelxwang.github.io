@@ -1,4 +1,8 @@
 theme: minima
+remote_theme: jekyll/minima
+
+plugins:
+  - jekyll-remote-theme
 
 minima:
   date_format: "%Y-%m-%d"
