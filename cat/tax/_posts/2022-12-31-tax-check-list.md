@@ -455,7 +455,21 @@ Please provide the total amount of these purchases, as well as the sales or use 
 - Employer's name.
 - Employer's foreign address including postal code.
 - Employer's U.S. address if it has one.
-- Income earned in U.S. dollars, use [IRS published conversion rate](https://www.irs.gov/individuals/international-taxpayers/yearly-average-currency-exchange-rates).
+- Income earned in U.S. dollars, use [IRS published conversion rate](https://www.irs.gov/individuals/international-taxpayers/yearly-average-currency-exchange-rates){:target="_blank"}:
+
+| County          | Currency | 1.00 USD in 2022 |
+| :---            | :---     |    ---:          |
+| China           | Yuan     |   6.730          |
+| Hong Kong       | Dollar   |   7.831          |
+| India           | Rupee    |  78.598          |
+| Canada          | Dollar   |   1.301          |
+| Euro Zone       | Euro     |   0.951          |
+| United Kingdom  | Pound    |   0.811          |
+| Australia       | Dollar   |   1.442          |
+| Singapore       | Dollar   |   1.379          |
+| Switzerland     | Franc    |   0.955          |
+| Japan           | Yen      | 131.454          |
+
 - Do you pay income tax to a foreign country on the foreign earned income? If so, please provide a document showing taxable income and tax paid.
 - List travel history to and from the US in the format below from 01/01/2019 until now.
   - 11/01/2019 - 06/31/2020 in China.
