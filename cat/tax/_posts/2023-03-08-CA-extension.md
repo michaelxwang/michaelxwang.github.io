@@ -6,9 +6,9 @@ categories:
 ---
 
 According to announcements from the
-[IRS](https://www.irs.gov/newsroom/irs-california-storm-victims-qualify-for-tax-relief-april-18-deadline-other-dates-extended-to-may-15)
+[IRS](https://www.irs.gov/newsroom/irs-announces-tax-relief-for-victims-of-severe-winter-storms-flooding-and-mudslides-in-california){:target="_blank"}
 and
-[California](https://www.ftb.ca.gov/file/when-to-file/Emergency-tax-relief.html),
+[California](https://www.ftb.ca.gov/file/when-to-file/Emergency-tax-relief.html){:target="_blank"},
 residents of the counties listed at the end of this article will have an extension until October 16, 2023, to file and pay their federal and state taxes.
 
 To clarify, all of the names mentioned in the announcements refer to counties. The expression used is "Alameda, Alpine, ..., Ventura, Yolo and Yuba counties." Applying the distributive law of multiplication over addition, this can be expanded to "Alameda County, Alpine County, ..., Ventura County, Yolo County, and Yuba County."
