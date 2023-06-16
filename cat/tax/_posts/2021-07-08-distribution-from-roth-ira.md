@@ -9,27 +9,27 @@ categories:
 - Contribution (basis) can be withdrawn any time without tax and penalty regardless age and how long the account has been opened.
 - Conversion more than 5 years is not subject to penalty.
 
-- ordering rules (from [Pub 590-B page 32][590b]):  
-  -- contribution.  
-  -- conversion - taxable.  
-  -- conversion - nontaxable.   
-  -- earnings.
+- ordering rules (from [Pub 590-B page 32][590b]):
+  - contribution.
+  - conversion - taxable (at the time of conversion).
+  - conversion - nontaxable (at the time of conversion).
+  - earnings.
 
-- 10% penalty exceptions (from [Pub 590-B page 32][590b]):  
-  -- 59 1/2  
-  -- disabled  
-  -- beneficiary of deceased  
-  -- first home  
-  -- equal payments  
-  -- medical expenses  
-  -- medical insurance during unemployment  
-  -- high education  
-  -- IRS levy  
-  -- reservist
+- 10% penalty exceptions (from [Pub 590-B page 32][590b]):
+  - 59 1/2
+  - disabled
+  - beneficiary of deceased
+  - first home
+  - equal payments
+  - medical expenses
+  - medical insurance during unemployment
+  - high education
+  - IRS levy
+  - reservist
 
-- Qualified distribution (from [Pub 590-B page 31][590b]):  
-  -- account opened >= 5 years AND  
-  -- age >= 59.5 OR disabled OR inherited OR first home up to 10,000.
+- Qualified distribution (from [Pub 590-B page 31][590b]):
+  - account opened >= 5 years AND
+  - age >= 59.5 OR disabled OR inherited OR first home up to 10,000.
 
 - Five year rule: Account opened at least 5 years. Clock starts from January 1 of the year to which you allocate the contribution. Each rollover is accounted for separately.
 - First home: did not buy a home within 2 years, up to 10,000 lifetime limit.
@@ -51,11 +51,11 @@ Example (1):
 Since the age of the ROTH IRA account is less than 5 years, so it is non-qualified distribution.
 
 * Form 8606 line 19 = 33000 (non-qualified distribution including qualified first time home-buyer distributions)
-* Form 8606 line 20 = 0 (less than 5 years)  
-* Form 8606 line 21 = 33000  
-* Form 8606 line 22 = 20000  
-* Form 8606 line 23 = 13000 penalty = 13000 - 10000 = 3000  
-* Form 8606 line 24 = 0  
+* Form 8606 line 20 = 0 (less than 5 years)
+* Form 8606 line 21 = 33000
+* Form 8606 line 22 = 20000
+* Form 8606 line 23 = 13000 penalty = 13000 - 10000 = 3000
+* Form 8606 line 24 = 0
 * Form 8606 line 25c = 13000 taxable amount
 *
 * Form 5329 line 1 = 13000
@@ -73,13 +73,13 @@ Example (2):
 - qualified first time home purchase: 10000 exception
 
 * Form 8606 line 19 = 33000
-* Form 8606 line 20 = 10000 (more than 5 years, qualified distribution)  
-* Form 8606 line 21 = 23000  
-* Form 8606 line 22 = 20000  
+* Form 8606 line 20 = 10000 (more than 5 years, qualified distribution)
+* Form 8606 line 21 = 23000
+* Form 8606 line 22 = 20000
 * Form 8606 line 23 = 3000
-* Form 8606 line 24 = 0  
+* Form 8606 line 24 = 0
 * Form 8606 line 25c = 3000 taxable amount
-* 
+*
 * Form 5329 line 1 = 13000
 * Form 5329 line 2 = 10000
 * Form 5329 line 3 =  3000 penalty amount
@@ -94,14 +94,14 @@ Example (3):
 - earning: 13000               : tax: yes, penalty: yes (not qualified distribution)
 - qualified first time home purchase: 10000 exception
 
-* Form 8606 line 19 = 33000  
-* Form 8606 line 20 = 0 (less than 5 years)  
-* Form 8606 line 21 = 33000  
-* Form 8606 line 22 = 0  
-* Form 8606 line 23 = 33000   
-* Form 8606 line 24 = 20000  
+* Form 8606 line 19 = 33000
+* Form 8606 line 20 = 0 (less than 5 years)
+* Form 8606 line 21 = 33000
+* Form 8606 line 22 = 0
+* Form 8606 line 23 = 33000
+* Form 8606 line 24 = 20000
 * Form 8606 line 25c = 13000 taxable amount
-* 
+*
 * Form 5329 line 1 = 33000
 * Form 5329 line 2 = 10000
 * Form 5329 line 3 = 23000 penalty amount
@@ -116,16 +116,16 @@ Example (4):
 - earning: 13000               : tax: yes, penalty: yes (not qualified distribution)
 - qualified first time home purchase: 10000 exception
 
-* Form 8606 line 19 = 33000  
-* Form 8606 line 20 = 10000 (more than 5 years)  
-* Form 8606 line 21 = 23000  
-* Form 8606 line 22 = 0  
-* Form 8606 line 23 = 23000  
-* Form 8606 line 24 = 20000  
+* Form 8606 line 19 = 33000
+* Form 8606 line 20 = 10000 (more than 5 years)
+* Form 8606 line 21 = 23000
+* Form 8606 line 22 = 0
+* Form 8606 line 23 = 23000
+* Form 8606 line 24 = 20000
 * Form 8606 line 25c = 3000 taxable amount
-* 
-* Form 5329 line 1 = 13000  
-* Form 5329 line 2 = 10000  
+*
+* Form 5329 line 1 = 13000
+* Form 5329 line 2 = 10000
 * Form 5329 line 3 =  3000 penalty amount
 
 Example (5):
@@ -140,10 +140,10 @@ Example (5):
 
 * Form 8606 line 19 = 33000
 * Form 8606 line 20 = 10000 (more than 5 years)
-* Form 8606 line 21 = 23000  
+* Form 8606 line 21 = 23000
 * Form 8606 line 22 = 0
 * Form 8606 line 23 = 23000
-* Form 8606 line 24 = 20000  
+* Form 8606 line 24 = 20000
 * Form 8606 line 25c = 3000 taxable amount
 *
 * Form 5329 line 1 = 28000
@@ -172,7 +172,7 @@ Example (6):
 
 For conversion less than 5 years, you need to input the year and conversion amount to generate correct Form 5329.
 
-References: 
+References:
 
 - <a href="https://www.irs.gov/pub/irs-pdf/i8606.pdf" target="_blank">Form 8606 instruction</a>
 - <a href="https://www.irs.gov/pub/irs-pdf/p590b.pdf" target="_blank">Publication 590-B</a>
