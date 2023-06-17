@@ -27,6 +27,10 @@ do this, you will need to:
 - Report the excess and earnings withdrawn on Form 8889, line 14b.
 - Report the excess and earnings withdrawn on Form 5329 to avoid being penalized.
 - Report the excess and earnings withdrawn as "other income" on your tax return.
+<!--
+"Instruction for Form 8889" page 6 under "Excess Employer Contributions":
+"""If the excess was not included in income on Form W-2, you must report it as “Other income” on your tax return."""
+-->
 - Deduct the excess next year, up to the amount that fits the maximum limit.
 
 Although this method is easy for you (do nothing), it is not so easy for your preparer if she does it correctly.
