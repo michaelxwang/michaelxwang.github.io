@@ -459,15 +459,11 @@ Please provide the total amount of these purchases, as well as the sales or use 
 
 | County          | Currency | 1.00 USD in 2022 |
 | :---            | :---     |    ---:          |
+| Australia       | Dollar   |   1.442          |
+| Canada          | Dollar   |   1.301          |
 | China           | Yuan     |   6.730          |
 | Hong Kong       | Dollar   |   7.831          |
 | India           | Rupee    |  78.598          |
-| Canada          | Dollar   |   1.301          |
-| Euro Zone       | Euro     |   0.951          |
-| United Kingdom  | Pound    |   0.811          |
-| Australia       | Dollar   |   1.442          |
-| Singapore       | Dollar   |   1.379          |
-| Switzerland     | Franc    |   0.955          |
 | Japan           | Yen      | 131.454          |
 
 - Do you pay income tax to a foreign country on the foreign earned income? If so, please provide a document showing taxable income and tax paid.
@@ -508,22 +504,17 @@ please provide information on EACH of the accounts as follows:
 - Dividends generated from the account in US dollars (taxable).
 
 Please convert to U.S. dollars using the end of the calendar year exchange
-rate and report in U.S. dollars, you can use the
-[x-rates](https://x-rates.com/). These are the selected exchange rates on 12/31/2022:
+rate and report in U.S. dollars, you can use the [Currency Exchange Rates Converter](https://fiscaldata.treasury.gov/currency-exchange-rates-converter/){:target="_blank"}
+from the treasury's FiscalData. These are the selected exchange rates on 12/31/2022:
 
 | US Dollar | 1.00 USD |
 | --- | ---: |
-|Chinese Yuan Renminbi|6.912808|
-|Hong Kong Dollar|7.811853|
-|Indian Rupee|82.719757|
-|Canadian Dollar|1.354428|
-|Euro|0.932211|
-|British Pound|0.826410|
-|Australian Dollar|1.469281|
-|Singapore Dollar|1.340185|
-|Swiss Franc|0.924449|
-|Malaysian Ringgit|4.402764|
-|Japanese Yen|131.044070|
+|Australia-Dollar|1.471|
+|Canada-Dollar|1.354|
+|China-Renminbi|6.897|
+|Hong Kong-Dollar|7.797|
+|India-Rupee|82.599|
+|Japan-Yen|131.83|
 
 ### A _resident_ received more than $100,000 from _nonresident_ to file [Form 3520](https://www.irs.gov/pub/irs-pdf/f3520.pdf)
 
