@@ -15,7 +15,7 @@ the 2022 tax year, any earnings from that excess contribution would
 be reported on your 2023 tax return. The publication indicates
 that the income should be reported in the year when it was
 actually earned, which is the year when the excess contribution happened. */
-- The earnings are also subject to 10% early distribution penalty before 59<img src="https://latex.codecogs.com/svg.latex?\tiny\frac{1}{2}">. /* "Beginning on or after December 29, 2022, the 10% ad- ditional tax will not apply to your withdrawal of interest or other income, if withdrawn on or before the due date (including extensions) of the income tax return." */
+- The earnings are also subject to 10% early distribution penalty before 59<img src="https://latex.codecogs.com/svg.latex?\tiny\frac{1}{2}">. /* "Beginning on or after December 29, 2022, the 10% additional tax will not apply to your withdrawal of interest or other income, if withdrawn on or before the due date (including extensions) of the income tax return." */
 
 Details:
 
