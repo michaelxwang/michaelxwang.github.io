@@ -19,7 +19,13 @@ Details:
 - If you have deducted the excess contribition, you need to amend the return not to deduct.
 - Excess contribition can be absorbed by the allowed contribution limit next year.
 
-Example:
+Example 1:
+
+- In 2022, James Bond contributed 5,000 to Roth IRA, all of which is an excess due to income limit.
+- In 2023, He withdrew 5,000 plus earnings 200 before the filing deadline.
+- In 2024, He will receive a 1099-R with a code P and 200 taxable income. He should have reported the income in advance on 2022 return using 1099-R code 8 or amend it afterwards.
+
+Example 2:
 
 - In 2019, Jack Ma (born September 10, 1964) made excess contribution 5000.
 - In 2020, He made another excess contribution 6000.
@@ -31,10 +37,18 @@ Here are the consequences:
 - In 2020, he will pay (5000 + 6000) * 6% exercise tax.
 - In 2021, he will pay regular tax and 10% early distribution penalty on 1200.
 
-<a name="fn1">1</a> If you made an excess
+<a name="fn1">1</a> 
+If you made an excess
 contribution in 2023 before the tax due date, even if that contribution was allocated to
 the 2022 tax year, any earnings from that excess contribution would
-be reported on your 2023 tax return. The language in the publication indicates
+be reported on your 2023 tax return. The language in [IRC 408(d)(4)][irc]{:target="_blank"}
+
+>In the case of such a distribution, for purposes of section 61, any
+>net income described in subparagraph (C) shall be deemed to have
+>been earned and receivable in the taxable year in which such
+>contribution is made.
+
+indicates
 that the income should be reported in the year when it was
 actually earned, which is the year when the excess contribution happened.
 
@@ -48,9 +62,11 @@ indicates that the elimination of the additional tax on corrective distributions
 [590b]: https://www.irs.gov/pub/irs-pdf/p590b.pdf
 [i5329]: https://www.irs.gov/pub/irs-pdf/i5329.pdf
 [secure]: https://www.congress.gov/bill/117th-congress/house-bill/2617/text
+[irc]: https://www.taxnotes.com/research/federal/usc26/408
 
 References: 
 - [Publication 590-A][590a]{:target="_blank"}
 - [Publication 590-B][590b]{:target="_blank"}
 - [Instructions for Form 5329][i5329]{:target="_blank"}
 - [SECURE Act 2.0 of 2022][secure]{:target="_blank"}
+- [IRC 408(d)(4)][irc]{:target="_blank"}
