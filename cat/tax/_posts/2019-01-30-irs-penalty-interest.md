@@ -5,88 +5,136 @@ categories:
 - tax
 ---
 
-Besides taxes, IRS charge various penalties and interest.
+The IRS, in addition to taxes, levies various penalties and interest charges. The sequence in which these penalties and interest are typically applied is as follows:
 
-First, IRS requires that the tax due on every quarter to be paid on time,
-if not, there will be _estimated tax penalty_ which is calculated on Form
-2210. It is possible that at the end of year, you will get a refund but
-still owe estimated tax penalty because the obligation of a particular
-quarter was not met. Although it is called _penalty_, it is calculated
-based on interest. The penalty is reported on line 79 of Form 1040.
+- Estimated tax penalty.
+- Failure-to-file penalty.
+- Failure-to-pay penalty.
+- Interest charges.
 
-The estimated tax penalty (P\) is calculated based on:
+### Estimated tax penalty
 
-* The shortage to meet the required payment, T for the year, and T/4 each quarter. 
+The IRS mandates that taxpayers pay estimated taxes on the income earned in
+each quarter promptly. As the saying goes, "Pay As You Go, So You Won't Owe."
 
-* interest rate on each quarter (I<sub>1</sub>, I<sub>2</sub>, I<sub>3</sub>, I<sub>4</sub>) which is the [federal short-term rate](https://apps.irs.gov/app/picklist/list/federalRates.html) 
-in the first month of the previous quarter, rounded to the nearest integer, plus 3%. This rate is also directly documented 
-[here](https://www.dol.gov/agencies/ebsa/employers-and-advisers/plan-administration-and-compliance/correction-programs/vfcp/table-of-underpayment-rates).
+For the self-employed, upon the conclusion of each quarter, they should remit
+an estimated payment using form 1040-ES or submit it online based on the
+quarter's income. Interestingly, one might receive a year-end refund yet still
+be liable for an estimated tax penalty if a particular quarter's obligations
+were not fulfilled.
 
-* The length of the time owed. Since the quarterly
-estimated tax due dates for each quarter are: 4/15, 6/15, 9/15, and 1/15,
-you are late each quarter for 12, 10, 7, and 3 months respectively
-assuming you pay tax on 4/15 next year.
+For employees, employers typically handle this through payroll withholdings. By
+default, these withholdings, regardless of when made, are equally allocated
+across each quarter. Thus, if you're settled for the year, you're also settled
+for each quarter, and vice versa.
 
-Therefore we have:
+An alternative method for calculating the estimated tax penalty is available,
+which considers the timing of your yearly income and deductions. Known as the
+"Annualized Income Installment Method," it's especially advantageous for those
+whose income doesn't come in steadily throughout the year. By offering a truer
+representation of quarterly income, this approach can sometimes decrease or
+even negate the penalty. To employ this method, one should fill out Schedule AI
+of Form 2210 (Underpayment of Estimated Tax by Individuals, Estates, and
+Trusts).
 
-<img src="https://latex.codecogs.com/svg.latex?\small&space;P = \frac{T}{4} (\frac{12}{12}I_1 + \frac{10}{12}I_2 + \frac{7}{12}I_1 + \frac{3}{12}I_4)">
+While referred to as a "penalty," its computation is interest-based. This
+penalty, determined via Form 2210, is then noted on line 79 of Form 1040.
 
-For the year 2016, we have I<sub>1</sub> = I<sub>2</sub> = I<sub>3</sub> = I<sub>4</sub>= 4%, so
+The default methodology for calculating the estimated tax penalty (P\) hinges
+on:
+
+* The shortfall to satisfy the required annual payment, denoted as T, and T/4
+  for each quarter.
+
+* The interest rate for each quarter (I<sub>1</sub>, I<sub>2</sub>,
+  I<sub>3</sub>, I<sub>4</sub>). This rate is the [federal short-term rate][short-term]{:target="_blank"}
+  as of the first month of the preceding quarter, rounded to the nearest whole number, plus an
+  additional 3%. The resulting interest rate can also be found directly at the [Department of Labor website][final-rate]{:target="_blank"}.
+
+* The duration for which the tax remains unpaid. Given that the due dates for
+  quarterly estimated taxes are 4/15, 6/15, 9/15, and 1/15 (the following year),
+  the delay for each quarter amounts to 12, 10, 7, and 3 months, respectively, assuming taxes are
+  settled on 4/15 of the subsequent year.
+
+Using the aforementioned parameters, the penalty is formulated as:
+
+<img src="https://latex.codecogs.com/svg.latex?\small&space;P = \frac{T}{4} (\frac{12}{12}I_1 + \frac{10}{12}I_2 + \frac{7}{12}I_3 + \frac{3}{12}I_4)">
+
+For the fiscal year 2016, given that I<sub>1</sub> = I<sub>2</sub> = I<sub>3</sub> = I<sub>4</sub>= 4%, the formula simplifies to:
 
 <img src="https://latex.codecogs.com/svg.latex?\small&space;P = T \times 2.667%">
 
-The percentage is on line 15 of [form 2210](https://www.irs.gov/pub/irs-pdf/f2210.pdf) is 2.656%, the error 
-due to the use of months instead of days is less than 0.4%.
+The value in line 15 of the [form 2210 for 2016][f2210-2016]{:target="_blank"}
+is 2.656% (as indicated by "Multiply line 14 by 0.02656"). This gives insight
+into how the number was derived. The slight discrepancy is attributed to the
+method of using months instead of days, but the variance is less than 0.4%.
 
-Please note that the percentage is based on the shortage to the required payment for the lesser of 
-90% of this year's tax or 100% (when AGI is less $150,000) or 110% (when AGI
-is more than $150,000) of prior year's tax, so the percentage based on the
-actual tax owed is less than the of the actual tax.
+It's crucial to note that this percentage corresponds to the shortfall relative
+to the required payment, which is the lesser value between:
 
-If you do not file and pay tax on time, there will be additional *fail to file penalty*, *fail to pay penalty*,
-and additional *interest* until it is paid.
+- 90% of the current year's tax and
+- either 100% of the previous year's tax if the prior year's AGI was below $150,000, or 110% if it exceeded $150,000
 
-The fail to file penalty is 5% per month or partial month up to 25%
-of the tax owed [IRC Section 6651(a)(1)](https://www.law.cornell.edu/uscode/text/26/6651).
+Thus, the penalty percentage in relation to the actual tax owed might be
+somewhat lower than the nominal tax value.
 
-The fail to pay penalty is 0.5% per month or partial month up to 25%
-of the tax owed [IRC Section 6651(a)(2)](https://www.law.cornell.edu/uscode/text/26/6651).
+### Fail to file penalty
 
-If you owe both fail to file penalty and fail to pay penalty, the fail
-to file penalty is reduced by the amount of fail to pay penalty [IRC Section 6651(c\)(1)](https://www.law.cornell.edu/uscode/text/26/6651).
+- Imposed if you don't file by the return's due date (including any extensions).
+- 5% or 4.5% (if Fail to pay penalty also apply) of the unpaid tax for each month or part of a month the return is late for maximum 5 months.
+- If the return is more than 60 days late, there's a minimum penalty, either $435 (for tax returns that were required to be filed after December 31, 2019) or 100% of the unpaid tax, whichever is less.
 
-The interest used in calculation is the same
-as in estimated tax penalty determined quarterly, but
-compounded daily. As the calculation involves the "advanced" math,
-[Rev. Proc. 95-17](https://www.section6166.com/pdf_files/Rulings_Etc/Rev_Proc_95-17v2.pdf)
-provided the _Factor Tables_ to calculated the interest of a quarter
-for different interest rate, number of days of the quarter the tax
-was due, and whether the year is leap year or not.
+### Fail to pay penalty 
 
-Let me use an example to demonstrate how these amounts are
-calculated. Suppose you did not file nor pay 2014 tax due on 2015-04-15,
-until 2017-10-26, and you owe $10,000 in tax.
+- Begins accruing the day after taxes are due (typically April 16) without regard to extension. 
+- 0.5% of the unpaid tax amount for each month or part of a month the tax isn't paid 
+- Capped at 25% of the unpaid tax.
 
-The _fail to file penalty_ is 5% per month or per partial month up to
-the maximum of 5 months, reduced by _fail to pay penalty_ of 0.5% per month or per partial month for the period. Therefore
-we have:
+### Interest charges
 
-<img src="https://latex.codecogs.com/svg.latex?\small&space;\text{Fail to file penalty} = \$10,000 * 5% * 5 - \$10,000 * 0.5% * 5 = \$2,250">
+- The IRS charges interest on unpaid taxes plus fail to file penalty (per [IRM 20.2.5.3(4)][irm]) from the original due date of the return regard to extension until the date of payment.
+- The interest rate is determined quarterly and is the [federal short-term rate][short-term]{:target="_blank"}
+  plus 3%, or the resulting rate at the [Department of Labor website][final-rate]{:target="_blank"}.
+- Interest is compounded daily.
+- Unlike penalties, the interest charge is mandatory and can't be abated for reasonable cause.
+- The interest used in the calculation is the same as that used for the
+  estimated tax penalty, determined quarterly but compounded daily. Since the
+  computation involves more "advanced" math, [Rev. Proc. 95-17][revproc]{:target="_blank"}
+  provides _Factor Tables_ to calculate the
+  quarter's interest. These tables account for varying interest rates, the number
+  of days in the quarter that the tax was due, and whether it's a leap year.
 
-The fail to pay penalty is 0.5% per month or per partial month for 31
-full or partial months (From 2015-04-15 to 2017-10-26):
+To illustrate how these calculations work, let's use an example. Assume that
+you neither filed nor paid your 2014 taxes, which were due on 2015-04-15, until
+2017-10-26, and that the owed amount is $10,000.
 
-<img src="https://latex.codecogs.com/svg.latex?\small&space;\text{Fail to pay penalty} = \$10,000 * 0.5% * 31 = \$1,550">
+1. **Fail to File Penalty**: This is assessed at 5% per month or part of a
+   month, for up to a maximum of 5 months. It's reduced by the fail to pay
+   penalty which is 0.5% per month or part of a month. The calculation is:
+  
+   ![\text{Fail to file penalty} = \$10,000 \times 5% \times 5 - \$10,000 \times 0.5% \times 5 = \$2,250](https://latex.codecogs.com/svg.latex?\small&space;\text{Fail to file penalty} = \$10,000 \times 5% \times 5 - \$10,000 \times 0.5% \times 5 = \$2,250)
 
-The interest was 3% for first 351 days (from 2015-04-15 to 2016-03-31),
-and 4% for the rest of 574 days (from 2016-04-01 to 2017-10-26),
-accumulated daily, so the total interest is:
+2. **Fail to Pay Penalty**: This is assessed at 0.5% per month or part of a month. Given that the period extends across 31 full or partial months (from 2015-04-15 to 2017-10-26), the penalty becomes:
+  
+   ![\text{Fail to pay penalty} = \$10,000 \times 0.5% \times 31 = \$1,550](https://latex.codecogs.com/svg.latex?\small&space;\text{Fail to pay penalty} = \$10,000 \times 0.5% \times 31 = \$1,550)
 
-<img src="https://latex.codecogs.com/svg.latex?\small&space;\text{Interest} = \$12,250[(1+\frac{3%}{365})^{351} + (1+\frac{3%}{366})^{574} - 1] = \$1,174.79">
+3. **Interest**: The interest rate was 3% for the first 351 days (from 2015-04-15 to 2016-03-31) and 4% for the subsequent 574 days (from 2016-04-01 to 2017-10-26). This interest is compounded daily, so the total accumulated interest is:
 
-Please note the base amount is the tax owed plus the fail to file
-penaty [IRM 20.2.5.3(2)](https://www.irs.gov/irm/part20/irm_20-002-005r#idm140320882416896), and 2016 is a leap year (366 days).
+   ![\text{Interest} = \$12,250[(1+\frac{3%}{365})^{351} + (1+\frac{3%}{366})^{574} - 1] = \$1,174.79](https://latex.codecogs.com/svg.latex?\small&space;\text{Interest} = \$12,250[(1+\frac{3%}{365})^{351} + (1+\frac{3%}{366})^{574} - 1] = \$1,174.79)
 
-If we use the IRS table method to calculate interest quarter by quarter,
-the result is $1,175.72. The difference due to rounding is less than
-a dollar.
+   *Note: The base amount for calculating interest includes both the tax owed and the fail to file penalty. Also, remember that 2016 was a leap year, having 366 days.*
+
+   If we employ the IRS's table method, calculating the interest quarter by
+   quarter, the resultant amount is $1,175.72. The negligible discrepancy, less
+   than a dollar, corroborates the accuracy of our method.
+
+[short-term]: https://apps.irs.gov/app/picklist/list/federalRates.html
+[final-rate]: https://www.dol.gov/agencies/ebsa/employers-and-advisers/plan-administration-and-compliance/correction-programs/vfcp/table-of-underpayment-rates
+[f2210-2016]: https://www.irs.gov/pub/irs-prior/f2210--2016.pdf
+[irc6651]: https://www.taxnotes.com/research/federal/usc26/6651
+[irm]: https://www.irs.gov/irm/part20/irm_20-002-005r#idm140320882416896
+[revproc]: https://www.section6166.com/pdf_files/Rulings_Etc/Rev_Proc_95-17v2.pdf
+
+Reference:
+
+- [IRC Section 6651][irc6651]{:target="_blank"}
