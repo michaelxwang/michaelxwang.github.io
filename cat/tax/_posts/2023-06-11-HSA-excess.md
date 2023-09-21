@@ -20,7 +20,7 @@ rectify the situation. Here are three options:
 
 #### Option 1: Withdrawal method
 
-If you spent more than the excess contributions plus earnings from the HSA
+If you had spending from the HSA
 during the year, you can treat distributions as a withdrawal of the excess. To
 do this, you will need to:
 
@@ -31,9 +31,9 @@ do this, you will need to:
 "Instruction for Form 8889" page 6 under "Excess Employer Contributions":
 """If the excess was not included in income on Form W-2, you must report it as “Other income” on your tax return."""
 -->
-- Deduct the excess next year, up to the amount that fits the maximum limit.
 
-Although this method is easy for you (do nothing), it is not so easy for your preparer if she does it correctly.
+For the remaining excess not withdrawn, please follow option 2, future year method.
+
 Alternatively, you can contact your trustee to have the excess plus earnings withdrawn if you do not have
 sufficient distributions, but the process is more costly in terms of time and money, it may be an better to use
 next option.
@@ -49,8 +49,8 @@ Note: You will also need to add the excess (plus any earnings on it) to your
 current year's income. You can then deduct the excess in the following year, up
 to the amount that fits the maximum limit.
 
-For example, let's say you contribute $3,500 to your HSA in 2023, but the
-maximum contribution limit is $3,600. You would have $100 of excess
+For example, let's say you contribute $3,950 to your HSA in 2023, but the
+maximum contribution limit is $3,850. You would have $100 of excess
 contributions. If you choose to use the future year method, you would pay a 6%
 penalty on the excess, which is $6. You would then add the $100 (plus any
 earnings on it) to your 2023 income. In 2024, you could deduct $100 from your
