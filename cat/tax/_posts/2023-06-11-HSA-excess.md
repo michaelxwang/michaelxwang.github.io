@@ -18,7 +18,7 @@ maximum limit is reached.
 If you do overcontribute to an HSA, there are a few things you can do to
 rectify the situation. Here are three options:
 
-#### Option 1: Withdrawal method
+#### Option 1: Treat distribution as withdrawal
 
 If you had spending from the HSA
 during the year, you can treat distributions as a withdrawal of the excess. To
@@ -34,11 +34,7 @@ do this, you will need to:
 
 For the remaining excess not withdrawn, please follow option 2, future year method.
 
-Alternatively, you can contact your trustee to have the excess plus earnings withdrawn if you do not have
-sufficient distributions, but the process is more costly in terms of time and money, it may be an better to use
-next option.
-
-#### Option 2: Future year method
+#### Option 2: Rollover to next year
 
 Another option is to simply let the excess stay in your account for the current
 year, pay a 6% penalty, and treat it as part of your contribution for the next
@@ -64,11 +60,11 @@ Here are the steps involved in the future year method:
 4. Adjust your next year's contribution amount so that the total does not exceed the limit.
 5. Deduct the excess contributions in the following year, up to the amount that fits the maximum limit.
 
-#### Option 3: Correct the contribution
+#### Option 3: Actual withdrawal
 
-The third option is to contact your HSA trustee and have them correct the
-contribution. This is the most straightforward option, but it may also be the
-most time-consuming and costly.
+The third option is to contact your HSA trustee to have the excess plus earnings withdrawn.
+This is the most straightforward option, but it may also be the most time-consuming, and sometimes
+costly as some HSA trustees charge a fee for the service.
 
 #### Which option is right for you?
 
