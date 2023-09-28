@@ -28,7 +28,6 @@ The deduction and income cancels each other, and the end result is that you have
 
 Example:
 
-- You do not have 401(k) plan.
 - On 2019-04-01 you contributed $5,500 to traditional IRA allocated to 2018,
 - On 2019-04-01 you contributed $6,000 to traditional IRA allocated to 2019,
 - On 2019-04-03 you converted the full amount $11,500 to ROTH IRA.
@@ -38,7 +37,7 @@ Here is how you report:
 - On your 2018 form 1040, you report deduction Y1 between $0 and $5,500.
 - On your 2019 form 1040, you report deduction Y2 between $0 and $6,000 and income Y1 + Y2 betwwen $0 and $11,500.
 
-If the situation is that you have 401(k) and high enough wage, or you choose not to deduct, then Y1 = Y2 = 0.
+If your income level does not allows you to deduct or or you choose not to deduct, then Y1 = Y2 = 0.
 
 Footnote:
 
