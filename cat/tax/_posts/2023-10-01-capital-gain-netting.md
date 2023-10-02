@@ -57,13 +57,23 @@ As shown in the picture below:
 
 - In the *second scenario* where both short-term and long-term losses are present, you can take your losses up to $1,500 if you are married but filing separately
   or $3,000. You first take the loss from the short-term then the long-term until the maxium is reached.
-  Any loss that exceeds these limit can be carried over to the next
-  year. The loss taken, whether from short-term or long-term, reduces your tax liability
+  The loss taken, whether from short-term or long-term, reduces your tax liability
   by offsetting against your ordinary income at your marginal rate.
+  Any loss exceeding these limits can be carried over to the subsequent
+  year. If not fully absorbed in that year, it will continue to be carried
+  over to succeeding years, and so on, until the year when you retire from life.
 
 - If you have a net loss in one category and net gain in the other, use the
   loss to offset the gain until one of the categories reaches zero. After that,
   you either pay tax on the gain or take the loss in the remaining
   category.
 
+Capital loss treatments vary by state. For instance, California and Virginia generally conform to
+federal tax law, but New Jersey neither allows negative income nor any
+carryovers. [Massachusetts][ma], on the other hand, does not permit negative income
+but does allow both short-term and long-term losses, in that order, to offset
+up to $2,000 of interest and dividend income, with any excess being carried
+over to the subsequent year.
+
 [long]: https://taxandlife.com/cat/tax/2021/11/13/capital-gain.html
+[ma]: https://www.mass.gov/doc/2022-form-1-instructions/download
