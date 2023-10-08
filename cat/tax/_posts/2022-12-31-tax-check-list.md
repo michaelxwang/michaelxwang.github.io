@@ -11,7 +11,7 @@ You do not need to answer every question but just provide tax documents applicab
 additionally provide basic info not covered by tax documents. You can create a
 Google doc after you enter your link by clicking "+ New", or create your own
 simple word or text document and upload it along with tax documents. Please do not imbed
-tax documents in the check list info doc.
+tax documents in the checklist info doc.
 
 ### New in 2022
 
@@ -128,13 +128,13 @@ Residents do not need to list travel outside the United States.
 - [W-2](https://www.irs.gov/pub/irs-pdf/fw2.pdf) wage forms from ALL employers for the year.
 - Pensions, annuities, retirement plan distributions, rollovers,
   and conversions (including "backdoor" Roth conversation). A rollover
-  or  ocnversion involves two accounts, the source (where money comes
+  or conversion involves two accounts, the source (where money comes
   from) and the target (where money goes to). Please provide the
   following and separate each distribution in its own folder:
   - Distribution from the source on [Form 1099-R](https://www.irs.gov/pub/irs-pdf/f1099r.pdf).
   - Year end balance at the source on [Form 5498](https://www.irs.gov/pub/irs-pdf/f5498.pdf) or using your own record.
   - Contribution information at the source on [Form 5498](https://www.irs.gov/pub/irs-pdf/f5498.pdf) if available, or provide date, amount contributed, and year allocated to based your own record.
-  - Rollover or coversion information at the target on [Form 5498](https://www.irs.gov/pub/irs-pdf/f5498.pdf) if available, or provide the target type (IRA, Roth IRA, 401K, Roth 401K, etc) based your own record.
+  - Rollover or conversion information at the target on [Form 5498](https://www.irs.gov/pub/irs-pdf/f5498.pdf) if available, or provide the target type (IRA, Roth IRA, 401K, Roth 401K, etc) based your own record.
 
   For example, if you contributed $6,000 to traditional IRA, and converted $6,001 to Roth IRA leaving $0 on the traditional IRA, the four pieces of information would be:
 
