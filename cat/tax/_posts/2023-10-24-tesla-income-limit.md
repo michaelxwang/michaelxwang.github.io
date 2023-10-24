@@ -72,6 +72,10 @@ modifications are applied. For instance, if you have a foreign earned income
 exclusion, this exclusion should be added back for the clean vehicle credit
 evaluation.
 
+In addition to the income restrictions, the vehicle must also meet certain
+qualifications. Please visit [this link][qualify] to determine if your model is
+eligible, and double check with your seller.
+
 It's also crucial to note that the credit is "nonrefundable". This means it can
 only reduce your tax liability for the year. Whether you owe tax or receive a
 refund on your tax return is immaterial. For a detailed explanation of
@@ -88,3 +92,4 @@ if you purchase N clean vehicles, you are eligible for N credits.
 [irc]: https://www.taxnotes.com/research/federal/usc26/30D
 [refundable]: https://taxandlife.com/cat/tax/2023/02/08/refundable.html
 [form8936]: https://www.irs.gov/pub/irs-pdf/f8936.pdf
+[qualify]: https://fueleconomy.gov/feg/tax2023.shtml
