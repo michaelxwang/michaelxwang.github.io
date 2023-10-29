@@ -527,17 +527,42 @@ from the Treasury FiscalData. These are the selected exchange rates on 12/31/202
 |India-Rupee|82.599|
 |Japan-Yen|131.83|
 
-### A _resident_ received more than $100,000 from _nonresident_ to file [Form 3520](https://www.irs.gov/pub/irs-pdf/f3520.pdf)
+### A _Resident_ Received a Gift From a Nonresident
 
-You do not pay tax, but need to report. You need to provide list of dates and amounts of gifts. Example:
+When a citizen or resident alien receives a gift<sup>[1](#fn1)</sup> exceeding $100,000 from _a
+nonresident alien_ or from a group of related nonresident aliens, they are
+required to file [Form 3520][form 3520]{:target="_blank"}.
+However, no tax is due on this gift.
 
-| Date | Description | Amount |
-| --- | --- | ---: |
-| 07/04/2022 | Cash from Uncle Sam | $8,888 |
-| 12/25/2022 | Cash from Santa Claus | $880,000 |
-| Total | |                           $888,888 |
+If you are the resident, please provide a list of dates and amounts of gifts. For example:
 
-### Given gift more than the annual exclusion limit \$16,000 (2022) to file [Form 709](https://www.irs.gov/pub/irs-pdf/f709.pdf)
+| Date       | Description            | Amount      |
+| ---------- | ---------------------- | -----------:|
+| 12/24/2022 | Cash from Santa Claus  |   $80,000   |
+| 12/25/2022 | Cash from Mrs. Claus   |   $80,000   |
+| **Total**  |                        | **$160,000**|
+
+<a name="fn1">1</a> According to the IRS, a gift is defined as:
+
+> Any transfer to an individual, either directly or indirectly, where full
+> consideration (measured in money or money's worth) is not received in return.
+
+If the transaction is not a gift but rather a loan or a movement of your
+personal funds, then there's no need to file [Form 3520][form 3520]{:target="_blank"}.
+However, it's essential to maintain a detailed record
+of the funds' source and their intended use in case of inquiries from the
+["big brother"][big brother]{:target="_blank"}.
+
+### A _Resident_ Given a Gift
+
+If you give a gift of more than the annual exclusion limit of $17,000 (2023),
+you must file [Form 709][form 709]{:target="_blank"}. However, you do
+not have to pay gift tax unless your lifetime gifts exceed the lifetime gift
+tax limit of $12.92 million (2023). This is the total amount of money or
+property that you can give away during your lifetime without having to pay gift
+tax.
+
+Please provide:
 
 - Last filed form 709.
 - Donee’s name.
@@ -551,3 +576,6 @@ I hope this checklist helps you to prepare your tax documents.
 
 [closing doc]: https://files.consumerfinance.gov/f/201311_cfpb_kbyo_closing-disclosure.pdf
 [assessment]: https://www.fairfaxcounty.gov/news/sites/news/files/Assets/images/real-estate-assessment-notice-2021-large.png
+[form 3520]: https://www.irs.gov/pub/irs-pdf/f3520.pdf
+[big brother]: https://en.wikipedia.org/wiki/Big_Brother_(Nineteen_Eighty-Four)
+[form 709]: https://www.irs.gov/pub/irs-pdf/f709.pdf
