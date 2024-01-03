@@ -12,7 +12,7 @@ This simplified protocol aims to improve efficiency by only processing your docu
 </p>
 
 <ul style="list-style-type:none;">
-  <li>&rarr; [2a] You upload your tax documents according to the <a href="/cat/tax/2022/12/31/tax-check-list.html" target="_blank">checklist</a> (<mark>this is a clickable link</mark>) under {{ site.time | date: "%Y" | minus: 1 }} subfolder.
+  <li>&rarr; [2a] You upload your tax documents according to the <a href="/cat/tax/2023/12/31/tax-check-list.html" target="_blank">checklist</a> (<mark>this is a clickable link</mark>) under {{ site.time | date: "%Y" | minus: 1 }} subfolder.
   If the folder does not exist, please create it. If you forget your link, please contact us and then bookmark it.</li>
   <li>&larr; [3b] We will prepare your tax return and upload it to the same location for verification.</li>
   <br>
