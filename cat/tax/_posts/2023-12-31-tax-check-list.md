@@ -470,12 +470,12 @@ Please provide the total amount of these purchases, as well as the sales or use 
 
 | County          | Currency | 1.00 USD in 2023 |
 | :---            | :---     |    ---:          |
-| Australia       | Dollar   |   1.442          |
-| Canada          | Dollar   |   1.301          |
-| China           | Yuan     |   6.730          |
-| Hong Kong       | Dollar   |   7.831          |
-| India           | Rupee    |  78.598          |
-| Japan           | Yen      | 131.454          |
+| Australia       | Dollar   |   1.506          |
+| Canada          | Dollar   |   1.350          |
+| China           | Yuan     |   7.075          |
+| Hong Kong       | Dollar   |   7.829          |
+| India           | Rupee    |  82.572          |
+| Japan           | Yen      | 140.511          |
 
 - Do you pay income tax to a foreign country on the foreign earned income? If so, please provide a document showing taxable income and tax paid.
 - List travel history to and from the US in the format below from 01/01/2019 until now.
@@ -518,14 +518,14 @@ Please convert to U.S. dollars using the end of the calendar year exchange
 rate and report in U.S. dollars, you can use the [Currency Exchange Rates Converter](https://fiscaldata.treasury.gov/currency-exchange-rates-converter/){:target="_blank"}
 from the Treasury FiscalData. These are the selected exchange rates on 12/31/2023:
 
-| US Dollar | 1.00 USD |
-| --- | ---: |
-|Australia-Dollar|1.471|
-|Canada-Dollar|1.354|
-|China-Renminbi|6.897|
-|Hong Kong-Dollar|7.797|
-|India-Rupee|82.599|
-|Japan-Yen|131.83|
+| US Dollar       | 1.00 USD |
+| ---             | ---:     |
+|Australia-Dollar |   1.472  |
+|Canada-Dollar    |   1.326  |
+|China-Renminbi   |   7.104  |
+|Hong Kong-Dollar |   7.811  |
+|India-Rupee      |  83.162  |
+|Japan-Yen        | 141.470  |
 
 ### A _Resident_ Received a Gift From a Nonresident
 
