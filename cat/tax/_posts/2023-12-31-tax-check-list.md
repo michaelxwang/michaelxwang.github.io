@@ -15,7 +15,7 @@ tax documents in the checklist info doc.
 
 ### New in 2023
 
-- Nothing as of now.
+- VA residents only: 2023 tax rebate received ($200/$400)? Not sure, please lookup [here](https://www.individual.tax.virginia.gov/IOP/#/rebate/rebateStatus). 
 
 ### Are you a resident or nonresident?
 
@@ -392,6 +392,17 @@ Applicable for rental and self-employed only, not for employees. Information nee
 - Business mileage.
 - Personal property tax.
 - Car loan interest.
+
+### Tesla and other electric vehicle credit
+
+- Year.
+- Make.
+- Model.
+- VIN (Vehicle Identification Number).
+- Date Placed in service (date bought).
+- Sales receipt.
+- 2022 tax return for AGI verification.
+- Home charge station receipt.
 
 ### Medical Insurance Documents
     
