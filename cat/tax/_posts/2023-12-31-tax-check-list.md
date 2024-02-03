@@ -529,7 +529,7 @@ Please convert to U.S. dollars using the end of the calendar year exchange
 rate and report in U.S. dollars, you can use the [Currency Exchange Rates Converter](https://fiscaldata.treasury.gov/currency-exchange-rates-converter/){:target="_blank"}
 from the Treasury FiscalData. These are the selected exchange rates on 12/31/2023:
 
-| US Dollar       | 1.00 USD |
+| US Dollar       | 1.00 USD on 12/31/2023 |
 | ---             | ---:     |
 |Australia-Dollar |   1.472  |
 |Canada-Dollar    |   1.326  |
