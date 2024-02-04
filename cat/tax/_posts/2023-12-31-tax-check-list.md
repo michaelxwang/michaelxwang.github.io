@@ -140,7 +140,7 @@ Residents do not need to list travel outside the United States.
 
   - Form 1099-R on traditional IRA showing $6,000 distribution.
   - Year end balance at traditional IRA is zero, no form 5498 at the source is available.
-  - Contribution information: I contributed $6,000 on April 1, 2024 and allocated to the year 2023, no form 5498 at the source is available.
+  - Contribution information: I contributed $6,000 on April 1, 2024 to traditional IRA and allocated to the year 2023, no form 5498 at the source is available.
   - Rollover or coversion information: I converted $6,001 to Roth IRA, no form 5498 at the target is available.
 - Traditional IRA contribution only. Please provide:
   - The date that you contributed or you will contribute (you have until the filing deadline to make contribution).
