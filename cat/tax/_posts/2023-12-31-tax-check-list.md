@@ -131,17 +131,17 @@ Residents do not need to list travel outside the United States.
   or conversion involves two accounts, the source (where money comes
   from) and the target (where money goes to). Please provide the
   following and separate each distribution in its own folder:
-  - Distribution from the source on [Form 1099-R](https://www.irs.gov/pub/irs-pdf/f1099r.pdf).
+  - Distribution from the source in 2023 on [Form 1099-R](https://www.irs.gov/pub/irs-pdf/f1099r.pdf).
   - Year end balance at the source on [Form 5498](https://www.irs.gov/pub/irs-pdf/f5498.pdf) or using your own record.
   - Contribution information at the source on [Form 5498](https://www.irs.gov/pub/irs-pdf/f5498.pdf) if available, or provide date, amount contributed, and year allocated to based your own record.
-  - Rollover or conversion information at the target on [Form 5498](https://www.irs.gov/pub/irs-pdf/f5498.pdf) if available, or provide the target type (IRA, Roth IRA, 401K, Roth 401K, etc) based your own record.
+  - Rollover or conversion information at the target on [Form 5498](https://www.irs.gov/pub/irs-pdf/f5498.pdf) if available, or provide the target type (IRA, Roth IRA, 401K, Roth 401K, etc), amount received in 2023 based your own record.
 
   For example, if you contributed $6,000 to traditional IRA, and converted $6,001 to Roth IRA leaving $0 on the traditional IRA, the four pieces of information would be:
 
   - Form 1099-R on traditional IRA showing $6,000 distribution.
-  - Year end balance at traditional IRA is zero, no form 5498 at the source is available.
+  - My end balance at traditional IRA is zero on 12/31/2023, no form 5498 at the source is available.
   - Contribution information: I contributed $6,000 on April 1, 2024 to traditional IRA and allocated to the year 2023, no form 5498 at the source is available.
-  - Rollover or coversion information: I converted $6,001 to Roth IRA, no form 5498 at the target is available.
+  - Rollover or coversion information: I converted $6,001 to Roth IRA in 2023, no form 5498 at the target is available.
 - Traditional IRA contribution only. Please provide:
   - The date that you contributed or you will contribute (you have until the filing deadline to make contribution).
   - The amount of contribution.
