@@ -400,8 +400,8 @@ Applicable for rental and self-employed only, not for employees. Information nee
 - Model.
 - VIN (Vehicle Identification Number).
 - Date Placed in service (date bought).
-- Sales receipt.
-- 2022 tax return for AGI verification.
+- Price or sales receipt.
+- 2022 tax return (if I did not filed your return) for AGI verification.
 - Home charge station receipt.
 
 ### Medical Insurance Documents
