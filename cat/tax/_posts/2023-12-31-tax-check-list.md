@@ -549,8 +549,8 @@ If you are the resident, please provide a list of dates and amounts of gifts. Fo
 
 | Date       | Description            | Amount      |
 | ---------- | ---------------------- | -----------:|
-| 12/24/2023 | Cash from Santa Claus  |   $80,000   |
-| 12/25/2023 | Cash from Mrs. Claus   |   $80,000   |
+| 12/24/2023 | Cash                   |   $80,000   |
+| 12/25/2023 | Cash                   |   $80,000   |
 | **Total**  |                        | **$160,000**|
 
 <a name="fn1">1</a> According to the IRS, a gift is defined as:
