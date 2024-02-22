@@ -31,7 +31,7 @@ Fine prints:
 
 We determine our price not based on forms alone, but holistically on what you have, and how well your documents are organized.
 
-Statistically, our price is lower than the average market price, with most prices falling within one standard deviation of the mean, meaning that 50+% of people charge more than us, while 15.9% charge less.
+Statistically, our price is lower than the average market price, with most prices falling on one standard deviation below the mean, meaning that 84.13% of people charge more than us, while 15.87% charge less.
 
 Here is an accidental, uninvited ["testimony"](/assets/images/20220207-price-of-conscience.jpeg){:target="_blank"} that happened in our possession in which a potential client inquires a returning client on our price, and both agreed that our price is a price of conscience. 
 
