@@ -126,22 +126,33 @@ Residents do not need to list travel outside the United States.
 ### Income and income adjustment
     
 - [W-2](https://www.irs.gov/pub/irs-pdf/fw2.pdf) wage forms from ALL employers for the year.
-- Pensions, annuities, retirement plan distributions, rollovers,
-  and conversions (including "backdoor" Roth conversation). A rollover
-  or conversion involves two accounts, the source (where money comes
-  from) and the target (where money goes to). Please provide the
-  following and separate each distribution in its own folder:
-  - Distribution from the source in 2023 on [Form 1099-R](https://www.irs.gov/pub/irs-pdf/f1099r.pdf).
-  - Year end balance at the source on [Form 5498](https://www.irs.gov/pub/irs-pdf/f5498.pdf) or using your own record.
-  - Contribution information at the source on [Form 5498](https://www.irs.gov/pub/irs-pdf/f5498.pdf) if available, or provide date, amount contributed, and year allocated to based your own record.
-  - Rollover or conversion information at the target on [Form 5498](https://www.irs.gov/pub/irs-pdf/f5498.pdf) if available, or provide the target type (IRA, Roth IRA, 401K, Roth 401K, etc), amount received in 2023 based your own record.
+- Retirement distribution. When dealing with pensions, annuities, distributions
+  from retirement plans, rollovers, and conversions (including "backdoor" Roth
+  conversions), you're essentially moving money between two accounts: the account
+  the money is coming from (source) and the account the money is going to
+  (target). I need the following 4 pieces of information. For each transaction, please organize the information into separate
+  folders and include the following details:
 
-  For example, if you contributed $6,000 to traditional IRA, and converted $6,001 to Roth IRA leaving $0 on the traditional IRA, the four pieces of information would be:
+  - Source of the Money: If possible, provide the information from Form 5498 for
+    the source account, showing contributions. If you don't have this form, note
+    the date you made the contribution, how much you contributed, and the year it
+    was for, based on your records.
+  - Amount Withdrawn: Provide information on distributions made in 2023 from
+    the source account, using Form 1099-R issued for the year.
+  - Remaining Balance in the Source Account: Indicate the year-end balance in
+    the source account, either from Form 5498 or your records.
+  - Destination of the Money: If you have Form 5498 for the target account,
+    include it to show rollovers or conversions. If not, specify the type of
+    account the money was moved to (IRA, Roth IRA, 401K, Roth 401K, etc.), along
+    with the amount received in 2023, based on your records.
 
-  - Form 1099-R on traditional IRA showing $6,000 distribution.
-  - My end balance at traditional IRA is zero on 12/31/2023, no form 5498 at the source is available.
-  - Contribution information: I contributed $6,000 on April 1, 2024 to traditional IRA and allocated to the year 2023, no form 5498 at the source is available.
-  - Rollover or coversion information: I converted $6,001 to Roth IRA in 2023, no form 5498 at the target is available.
+  For example:
+
+  - Contribution: I added $6,000 to a traditional IRA on April 1, 2024, for the 2023 tax year. I don't have Form 5498 from the source.
+  - Distribution: I moved $6,001.23 from the traditional IRA, as detailed on Form 1099-R.
+  - Remaining Balance: By December 31, 2023, my traditional IRA had a $0 balance, and I don't have Form 5498 for this.
+  - Destination: The $6,001.23 was transferred to a Roth IRA in 2023, but I don't have Form 5498 for the target account.
+
 - Traditional IRA contribution only. Please provide:
   - The date that you contributed or you will contribute (you have until the filing deadline to make contribution).
   - The amount of contribution.
