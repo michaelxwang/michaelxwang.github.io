@@ -89,25 +89,20 @@ such as PayPal and Venmo.
    
 ### Last year's taxes if itemized and other carryover items (new client only)
 
-- Please provide last year's return (federal and state)
+- Please provide last year's return (federal and state).
 
   _OR_
 
-  answer the following questions (please note the _or_ condition, i.e. if you provide last year's return then you do not need to answer
-the following questions, as I can read myself and I prefer that way. 
+- Four transcripts (Return, Record, Account, Wage and Income) from your account at the [IRS](https://irs.gov){:target="_blank"}.
 
-- If I did not prepare your return and any of the taxpayers _itemized_
-last year (nonresidents not from India have to itemize), please
-list tax owed and paid to, or refund received from EACH of the
-states in the format below:
+  _AND_
+
+- Taxes owed and paid to or refunds received from states, for example:
 
   - VA: owed and paid $500
   - DC: refund of $300
 
   The information is in your last year's return, the 1099-G the state sent out, or your bank record.
-
-- Stock unallowed loss, investment interest expense, continued depreciation, etc.
-- Federal and state AGI, and tax liability. 
 
 ### Location info
 
