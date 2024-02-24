@@ -7,10 +7,20 @@ categories:
 
 <img src="/assets/images/20210105-basic-backdoor-Roth-IRA.jpg">
 
-We hold these truths to be self-evident that
+We hold these truths to be self-evident: everyone can contribute to a
+traditional IRA, even Bill Gates, if he likes. It is merely a matter of how
+much one can deduct from their income - zero, partial, or the full amount.
 
-- Everyone can contribute to traditional IRA, even Bill Gates if he likes, it is just how much one can deduct from her income, zero, partial, or the full amount.
-- Everyone can put money to ROTH IRA, even Bill Gates if he likes, it is just a matter that it is done through "front door" (direct contribution) or "back door" (conversion).
+On the other hand, contributions to the Roth IRA are limited by income with phaseouts:
+
+- $218,000 (Y2023) for Married Filing Jointly, Qualifying Widow(er) with Dependent Child
+- $138,000 (Y2023) for Single, Head of Household
+- $000,000 (Y2023) for Married Filing Separately (living with spouse)
+
+However, everyone can convert to a Roth IRA from a traditional IRA, even Bill
+Gates, if he likes. It is just a matter of whether it is done through the
+"front door" (direct contribution) or the "back door" (conversion). You can
+also go through the back door while the front door is open to you.
 
 How do you contribute to ROTH IRA via "back door"? Here is the run book:
 
