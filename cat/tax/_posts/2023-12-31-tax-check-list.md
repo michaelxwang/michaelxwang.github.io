@@ -401,6 +401,8 @@ Applicable for rental and self-employed only, not for employees. Information nee
 
 ### Tesla and other electric vehicle credit
 
+If your vehicle is [qualified](https://fueleconomy.gov/feg/tax2023.shtml){:target="_blank"}, please provide:
+
 - Year.
 - Make.
 - Model.
@@ -409,6 +411,12 @@ Applicable for rental and self-employed only, not for employees. Information nee
 - Price or sales receipt.
 - 2022 tax return (if I did not filed your return) for AGI verification.
 - Home charge station receipt.
+
+In addition, your modified adjusted gross income (AGI) may not exceed:
+
+- $300,000 for married couples filing jointly.
+- $225,000 for heads of households.
+- $150,000 for all other filers.
 
 ### Medical Insurance Documents
     
