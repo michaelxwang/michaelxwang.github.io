@@ -338,7 +338,7 @@ income. Healthy, high-income individuals should use pre-tax HSA or MFS.
 
 ### Child and Dependent Care Expenses
     
-- Child name
+  - Child name
   - Name of the provider.
   - Address of the provider.
   - Tax ID or SSN of the provider.
