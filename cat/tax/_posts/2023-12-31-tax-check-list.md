@@ -5,17 +5,37 @@ categories:
 - tax
 ---
 
-Checklist ['tʃeklist]: n. a list of items (names or tasks etc.) to be checked or consulted.
+**Checklist ['tʃeklist]**: n. a list of items (names or tasks etc.) to be checked or consulted.
 
-You do not need to answer every question but just provide tax documents applicable to you,
-additionally provide basic info not covered by tax documents. You can create a
-Google doc after you enter your link by clicking "+ New", or create your own
-simple word or text document and upload it along with tax documents. Please do not imbed
-tax documents in the checklist info doc.
+- You do not need to answer questions that not applicable to you.
+- You do not need to answer questions if already covered by tax documents.
+- Please do highlight information you do not want me to miss.
+- Please do indicate your spreadsheet contains multiple tabs, example: check_list_info (multiple tabs).xls.
+- Please try to avoid but do indicate when a file contains multiple facts, example: all_1099_forms (multiple docs).pdf.
+- Please do not imbed tax documents in the checklist info doc.
+- If you have a passworded doc, please either to follow the instructions [here](http://localhost:4000/cat/prose/2023/04/29/rm-passwd.html){:target="_blank"}
+to remove the password, or put the password in the file. Google drive already provides security.
+- Please do not use file name start with a dash (_) which is my indication that the file has been read and processed (LOL).
 
-### New in 2023
+You can create a Google doc or Google sheets after you enter your link by clicking "+ New", or create your own
+simple word or text document and upload it along with tax documents.
+
+### New in 2023.
 
 - VA residents only: 2023 tax rebate received ($200/$400)? Not sure, please lookup [here](https://www.individual.tax.virginia.gov/IOP/#/rebate/rebateStatus). 
+
+### Frequently forgotten items.
+
+These items can help you if provided or hurt you if omitted. Highlights here, detailed in the text body below.
+
+- Car taxes (CA, MA, VA, WA).
+- Mortgage principal paid for loans more than 750K.
+- E*Trade supplemental info.
+- State 529 for your children (3 pieces of info).
+- Dependent care expenses (5 pieces of info).
+- "Backdoor" Roth IRA conversion (4 pieces of info).
+- Closing doc when you buy, sell, or refinance a home.
+- F-1/OPT student visa history.
 
 ### Are you a resident or nonresident?
 
@@ -64,13 +84,15 @@ and for EACH dependent:
 -  Social Security Numbers (or Tax IDs), see ITIN in SPECIAL SITUATION section if no SSN
 -  Relationship (the dependent is your Son/Daughter/Dad/Mom/...?)
 
-### Bank information for tax refund or payment only (I do _not_ use it for the filing fee, for new clients or returning clients with changed info)
+### Bank information for tax refund or payment only.
+
+I do _not_ use it for the filing fee or any other purposes, for new clients or returning clients with changed info.
     
 - Bank name
 - Bank routing number (as appeared on your checkbook if you use a checking account)
 - Your account number (as appeared on your checkbook if you use a checking account)
 - Your account type (Checking or Savings)
-- Account holder(s) /* If filing separately, the spouse who files for the return must have their name on the account. */
+- Account holder(s)
 
 ### Virtual currency question
 
@@ -122,8 +144,8 @@ Residents do not need to list travel outside the United States.
     
 - [W-2](https://www.irs.gov/pub/irs-pdf/fw2.pdf) wage forms from ALL employers for the year.
 - Retirement distribution. When dealing with pensions, annuities, distributions
-  from retirement plans, rollovers, and conversions (including "backdoor" Roth
-  conversions), you're essentially moving money between two accounts: the account
+  from retirement plans, rollovers, and conversions (including **"backdoor" Roth
+  conversions**), you're essentially moving money between two accounts: the account
   the money is coming from (source) and the account the money is going to
   (target). I need the following 4 pieces of information. For each transaction, please organize the information into separate
   folders and include the following details:
@@ -179,9 +201,9 @@ If you have HSA (Health Savings Account), please provide:
 - Dividend income statements ([1099-DIV](https://www.irs.gov/pub/irs-pdf/f1099div.pdf)).
 - Proceeds from stock, mutual fund, and bond sale ([1099-B](https://www.irs.gov/pub/irs-pdf/f1099b.pdf)).
 - Virtual currencies ([faq](https://www.irs.gov/individuals/international-taxpayers/frequently-asked-questions-on-virtual-currency-transactions)).
-- RSU (Restricted Stock Unit) sale to cover: [STOCK PLAN TRANSACTIONS SUPPLEMENTAL INFO](/assets/images/20190103-tax-RSU-ESPP.pdf) from a bank or similar document showing income added to W2.
-- ESPP (Employee Stock Purchase Plan) sale: [STOCK PLAN TRANSACTIONS SUPPLEMENTAL INFO](/assets/images/20190103-tax-RSU-ESPP.pdf) from a bank (or similar document), or Form 3922 from employer showing income added to W2.
-- ISO (Incentive Stock Option): [STOCK PLAN TRANSACTIONS SUPPLEMENTAL INFO](/assets/images/20190103-tax-RSU-ESPP.pdf) from a bank, or Form 3921 from employer showing income added to W2.
+- RSU (Restricted Stock Unit) sale to cover: [**STOCK PLAN TRANSACTIONS SUPPLEMENTAL INFO**](/assets/images/20190103-tax-RSU-ESPP.pdf) from a bank or similar document showing income added to W2.
+- ESPP (Employee Stock Purchase Plan) sale: [**STOCK PLAN TRANSACTIONS SUPPLEMENTAL INFO**](/assets/images/20190103-tax-RSU-ESPP.pdf) from a bank (or similar document), or **Form 3922** from employer showing income added to W2.
+- ISO (Incentive Stock Option): [**STOCK PLAN TRANSACTIONS SUPPLEMENTAL INFO**](/assets/images/20190103-tax-RSU-ESPP.pdf) from a bank, or **Form 3921** from employer showing income added to W2.
 - Early withdrawal penalties on CDs and other time deposits.
 
 ### Landlord (A person who owns a home and rents it out to others for a fee)
@@ -293,11 +315,11 @@ deductible items such as donations, medical expenses, and state tax paid.
 
 The itemized deduction items: 
 
-- Mortgage and home equity interests [Form 1098](https://www.irs.gov/pub/irs-pdf/f1098.pdf). If the borrowed amount exceeds 750K, please provide the principal amount paid for the year, or equivalently the ending principal balance if not on the form 1098 already (the beginning balance on the form - the principal amount paid = the ending principal balance). For mortgage loans with uneven payments, please provide the average balance by adding the outstanding balance of a debt on each month during the taxable year that the debt is secured by a qualified residence, and dividing the sum by the number of months during the taxable year that the residence is a qualified residence, per [Reg §1.163-10T](https://www.law.cornell.edu/cfr/text/26/1.163-10T). 
-- [Closing document][closing doc] if you bought or refinanced your home in current year.
+- Mortgage and home equity interests [Form 1098](https://www.irs.gov/pub/irs-pdf/f1098.pdf). If the borrowed amount exceeds 750K, please provide the **principal amount paid** for the year, or equivalently the ending principal balance if not on the form 1098 already (the beginning balance on the form - the principal amount paid = the ending principal balance). For mortgage loans with uneven payments, please provide the average balance by adding the outstanding balance of a debt on each month during the taxable year that the debt is secured by a qualified residence, and dividing the sum by the number of months during the taxable year that the residence is a qualified residence, per [Reg §1.163-10T](https://www.law.cornell.edu/cfr/text/26/1.163-10T). 
+- [**Closing document**][closing doc] if you bought or refinanced your home in current year.
 - Real Estate Tax, if it is not on [Form 1098](https://www.irs.gov/pub/irs-pdf/f1098.pdf), you can get your county's tax payment history with amounts and dates paid, here is [an example](/assets/images/20230606-ppt.jpg){:target="_blank"} from [Santa Clara county](https://payments.sccgov.org/propertytax/Secured/Address){:target="_blank"} in California. If you do not own the property for the full year, please upload the [closing document][closing doc] as there will be a county tax paid on closing.
 - Energy property based on manufacturer's certification document.
-- Personal Property Tax (car tax).
+- **Personal Property Tax (car tax).**
   - CA: The vehicle [license fee](https://lao.ca.gov/1998/061798_vlf_primer/061798_vlf.html) is deductible, use [this page](https://www.dmv.ca.gov/wasapp/FeeCalculatorWeb/vlfForm.do) to find the vehicle license fee.
   - MA: Vehicle excise tax.
   - VA: Car tax is deductible. If your car is in Fairfax county, use [this page](https://www.fairfaxcounty.gov/dta_mobileepay/BillQuest.aspx) to get your car tax. In Fairfax city, use [this page](https://eservices.fairfaxva.gov/taxes/default.aspx).
@@ -336,9 +358,9 @@ income. Healthy, high-income individuals should use pre-tax HSA or MFS.
   - CA  
   - MA
 
-### Child and Dependent Care Expenses
+### **Child and Dependent Care Expenses**
     
-  - Child name
+  - Child name for whom the care was given.
   - Name of the provider.
   - Address of the provider.
   - Tax ID or SSN of the provider.
@@ -439,7 +461,10 @@ In addition, your modified adjusted gross income (AGI) may not exceed:
 
 ### State-specific deductions
 
-- All states: 529 college savings plan.
+- All states: **529 college savings plan**. Please list:
+  - Account number.
+  - Child's name.
+  - Amount countributed in 2023.
 - MA: rent paid: the total amount for the year, name, and address of the landlord.
 - MA: commuter expense (MBTA, E-ZPass).
 - NJ: rent or property tax paid.
