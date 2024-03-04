@@ -28,7 +28,7 @@ simple word or text document and upload it along with tax documents.
 
 These items can help you if provided or hurt you if omitted. Highlights here, detailed in the text body below.
 
-- Car taxes (CA, MA, VA, WA).
+- Car tax (CA, MA, VA, WA).
 - Mortgage principal paid for loans more than 750K.
 - E*Trade supplemental info.
 - State 529 for your children (3 pieces of info).
@@ -36,7 +36,7 @@ These items can help you if provided or hurt you if omitted. Highlights here, de
 - "Backdoor" Roth IRA conversion (4 pieces of info).
 - Closing doc when you buy, sell, or refinance a home.
 - F-1/OPT student visa history.
-- Rents paid (MA, NJ only).
+- Rent paid in the year (MA, NJ only).
 
 ### Are you a resident or nonresident?
 
@@ -466,10 +466,10 @@ In addition, your modified adjusted gross income (AGI) may not exceed:
   - Account number.
   - Child's name.
   - Amount countributed in 2023.
-- MA: rent paid:
+- MA: rent paid.
   - landlord's name
   - landlord's address
-  - total rents paid IN the year.
+  - total rent paid IN the year.
 - MA: commuter expense (MBTA, E-ZPass).
 - NJ: rent or property tax paid.
 - VA: Long-term insurance premium is a state deduction.
