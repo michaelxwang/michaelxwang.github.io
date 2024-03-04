@@ -36,6 +36,7 @@ These items can help you if provided or hurt you if omitted. Highlights here, de
 - "Backdoor" Roth IRA conversion (4 pieces of info).
 - Closing doc when you buy, sell, or refinance a home.
 - F-1/OPT student visa history.
+- Rents paid (MA, NJ only).
 
 ### Are you a resident or nonresident?
 
@@ -465,7 +466,10 @@ In addition, your modified adjusted gross income (AGI) may not exceed:
   - Account number.
   - Child's name.
   - Amount countributed in 2023.
-- MA: rent paid: the total amount for the year, name, and address of the landlord.
+- MA: rent paid:
+  - landlord's name
+  - landlord's address
+  - total rents paid IN the year.
 - MA: commuter expense (MBTA, E-ZPass).
 - NJ: rent or property tax paid.
 - VA: Long-term insurance premium is a state deduction.
