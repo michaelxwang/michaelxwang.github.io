@@ -316,7 +316,16 @@ deductible items such as donations, medical expenses, and state tax paid.
 
 The itemized deduction items: 
 
-- Mortgage and home equity interests [Form 1098](https://www.irs.gov/pub/irs-pdf/f1098.pdf). If the borrowed amount exceeds 750K, please provide the **principal amount paid** for the year, or equivalently the ending principal balance if not on the form 1098 already (the beginning balance on the form - the principal amount paid = the ending principal balance). For mortgage loans with uneven payments, please provide the average balance by adding the outstanding balance of a debt on each month during the taxable year that the debt is secured by a qualified residence, and dividing the sum by the number of months during the taxable year that the residence is a qualified residence, per [Reg §1.163-10T](https://www.law.cornell.edu/cfr/text/26/1.163-10T). 
+- Mortgage and home equity interests [Form 1098](https://www.irs.gov/pub/irs-pdf/f1098.pdf).
+- (The **principal amount paid** for the year _OR_ equivalently the ending principal balance on 12/31/2023 _OR_ the average balance) _IF_ the borrowed amount exceeds 750K. The information can be obtained in one of the following ways:
+  - [Form 1098](https://www.irs.gov/pub/irs-pdf/f1098.pdf).
+  - Mortgage statements of December 2023 and January 2024.
+  - Use the [mortgage calculator](https://docs.google.com/spreadsheets/d/1siAAS4TWKV-T4j9ARfrzN4CsgjBA2v-XzXNCWAJiFws){:target="_blank"}.
+  - For mortgage loans with uneven payments, please provide the average balance
+    by adding the outstanding balance of a debt on each month during the
+    taxable year that the debt is secured by a qualified residence, and dividing
+    the sum by the number of months during the taxable year that the residence is a
+    qualified residence, per [Reg §1.163-10T](https://www.law.cornell.edu/cfr/text/26/1.163-10T). 
 - [**Closing document**][closing doc] if you bought or refinanced your home in current year.
 - Real Estate Tax, if it is not on [Form 1098](https://www.irs.gov/pub/irs-pdf/f1098.pdf), you can get your county's tax payment history with amounts and dates paid, here is [an example](/assets/images/20230606-ppt.jpg){:target="_blank"} from [Santa Clara county](https://payments.sccgov.org/propertytax/Secured/Address){:target="_blank"} in California. If you do not own the property for the full year, please upload the [closing document][closing doc] as there will be a county tax paid on closing.
 - Energy property based on manufacturer's certification document.
