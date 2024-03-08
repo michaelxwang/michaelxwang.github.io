@@ -5,71 +5,63 @@ categories:
 - tax
 ---
 
-If you have Incentive Stock Options (ISO), Employee Stock Purchase Plan (ESPP),
-and Restricted Stock Unit (RSU), then most likely than not, you have overpaid
-your taxes. Among the tax returns that I have reviewed, many returns involving
-ISO, ESPP, or RSU were not done correctly.
+If you participate in an Incentive Stock Option (ISO), Employee Stock Purchase
+Plan (ESPP), or have Restricted Stock Units (RSUs), there's a significant
+chance you may have overpaid on your taxes. From my experience reviewing tax
+returns, many that involve ISOs, ESPPs, or RSUs were not correctly filed.
 
-If you have ISO, ESPP, or RSU, you should read this because effective
-January 1st 2014, the IRS changed how cost basis is reported on your 1099-B
-tax form sent to you by your broker. You should make adjustment in order not
-to pay your tax twice.
+This is crucial information if you hold ISOs, ESPPs, or RSUs, especially since
+the IRS made significant changes to how the cost basis is reported on your Form
+1099-B. This change took effect on January 1, 2014. It's essential to make the
+necessary adjustments to avoid double taxation.
 
-In order to explain the problems, we need to define some terms used in the discussion.
+To clarify these issues, let's define some terms commonly used in this discussion.
 
-The following are the common example of stock options and the categories they belong:
+Statutory and non-statutory plans represent two principal categories of equity awards granted to employees.
 
-- Statutory stock option
-  - Incentive Stock Options (ISO)
-  - Employee Stock Purchase Plan (ESPP)
-- Non-statutory stock option
-  - Restricted Stock Unit (RSU)
+Statutory Plans: These comply with IRS criteria to qualify for special tax treatment.
+Non-Statutory Plans: Also known as "non-qualified stock options" (NSOs or NQSOs), these do not meet the IRS criteria for special tax treatment and are subject to different tax regulations.
 
-When you sell the stock options, it can be either qualifying disposition or
-disqualifying disposition depending on the holding period:
+ISOs are an example of statutory plans. RSUs, however, are non-statutory plans.
+ESPPs can be offered under either plan.
 
-```
-IF sale_date - exercise_date > 1 year AND
-   sale_date - offer_date    > 2 years
-THEN
-   It is "qualifying disposition"
-ELSE
-   It is "disqualifying disposition"
-```
+When you sell stocks under statutory plans, the sale can be classified
+as either a qualifying disposition or a disqualifying disposition, based on the
+holding period:
 
-Long term and short term capital gain have their normal definition:
+- Qualifying Disposition:
+  - If sale_date - exercise_date > 1 year AND
+  - sale_date - grant_date > 2 years
+- Disqualifying Disposition:
+  - If the above conditions are not met.
 
-```
-IF holding period > 1 year
-THEN
-   It is long term capital gain and
-   you pay tax at reduced rate
-ELSE
-   It is short term capital gain and
-   you pay tax as "ordinary income" at the marginal rate
-```
+The terms "long term" and "short term" capital gains retain their standard definitions.
 
-So you could have a disqualifying disposition but long term capital gain.
+- Long Term Capital Gain:
+  - If the holding period > 1 year, taxed at a reduced rate.
+- Short Term Capital Gain:
+  - If the holding period ≤ 1 year, taxed as ordinary income at the marginal rate.
 
-Ordinary income: Income subject to income tax only, but not
-FICA tax (social security tax and medicare tax). Example:
-bank interest, capital gain.
+It's possible to have a disqualifying disposition yet still qualify for long term capital gains.
 
-Compensation: income not only subject to income tax, but also
-FICA tax. Example, your wage.
+- Ordinary Income: Income that is subject to income tax but not to FICA taxes (Social Security and Medicare taxes). Examples include bank interest and capital gains.
+- Compensation: Income that is subject to both income tax and FICA taxes. An example of this would be your wages.
+- Grant or offer: The employer's promise to grant you stock options.
+- Vest or Exercise: The point at which the stock options or RSUs become yours.
 
-Offer: the employer promised to give you stocks.
-
-Grant, exercise: the stocks became yours.
+Let us discuss some common forms of equity awards.
 
 #### ISO
 
 Only pay tax when sold.
 
-Qualifying disposition: only pays tax as long term capital gain (or loss) based on
-sale price and the option purchase price, not as compensation.
+- Qualifying disposition: Taxes are levied only on the long-term capital gain (or
+loss), which is the difference between the sale price and the option purchase
+price, and not as compensation.
 
-Disqualifying disposition: pay tax as ordinary income up to your gain.
+- Disqualifying disposition: You pay ordinary income tax on the "bargain
+element", the spread betwen market price and purchase price, but only up to the actual gain realized if the stock is
+sold for more than the option purchase price.
 
 > Example 1:
 > 
@@ -95,15 +87,18 @@ up paying tax twice.
 
 #### ESPP
 
-Same as ISO, you pay tax only when the stocks are sold.
+Same as ISO, you pay tax only when the stocks are sold for ESPP offered under a statutory plan.
 
--- Qualifying disposition realizes ordinary income up to the gain.
+- Qualifying Disposition: This occurs when the stock is sold at least two years
+  after the grant date and more than one year after the stock was purchased.
+  The tax treatment for a qualifying disposition involves taxing part of the gain
+  as ordinary income and potentially part as capital gain.
 
 > Example:
 > 
-> - FMV at exercise = 100
+> - FMV (Fair Market Value) at grant = 100
 > - Sale price: 90
-> - Purchase price: 85
+> - Purchase price (with discount, as if purchased at grant time): 85
  
 Ordinary income is $90 - $85 = $5 (up to the gain), and the
 capital gain is $0.
@@ -112,8 +107,8 @@ The broker will report that you have a $5 gain ($90 - $85), you
 should increase your basis by $5 to derive $0 gain because the $5
 has been reported as regular income on your W-2.
 
--- Disqualifying disposition must realize ordinary income of bargain element
-(FMV at grant minus purchase price) at year of sale even there is a loss.
+- Disqualifying disposition must realize ordinary income of bargain element
+(FMV at exercise minus purchase price) at year of sale even there is a loss.
 The cost basis is the purchase price plus the bargain element, ie, the
 FMV value.
 
@@ -140,7 +135,7 @@ The following psudo code can help to visualize the logic:
 
 ```
 IF qualified
-  IF Sale price >= Purchase price
+  IF Sale price > Purchase price
     Ordinary income = Sale price - Purchase price
   ELSE
     Ordinary income = 0
