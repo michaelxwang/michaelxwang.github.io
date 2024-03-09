@@ -24,7 +24,7 @@ simple word or text document and upload it along with tax documents.
 
 - VA residents only: 2023 tax rebate received ($200/$400)? Not sure, please lookup [here](https://www.individual.tax.virginia.gov/IOP/#/rebate/rebateStatus). 
 
-### Frequently forgotten items.
+### Frequently Forgotten Items.
 
 These items can help you if provided or hurt you if omitted. Highlights here, detailed in the text body below.
 
@@ -40,7 +40,7 @@ These items can help you if provided or hurt you if omitted. Highlights here, de
 - F-1/OPT student visa history.
 - Rent paid in the year (MA, NJ only).
 
-### Are you a resident or nonresident?
+### Are You a US Citizen, Resident Alien, or Nonresident Alien?
 
 - Were you (or your spouse if married) a citizen, a permanent resident (green card holder), or a professional worker with an H-1B, L1 visa for the entire year of 2023?
 - If you have not been a resident for the current year and the prior year, please list your (and your spouse's if married) *complete* visa (status) history in the format shown below:
@@ -54,7 +54,7 @@ and be sure to provide information in the _Nonresident_ section at the end of th
 
 NB, Special benefit for married couples: if one spouse is a resident at the end of the year 2023, you and your nonresident spouse can elect to file jointly as residents.
 
-### What is your filing status?
+### What is Your Filing Status?
 
 - Single.
 - Married Filing jointly (MFJ).
@@ -63,7 +63,7 @@ NB, Special benefit for married couples: if one spouse is a resident at the end 
 - Qualifying surviving spouse (QSS), formerly known as Qualified Widow(er) (QW).
 - Not sure, please describe your situation.
 
-### Personal Information (new client or changed info):
+### Personal Information (New Client or Changed Info):
 
 Please provide the following info for the taxpayer (and spouse if filing jointly):
 
@@ -88,7 +88,7 @@ and for EACH dependent (your spouse is not your dependent):
 -  Social Security Numbers or Individual Tax Identification Number, see ITIN in SPECIAL SITUATION section if you do not have either.
 -  Relationship (the dependent is your Son, Daughter, Dad, Mom, or ...).
 
-### Bank information for tax refund or payment only.
+### Bank Information for Tax Refund or Payment Only.
 
 I do _not_ use it for the filing fee or any other purposes, for new clients or returning clients with changed info.
     
@@ -98,7 +98,7 @@ I do _not_ use it for the filing fee or any other purposes, for new clients or r
 - Your account type (Checking or Savings).
 - Account holder(s).
 
-### Virtual currency question.
+### Virtual Currency Question.
 
 At any time during 2023, did you: (a) receive (as a reward, award, or payment for property or services); or (b) sell,
 exchange, gift, or otherwise dispose of a digital asset (or a financial interest in a digital asset) (Yes/No)?
@@ -113,7 +113,7 @@ U.S. or other real currency, including
 through the use of electronic platforms
 such as PayPal and Venmo.
    
-### Last year's tax returns (for new client only).
+### Last Year's Tax Returns (for New Client Only).
 
 - Please provide last year's return (federal and state).
 
@@ -130,7 +130,7 @@ such as PayPal and Venmo.
 
   The information is in your last year's return, the 1099-G the state sent out, or your bank record).
 
-### Location info.
+### Location Info.
 
 Please list where you were for the entire year in a format as shown
 below, accurate to the state or country. Vacation within the US
@@ -144,7 +144,7 @@ Website](https://i94.cbp.dhs.gov/I94/#/history-search).
 
 Residents do not need to list travel outside the United States.
 
-### Income and income adjustment.
+### Income and Income Adjustment.
     
 - [W-2](https://www.irs.gov/pub/irs-pdf/fw2.pdf) wage forms from ALL employers for the year.
 - Retirement distribution. When dealing with pensions, annuities, distributions
@@ -215,32 +215,10 @@ If you have HSA (Health Savings Account), please provide:
 - Early withdrawal penalties on CDs and other time deposits.
 - E*Trade [**Stock Plan Transactions Supplemental Info**](/assets/images/20190103-tax-RSU-ESPP.pdf).
 
-### Landlord (A person who owns a home and rents it out to others for a fee).
+### Landlord (Property Owner Renting Out Space) or Rental Business.
 
-It would be easier to copy the Google sheets with rental expense template and fill it in.
-The following are two ways to copy the Google sheets:
-
-1. Copy file to drive
-   - Click <a href="https://docs.google.com/spreadsheets/d/14VRuVSp_fDzMVPhopsCcKeWWTVUsdEayrBK4Mx2fJ3M" target="_blank">the spreadsheet</a>.
-   - Click File of the Google sheets (not the browser). If it is hidden, click the down arrow (v) to bring it up.
-   - Select "Make a copy".
-   - Remove "Copy of " from "Name".
-   - Select "Folder" to be our shared folder. Click "<" and choose "Shared with me". 
-2. Copy tab to sheets
-   - Go to you shared folder.
-   - Click "+ New".
-   - Click "Google Sheets".
-   - Click "CREATE AND SHARE".
-   - Replace the name "Untitled spreadsheet" with "rental-expense-v20220725" (which forces the spreadsheet to save).
-   - Copy the URL like "https://docs.google.com/spreadsheets/d/...".
-   - Right click [the spreadsheet](https://docs.google.com/spreadsheets/d/14VRuVSp_fDzMVPhopsCcKeWWTVUsdEayrBK4Mx2fJ3M) and select "Open Link in New Tab".
-   - Click the down arrow in "Sample" tab, select "Copy to" and "New spreadsheet".
-   - Paste the URL ito "Search in Drive or Paste URL" field.
-   - Select the Spreadsheet.
-   - Click "Insert".
-
-On behalf of Google, I am sorry for the convoluted way of copying a file. If you have difficulty, please let me know and I will drop the file to
-your folder. Please avoid to download the Google sheets or to copy and paste because it will change the format and reduce the functionality. 
+Please use <a href="https://docs.google.com/spreadsheets/d/14VRuVSp_fDzMVPhopsCcKeWWTVUsdEayrBK4Mx2fJ3M" target="_blank">the rental Google sheets</a>
+to organize your expenses. If you want to do it the hard way (this feature will be deprecated), here is a list:
 
 - Rent received.
 - Advertising.
@@ -269,8 +247,9 @@ your folder. Please avoid to download the Google sheets or to copy and paste bec
 - FIRST-YEAR RENTAL: [Assessment][assessment] near the rental starting date from the county website.
 - MIXED (RENTAL AND PRIMARY RESIDENT TOGETHER): Rental ratio.
 - PARTIAL YEAR AND MIXED: Specify expenses for what time period, and for what space (entire house or the rental rooms).
+- <a href="https://docs.google.com/spreadsheets/d/14VRuVSp_fDzMVPhopsCcKeWWTVUsdEayrBK4Mx2fJ3M" target="_blank">Auto expenses for rental business</a>.
 
-### Sale of a primary home
+### Sale of a Primary Home
 
 The IRS allows for a tax exclusion of up to $250,000 ($500,000 for
 married couples filing jointly) of capital gains from the sale of
@@ -294,7 +273,7 @@ The following documents are needed to give us the rough estimate of the capital 
 If is over the exclusion amount, then we will need the major improvements (that increase the home value) done during the years
 to bring down the capital gain. 
 
-### Homeowner and itemizing items
+### Homeowner and Itemizing Items
 
 Provide the information when:
 
@@ -365,7 +344,7 @@ income. Healthy, high-income individuals should use pre-tax HSA or MFS.
     - $4,520 for ages between 61 to 70
     - $5,640 for ages 71 or over
 
-### Other separately accounted expenses
+### Other Separately Accounted Expenses.
     
 - Adoption expenses.
 - Alimony paid.
@@ -388,22 +367,16 @@ Please create a list by child and by care provider, use Google sheet if necessar
 
 /* Tuition for education does not count as care, but care with incidental education element does. For details, please click <a href="https://www.irs.gov/pub/irs-pdf/p503.pdf" target="_blank">IRS Publication 503</a>. */
 
-### Education expenses of you or your dependents
+### Education Expenses of You or Your Dependents
     
 - Tuition and Education fees: [1098-T](https://www.irs.gov/pub/irs-pdf/f1098t.pdf), if box 1 (payments received) is empty also student account statement or bank transfer showing the amount paid).
 - Student Loan interest: [1098-E](https://www.irs.gov/pub/irs-pdf/f1098e.pdf).
 - [Educator Expense Deduction](https://www.irs.gov/taxtopics/tc458) up to $250 for K-12 teachers. 
     
-### Self Employed Business
+### Self Employed Business (Sole Proprietorship).
 
-Using the Google Sheets template for self-employment can be a helpful way to guide you through the process.
-To make a copy of the template, follow these steps:
-
-- Click <a href="https://docs.google.com/spreadsheets/d/1ADLGlpD-Q_SvpOeqirCvc-TQMCaABDbSA0XTrXDfBo0" target="_blank">the spreadsheet</a>
-- Click File of the Google sheets (not the browser). If it is hidden, click the down arrow (v) to bring it up.
-- Select "Make a copy".
-- Remove "Copy of " from "Name".
-- Select "Folder" to be our shared folder. Click "<" and choose "Shared with me". 
+Please use <a href="https://docs.google.com/spreadsheets/d/1ADLGlpD-Q_SvpOeqirCvc-TQMCaABDbSA0XTrXDfBo0" target="_blank">the self-employed business expense Google sheet</a>
+guide you through the process.
 
 If you provide the business income and expenses manually, here is the list:
     
@@ -415,7 +388,7 @@ If you provide the business income and expenses manually, here is the list:
 - Entertainment and meals.
 - Job hunting expenses.
 - Lodging.
-- Home office.
+- <a href="https://docs.google.com/spreadsheets/d/1ADLGlpD-Q_SvpOeqirCvc-TQMCaABDbSA0XTrXDfBo0" target="_blank">Home office</a>.
 - Professional dues.
 - Union dues.
 - Publications.
@@ -428,18 +401,7 @@ If you provide the business income and expenses manually, here is the list:
 - Uniform and cost of cleaning.
 - Internet expenses if for business use.
 
-### Auto expenses for business use
-
-Applicable for rental and self-employed only, not for employees. Information needed to claim by mileage (Most people use):
-
-- Description of the vehicle.
-- Date placed in service.
-- Total mileage.
-- Business mileage.
-- Personal property tax.
-- Car loan interest.
-
-### Tesla and other electric vehicle credit
+### Tesla and Other Electric Vehicle Credit
 
 If your vehicle is [qualified](https://fueleconomy.gov/feg/tax2023.shtml){:target="_blank"}, please provide:
 
@@ -466,7 +428,7 @@ In addition, your modified adjusted gross income (AGI) may not exceed:
   - CA
 - [1099-HC (MA Health Care Coverage)](https://www.cityofboston.gov/images_documents/ACA%20Information%202016_tcm3-52813.pdf) if you live in MA.
     
-### Miscellaneous Documents
+### Miscellaneous Documents.
     
 - Last year's federal and state tax returns (helpful but not absolutely required).
 - IRA, KEOGH, and other retirement plan contributions (if self-employed, identify as for self or employees).
@@ -477,7 +439,7 @@ In addition, your modified adjusted gross income (AGI) may not exceed:
 - Employment taxes and other business taxes paid for the tax year.
 - NY and NJ require driver's license ID, issuing state, expiration date, and issue date, or simply upload images of the front and back of your driver's license if you have one.
 
-### State-specific deductions
+### State-Specific Deductions.
 
 - All states: **529 college savings plan**. Please list:
   - Account number.
@@ -491,14 +453,14 @@ In addition, your modified adjusted gross income (AGI) may not exceed:
 - NJ: rent or property tax paid.
 - VA: Long-term insurance premium is a state deduction.
 
-### [Use tax](https://en.wikipedia.org/wiki/Use_tax)
+### [Use Tax](https://en.wikipedia.org/wiki/Use_tax)
 
 Some states impose use tax on items purchased from out-of-state or foreign sellers that would have otherwise been subject to sales tax if purchased within the state.
 Please provide the total amount of these purchases, as well as the sales or use tax already paid to another state.
 
 ## SPECIAL SITUATIONS
 
-### ITIN (Individual Taxpayer Identification Number) applicant (the person who needs ITIN) only:
+### ITIN (Individual Taxpayer Identification Number) Applicant (the Person Who Needs ITIN) Only:
     
 - Country of birth: 
 - Country of citizenship:
@@ -514,7 +476,7 @@ Please provide the total amount of these purchases, as well as the sales or use 
 - The most recent entry stamp page of the applicant's passport.
 - The most recent school transcript (For children under 18).
 
-### Nonresident
+### Nonresident Alien
 
 - Which country are you a citizen of (China, India, or other countries)?
 - If the status ever changed in the current year or a prior year, the date of change (MM/DD/YYYY). For example, "10/01/2023 from F1 to H1B."
@@ -570,7 +532,7 @@ Please provide the total amount of these purchases, as well as the sales or use 
   - Purchased furniture  
   - Anything deemed “lavish or extravagant”
 
-### Report of Foreign Bank and Financial Accounts (aka FBAR, FinCen Form 114, FATCA) and Form 8938
+### Report of Foreign Bank and Financial Accounts (aka FBAR, FinCen Form 114, FATCA) and Form 8938.
 
 If you meet the reporting
 [requirement](https://www.irs.gov/businesses/comparison-of-form-8938-and-fbar-requirements),
