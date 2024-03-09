@@ -28,11 +28,13 @@ simple word or text document and upload it along with tax documents.
 
 These items can help you if provided or hurt you if omitted. Highlights here, detailed in the text body below.
 
-- Car tax (CA, MA, VA, WA).
 - Mortgage principal paid for loans more than 750K.
-- E*Trade supplemental info.
-- State 529 for your children (3 pieces of info).
+- Car tax (CA, MA, VA, WA).
 - Dependent care expenses (5 pieces of info).
+- E*Trade Stock plan supplemental info.
+- Form 3922 or purchase confirmation.
+- Form 3921 or release confirmation.
+- State 529 for your children (3 pieces of info).
 - "Backdoor" Roth IRA conversion (4 pieces of info).
 - Closing doc when you buy, sell, or refinance a home.
 - F-1/OPT student visa history.
@@ -54,48 +56,49 @@ NB, Special benefit for married couples: if one spouse is a resident at the end 
 
 ### What is your filing status?
 
-- Single
-- Married Filing jointly (MFJ)
-- Married filing separately (MFS)
-- Head of Household (HOH)
-- Qualifier Widow(er) (QW)
-- Not sure, please describe your situation
+- Single.
+- Married Filing jointly (MFJ).
+- Married filing separately (MFS).
+- Head of Household (HOH, single parent with dependent).
+- Qualifying surviving spouse (QSS), formerly known as Qualified Widow(er) (QW).
+- Not sure, please describe your situation.
 
 ### Personal Information (new client or changed info):
 
 Please provide the following info for the taxpayer (and spouse if filing jointly):
 
--  First name
--  Middle name
--  Last name
--  Pronouns (He/Him/His, She/Her/Hers, They/Them/Theirs)
--  Date of Birth (MM/DD/YYYY)
--  Social Security Numbers (or Tax IDs), see ITIN in SPECIAL SITUATION section if no SSN
--  Email address
--  Address
--  Telephone number
--  Occupation
+-  First name.
+-  Middle name.
+-  Last name.
+-  Pronouns (He/Him/His, She/Her/Hers, They/Them/Theirs).
+-  Date of Birth (MM/DD/YYYY).
+-  Social Security Numbers or Individual Tax Identification Number, see ITIN in SPECIAL SITUATION section if you do not have either.
+-  Email address.
+-  Address.
+-  Telephone number.
+-  Occupation.
+-  IP PIN (Identity Protection Personal Identification Number, you know if you have it).
 
-and for EACH dependent:
+and for EACH dependent (your spouse is not your dependent):
 
--  First name
--  Middle name
--  Last name
--  Date of Birth (MM/DD/YYYY)
--  Social Security Numbers (or Tax IDs), see ITIN in SPECIAL SITUATION section if no SSN
--  Relationship (the dependent is your Son/Daughter/Dad/Mom/...?)
+-  First name.
+-  Middle name.
+-  Last name.
+-  Date of Birth (MM/DD/YYYY).
+-  Social Security Numbers or Individual Tax Identification Number, see ITIN in SPECIAL SITUATION section if you do not have either.
+-  Relationship (the dependent is your Son, Daughter, Dad, Mom, or ...).
 
 ### Bank information for tax refund or payment only.
 
 I do _not_ use it for the filing fee or any other purposes, for new clients or returning clients with changed info.
     
-- Bank name
-- Bank routing number (as appeared on your checkbook if you use a checking account)
-- Your account number (as appeared on your checkbook if you use a checking account)
-- Your account type (Checking or Savings)
-- Account holder(s)
+- Bank name.
+- Bank routing number (as appeared on your checkbook if you use a checking account, Paper & Electronic _not_ Wires).
+- Your account number (as appeared on your checkbook if you use a checking account).
+- Your account type (Checking or Savings).
+- Account holder(s).
 
-### Virtual currency question
+### Virtual currency question.
 
 At any time during 2023, did you: (a) receive (as a reward, award, or payment for property or services); or (b) sell,
 exchange, gift, or otherwise dispose of a digital asset (or a financial interest in a digital asset) (Yes/No)?
@@ -110,13 +113,13 @@ U.S. or other real currency, including
 through the use of electronic platforms
 such as PayPal and Venmo.
    
-### Last year's taxes if itemized and other carryover items (new client only)
+### Last year's tax returns (for new client only).
 
 - Please provide last year's return (federal and state).
 
   _OR_
 
-- Four transcripts (Return, Record, Account, Wage and Income) from your account at the [IRS](https://irs.gov){:target="_blank"}.
+- (Four transcripts (Return, Record, Account, Wage and Income) from your account at the [IRS](https://irs.gov){:target="_blank"}.
 
   _AND_
 
@@ -125,9 +128,9 @@ such as PayPal and Venmo.
   - VA: owed and paid $500
   - DC: refund of $300
 
-  The information is in your last year's return, the 1099-G the state sent out, or your bank record.
+  The information is in your last year's return, the 1099-G the state sent out, or your bank record).
 
-### Location info
+### Location info.
 
 Please list where you were for the entire year in a format as shown
 below, accurate to the state or country. Vacation within the US
@@ -141,7 +144,7 @@ Website](https://i94.cbp.dhs.gov/I94/#/history-search).
 
 Residents do not need to list travel outside the United States.
 
-### Income and income adjustment
+### Income and income adjustment.
     
 - [W-2](https://www.irs.gov/pub/irs-pdf/fw2.pdf) wage forms from ALL employers for the year.
 - Retirement distribution. When dealing with pensions, annuities, distributions
@@ -186,7 +189,7 @@ Residents do not need to list travel outside the United States.
 - Scholarships and fellowships.
 - State and local income tax refunds ([1099-G](https://www.irs.gov/pub/irs-pdf/f1099g.pdf), _only_ you have itemized).
 
-### HSA
+### HSA.
 
 If you have HSA (Health Savings Account), please provide:
 
@@ -196,18 +199,23 @@ If you have HSA (Health Savings Account), please provide:
 - The amount you contributed yourself by depositing a check or making a bank transfer.
 - [5498-SA](https://www.irs.gov/pub/irs-pdf/f5498sa.pdf) if you have it (optional).
 
-### Financial Assets
+### Financial Assets.
     
 - Interest income statements ([1099-INT](https://www.irs.gov/pub/irs-pdf/f1099int.pdf), [1099-OID](https://www.irs.gov/pub/irs-pdf/f1099oid.pdf)). Please do not forget the interest paid by the IRS and states.
 - Dividend income statements ([1099-DIV](https://www.irs.gov/pub/irs-pdf/f1099div.pdf)).
 - Proceeds from stock, mutual fund, and bond sale ([1099-B](https://www.irs.gov/pub/irs-pdf/f1099b.pdf)).
 - Virtual currencies ([faq](https://www.irs.gov/individuals/international-taxpayers/frequently-asked-questions-on-virtual-currency-transactions)).
-- RSU (Restricted Stock Unit) sale to cover: [**STOCK PLAN TRANSACTIONS SUPPLEMENTAL INFO**](/assets/images/20190103-tax-RSU-ESPP.pdf) from a bank or similar document showing income added to W2.
-- ESPP (Employee Stock Purchase Plan) sale: [**STOCK PLAN TRANSACTIONS SUPPLEMENTAL INFO**](/assets/images/20190103-tax-RSU-ESPP.pdf) from a bank (or similar document), or **Form 3922** from employer showing income added to W2.
-- ISO (Incentive Stock Option): [**STOCK PLAN TRANSACTIONS SUPPLEMENTAL INFO**](/assets/images/20190103-tax-RSU-ESPP.pdf) from a bank, or **Form 3921** from employer showing income added to W2.
+- RSU (Restricted Stock Unit) sale or "sale to cover".
+- ESPP (Employee Stock Purchase Plan) sale:
+  - **Form 3922** covering all of the stocks from the purchasing years or
+  - **Purchase Confirmation** from your broker (if Form 3922 is not available).
+- ISO (Incentive Stock Option) sale:
+  - **Form 3921** covering all of the stocks from the grant years or
+  - **Release Confirmation** from your broker (if Form 3922 is not available).
 - Early withdrawal penalties on CDs and other time deposits.
+- E*Trade [**Stock Plan Transactions Supplemental Info**](/assets/images/20190103-tax-RSU-ESPP.pdf).
 
-### Landlord (A person who owns a home and rents it out to others for a fee)
+### Landlord (A person who owns a home and rents it out to others for a fee).
 
 It would be easier to copy the Google sheets with rental expense template and fill it in.
 The following are two ways to copy the Google sheets:
