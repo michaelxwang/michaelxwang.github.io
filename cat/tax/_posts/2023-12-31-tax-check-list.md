@@ -323,7 +323,7 @@ The itemized deduction items:
   - WA: In most major metropolitan areas of Pierce, King, and
   Snohomish counties of Washington state, Regional Transit Authority
   tax [RTA excise tax](https://www.yelp.com/biz_photos/rainier-vehicle-and-vessel-licensing-seattle?select=ALoVRzNvpNoJxOdA_zJiow)
-  which is a line item in car registration is deductible, use [this page](https://www.dol.wa.gov/vehicleregistration/renewyourtabs.html) to find the RTA tax.
+  which is a line item in car registration is deductible, use [this page](https://dol.wa.gov/fee-history) to find the RTA tax.
 - Gifts to charity (cash and non-cash).
 - Un-reimbursement expenses related to volunteer work.
 - Investment interest (margin interest).
