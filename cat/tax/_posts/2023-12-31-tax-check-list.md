@@ -443,7 +443,8 @@ In addition, your modified adjusted gross income (AGI) may not exceed:
 
 - All states: **529 college savings plan**. Please list:
   - Account number.
-  - Child's name.
+  - Owner name.
+  - beneficiary name.
   - Amount countributed in 2023.
 - MA: rent paid.
   - landlord's name
