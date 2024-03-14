@@ -316,7 +316,9 @@ The itemized deduction items:
     the sum by the number of months during the taxable year that the residence is a
     qualified residence, per [Reg §1.163-10T](https://www.law.cornell.edu/cfr/text/26/1.163-10T). 
 - [**Closing document**][closing doc] if you bought or refinanced your home in current year.
-- Real Estate Tax, if it is not on [Form 1098](https://www.irs.gov/pub/irs-pdf/f1098.pdf), you can get your county's tax payment history with amounts and dates paid, here is [an example](/assets/images/20230606-ppt.jpg){:target="_blank"} from [Santa Clara county](https://payments.sccgov.org/propertytax/Secured/Address){:target="_blank"} in California. If you do not own the property for the full year, please upload the [closing document][closing doc] as there will be a county tax paid on closing.
+- Real estate tax (property tax). If it is not on [Form 1098](https://www.irs.gov/pub/irs-pdf/f1098.pdf), you can get it from your county:
+  - Santa Clara, CA: [search](https://payments.sccgov.org/propertytax/Secured/Address){:target="_blank"}, [example](/assets/images/20230606-ppt.jpg){:target="_blank"}.
+  - Faxfair county, VA: [search](https://icare.fairfaxcounty.gov/ffxcare/search/commonsearch.aspx?mode=address){:target="_blank"}, [example](/assets/images/20240314-fairfax-ppt.png){:target="_blank"}.
 - Energy property based on manufacturer's certification document.
 - **Personal Property Tax (car tax).**
   - CA: The vehicle [license fee](https://lao.ca.gov/1998/061798_vlf_primer/061798_vlf.html) is deductible, use [this page](https://www.dmv.ca.gov/wasapp/FeeCalculatorWeb/vlfForm.do) to find the vehicle license fee.
