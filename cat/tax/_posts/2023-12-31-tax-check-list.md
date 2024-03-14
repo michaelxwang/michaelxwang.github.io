@@ -12,10 +12,10 @@ categories:
 - Please do highlight information you do not want me to miss.
 - Please do indicate your spreadsheet contains multiple tabs, example: check_list_info (multiple tabs).xls.
 - Please try to avoid but do indicate when a file contains multiple facts, example: all_1099_forms (multiple docs).pdf.
-- Please do not imbed tax documents in the checklist info doc.
-- If you have a passworded doc, please either to follow the instructions [here](http://localhost:4000/cat/prose/2023/04/29/rm-passwd.html){:target="_blank"}
+- Please do not embed tax documents in the checklist info doc.
+- If you have a passworded doc, please either follow the instructions [here](http://localhost:4000/cat/prose/2023/04/29/rm-passwd.html){:target="_blank"}
 to remove the password, or put the password in the file. Google drive already provides security.
-- Please do not use file name start with a dash (_) which is my indication that the file has been read and processed (LOL).
+- Please do not use filename starting with a dash (_) which is my indication that the file has been read and processed (LOL).
 
 You can create a Google doc or Google sheets after you enter your link by clicking "+ New", or create your own
 simple word or text document and upload it along with tax documents.
@@ -187,7 +187,7 @@ Residents do not need to list travel outside the United States.
 - Gambling and lottery winnings.
 - Prizes and awards.
 - Scholarships and fellowships.
-- State and local income tax refunds ([1099-G](https://www.irs.gov/pub/irs-pdf/f1099g.pdf), _only_ you have itemized).
+- State and local income tax refunds ([1099-G](https://www.irs.gov/pub/irs-pdf/f1099g.pdf), **if** you did not file with me last year _and_ you have not provided the last year's returns _and_ you have itemized last year).
 
 ### HSA.
 
@@ -249,11 +249,18 @@ to organize your expenses. If you want to do it the hard way (this feature will 
 - PARTIAL YEAR AND MIXED: Specify expenses for what time period, and for what space (entire house or the rental rooms).
 - <a href="https://docs.google.com/spreadsheets/d/14VRuVSp_fDzMVPhopsCcKeWWTVUsdEayrBK4Mx2fJ3M" target="_blank">Auto expenses for rental business</a>.
 
-### Sale of a Primary Home
+### Sale of Primary Residence or Rental Home
+
+- [1099-S](https://www.irs.gov/pub/irs-pdf/f1099s.pdf) if issued as part of closing process.
+- Both [Closing documents][closing doc] when you bought and sold the property.
+- A spreadsheet listing of major improvements (that increase the home value) and sales expenses not in closing documents.
+  - Date
+  - Description of improvement or sale expense
+  - Amount
 
 The IRS allows for a tax exclusion of up to $250,000 ($500,000 for
 married couples filing jointly) of capital gains from the sale of
-a primary residence under certain conditions as specified in IRC 121.
+a primary residence under certain conditions as specified in [IRC 121](https://www.taxnotes.com/research/federal/usc26/121){:target="_blank"}.
 
 The conditions are:
 
@@ -265,13 +272,8 @@ It's important to note that this exclusion may have limits or not apply
 in certain situations, such as if the home was used as a rental
 property, if the taxpayer was involved in a 1031 exchange.
 
-The following documents are needed to give us the rough estimate of the capital gain:
-
-- [1099-S](https://www.irs.gov/pub/irs-pdf/f1099s.pdf) if issued.
-- Both [Closing documents][closing doc] when you bought and sold the property.
-
-If is over the exclusion amount, then we will need the major improvements (that increase the home value) done during the years
-to bring down the capital gain. 
+If you qualify for the exclusion, and the capital gain is clearly within the limit, then you do not need to submit
+the list of improvements and expenses related to the sale.
 
 ### Homeowner and Itemizing Items
 
