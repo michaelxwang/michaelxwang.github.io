@@ -447,7 +447,7 @@ In addition, your modified adjusted gross income (AGI) may not exceed:
   - Account number.
   - Owner name.
   - beneficiary name.
-  - Amount countributed in 2023.
+  - Amount contributed in 2023.
 - MA: rent paid.
   - landlord's name
   - landlord's address
