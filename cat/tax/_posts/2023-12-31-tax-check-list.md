@@ -319,6 +319,7 @@ The itemized deduction items:
 - Real estate tax (property tax). If it is not on [Form 1098](https://www.irs.gov/pub/irs-pdf/f1098.pdf), you can get it from your county:
   - Santa Clara, CA: [search](https://payments.sccgov.org/propertytax/Secured/Address){:target="_blank"}, [example](/assets/images/20230606-ppt.jpg){:target="_blank"}.
   - Faxfair county, VA: [search](https://icare.fairfaxcounty.gov/ffxcare/search/commonsearch.aspx?mode=address){:target="_blank"}, [example](/assets/images/20240314-fairfax-ppt.png){:target="_blank"}.
+  - Montgomery county, MD: [search](https://apps.montgomerycountymd.gov/realpropertytax/){:target="_blank"}.
 - Energy property based on manufacturer's certification document.
 - **Personal Property Tax (car tax).**
   - CA: The vehicle [license fee](https://lao.ca.gov/1998/061798_vlf_primer/061798_vlf.html) is deductible, use [this page](https://www.dmv.ca.gov/wasapp/FeeCalculatorWeb/vlfForm.do) to find the vehicle license fee.
@@ -572,13 +573,20 @@ nonresident alien_ or from a group of related nonresident aliens, they are
 required to file [Form 3520][form 3520]{:target="_blank"}.
 However, no tax is due on this gift.
 
-If you are the resident, please provide a list of dates and amounts of gifts. For example:
+The limit applies individually to each recipient, not to a husband and wife
+collectively. For example, if a husband receives $90,000 and a wife receives
+$110,000, only the wife is required to file the form, as her amount exceeds the
+specified limit.
 
-| Date       | Description            | Amount      |
-| ---------- | ---------------------- | -----------:|
-| 12/24/2023 | Cash                   |   $80,000   |
-| 12/25/2023 | Cash                   |   $80,000   |
-| **Total**  |                        | **$160,000**|
+If you meet the filing requirement, please compile a list of gifts received,
+including dates, descriptions of the gift, amounts. Please organize a separate table
+for each recipient, listing all entries in chronological order. Example:
+
+| Date       | Recipient   | Description            | Amount      |
+| ---------- | ----------- | ---------------------- | -----------:|
+| 04/15/2023 | Xiaohua Mao | Cash                   |   $80,000   |
+| 10/15/2023 | Xiaohua Mao | Cash                   |   $80,000   |
+| **Total**  |             |                        | **$160,000**|
 
 <a name="fn1">1</a> According to the IRS, a gift is defined as:
 
