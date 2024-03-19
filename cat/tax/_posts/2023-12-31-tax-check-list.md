@@ -318,7 +318,7 @@ The itemized deduction items:
 - [**Closing document**][closing doc] if you bought or refinanced your home in current year.
 - Real estate tax (property tax). If it is not on [Form 1098](https://www.irs.gov/pub/irs-pdf/f1098.pdf), you can get it from your county:
   - Santa Clara, CA: [search](https://payments.sccgov.org/propertytax/Secured/Address){:target="_blank"}, [example](/assets/images/20230606-ppt.jpg){:target="_blank"}.
-  - Faxfair county, VA: [search](https://icare.fairfaxcounty.gov/ffxcare/search/commonsearch.aspx?mode=address){:target="_blank"}, [example](/assets/images/20240314-fairfax-ppt.png){:target="_blank"}.
+  - Fairfax county, VA: [search](https://icare.fairfaxcounty.gov/ffxcare/search/commonsearch.aspx?mode=address){:target="_blank"}, [example](/assets/images/20240314-fairfax-ppt.png){:target="_blank"}.
   - Montgomery county, MD: [search](https://apps.montgomerycountymd.gov/realpropertytax/){:target="_blank"}.
 - Energy property based on manufacturer's certification document.
 - **Personal Property Tax (car tax).**
