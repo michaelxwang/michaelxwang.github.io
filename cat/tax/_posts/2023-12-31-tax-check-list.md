@@ -160,8 +160,10 @@ Residents do not need to list travel outside the United States.
     was for, based on your records.
   - Amount Withdrawn: Provide information on distributions made in 2023 from
     the source account, using Form 1099-R issued for the year.
-  - Remaining Balance in the Source Account: Indicate the year-end balance in
-    the source account, either from Form 5498 or your records.
+  - Remaining Balance in the Source Account(s): Indicate the year-end balance in
+    the source account(s), either from Form 5498 or your records. If you have multiple
+    traditional or rollover IRA accounts, it is the **COMBINED** balance. For tax theory, see 
+    [Backdoor Roth IRA](https://taxandlife.com/cat/tax/2019/12/22/roth-back-door.html){:target="_blank"}.
   - Destination of the Money: If you have Form 5498 for the target account,
     include it to show rollovers or conversions. If not, specify the type of
     account the money was moved to (IRA, Roth IRA, 401K, Roth 401K, etc.), along
@@ -318,6 +320,7 @@ The itemized deduction items:
 - [**Closing document**][closing doc] if you bought or refinanced your home in current year.
 - Real estate tax (property tax). If it is not on [Form 1098](https://www.irs.gov/pub/irs-pdf/f1098.pdf), you can get it from your county:
   - Santa Clara, CA: [search](https://payments.sccgov.org/propertytax/Secured/Address){:target="_blank"}, [example](/assets/images/20230606-ppt.jpg){:target="_blank"}.
+  - Contra Costa, CA: [search](https://taxcolp.cccttc.us/lookup/){:target="_blank"}.
   - Fairfax county, VA: [search](https://icare.fairfaxcounty.gov/ffxcare/search/commonsearch.aspx?mode=address){:target="_blank"}, [example](/assets/images/20240314-fairfax-ppt.png){:target="_blank"}.
   - Montgomery county, MD: [search](https://apps.montgomerycountymd.gov/realpropertytax/){:target="_blank"}.
 - Energy property based on manufacturer's certification document.
