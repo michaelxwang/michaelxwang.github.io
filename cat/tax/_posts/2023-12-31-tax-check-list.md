@@ -7,15 +7,15 @@ categories:
 
 **Checklist ['tʃeklist]**: n. a list of items (names or tasks etc.) to be checked or consulted.
 
-- You do not need to answer questions that not applicable to you.
+- You do not need to answer questions that are not applicable to you.
 - You do not need to answer questions if already covered by tax documents.
-- Please do highlight information you do not want me to miss.
+- Please **highlight** information you do not want me to miss.
 - Please do indicate your spreadsheet contains multiple tabs, example: check_list_info (multiple tabs).xls.
 - Please try to avoid but do indicate when a file contains multiple facts, example: all_1099_forms (multiple docs).pdf.
 - Please do not embed tax documents in the checklist info doc.
 - If you have a passworded doc, please either follow the instructions [here](http://localhost:4000/cat/prose/2023/04/29/rm-passwd.html){:target="_blank"}
-to remove the password, or put the password in the file. Google drive already provides security.
-- Please do not use filename starting with a dash (_) which is my indication that the file has been read and processed (LOL).
+to remove the password, or put the password in the filename. Google Drive already provides security.
+- Please do not use filenames starting with a dash (_) which is my indication that the file has been read and processed (LOL).
 
 You can create a Google doc or Google sheets after you enter your link by clicking "+ New", or create your own
 simple word or text document and upload it along with tax documents.
@@ -132,20 +132,18 @@ such as PayPal and Venmo.
 
 ### Location Info.
 
-Please list where you were for the entire year in a format as shown
-below, accurate to the state or country. Vacation within the US
-without changing state residency needs not to be listed.  You can
-get your travel history outside the United States from the [I94
-Website](https://i94.cbp.dhs.gov/I94/#/history-search).
+Please provide a list of your locations throughout the year, formatted as shown
+below. Specify the state (anc city if there is a city tax involved) if you were in the United States or the country if you
+were abroad. You do not need to include vacations where you did
+not change your state residency. For travel history outside the United States,
+you can retrieve your records from the [I94 Website](https://i94.cbp.dhs.gov/I94/#/history-search){:target="_blank"}.
 
-- 01/01/2023 - 05/15/2023 MD
+- 01/01/2023 - 05/15/2023 Maryland (MD)
 - 05/16/2023 - 08/15/2023 China
-- 08/16/2023 - 12/31/2023 VA
-
-Residents do not need to list travel outside the United States.
+- 08/16/2023 - 12/31/2023 Virginia (VA)
 
 ### Income and Income Adjustment.
-    
+
 - [W-2](https://www.irs.gov/pub/irs-pdf/fw2.pdf) wage forms from ALL employers for the year.
 - Retirement distribution. When dealing with pensions, annuities, distributions
   from retirement plans, rollovers, and conversions (including **"backdoor" Roth
@@ -208,12 +206,14 @@ If you have HSA (Health Savings Account), please provide:
 - Proceeds from stock, mutual fund, and bond sale ([1099-B](https://www.irs.gov/pub/irs-pdf/f1099b.pdf)).
 - Virtual currencies ([faq](https://www.irs.gov/individuals/international-taxpayers/frequently-asked-questions-on-virtual-currency-transactions)).
 - RSU (Restricted Stock Unit) sale or "sale to cover".
-- ESPP (Employee Stock Purchase Plan) sale:
+- **ESPP** (Employee Stock Purchase Plan) sale:
   - **Form 3922** covering all of the stocks from the purchasing years or
   - **Purchase Confirmation** from your broker (if Form 3922 is not available).
+  - Specify the document that contains the ESPP sale along with number of shares sold, and proceeds received.
 - ISO (Incentive Stock Option) sale:
   - **Form 3921** covering all of the stocks from the grant years or
   - **Release Confirmation** from your broker (if Form 3922 is not available).
+  - Specify the document that contains the ESPP sale along with number of shares sold, and proceeds received.
 - Early withdrawal penalties on CDs and other time deposits.
 - E*Trade [**Stock Plan Transactions Supplemental Info**](/assets/images/20190103-tax-RSU-ESPP.pdf).
 
@@ -322,6 +322,7 @@ The itemized deduction items:
   - Alameda, CA: [search](https://www.acgov.org/ptax_pub_app/RealSearch.do){:target="_blank"}.
   - Contra Costa, CA: [search](https://taxcolp.cccttc.us/lookup/){:target="_blank"}.
   - Fairfax county, VA: [search](https://icare.fairfaxcounty.gov/ffxcare/search/commonsearch.aspx?mode=address){:target="_blank"}, [example](/assets/images/20240314-fairfax-ppt.png){:target="_blank"}.
+  - King, WA: [search](https://blue.kingcounty.com/Assessor/eRealProperty/default.aspx){:target="_blank"}.
   - Montgomery county, MD: [search](https://apps.montgomerycountymd.gov/realpropertytax/){:target="_blank"}.
   - Santa Clara, CA: [search](https://payments.sccgov.org/propertytax/Secured/Address){:target="_blank"}, [example](/assets/images/20230606-ppt.jpg){:target="_blank"}.
 - Energy property based on manufacturer's certification document.
