@@ -208,12 +208,14 @@ If you have HSA (Health Savings Account), please provide:
 - RSU (Restricted Stock Unit) sale or "sale to cover".
 - **ESPP** (Employee Stock Purchase Plan) sale:
   - **Form 3922** covering all of the stocks from the purchasing years or
-  - **Purchase Confirmation** from your broker (if Form 3922 is not available).
+  - **Purchase and Sale Confirmations** from your broker (if Form 3922 is not available).
   - Specify the document that contains the ESPP sale along with number of shares sold, and proceeds received.
+  - For tax theory, see [Tax notes: ISO, ESPP, and RSU](https://taxandlife.com/cat/tax/2019/11/19/ISO-RSU-ESPP.html).
 - ISO (Incentive Stock Option) sale:
   - **Form 3921** covering all of the stocks from the grant years or
-  - **Release Confirmation** from your broker (if Form 3922 is not available).
+  - **Release and sale Confirmations** from your broker (if Form 3922 is not available).
   - Specify the document that contains the ESPP sale along with number of shares sold, and proceeds received.
+  - For tax theory, see [Tax notes: ISO, ESPP, and RSU](https://taxandlife.com/cat/tax/2019/11/19/ISO-RSU-ESPP.html).
 - Early withdrawal penalties on CDs and other time deposits.
 - E*Trade [**Stock Plan Transactions Supplemental Info**](/assets/images/20190103-tax-RSU-ESPP.pdf).
 
