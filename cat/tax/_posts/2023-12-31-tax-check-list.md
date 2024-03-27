@@ -13,7 +13,7 @@ categories:
 - Please do indicate your spreadsheet contains multiple tabs, example: check_list_info (multiple tabs).xls.
 - Please try to avoid but do indicate when a file contains multiple facts, example: all_1099_forms (multiple docs).pdf.
 - Please do not embed tax documents in the checklist info doc.
-- If you have a passworded doc, please either follow the instructions [here](http://localhost:4000/cat/prose/2023/04/29/rm-passwd.html){:target="_blank"}
+- If you have a passworded doc, please either follow the instructions [here](https://taxandlife.com/cat/prose/2023/04/29/rm-passwd.html){:target="_blank"}
 to remove the password, or put the password in the filename. Google Drive already provides security.
 - Please do not use filenames starting with a dash (_) which is my indication that the file has been read and processed (LOL).
 
