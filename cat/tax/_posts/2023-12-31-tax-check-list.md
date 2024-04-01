@@ -117,9 +117,9 @@ such as PayPal and Venmo.
 
 - Please provide last year's return (federal and state).
 
-  _OR_
+  _OR_ both of the following:
 
-- (Four transcripts (Return, Record, Account, Wage and Income) from your account at the [IRS](https://irs.gov){:target="_blank"}.
+- Four transcripts (Return, Record, Account, Wage and Income) from your account at the [IRS](https://irs.gov){:target="_blank"}.
 
   _AND_
 
@@ -128,7 +128,7 @@ such as PayPal and Venmo.
   - VA: owed and paid $500
   - DC: refund of $300
 
-  The information is in your last year's return, the 1099-G the state sent out, or your bank record).
+  The information is in your last year's return, the 1099-G the state sent out, or your bank record.
 
 ### Location Info.
 
@@ -336,7 +336,8 @@ The itemized deduction items:
   Snohomish counties of Washington state, Regional Transit Authority
   tax [RTA excise tax](https://www.yelp.com/biz_photos/rainier-vehicle-and-vessel-licensing-seattle?select=ALoVRzNvpNoJxOdA_zJiow)
   which is a line item in car registration is deductible, use [this page](https://dol.wa.gov/fee-history) to find the RTA tax.
-- Gifts to charity (cash and non-cash).
+- Gifts to charity (cash).
+- Gifts to charity (non-cash).
 - Un-reimbursement expenses related to volunteer work.
 - Investment interest (margin interest).
 - After-tax medical expenses above 7.5% of your adjusted gross
