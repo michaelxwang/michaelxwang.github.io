@@ -171,7 +171,7 @@ you can retrieve your records from the [I94 Website](https://i94.cbp.dhs.gov/I94
 
   - Contribution: I added $6,000 to a traditional IRA on April 1, 2024, for the 2023 tax year. I don't have Form 5498 from the source.
   - Distribution: I moved $6,001.23 from the traditional IRA, as detailed on Form 1099-R.
-  - Remaining Balance: By December 31, 2023, my traditional IRA had a $0 balance, and I don't have Form 5498 for this.
+  - Remaining Balance: As of December 31, 2023, the **combined** balance of **all** my traditional and rollover IRAs across **all** banks was $0, but I do not have Forms 5498 to show this.
   - Destination: The $6,001.23 was transferred to a Roth IRA in 2023, but I don't have Form 5498 for the target account.
 
 - Traditional IRA contribution only. Please provide:
@@ -321,12 +321,13 @@ The itemized deduction items:
     qualified residence, per [Reg §1.163-10T](https://www.law.cornell.edu/cfr/text/26/1.163-10T). 
 - [**Closing document**][closing doc] if you bought or refinanced your home in current year.
 - Real estate tax (property tax). If it is not on [Form 1098](https://www.irs.gov/pub/irs-pdf/f1098.pdf), you can get it from your county:
-  - Alameda, CA: [search](https://www.acgov.org/ptax_pub_app/RealSearch.do){:target="_blank"}.
-  - Contra Costa, CA: [search](https://taxcolp.cccttc.us/lookup/){:target="_blank"}.
-  - Fairfax county, VA: [search](https://icare.fairfaxcounty.gov/ffxcare/search/commonsearch.aspx?mode=address){:target="_blank"}, [example](/assets/images/20240314-fairfax-ppt.png){:target="_blank"}.
-  - King, WA: [search](https://blue.kingcounty.com/Assessor/eRealProperty/default.aspx){:target="_blank"}.
-  - Montgomery county, MD: [search](https://apps.montgomerycountymd.gov/realpropertytax/){:target="_blank"}.
-  - Santa Clara, CA: [search](https://payments.sccgov.org/propertytax/Secured/Address){:target="_blank"}, [example](/assets/images/20230606-ppt.jpg){:target="_blank"}.
+  - CA Alameda County: [search](https://www.acgov.org/ptax_pub_app/RealSearch.do){:target="_blank"}.
+  - CA Contra Costa County: [search](https://taxcolp.cccttc.us/lookup/){:target="_blank"}.
+  - CA Santa Clara County: [search](https://payments.sccgov.org/propertytax/Secured/Address){:target="_blank"}, [example](/assets/images/20230606-ppt.jpg){:target="_blank"}.
+  - MD Montgomery County: [search](https://apps.montgomerycountymd.gov/realpropertytax/){:target="_blank"}.
+  - VA Fairfax County: [search](https://icare.fairfaxcounty.gov/ffxcare/search/commonsearch.aspx?mode=address){:target="_blank"}, [example](/assets/images/20240314-fairfax-ppt.png){:target="_blank"}.
+  - WA King County: [search](https://blue.kingcounty.com/Assessor/eRealProperty/default.aspx){:target="_blank"}.
+  - WA Snohomish County: [search](https://snohomishcountywa.gov/2251/Property-Taxes-and-Assessments){:target="_blank"}.
 - Energy property based on manufacturer's certification document.
 - **Personal Property Tax (car tax).**
   - CA: The vehicle [license fee](https://lao.ca.gov/1998/061798_vlf_primer/061798_vlf.html) is deductible, use [this page](https://www.dmv.ca.gov/wasapp/FeeCalculatorWeb/vlfForm.do) to find the vehicle license fee.
