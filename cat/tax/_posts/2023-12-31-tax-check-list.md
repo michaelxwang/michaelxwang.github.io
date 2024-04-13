@@ -323,6 +323,8 @@ The itemized deduction items:
 - Real estate tax (property tax). If it is not on [Form 1098](https://www.irs.gov/pub/irs-pdf/f1098.pdf), you can get it from your county:
   - CA Alameda County: [search](https://www.acgov.org/ptax_pub_app/RealSearch.do){:target="_blank"}.
   - CA Contra Costa County: [search](https://taxcolp.cccttc.us/lookup/){:target="_blank"}.
+  - CA Orange County: [search](https://tax.ocgov.com/tcweb/search_page.asp){:target="_blank"}.
+  - CA San Mateo county: [search](https://sanmateo-ca.county-taxes.com/public/search/gsgx_property_tax){:target="_blank"}.
   - CA Santa Clara County: [search](https://payments.sccgov.org/propertytax/Secured/Address){:target="_blank"}, [example](/assets/images/20230606-ppt.jpg){:target="_blank"}.
   - MD Montgomery County: [search](https://apps.montgomerycountymd.gov/realpropertytax/){:target="_blank"}.
   - VA Fairfax County: [search](https://icare.fairfaxcounty.gov/ffxcare/search/commonsearch.aspx?mode=address){:target="_blank"}, [example](/assets/images/20240314-fairfax-ppt.png){:target="_blank"}.
