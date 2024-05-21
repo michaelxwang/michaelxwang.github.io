@@ -577,7 +577,21 @@ from the Treasury FiscalData. These are the selected exchange rates on 12/31/202
 |India-Rupee      |  83.162  |
 |Japan-Yen        | 141.470  |
 
-### A _Resident_ Received a Gift From a Nonresident
+### Gift taxes
+
+| Donor | Recipient | Amount | Reportable | Taxable |
+|---|---|---|---|---|
+| Resident | Resident | <= $18,000 | No | No |
+|          |          | >= $18,001 &&<br> <= $13,610,000 | Yes | No |
+|          |          | >= $13,610,001 | Yes | Yes (up to 40%) |
+| Anybody  | US Citizen<br> Spouse | Any Amount | No | No |
+| Nonresident<br> (US Property) | Resident &<br>Nonresident | <= $18,000 | No | No |
+|                               |                           | >= $18,001 | Yes | Yes (up to 40%) |
+| Nonresident<br> (Non-US Property) | Resident | <= $100,000 | No | No |
+|                                   |          | >= $100,001 | Yes | No |
+| Nonresident<br> (Non-US Property) | Nonresident | Any Amount | No | No |
+
+- A _Resident_ Received a Gift From a Nonresident
 
 When a citizen or resident alien receives a gift<sup>[1](#fn1)</sup> exceeding $100,000 from _a
 nonresident alien_ or from a group of related nonresident aliens, they are
@@ -610,7 +624,7 @@ However, it's essential to maintain a detailed record
 of the funds' source and their intended use in case of inquiries from the
 ["big brother"][big brother]{:target="_blank"}.
 
-### A _Resident_ Given a Gift
+- A _Resident_ Given a Gift
 
 If you give a gift of more than the annual exclusion limit of $17,000 (2023),
 you must file [Form 709][form 709]{:target="_blank"}. However, you do
