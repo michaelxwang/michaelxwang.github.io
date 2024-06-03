@@ -29,7 +29,7 @@ $750,000. This limit is scheduled to change after 2025 tax year.
 If you do not have mortgage interest or other significant itemized deductions,
 it may be more beneficial to take the standard deduction.
 
-#### [Primary Home Capital Gain Exclusion][121exclusion]{:target="_blank"}
+#### [Primary Home Capital Gain Exclusion][121 exclusion]{:target="_blank"}
 
 For married couples filing jointly, up to $500,000 of capital gains can be
 excluded. For single filers and married individuals filing separately, up to
@@ -38,7 +38,8 @@ $250,000 of capital gains can be excluded.
 You must have owned and used the property as your primary residence for at least 2 of the 5 years before the sale.
 
 Home improvement expenses (as opposed to repair expenses) can be used to reduce
-the capital gain if your profit exceeds the exclusion limit.
+the capital gain if your profit exceeds the exclusion limit when you sell your home.
+They are not deductible in current year.
 
 #### Common [Residential Energy Credits][energy efficiency]{:target="_blank"}
 
@@ -69,5 +70,10 @@ the capital gain if your profit exceeds the exclusion limit.
   - Credit: 30% of the cost.
   - Limit: Up to $600 for the central air conditioner.
 
-[121exclusion]: https://www.irs.gov/taxtopics/tc701
+The above energy credits are claimed on [form 5695][form 5695]{:target="_blank"}
+following the [instructions][form 5695i]{:target="_blank"}.
+
+[121 exclusion]: https://www.irs.gov/taxtopics/tc701
 [energy efficiency]: https://www.irs.gov/credits-deductions/energy-efficient-home-improvement-credit
+[form 5695]: https://www.irs.gov/pub/irs-pdf/f5695.pdf
+[form 5695i]: https://www.irs.gov/instructions/i5695#en_US_2023_publink1000122131
