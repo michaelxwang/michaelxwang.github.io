@@ -58,15 +58,15 @@ say "Beginning on or after December 29, 2022, the 10% additional tax will not ap
 The [legislation][secure]{:target="_blank"}
 indicates that the elimination of the additional tax on corrective distributions applies to any tax liabilities determined after the law has been enacted, even if the excess contribution (the "act" or "failure to act") happened before the law was passed.
 
-[590a]: https://www.irs.gov/pub/irs-pdf/p590a.pdf
-[590b]: https://www.irs.gov/pub/irs-pdf/p590b.pdf
-[i5329]: https://www.irs.gov/pub/irs-pdf/i5329.pdf
-[secure]: https://www.congress.gov/bill/117th-congress/house-bill/2617/text
-[irc]: https://www.taxnotes.com/research/federal/usc26/408
-
 References: 
 - [Publication 590-A][590a]{:target="_blank"}
 - [Publication 590-B][590b]{:target="_blank"}
 - [Instructions for Form 5329][i5329]{:target="_blank"}
 - [SECURE Act 2.0 of 2022][secure]{:target="_blank"}
 - [IRC 408(d)(4)][irc]{:target="_blank"}
+
+[590a]: https://www.irs.gov/pub/irs-pdf/p590a.pdf
+[590b]: https://www.irs.gov/pub/irs-pdf/p590b.pdf
+[i5329]: https://www.irs.gov/pub/irs-pdf/i5329.pdf
+[secure]: https://www.congress.gov/bill/117th-congress/house-bill/2617/text
+[irc]: https://www.taxnotes.com/research/federal/usc26/408
