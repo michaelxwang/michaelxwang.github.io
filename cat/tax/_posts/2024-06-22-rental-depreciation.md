@@ -69,8 +69,8 @@ Now, let's explore situations where the business use percentage of a property ch
 
 - Increased Business Use:
 
-  - You can continue the existing depreciation schedule for the original portion of the property.
-  - Additionally, you can create a new depreciation schedule for the increased business use percentage, with a new starting date and a cost basis reflecting the increased portion's value.
+  - You continue the existing depreciation schedule for the original portion of the property.
+  - Additionally, you create a new depreciation schedule for the increased business use percentage, with a new starting date and a cost basis reflecting the increased portion's value.
   - Alternatively, you can stop the current depreciation, and start a new schedule in the similar manner as in "Discontinued Periods of Rental Use".
 <br><br>
 - Decreased Business Use:
