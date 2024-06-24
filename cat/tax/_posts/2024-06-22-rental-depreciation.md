@@ -54,13 +54,14 @@ I recommend starting a new depreciation schedule when a rental property
 experiences a significant change in use, such as a period of personal use.
 
 - This new schedule would begin on July 4, 2024.
-- The cost basis for the new schedule would be the original cost basis minus the accumulated depreciation from the previous schedule.
+- The depreciation cost for the new schedule would be adjusted to the original cost basis minus the accumulated depreciation from the previous schedule.
 - This accumulated depreciation should be tracked. When selling the property, you can use this information to calculate capital gains.
 
 The benefits of this approach include:
 
 - It allows the cost basis to be fully and correctly depreciated. While you technically get another 27.5 years of depreciation, the total amount of depreciation won't exceed the original cost basis.
-The extended depreciation period benefits the IRS and avoids potential issues with them. It's a reasonable approach since you're essentially starting a new rental period.
+This is a correct approach per [CFR 1.168(i)-4(b)][cfr-168]{:target="_blank"}
+since you have a change in use.
 - It simplifies record-keeping as you only need the current schedule to calculate the capital gain when then rental is sold.
 
 #### Rental Property with Varied Business Use Percentages
@@ -86,3 +87,4 @@ properties with varied use in time and space. My recommended method benefits the
 while staying compliant with the IRS guidelines, and is easy to maintain.
 
 [irc-168]: https://www.taxnotes.com/research/federal/usc26/168
+[cfr-168]: https://www.taxnotes.com/research/federal/cfr26/1.168i-4
