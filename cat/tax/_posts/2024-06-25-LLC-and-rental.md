@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Legal Protection for a Rental Business Through an LLC
+title: Legal protection for a rental business through an LLC
 categories:
 - tax
 ---
