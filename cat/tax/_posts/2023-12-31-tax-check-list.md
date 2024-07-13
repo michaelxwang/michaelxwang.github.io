@@ -581,7 +581,7 @@ from the Treasury FiscalData. These are the selected exchange rates on 12/31/202
 
 | Donor | Recipient | Amount | Reportable | Taxable |
 |---|---|---|---|---|
-| Resident | Resident | <= $18,000 | No | No |
+| Resident | Resident or<br> Nonresident | <= $18,000 | No | No |
 |          |          | >= $18,001 &&<br> <= $13,610,000 | Yes | No |
 |          |          | >= $13,610,001 | Yes | Yes (up to 40%) |
 | Anybody  | US Citizen<br> Spouse | Any Amount | No | No |
