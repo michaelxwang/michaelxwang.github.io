@@ -80,7 +80,7 @@ $$
 
 (i) Based on (g), after third round, if the result is not 27, it is $$2\times27$$ or greater. Based on (h), each further repetation will reduce the result until it is below 30, and (h) tells us the result is a multiple of 27, A number that is below 30 and a multiple of 27 is 27. Q.E.D.
 
-P.S. Finding the smallest number that requires 4 repetitions of summing its digits and multiplying by 3 to reach 27 by brute force is challenging due to the size of the number. Instead, we can first find $$X$$, the smallest multiple of 3 that requires 3 repetitions, and then work backward to find the smallest number leading to $$Xi$$. The results of this discovery are tabulated below.
+P.S. Finding the smallest number that requires 4 repetitions of summing its digits and multiplying by 3 to reach 27 by brute force is challenging due to the size of the number. Instead, we can first find $$X$$, the smallest multiple of 3 that requires 3 repetitions, and then work backward to find the smallest number leading to $$X$$. The results of this discovery are tabulated below.
 
 | Step                  | Value | Note |
 |:----------------------|------:| :--- |
