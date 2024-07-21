@@ -52,7 +52,7 @@ Since $$(10^k - 1), 10^{k-1} - 1), \cdots, 9$$ are all dividable by 9, $$n$$ and
 $$3s(3s(3s(n)))$$ is multiple of 27. That is, after third repetition, the result is a multiple of 27. Since this conclusion is based on the number before the repetition is a multiple of 9,
 the result will always be a multiple of 27 in any further repetitions.
 
-(h) Now let us prove that the operation of summing its digits and multiplying by 3 will result in smaller number for a number greater or equal 30, i.e. $$3s(n) < n$$ for $$n >= 30$$.
+(h) Now let us prove that the operation of summing its digits and multiplying by 3 will result in smaller number for a number greater or equal 30, i.e. $$3s(n) < n$$ for $$n \geq 30$$.
 
 Given:
 
