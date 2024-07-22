@@ -78,18 +78,18 @@ n - 3s(n) &> (10^k - 3) \cdot a_k + (10^{k-1} -3) \cdot a_{k-1} + \cdots +3 \\
 \end{align*}
 $$
 
-(i) Based on (g), after third round, if the result is not 27, it is $$2\times27$$ or greater. Based on (h), each further repetation will reduce the result until it is below 30, and (h) tells us the result is a multiple of 27, A number that is below 30 and a multiple of 27 is 27. Q.E.D.
+(i) Based on (g), after third round, if the result is not 27, it is $$2\times27$$ or greater. Based on (h), each further repetation will reduce the result until it is below 30, and (h) tells us the result is a multiple of 27, A number that is below 30 and a multiple of 27 is 27. $$_\blacksquare$$
 
 P.S. Finding the smallest number that requires 4 repetitions of summing its digits and multiplying by 3 to reach 27 by brute force is challenging due to the size of the number. Instead, we can first find $$X$$, the smallest multiple of 3 that requires 3 repetitions, and then work backward to find the smallest number leading to $$X$$. The results of this discovery are tabulated below.
 
 | Step                  | Value | Note |
-|:----------------------|------:| :--- |
-| To start with         | $$ 2 \times 10^{259} + (10^{259} - 1) $$| It is 2 followed by 259 digits of 9 |
-| Sum of digits         | 2333    | Computed as $$2 + 259\times9$$ |
-| Multiplied by 3       | 6999    | First round |
-| Sum of digits         | 33    | 
-| Multiplied by 3       | 99    | Second round, multiple of 9 |
-| Sum of digits         | 18     |
-| Multiplied by 3       | 54    | Third round, multiple of 27 |
-| Sum of digits         | 9     |
-| Multiplied by 3       | 27    | Fourth round |
+|:----------------------|------: |  :--- |
+| To start with         | $$ 2 \times 10^{259} + (10^{259} - 1) $$ &nbsp; | &nbsp; It is 2 followed by 259 digits of 9 |
+| Sum of digits         | 2333 &nbsp;     | &nbsp; Computed as $$2 + 259\times9$$ |
+| Multiplied by 3       | 6999 &nbsp;     | &nbsp; First round |
+| Sum of digits         |   33 &nbsp;     | 
+| Multiplied by 3       |   99 &nbsp;     | &nbsp; Second round, multiple of 9 |
+| Sum of digits         |   18 &nbsp;     |
+| Multiplied by 3       |   54 &nbsp;     | &nbsp; Third round, multiple of 27 |
+| Sum of digits         |    9 &nbsp;     |
+| Multiplied by 3       |   27 &nbsp;     | &nbsp; Fourth round |
