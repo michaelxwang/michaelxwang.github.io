@@ -66,13 +66,6 @@ $$
 \begin{align*}
 n - 3s(n) &= (10^k - 3) \cdot a_k + (10^{k-1} -3) \cdot a_{k-1} + \cdots + (10-3) \cdot a_1 + (1 - 3)\cdot a_1 \\
            &> (10^k - 3) \cdot a_k + (10^{k-1} -3) \cdot a_{k-1} + \cdots + 7 \times 3 - 2 \times 9 \\
-\end{align*}
-$$
-
-so,
-
-$$
-\begin{align*}
 n - 3s(n) &> (10^k - 3) \cdot a_k + (10^{k-1} -3) \cdot a_{k-1} + \cdots +3 \\
            &> 0
 \end{align*}
