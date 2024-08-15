@@ -584,6 +584,9 @@ from the Treasury FiscalData. These are the selected exchange rates on 12/31/202
 | Resident | Resident or<br> Nonresident | <= $18,000 | No | No |
 |          |          | >= $18,001 &&<br> <= $13,610,000 | Yes | No |
 |          |          | >= $13,610,001 | Yes | Yes (up to 40%) |
+| Anybody  | Non-US citizen<br> Spouse | <= $175,000 | No | No |
+|          |          | >= $175,001 &&<br> <= $13,610,000 | Yes | No |
+|          |          | >= $13,610,001 | Yes | Yes (up to 40%) |
 | Anybody  | US Citizen<br> Spouse | Any Amount | No | No |
 | Nonresident<br> (US Property) | Resident &<br>Nonresident | <= $18,000 | No | No |
 |                               |                           | >= $18,001 | Yes | Yes (up to 40%) |
