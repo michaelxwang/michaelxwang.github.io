@@ -552,7 +552,7 @@ Please provide the total amount of these purchases, as well as the sales or use 
 ### Report of Foreign Bank and Financial Accounts (aka FBAR, FinCen Form 114, FATCA) and Form 8938.
 
 If you meet the reporting
-[requirement](https://www.irs.gov/businesses/comparison-of-form-8938-and-fbar-requirements),
+[requirement](https://www.irs.gov/businesses/comparison-of-form-8938-and-fbar-requirements){:target="_blank"},
 please provide information on EACH of the accounts as follows:
 
 - Bank name.

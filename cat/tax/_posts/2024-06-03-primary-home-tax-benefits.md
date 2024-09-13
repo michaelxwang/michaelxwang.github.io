@@ -29,6 +29,11 @@ $750,000. This limit is scheduled to change after 2025 tax year.
 If you do not have mortgage interest or other significant itemized deductions,
 it may be more beneficial to take the standard deduction.
 
+However, California allows you to deduct the full amount of real estate and
+local taxes, as well as mortgage interest without limitations. As a result, it
+is possible to use the standard deduction on your federal return while
+itemizing deductions on your California state return.
+
 #### [Primary Home Capital Gain Exclusion][121 exclusion]{:target="_blank"}
 
 For married couples filing jointly, up to $500,000 of capital gains can be
