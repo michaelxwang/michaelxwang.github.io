@@ -508,10 +508,25 @@ Please provide the total amount of these purchases, as well as the sales or use 
 
 ### Foreign Earned Income Exclusion (FEIE) / Foreign Tax Credit (FTC)
 
-You can qualify FEIE by passing either:
+You can qualify Foreign Earned Income Exclusion by passing either:
 
-- Bona Fide Residence Test: You must have lived in a foreign country for an uninterrupted period that includes a full tax year (January 1 to December 31).
-- Physical Presence Test: You must be physically present in a foreign country or countries for 330 full days during any consecutive 12-month period that includes some days in current year.
+- Bona Fide Residence Test: To qualify, you must have established a residence
+  in a foreign country and lived there for an uninterrupted period that
+  includes an entire tax year (January 1 to December 31). You need to demonstrate
+  an intention to stay in the foreign country indefinitely or for an extended
+  period, integrating into the local community and lifestyle. Paying local taxes
+  may help support your claim, but it is not a strict requirement.
+
+- Physical Presence Test: You must be physically present in a foreign country
+  or countries for at least 330 full days during any consecutive 12-month
+  period. This 12-month period does not need to be entirely within the current
+  year, but it must include part of the current year to claim the exclusion for
+  that year. This test qualifies you for a prorated exclusion based on the number
+  of qualifying days in the year.
+
+Additionallu, you can generally claim the Foreign Tax Credit for foreign taxes
+paid on income included in your U.S. tax return that is not excluded under the
+Foreign Earned Income Exclusion.
 
 /* If you have any foreign names or addresses, please provide them in the original language in addition to the English translation. If I am familiar with a standard translation, I will use it. */
 
