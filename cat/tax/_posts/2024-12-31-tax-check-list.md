@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2023 Tax Return Checklist
+title: 2024 Tax Return Checklist
 categories:
 - tax
 ---
@@ -20,9 +20,9 @@ to remove the password, or put the password in the filename. Google Drive alread
 You can create a Google doc or Google sheets after you enter your link by clicking "+ New", or create your own
 simple word or text document and upload it along with tax documents.
 
-### New in 2023.
+### New in 2024.
 
-- VA residents only: 2023 tax rebate received ($200/$400)? Not sure, please lookup [here](https://www.individual.tax.virginia.gov/IOP/#/rebate/rebateStatus). 
+- None so far.
 
 ### Frequently Forgotten Items.
 
@@ -42,7 +42,7 @@ These items can help you if provided or hurt you if omitted. Highlights here, de
 
 ### Are You a US Citizen, Resident Alien, or Nonresident Alien?
 
-- Were you (or your spouse if married) a citizen, a permanent resident (green card holder), or a professional worker with an H-1B, L1 visa for the entire year of 2023?
+- Were you (or your spouse if married) a citizen, a permanent resident (green card holder), or a professional worker with an H-1B, L1 visa for the entire year of 2024?
 - If you have not been a resident for the current year and the prior year, please list your (and your spouse's if married) *complete* visa (status) history in the format shown below:
 
    -   20XX F1
@@ -52,7 +52,7 @@ These items can help you if provided or hurt you if omitted. Highlights here, de
 
 and be sure to provide information in the _Nonresident_ section at the end of this checklist.
 
-NB, Special benefit for married couples: if one spouse is a resident at the end of the year 2023, you and your nonresident spouse can elect to file jointly as residents.
+NB, Special benefit for married couples: if one spouse is a resident at the end of the year 2024, you and your nonresident spouse can elect to file jointly as residents.
 
 ### What is Your Filing Status?
 
@@ -100,7 +100,7 @@ I do _not_ use it for the filing fee or any other purposes, for new clients or r
 
 ### Virtual Currency Question.
 
-At any time during 2023, did you: (a) receive (as a reward, award, or payment for property or services); or (b) sell,
+At any time during 2024, did you: (a) receive (as a reward, award, or payment for property or services); or (b) sell,
 exchange, gift, or otherwise dispose of a digital asset (or a financial interest in a digital asset) (Yes/No)?
 
 The following actions do not require a Yes answer:
@@ -138,9 +138,9 @@ were abroad. You do not need to include vacations where you did
 not change your state residency. For travel history outside the United States,
 you can retrieve your records from the [I94 Website](https://i94.cbp.dhs.gov/I94/#/history-search){:target="_blank"}.
 
-- 01/01/2023 - 05/15/2023 Maryland (MD)
-- 05/16/2023 - 08/15/2023 China
-- 08/16/2023 - 12/31/2023 Virginia (VA)
+- 01/01/2024 - 05/15/2024 Maryland (MD)
+- 05/16/2024 - 08/15/2024 China
+- 08/16/2024 - 12/31/2024 Virginia (VA)
 
 ### Income and Income Adjustment.
 
@@ -156,7 +156,7 @@ you can retrieve your records from the [I94 Website](https://i94.cbp.dhs.gov/I94
     the source account, showing contributions. If you don't have this form, note
     the date you made the contribution, how much you contributed, and the year it
     was for, based on your records.
-  - Amount Withdrawn: Provide information on distributions made in 2023 from
+  - Amount Withdrawn: Provide information on distributions made in 2024 from
     the source account, using Form 1099-R issued for the year.
   - Remaining Balance in the Source Account(s): Indicate the year-end balance in
     the source account(s), either from Form 5498 or your records. If you have multiple
@@ -165,14 +165,14 @@ you can retrieve your records from the [I94 Website](https://i94.cbp.dhs.gov/I94
   - Destination of the Money: If you have Form 5498 for the target account,
     include it to show rollovers or conversions. If not, specify the type of
     account the money was moved to (IRA, Roth IRA, 401K, Roth 401K, etc.), along
-    with the amount received in 2023, based on your records.
+    with the amount received in 2024, based on your records.
 
   For example:
 
-  - Contribution: I added $6,000 to a traditional IRA on April 1, 2024, for the 2023 tax year. I don't have Form 5498 from the source.
+  - Contribution: I added $6,000 to a traditional IRA on April 1, 2025, for the 2024 tax year. I don't have Form 5498 from the source.
   - Distribution: I moved $6,001.23 from the traditional IRA, as detailed on Form 1099-R.
-  - Remaining Balance: As of December 31, 2023, the **combined** balance of **all** my traditional and rollover IRAs across **all** banks was $0, but I do not have Forms 5498 to show this.
-  - Destination: The $6,001.23 was transferred to a Roth IRA in 2023, but I don't have Form 5498 for the target account.
+  - Remaining Balance: As of December 31, 2024, the **combined** balance of **all** my traditional and rollover IRAs across **all** banks was $0, but I do not have Forms 5498 to show this.
+  - Destination: The $6,001.23 was transferred to a Roth IRA in 2024, but I don't have Form 5498 for the target account.
 
 - Traditional IRA contribution only. Please provide:
   - The date that you contributed or you will contribute (you have until the filing deadline to make contribution).
@@ -310,9 +310,9 @@ deductible items such as donations, medical expenses, and state tax paid.
 The itemized deduction items: 
 
 - Mortgage and home equity interests [Form 1098](https://www.irs.gov/pub/irs-pdf/f1098.pdf).
-- (The **principal amount paid** for the year _OR_ equivalently the ending principal balance on 12/31/2023 _OR_ the average balance) _IF_ the borrowed amount exceeds 750K. The information can be obtained in one of the following ways:
+- (The **principal amount paid** for the year _OR_ equivalently the ending principal balance on 12/31/2024 _OR_ the average balance) _IF_ the borrowed amount exceeds 750K. The information can be obtained in one of the following ways:
   - [Form 1098](https://www.irs.gov/pub/irs-pdf/f1098.pdf).
-  - Mortgage statements of December 2023 and January 2024.
+  - Mortgage statements of December 2024 and January 2025.
   - Use the [mortgage calculator](https://docs.google.com/spreadsheets/d/1siAAS4TWKV-T4j9ARfrzN4CsgjBA2v-XzXNCWAJiFws){:target="_blank"}.
   - For mortgage loans with uneven payments, please provide the average balance
     by adding the outstanding balance of a debt on each month during the
@@ -420,7 +420,7 @@ If you provide the business income and expenses manually, here is the list:
 
 ### Tesla and Other Electric Vehicle Credit
 
-If your vehicle is [qualified](https://fueleconomy.gov/feg/tax2023.shtml){:target="_blank"}, please provide:
+If your vehicle is [qualified](https://fueleconomy.gov/feg/tax2024.shtml){:target="_blank"}, please provide:
 
 - Year.
 - Make.
@@ -462,7 +462,7 @@ In addition, your modified adjusted gross income (AGI) may not exceed:
   - Account number.
   - Owner name.
   - beneficiary name.
-  - Amount contributed in 2023.
+  - Amount contributed in 2024.
 - MA: rent paid.
   - landlord's name
   - landlord's address
@@ -497,9 +497,9 @@ Please provide the total amount of these purchases, as well as the sales or use 
 ### Nonresident Alien
 
 - Which country are you a citizen of (China, India, or other countries)?
-- If the status ever changed in the current year or a prior year, the date of change (MM/DD/YYYY). For example, "10/01/2023 from F1 to H1B."
-- How many days (including partial days) have you stayed in the US in 2023, 2022, and 2021 respectively? Do not count days when you were a nonresident with F or J visa. You can get your travel history outside the United States from the [I94 Website](https://i94.cbp.dhs.gov/I94/#/history-search) and use the [Days Calculator](https://www.timeanddate.com/date/durationresult.html) to compute days between two dates.
-- Is the number of days in the US in 2023 consistent with the location information provided earlier?
+- If the status ever changed in the current year or a prior year, the date of change (MM/DD/YYYY). For example, "10/01/2024 from F1 to H1B."
+- How many days (including partial days) have you stayed in the US in 2024, 2023, and 2022 respectively? Do not count days when you were a nonresident with F or J visa. You can get your travel history outside the United States from the [I94 Website](https://i94.cbp.dhs.gov/I94/#/history-search) and use the [Days Calculator](https://www.timeanddate.com/date/durationresult.html) to compute days between two dates.
+- Is the number of days in the US in 2024 consistent with the location information provided earlier?
 - Have you applied for a green card (i.e. submitted I-140)?
 - Have you received form 1042-S?
 - Does any wage document include a treaty deduction (we cannot deduct twice)?
@@ -507,6 +507,11 @@ Please provide the total amount of these purchases, as well as the sales or use 
 - [New client only] In what years have you filed federal taxes claiming US-China tax treaty 20(c)? You do not need to answer the question if you have provided last year's return.
 
 ### Foreign Earned Income Exclusion (FEIE) / Foreign Tax Credit (FTC)
+
+You can qualify FEIE by passing either:
+
+- Bona Fide Residence Test: You must have lived in a foreign country for an uninterrupted period that includes a full tax year (January 1 to December 31).
+- Physical Presence Test: You must be physically present in a foreign country or countries for 330 full days during any consecutive 12-month period that includes some days in current year.
 
 /* If you have any foreign names or addresses, please provide them in the original language in addition to the English translation. If I am familiar with a standard translation, I will use it. */
 
@@ -519,7 +524,7 @@ Please provide the total amount of these purchases, as well as the sales or use 
 - Employer's U.S. address if it has one.
 - Income earned in U.S. dollars, use [IRS published conversion rate](https://www.irs.gov/individuals/international-taxpayers/yearly-average-currency-exchange-rates){:target="_blank"}:
 
-| County          | Currency | 1.00 USD in 2023 |
+| County          | Currency | 1.00 USD in 2024 |
 | :---            | :---     |    ---:          |
 | Australia       | Dollar   |   1.506          |
 | Canada          | Dollar   |   1.350          |
@@ -529,10 +534,10 @@ Please provide the total amount of these purchases, as well as the sales or use 
 | Japan           | Yen      | 140.511          |
 
 - Do you pay income tax to a foreign country on the foreign earned income? If so, please provide a document showing taxable income and tax paid.
-- List travel history to and from the US in the format below from 01/01/2019 until now.
-  - 11/01/2019 - 06/31/2021 in China.
-  - 07/01/2020 - 07/15/2023 in the US, earned $0.
-  - 07/16/2022 - 02/19/2024 in China.
+- List travel history to and from the US in the format below from 01/01/2023 until now.
+  - 11/01/2023 - 06/31/2023 in China.
+  - 07/01/2024 - 07/15/2024 in the US, earned $0.
+  - 07/16/2025 - 02/19/2025 in China.
 - Did you maintain a home in the United States while living abroad? 
    - If yes, please provide the address of your home,  rented or not, the names of the occupants, and their relationship to you.
 - The latest year you filed foreign earned income exclusion (Form 2555)?
@@ -567,9 +572,9 @@ please provide information on EACH of the accounts as follows:
 
 Please convert to U.S. dollars using the end of the calendar year exchange
 rate and report in U.S. dollars, you can use the [Currency Exchange Rates Converter](https://fiscaldata.treasury.gov/currency-exchange-rates-converter/){:target="_blank"}
-from the Treasury FiscalData. These are the selected exchange rates on 12/31/2023:
+from the Treasury FiscalData. These are the selected exchange rates on 12/31/2024:
 
-| US Dollar       | 1.00 USD on 12/31/2023 |
+| US Dollar       | 1.00 USD on 12/31/2024 |
 | ---             | ---:     |
 |Australia-Dollar |   1.472  |
 |Canada-Dollar    |   1.326  |
@@ -613,8 +618,8 @@ for each recipient, listing all entries in chronological order. Example:
 
 | Date       | Recipient   | Description            | Amount      |
 | ---------- | ----------- | ---------------------- | -----------:|
-| 04/15/2023 | Xiaohua Mao | Cash                   |   $80,000   |
-| 10/15/2023 | Xiaohua Mao | Cash                   |   $80,000   |
+| 04/15/2024 | Xiaohua Mao | Cash                   |   $80,000   |
+| 10/15/2024 | Xiaohua Mao | Cash                   |   $80,000   |
 | **Total**  |             |                        | **$160,000**|
 
 <a name="fn1">1</a> According to the IRS, a gift is defined as:
@@ -630,10 +635,10 @@ of the funds' source and their intended use in case of inquiries from the
 
 - A _Resident_ Given a Gift
 
-If you give a gift of more than the annual exclusion limit of $17,000 (2023),
+If you give a gift of more than the annual exclusion limit of $18,000 (2024),
 you must file [Form 709][form 709]{:target="_blank"}. However, you do
 not have to pay gift tax unless your lifetime gifts exceed the lifetime gift
-tax limit of $12.92 million (2023). This is the total amount of money or
+tax limit of $13.61 million (2024). This is the total amount of money or
 property that you can give away during your lifetime without having to pay gift
 tax.
 
