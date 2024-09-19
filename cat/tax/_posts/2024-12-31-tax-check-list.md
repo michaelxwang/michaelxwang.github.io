@@ -524,7 +524,7 @@ You can qualify Foreign Earned Income Exclusion by passing either:
   that year. This test qualifies you for a prorated exclusion based on the number
   of qualifying days in the year.
 
-Additionallu, you can generally claim the Foreign Tax Credit for foreign taxes
+Additionally, you can generally claim the Foreign Tax Credit for foreign taxes
 paid on income included in your U.S. tax return that is not excluded under the
 Foreign Earned Income Exclusion.
 
