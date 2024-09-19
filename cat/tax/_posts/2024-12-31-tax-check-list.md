@@ -521,7 +521,7 @@ You can qualify Foreign Earned Income Exclusion by passing either:
   or countries for at least 330 full days during any consecutive 12-month
   period. This 12-month period does not need to be entirely within the current
   year, but it must include part of the current year to claim the exclusion for
-  that year. This test qualifies you for a prorated exclusion based on the number
+  that year. This test qualifies you for a prorated exclusion limit based on the number
   of qualifying days in the year.
 
 Additionally, you can generally claim the Foreign Tax Credit for foreign taxes
