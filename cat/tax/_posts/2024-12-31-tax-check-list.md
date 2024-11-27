@@ -428,14 +428,11 @@ If your vehicle is [qualified](https://fueleconomy.gov/feg/tax2024.shtml){:targe
 - VIN (Vehicle Identification Number).
 - Date Placed in service (date bought).
 - Price or sales receipt.
-- 2022 tax return (if I did not filed your return) for AGI verification.
+- 2023 tax return (if I did not filed your return) for AGI verification. You can use your modified AGI from the year you take delivery of the vehicle or the year before, whichever is less. Your modified adjusted gross income (AGI) may not exceed:
+  - $300,000 for married couples filing jointly.
+  - $225,000 for heads of households.
+  - $150,000 for all other filers.
 - Home charge station receipt.
-
-In addition, your modified adjusted gross income (AGI) may not exceed:
-
-- $300,000 for married couples filing jointly.
-- $225,000 for heads of households.
-- $150,000 for all other filers.
 
 ### Medical Insurance Documents
     
