@@ -17,12 +17,12 @@ No pudo yo seguir su vuelo.
 Canté al aire una aria,  
 ¿Adónde cayó a la tierra?  
 Quién tiene vista tan aguda,  
-para seguir adónde iba.  
+Para seguir adónde iba.  
 
-largo, largo tiempo pasará,  
+Largo, largo tiempo pasará,  
 Encontré la flecha intacta;  
-Y la canción en su entera,  
-Un amigo mio la guardaba.
+Y la canción por entera,  
+De un amigo en el alma.
 
 The Arrow and the Song  
 Henry Wadsworth Longfellow (1807 - 1882)
