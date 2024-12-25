@@ -11,8 +11,8 @@ categories:
 <br>
 何谓诗欤？<br>
 美目盼兮。<br>
-君不知乎？<br>
-诗即汝斯。<br>
+岂不知乎？<br>
+诗即汝矣。<br>
 <br>
 Rimas XXI<br>
 Gustavo Adolfo Bécquer (1836-1870)<br>
