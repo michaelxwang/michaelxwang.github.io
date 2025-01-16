@@ -332,9 +332,10 @@ The itemized deduction items:
   - WA King County: [search](https://blue.kingcounty.com/Assessor/eRealProperty/default.aspx){:target="_blank"}.
   - WA Snohomish County: [search](https://snohomishcountywa.gov/2251/Property-Taxes-and-Assessments){:target="_blank"}.
 - Energy property based on manufacturer's certification document.
-- **Personal Property Tax (car tax).**
+- **Personal Property Tax (car tax), see [this link][personal_property_tax]{:target="_blank"} for a complete list.**
   - CA: The vehicle [license fee](https://lao.ca.gov/1998/061798_vlf_primer/061798_vlf.html) is deductible, use [this page](https://www.dmv.ca.gov/wasapp/FeeCalculatorWeb/vlfForm.do) to find the vehicle license fee.
   - MA: Vehicle excise tax.
+  - SC: The Personal Property Tax paid to your county based on your vehicle’s value.
   - VA: Car tax is deductible. If your car is in Fairfax county, use [this page](https://www.fairfaxcounty.gov/dta_mobileepay/BillQuest.aspx) to get your car tax. In Fairfax city, use [this page](https://eservices.fairfaxva.gov/taxes/default.aspx).
   - WA: In most major metropolitan areas of Pierce, King, and
   Snohomish counties of Washington state, Regional Transit Authority
@@ -538,12 +539,13 @@ Foreign Earned Income Exclusion.
 
 | County          | Currency | 1.00 USD in 2024 |
 | :---            | :---     |    ---:          |
-| Australia       | Dollar   |   1.506          |
-| Canada          | Dollar   |   1.350          |
-| China           | Yuan     |   7.075          |
-| Hong Kong       | Dollar   |   7.829          |
-| India           | Rupee    |  82.572          |
-| Japan           | Yen      | 140.511          |
+| Australia       | Dollar   |   1.612          |
+| Canada          | Dollar   |   1.438          |
+| China           | Yuan     |   7.299          |
+| Euro Zone       | Euro     |   0.924          |
+| Hong Kong       | Dollar   |   7.766          |
+| India           | Rupee    |  85.577          |
+| Japan           | Yen      | 156.850          |
 
 - Do you pay income tax to a foreign country on the foreign earned income? If so, please provide a document showing taxable income and tax paid.
 - List travel history to and from the US in the format below from 01/01/2023 until now.
@@ -588,12 +590,13 @@ from the Treasury FiscalData. These are the selected exchange rates on 12/31/202
 
 | US Dollar       | 1.00 USD on 12/31/2024 |
 | ---             | ---:     |
-|Australia-Dollar |   1.472  |
-|Canada-Dollar    |   1.326  |
-|China-Renminbi   |   7.104  |
-|Hong Kong-Dollar |   7.811  |
-|India-Rupee      |  83.162  |
-|Japan-Yen        | 141.470  |
+|Australia-Dollar |   1.612  |
+|Canada-Dollar    |   1.438  |
+|China-Renminbi   |   7.299  |
+|Euro Zone-Euro   |   0.961  |
+|Hong Kong-Dollar |   7.766  |
+|India-Rupee      |  85.577  |
+|Japan-Yen        | 156.850  |
 
 ### Gift taxes
 
@@ -671,3 +674,4 @@ I hope this checklist helps you to prepare your tax documents.
 [form 3520]: https://www.irs.gov/pub/irs-pdf/f3520.pdf
 [big brother]: https://en.wikipedia.org/wiki/Big_Brother_(Nineteen_Eighty-Four)
 [form 709]: https://www.irs.gov/pub/irs-pdf/f709.pdf
+[personal_property_tax]: https://ttlc.intuit.com/turbotax-support/en-us/help-article/tax-credits-deductions/car-registration-fee-deductible/L0NkGtxYR_US_en_US
