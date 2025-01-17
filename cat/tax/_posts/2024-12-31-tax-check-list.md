@@ -539,13 +539,13 @@ Foreign Earned Income Exclusion.
 
 | County          | Currency | 1.00 USD in 2024 |
 | :---            | :---     |    ---:          |
-| Australia       | Dollar   |   1.612          |
-| Canada          | Dollar   |   1.438          |
-| China           | Yuan     |   7.299          |
+| Australia       | Dollar   |   1.516          |
+| Canada          | Dollar   |   1.370          |
+| China           | Yuan     |   7.189          |
 | Euro Zone       | Euro     |   0.924          |
-| Hong Kong       | Dollar   |   7.766          |
-| India           | Rupee    |  85.577          |
-| Japan           | Yen      | 156.850          |
+| Hong Kong       | Dollar   |   7.803          |
+| India           | Rupee    |  83.677          |
+| Japan           | Yen      | 151.353          |
 
 - Do you pay income tax to a foreign country on the foreign earned income? If so, please provide a document showing taxable income and tax paid.
 - List travel history to and from the US in the format below from 01/01/2023 until now.
