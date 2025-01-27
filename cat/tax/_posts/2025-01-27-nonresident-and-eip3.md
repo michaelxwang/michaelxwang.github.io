@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nonresident Alien Ineligibility for the 2021 Economic Impact Payment (EIP3) 
+title: Nonresident Aliens and the 2021 Economic Impact Payment (EIP3)
 categories:
 - tax
 ---
