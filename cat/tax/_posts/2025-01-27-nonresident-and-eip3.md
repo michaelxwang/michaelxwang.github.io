@@ -1,18 +1,18 @@
 ---
 layout: post
-title: Nonresident Alien and Economic Impact Payment Round 3
+title: Nonresident Alien Ineligibility for the 2021 Economic Impact Payment (EIP3) 
 categories:
 - tax
 ---
 
-Many people who filed as a nonresident alien on Form 1040-NR have received
-a check of $1,400 (nonresident aliens cannot file a joint return and cannot claim
-dependents except certain nationalities). This is an error by the IRS.
+Many individuals have questions regarding their eligibility for the 2021
+Economic Impact Payment (EIP3). While some taxpayers may have received EIP3
+payments in error, it's crucial to understand that *nonresidents aliens were not eligible for the payment.*
 
 <img src="/assets/images/20250127-1400.png"/>
 
-Economic Impact Payment 3 was authorized by [American Rescue Plan Act of 2021][arpa] which added [Internal Revenue Code (IRC) Section 6428B][irc]. 
-The [IRC Section 6428B(c)][irc] defined the eligibal individual as follows:
+The [American Rescue Plan Act (ARPA)][arpa] explicitly excludes nonresident aliens from receiving the EIP3.
+This law added Section 6428B in the Internal Revenue Code (IRC), and The [IRC Section 6428B(c)][irc] defined an *eligibal individual* as follows:
 
 <blockquote style="margin-left: 0px;">
   (c) <b>Eligible individual.</b> For purposes of this section, the term "eligible individual" means any individual other than -<br>
@@ -33,9 +33,15 @@ The IRS interpreted the law accordingly in its [FAQ][faq]:
 > IRS by following the instructions as described in Returning the Economic Impact
 > Payment for instructions.
 
-The IRS is an executive branch of the US government, it can make a mistake in its execution, but it cannot change the
-the law. When the IRS sent you the check, it accompanies with a letter asking to agree or not agree, you should not
-agree, and following the [instructions][sendback] to send the check back to the IRS.
+It is important to note that while the IRS is part of the executive branch of
+the U.S. government, it cannot change the law. The IRS may make
+mistakes in its execution, such as issuing payments to ineligible individuals.
+However, it is up to taxpayers to follow the law. When the IRS sent the check,
+it included a letter asking for confirmation of eligibility. If you
+received the payment in error, you should not agree to the eligibility and should
+follow the [instructions][sendback] to return the payment.
+
+The IRS has provided specific instructions for returning a misissued EIP3:
 
 > What should I do to return an Economic Impact Payment that was received as a direct deposit or a paper check? (updated September 27, 2021)
 > 
@@ -54,7 +60,9 @@ agree, and following the [instructions][sendback] to send the check back to the 
 >  2. Write on the check/money order made payable to "U.S. Treasury" and write Third EIP, and the taxpayer identification number (social security number, or individual taxpayer identification number) of the recipient of the check.
 >  3. Include a brief explanation of the reason for returning the EIP.
 
-The IRS address to send the check depends where you live, and the above provided a link has a table.
+The IRS mailing address for returning the payment depends on where you live,
+and the link provided in the instructions contains a table with the appropriate
+locations.
 
 [arpa]: https://www.govinfo.gov/content/pkg/PLAW-117publ2/pdf/PLAW-117publ2.pdf
 [irc]: https://www.taxnotes.com/research/federal/usc26/6428B
