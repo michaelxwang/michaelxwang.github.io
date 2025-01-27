@@ -38,9 +38,9 @@ The IRS interpreted the law accordingly in its [FAQ][faq]:
 It is important to note that while the IRS is part of the executive branch of
 the U.S. government, it cannot change the law. The IRS may make
 mistakes in its execution, such as issuing payments to ineligible individuals.
-However, it is up to taxpayers to follow the law. When the IRS sent the check,
-it included a letter asking for agreement with the change. If you
-received the payment in error, you should not agree and should
+However, taxpayers are responsible for complying with the law. When the IRS sent the check,
+it included a letter asking for agreement with the change. In this case, 
+you should not agree and instead
 follow the [instructions][sendback] to return the payment.
 
 The IRS has provided specific instructions for returning a misissued EIP3:
