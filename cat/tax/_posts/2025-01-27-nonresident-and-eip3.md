@@ -45,7 +45,7 @@ follow the [instructions][sendback] to return the payment.
 
 The IRS has provided specific instructions for returning a misissued EIP3:
 
-> What should I do to return an Economic Impact Payment that was received as a direct deposit or a paper check? (updated September 27, 2021)
+> **What should I do to return an Economic Impact Payment that was received as a direct deposit or a paper check? (updated September 27, 2021)**
 > 
 > You should return the payment as described below.
 >
