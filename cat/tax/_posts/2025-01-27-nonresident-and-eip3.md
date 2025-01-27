@@ -29,8 +29,8 @@ The IRS interpreted the law accordingly in its [FAQ][faq]:
 >
 > A person who’s a qualifying resident alien with a valid Social Security number
 > was eligible for the payment only if he or she is a qualifying resident alien
-> in 2021 and not claimed as a dependent of another taxpayer. A nonresident alien
-> in 2021 wasn’t eligible for the payment. An alien who received a payment but
+> in 2021 and not claimed as a dependent of another taxpayer. *A nonresident alien
+> in 2021 wasn’t eligible for the payment.* An alien who received a payment but
 > was not a qualifying resident alien for 2021 should return the payment to the
 > IRS by following the instructions as described in Returning the Economic Impact
 > Payment for instructions.
