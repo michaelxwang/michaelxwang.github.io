@@ -5,11 +5,13 @@ categories:
 - tax
 ---
 
-Many individuals have questions regarding their eligibility for the 2021
-Economic Impact Payment (EIP3). While some taxpayers may have received EIP3
-payments in error, it's crucial to understand that *nonresidents aliens were not eligible for the payment.*
-
 <img src="/assets/images/20250127-1400.png"/>
+
+Many individuals who were nonresident aliens in 2021 are now receiving the
+$1,400 Economic Impact Payment (EIP3), raising questions about their
+eligibility as well as how to handle the payment. Nonresident aliens were not
+eligible for EIP3 in 2021. If you receive the payment, it was issued in error
+by the IRS and should be returned.
 
 The [American Rescue Plan Act (ARPA)][arpa] explicitly excludes nonresident aliens from receiving the EIP3.
 This law added Section 6428B in the Internal Revenue Code (IRC), and The [IRC Section 6428B(c)][irc] defined an *eligibal individual* as follows:
@@ -37,8 +39,8 @@ It is important to note that while the IRS is part of the executive branch of
 the U.S. government, it cannot change the law. The IRS may make
 mistakes in its execution, such as issuing payments to ineligible individuals.
 However, it is up to taxpayers to follow the law. When the IRS sent the check,
-it included a letter asking for confirmation of eligibility. If you
-received the payment in error, you should not agree to the eligibility and should
+it included a letter asking for agreement with the change. If you
+received the payment in error, you should not agree and should
 follow the [instructions][sendback] to return the payment.
 
 The IRS has provided specific instructions for returning a misissued EIP3:
