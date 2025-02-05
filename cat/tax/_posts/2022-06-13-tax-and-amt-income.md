@@ -1,22 +1,58 @@
 ---
 layout: post
-title: Maximum AMT income (ISO spread) without triggering AMT tax
+title: Maximum ISO spread without triggering AMT tax
 categories:
 - tax
 ---
 
-This program estimates regular tax based gross income and filing status under standard deduction, and
-the maximum AMT income (ISO spread) without triggering AMT tax.
+When exercising Incentive Stock Options (ISO), taxpayers may become subject to
+the Alternative Minimum Tax (AMT). The AMT is a parallel tax system designed to
+ensure that taxpayers who benefit from certain deductions or exclusions still
+pay a minimum amount of tax.
 
-Based on Form 6251, under "normal" conditions the AMT tax is computed as:
+This tutorial will guide you through:
 
-( gross income + AMT income (ISO spread) - AMT exemption ) * 26%
+- How the AMT tax works when exercising ISOs.
+- How to calculate the maximum ISO spread (the difference between the market price and exercise price) without triggering AMT.
+  This becomes important when you have a choice of how much ISO's to exercise.
 
-So the max AMT income is obtained by solving the equation:
+#### How AMT Tax is Computed
 
-( gross income + AMT income (ISO spread) - AMT exemption ) * 26% = regular income
+Based on IRS Form 6251, under "normal" conditions the AMT tax is calculated as:
 
-Since there is no analytical solution, the AMT income (ISO spread) can be computed by the following Python program. 
+AMT tax = ( Gross income + AMT income (ISO spread) - AMT exemption ) * 26%
+
+Where:
+
+- Gross Income: The taxpayer's regular taxable income.
+- ISO Spread: The difference between the market value of the stock at exercise and the exercise price (considered as income for AMT purposes).
+- AMT Exemption: A fixed amount that shields some income from AMT. This exemption phases out at higher income levels.
+- 26% Tax Rate: This is the lower AMT rate applied to income below the AMT threshold.
+
+The AMT only applies if the calculated AMT tax exceeds the regular tax.
+
+#### Finding the Maximum ISO Spread Without Triggering AMT
+
+To avoid AMT, the AMT tax must be less than or equal to the Regular Tax. The maximum ISO Spread is determined by setting AMT tax equal to Regular Tax, i.e.:
+
+( Gross Income + ISO Spread − AMT Exemption) × 26% = Regular Tax
+
+To solve the equation, we follow these steps:
+
+- Estimate your Gross Income for the year.
+- Estimate the Regular Tax by using [this spreadsheet][spreadsheet]{:target="_blank"}.
+- Find the AMT Exemption from the [Form 6251][form6251]{:target="_blank"} for the year.
+- Solve the equation.
+
+Let us work out a concrete example:
+
+- In 2021, you was single, and your gross income was $150,000.
+- The Regular Tax on this income was calculated as $27,009 using [the spreadsheet][spreadsheet]{:target="_blank"}.
+- The AMT Exemption for single status in 2021 was $73,600 based on [2021 Form 6251][form6251-2021]{:target="_blank"}.
+- Solving the equation (150000 + ISO Spread - 73600)*26% = 27009, we have the max ISO Spread we can have without triggering AMT was $27,481.
+- If your company offers you $0.07 for a share worth of $0.74, the corresponding number of shares you can exercise is: $ 27481/(0.74-0.07) = 41016 $.
+
+PS: A Python program to automate the calculation for the year 2021 is copied below.
 
 ```
 """ To calculate taxable income and max AMT income (ISO spead) without triggering AMT tax with the following limitations:
@@ -100,3 +136,7 @@ if __name__ == "__main__":
     print(f"regular tax is {obj.tax}.")
     print(f"max amt income without triggering amt tax is {obj.max_amt_income}.")
 ```
+
+[spreadsheet]: https://docs.google.com/spreadsheets/d/1BnjUtb6ul_p62k2YEdBXcjHWvZunSVw0Y2E3BqTKao0
+[form6251]: https://www.irs.gov/pub/irs-pdf/f6251.pdf
+[form6251-2021]: https://www.irs.gov/pub/irs-prior/f6251--2021.pdf
