@@ -45,7 +45,7 @@ Example:
 Here is how you report:
 
 - On your 2018 form 1040, you report deduction Y1 between $0 and $5,500.
-- On your 2019 form 1040, you report deduction Y2 between $0 and $6,000 and income Y1 + Y2 betwwen $0 and $11,500.
+- On your 2019 form 1040, you report deduction Y2 between $0 and $6,000 and income Y1 + Y2 between $0 and $11,500.
 
 If your income level does not allows you to deduct or or you choose not to deduct, then Y1 = Y2 = 0.
 
