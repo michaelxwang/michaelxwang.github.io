@@ -174,6 +174,8 @@ you can retrieve your records from the [I94 Website](https://i94.cbp.dhs.gov/I94
   - Remaining Balance: As of December 31, 2024, the **combined** balance of **all** my traditional and rollover IRAs across **all** banks was $0, but I do not have Forms 5498 to show this.
   - Destination: The $6,001.23 was transferred to a Roth IRA in 2024, but I don't have Form 5498 for the target account.
 
+  NB: A Rollover IRA is a type of Traditional IRA that is specifically used to hold money rolled over from an employer-sponsored retirement plan (like a 401(k), 403(b), or pension plan).
+
 - Traditional IRA contribution only. Please provide:
   - The date that you contributed or you will contribute (you have until the filing deadline to make contribution).
   - The amount of contribution.
