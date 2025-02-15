@@ -36,15 +36,22 @@ itemizing deductions on your California state return.
 
 #### [Primary Home Capital Gain Exclusion][121 exclusion]{:target="_blank"}
 
-For married couples filing jointly, up to $500,000 of capital gains can be
-excluded. For single filers and married individuals filing separately, up to
-$250,000 of capital gains can be excluded.
+- For married couples filing jointly, up to $500,000 of capital gains can be excluded. 
+- For single filers and married individuals filing separately, up to $250,000 of capital gains can be excluded.
 
-You must have owned and used the property as your primary residence for at least 2 of the 5 years before the sale.
+To qualify for this exclusion, you must have:
 
-Home improvement expenses (as opposed to repair expenses) can be used to reduce
-the capital gain if your profit exceeds the exclusion limit when you sell your home.
-They are not deductible in current year.
+- Owned and used the property as your primary residence for at least 2 of the 5 years before the sale.
+- Not used the exclusion in the past 2 years for another home sale.
+
+Certain exceptions and special rules apply, such as for military personnel, disability, and unforeseen circumstances.
+Please refer to [IRS Topic No. 701 – Sale of Your Home][121 exclusion]{:target="_blank"}
+for detailed conditions.
+
+If your capital gain exceeds the exclusion limit, qualified home improvement
+expenses (as opposed to regular repairs) can help reduce taxable gain. These
+costs are not deductible in the year incurred but can be added to the cost
+basis of your home, effectively lowering the taxable gain upon sale.
 
 #### Common [Residential Energy Credits][energy efficiency]{:target="_blank"}
 
