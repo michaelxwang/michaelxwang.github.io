@@ -257,7 +257,7 @@ to organize your expenses. If you want to do it the hard way (this feature will 
 
 ### Sale of Primary Residence or Rental Home
 
-- [1099-S](https://www.irs.gov/pub/irs-pdf/f1099s.pdf) if issued as part of closing process.
+- [1099-S](https://www.irs.gov/pub/irs-pdf/f1099s.pdf) if issued as part of the closing process.
 - Both [Closing documents][closing doc] when you bought and sold the property.
 - A spreadsheet listing of major improvements (that increase the home value) and sales expenses not in closing documents.
   - Date
@@ -583,6 +583,8 @@ please provide information on EACH of the accounts as follows:
 - Address in English including postal code (can use headquarter's address).
 - Account number.
 - The maximum value of the account during the calendar year in US dollars (not taxable).
+- Opened in 2024 (yes or no)?
+- Closed in 2024 (yes or no)?
 - Interest generated from the account in US dollars (taxable).
 - Dividends generated from the account in US dollars (taxable).
 
