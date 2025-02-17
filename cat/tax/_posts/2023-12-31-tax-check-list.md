@@ -559,7 +559,7 @@ please provide information on EACH of the accounts as follows:
 - Bank name.
 - Type (Bank, Securities, Other - Please specify).
 - Owner if married file jointly (Taxpayer - the person listed first on the tax form, Spouse, or Joint).
-- Address in English including postal code (can use headquarter's address).
+- Address in English including postal code (can use headquarter's address). We have most banks' addresses on file, so you may omit this.
 - Account number.
 - The maximum value of the account during the calendar year in US dollars (not taxable).
 - Interest generated from the account in US dollars (taxable).
