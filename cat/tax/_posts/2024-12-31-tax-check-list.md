@@ -423,7 +423,7 @@ If you provide the business income and expenses manually, here is the list:
 
 ### Tesla and Other Electric Vehicle Credit
 
-If your vehicle is [qualified](https://fueleconomy.gov/feg/tax2024.shtml){:target="_blank"}, please provide:
+If your vehicle is [qualified](https://fueleconomy.gov/feg/tax2023.shtml){:target="_blank"}, please provide:
 
 - Year.
 - Make.
