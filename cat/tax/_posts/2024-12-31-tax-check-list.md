@@ -331,6 +331,7 @@ The itemized deduction items:
   - MD Montgomery County: [search](https://apps.montgomerycountymd.gov/realpropertytax/){:target="_blank"}.
   - VA Fairfax City: [search](https://eservices.fairfaxva.gov/taxes/default.aspx){:target="_blank"}.
   - VA Fairfax County: [search](https://icare.fairfaxcounty.gov/ffxcare/search/commonsearch.aspx?mode=address){:target="_blank"}, [example](/assets/images/20240314-fairfax-ppt.png){:target="_blank"}.
+  - VA Loudoun County: [search](https://reparcelasmt.loudoun.gov/pt/search/CommonSearch.aspx?mode=ADDRESS){:target="_blank"}.
   - WA King County: [search](https://blue.kingcounty.com/Assessor/eRealProperty/default.aspx){:target="_blank"}.
   - WA Snohomish County: [search](https://snohomishcountywa.gov/2251/Property-Taxes-and-Assessments){:target="_blank"}.
 - Energy property based on manufacturer's certification document.
