@@ -133,7 +133,7 @@ such as PayPal and Venmo.
 ### Location Info.
 
 Please provide a list of your locations throughout the year, formatted as shown
-below. Specify the state (anc city if there is a city tax involved) if you were in the United States or the country if you
+below. Specify the state (and city if there is a city tax involved) if you were in the United States or the country if you
 were abroad. You do not need to include vacations where you did
 not change your state residency. For travel history outside the United States,
 you can retrieve your records from the [I94 Website](https://i94.cbp.dhs.gov/I94/#/history-search){:target="_blank"}.
@@ -432,7 +432,7 @@ If your vehicle is [qualified](https://fueleconomy.gov/feg/tax2023.shtml){:targe
 - VIN (Vehicle Identification Number).
 - Date Placed in service (date bought).
 - Price or sales receipt.
-- 2023 tax return (if I did not filed your return) for AGI verification. You can use your modified AGI from the year you take delivery of the vehicle or the year before, whichever is less. Your modified adjusted gross income (AGI) may not exceed:
+- 2023 tax return (if I did not file your return) for AGI verification. You can use your modified AGI from the year you take delivery of the vehicle or the year before, whichever is less. Your modified adjusted gross income (AGI) may not exceed:
   - $300,000 for married couples filing jointly.
   - $225,000 for heads of households.
   - $150,000 for all other filers.

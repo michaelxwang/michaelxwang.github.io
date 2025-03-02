@@ -64,6 +64,11 @@ of the contribution amount, date, and the allocated year to your accountant.
 come before the deadline. The distribution code should be 02 (early
 distribution but exception applies).
 
+- If you do not know if you should enter through the "front
+door" or "back door", then you can wait until you file your tax.
+The dead line for contributing to prior year is 4/15 next year.
+This is why Form 5498 comes after the filing dead line.
+
 - If you do have traditional
 IRA or rollover IRA from 401(k) for which you have not paid taxes
 yet ("old money"), then you would need to convert it to ROTH IRA
@@ -77,7 +82,58 @@ or you will need to keep track of the basis via [Form
 money" and "new money" proportionally, and pay tax on the "old
 money".  
 
-- If you do not know if you should enter through the "front
-door" or "back door", then you can wait until you file your tax.
-The dead line for contributing to prior year is 4/15 next year.
-This is why Form 5498 comes after the filing dead line.
+PS:
+
+When executing a Backdoor Roth IRA conversion, the pro-rata rule applies if you
+have pre-tax funds in a Traditional IRA at any time within the same tax year.
+Even if you complete the Backdoor Roth conversion before rolling over pre-tax
+funds from a 401(k) to a Traditional IRA later in the year, the IRS will still
+apply the pro-rata rule based on your total IRA balances as of December 31 of
+that tax year.
+
+The pro-rata rule requires that when converting funds from a Traditional IRA to
+a Roth IRA, the taxable and non-taxable portions are determined based on the
+ratio of pre-tax to after-tax funds across all your Traditional IRAs as of
+December 31 of that year.
+
+Example Scenario:
+
+  - In January 2024, you contribute $7,000 to a Traditional IRA and immediately convert it to a Roth IRA (Backdoor Roth).
+  - In December 2024, you roll over $693,000 from a 401(k) to a Traditional IRA.
+
+Since the pro-rata rule applies to your entire Traditional IRA balance as of
+December 31, your conversion in January is now subject to taxation.
+
+The Tax Cuts and Jobs Act (Pub. L. No. 115-97) eliminated the ability to recharacterize a Roth IRA conversion starting January 1, 2018.
+This means Roth conversions are irrevocable, and you must pay tax on the pre-tax portion of the conversion.
+
+The non-taxable portion of the $7,000 conversion is determined using the formula:
+
+$$
+\frac{7,000}{7,000+693,000} \times 7,000 = 70.00
+$$
+
+Breakdown of Funds:
+
+| Fund Type        | Amount Before Conversion | Amount Converted | Remaining Balance |
+|----------------------|----------------------------|----------------------|------------------------|
+| After-Tax Fund   | $7,000                      | $70              | $6,930             |
+| Pre-Tax Fund     | $693,000                    | $6,930           | $686,070           |
+
+You have three options afterwards:
+
+Option 1: Transfer the Pre-Tax Portion Out. Best if you want to continue Backdoor Roth conversions tax-efficiently.
+
+  - Roll over the pre-tax portion of the IRA into a 401(k) (if your plan allows it).
+  - Alternatively, roll it into an HSA (if you have an eligible plan and haven't used the once-in-a-lifetime IRA-to-HSA transfer).
+  - Next year, convert only the after-tax portion to a Roth IRA, avoiding pro-rata taxation.
+
+Option 2: Convert Everything and Pay the Tax. Best if you want tax-free growth moving forward.
+
+  - Convert all Traditional IRAs (including rollover IRAs) to a Roth IRA.
+  - "Bite the bullet" and pay tax now to allow tax-free withdrawals later.
+
+Option 3: Stop Backdoor Roth Conversions. Best if you don’t want to deal with complex tracking.
+
+  - Keep everything in the Traditional IRA and let it grow tax-deferred.
+  - If you plan to convert later, track pre-tax and after-tax amounts carefully.
