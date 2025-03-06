@@ -399,7 +399,7 @@ Please create a list by child and by care provider, use Google sheet if necessar
 Please use <a href="https://docs.google.com/spreadsheets/d/1ADLGlpD-Q_SvpOeqirCvc-TQMCaABDbSA0XTrXDfBo0" target="_blank">the self-employed business expense Google sheet</a>
 guide you through the process.
 
-If you provide the business income and expenses manually, here is the list:
+If you provide the business income and expenses manually, here is a partial list:
     
 - Business income ([1099-NEC](https://www.irs.gov/pub/irs-pdf/f1099nec.pdf) and own records).
 - Partnership SE income (Schedules [K-1](https://www.irs.gov/pub/irs-pdf/f1065sk1.pdf)).
@@ -415,6 +415,7 @@ If you provide the business income and expenses manually, here is the list:
 - Publications.
 - Research expenses.
 - Safety equipment.
+- Self-employed health insurance premiums paid.
 - Supplies.
 - Telephones.
 - Tools and equipment.
