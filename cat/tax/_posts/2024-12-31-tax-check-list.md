@@ -28,7 +28,7 @@ simple word or text document and upload it along with tax documents.
 
 These items can help you if provided or hurt you if omitted. Highlights here, detailed in the text body below.
 
-- Mortgage principal paid for loans more than 750K.
+- Mortgage principal amount paid for loans more than 750K.
 - Car tax (CA, MA, VA, WA).
 - Dependent care expenses (5 pieces of info).
 - E*Trade Stock plan supplemental info.
