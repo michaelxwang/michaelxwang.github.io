@@ -433,6 +433,7 @@ If your vehicle is [qualified](https://fueleconomy.gov/feg/tax2023.shtml){:targe
 - VIN (Vehicle Identification Number).
 - Date Placed in service (date bought).
 - Price or sales receipt.
+- Transferred credit to dealership? Yes/No.
 - 2023 tax return (if I did not file your return) for AGI verification. You can use your modified AGI from the year you take delivery of the vehicle or the year before, whichever is less. Your modified adjusted gross income (AGI) may not exceed:
   - $300,000 for married couples filing jointly.
   - $225,000 for heads of households.
