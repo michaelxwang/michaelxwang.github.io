@@ -374,7 +374,9 @@ income. Healthy, high-income individuals should use pre-tax HSA or MFS.
   The states that allow moving expenses include:
 
   - CA  
-  - MA
+  - NY
+  - NJ
+  - PA
 
 ### **Child and Dependent Care Expenses**
     
