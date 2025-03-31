@@ -314,7 +314,7 @@ The itemized deduction items:
 - Mortgage and home equity interests [Form 1098](https://www.irs.gov/pub/irs-pdf/f1098.pdf).
 - (The **principal amount paid** for the year _OR_ equivalently the ending principal balance on 12/31/2024 _OR_ the average balance) _IF_ the borrowed amount exceeds 750K. The information can be obtained in one of the following ways:
   - [Form 1098](https://www.irs.gov/pub/irs-pdf/f1098.pdf).
-  - Mortgage statements of December 2024 and January 2025.
+  - The final mortgage statement for 2024 that shows the "Interest Paid Year to Date" amount matching your Form 1098. This statement should also include the "Principal Paid Year to Date" amount.
   - Use the [mortgage calculator](https://docs.google.com/spreadsheets/d/1siAAS4TWKV-T4j9ARfrzN4CsgjBA2v-XzXNCWAJiFws){:target="_blank"}.
   - For mortgage loans with uneven payments, please provide the average balance
     by adding the outstanding balance of a debt on each month during the
