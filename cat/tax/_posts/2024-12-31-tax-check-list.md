@@ -380,13 +380,17 @@ income. Healthy, high-income individuals should use pre-tax HSA or MFS.
 
 ### **Child and Dependent Care Expenses**
     
-  - Child name for whom the care was given.
   - Name of the provider.
   - Address of the provider.
   - Tax ID or SSN of the provider.
-  - The amount you paid.
+  - The total amount you paid.
+  - Please list each child's name and the amount allocated to them (add more if needed).
+    - Child 1:<br>
+      Amount:
+    - Child 2:<br>
+      Amount:
 
-Please create a list by child and by care provider, use Google sheet if necessary.
+Please create a list by care provider, use Google sheet if necessary.
 
 /* Tuition for education does not count as care, but care with incidental education element does. For details, please click <a href="https://www.irs.gov/pub/irs-pdf/p503.pdf" target="_blank">IRS Publication 503</a>. */
 
