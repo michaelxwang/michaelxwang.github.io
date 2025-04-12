@@ -385,9 +385,9 @@ income. Healthy, high-income individuals should use pre-tax HSA or MFS.
   - Tax ID or SSN of the provider.
   - The total amount you paid.
   - Please list each child's name and the amount allocated to them (add more if needed).
-    - Child 1:<br>
+    - First child's name:<br>
       Amount:
-    - Child 2:<br>
+    - Second child's name:<br>
       Amount:
 
 Please create a list by care provider, use Google sheet if necessary.
