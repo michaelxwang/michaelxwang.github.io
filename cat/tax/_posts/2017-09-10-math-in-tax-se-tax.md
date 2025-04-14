@@ -75,7 +75,7 @@ favors the taxpayer.
 By the way, the 92.35% of the net earnings from the Sch. C business is what
 listed as "Your Taxed Social Security Earnings" and "Your Taxed Medicare Earnings"
 in "Your Social Security Statement", and this ought to be what is used to compute
-the ["quarter of coverage"](https://www.ssa.gov/OACT/COLA/QC.html).
+the ["quarter of coverage"](https://www.ssa.gov/OACT/COLA/QC.html){:target="_blank"}.
 
 In computing the retirement contribution of SE person, however, the IRS
 choose to face the mathematical reality.
