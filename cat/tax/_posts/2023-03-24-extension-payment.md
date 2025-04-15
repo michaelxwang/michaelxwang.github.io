@@ -14,25 +14,23 @@ You can file an extension using one of the following three methods:
 - E-file <a href="https://www.irs.gov/pub/irs-pdf/f4868.pdf" target="_blank">Form 4868</a> with a payment electronically.
 - File a paper Form 4868 with a check.
 
-Please note that while an extension by itself eliminates the bigger
-"fail to file" penalty, it does not extend the time to pay. The
-"fail to pay" penalty will still apply, and interest will accumulate
-on any unpaid amount. Therefore, it is important to make sufficient
-payment with the extension to avoid penalties. You can always get
-back any overpayment when you file your return.
+Please note that while an extension by itself eliminates the larger
+["fail to file" penalty][penalty]{:target="_blank"}
+of 5% per month on the amount owed, it does *not* extend the time to pay. The
+["fail to pay" penalty][penalty]{:target="_blank"},
+at 0.5% per month on the tax owed, will still apply, and [interest][interest]{:target="_blank"} 
+will accrue
+on any unpaid amount. Therefore, it is important to make a sufficient payment with the extension to avoid penalties.
+Any overpayment can be refunded when you file your return - assuming, of course, before the United States files for bankruptcy.
 
 Now, the question is how to determine the amount you owe. To answer this question, I created a
 <a href="https://docs.google.com/spreadsheets/d/1BnjUtb6ul_p62k2YEdBXcjHWvZunSVw0Y2E3BqTKao0/edit#gid=895729579" target="_blank">Google sheets document</a>,
 Simply plug in your numbers, and boom, you will get your answer.
 
-Instruction to use the spreadsheet:
+This simply app does not consider [other tax][other-tax]{:target="_blank"}. Until it is enhanced, you should manuallu add:
 
-- Click the link.
-- Click File of the Google sheets (not of the browser). If "File" is hidden, click the down arrow (v) to bring it up.
-- Select “Make a copy”.
-- Edit the “Name”.
-- Select “Folder” where to be copied.
-- Use the copy.
+- 0.9% Additional Medicare Tax on Medicare wages (Box 5 of your W-2) above $200,000 for single filers or $250,000 for joint filers.
+- 3.8% of Net Investment Income Tax (NIIT) on your investment income if your Modified Adjusted Gross Income (MAGI) exceeds $200,000 (or $250,000 if married filing jointly).
 
 Once you know the amount, you can click the <a href="https://www.irs.gov/payments/direct-pay" target="_blank">IRS Direct Pay</a> to make an extension payment.
 The screen looks like the following, please select "Extention", and current year.
@@ -48,18 +46,25 @@ If you are sure you do not owe taxes, the IRS has this to say in <a href="https:
 > most taxpayers with a three-year window of opportunity for claiming
 > a refund.
 
-In other words, an extension to file taxes is not necessary when you are due a
-refund and do not owe any additional taxes. If you file your tax
-return after the regular filing deadline, you will not be charged
-any penalties or interest if you are due a refund. However, it is
-still a good idea to file your return as soon as possible to ensure
-you receive your refund in a timely manner. In some cases, you may need to file
-for an extension to protect your rights, such as when you need to apply for
-an Individual Taxpayer Identification Number (ITIN) or make contributions to a retirement account.
+In other words, an extension to file taxes is not required if you are due a
+refund and do not owe any additional taxes. Filing your tax
+return after the regular deadline will not result in penalties or interest
+if you are owed a refund. However, it is still a good idea to file as soon
+as possible to avoid delays in receiving your refund.
 
-State taxes can be estimated similarly to federal taxes, but you should check the tax laws in your state. I do not have a spreadsheet for each state, but you can estimate the state tax owed by multiplying your state income by the highest state rate minus the tax you have already paid.
+In some situations, you may still want to file an extension to preserve certain rights -
+for example, if you need time to apply for an Individual Taxpayer Identification Number (ITIN),
+or if you plan to make contributions to a retirement account and want those contributions to count for the current tax year.
+Note, however, that IRA contributions (Traditional or Roth) must be made by the original tax deadline - typically April 15 - and not the extended deadline.
+Only certain plans, such as SEP IRAs or Solo 401(k)s, may allow contributions up to the extended deadline if the plan was established on time and an extension was filed.
 
-For your convenience, a table of tax authorities including the United States, District of Columbia, and the 50 states, their highest tax rate, and payment address is provided below:
+State taxes can be estimated similarly to federal taxes, but you should review
+the tax laws specific to your state. I do not have a spreadsheet calculator for
+each state, but as a rough estimate, you can multiply your state taxable income
+by the highest marginal tax rate in your state, then subtract any state income
+tax already withheld or paid.
+
+For your convenience, the table below lists the highest tax rate and payment URL for each state, as well as the District of Columbia and the United States (federal government).
 
 | Tax authority  | Highest Rate | Payment URL                                              |
 | ---------------| ------------| --------------------------------------------------------|
@@ -115,3 +120,7 @@ For your convenience, a table of tax authorities including the United States, Di
 | West Virginia        | 6.5%            | https://tax.wv.gov/Pages/OnlineServices.aspx          |
 | Wisconsin            | 7.65%           | https://www.revenue.wi.gov/Pages/OnlineServices/home.aspx |
 | Wyoming              | No state tax    | N/A                                                 |
+
+[penalty]: https://taxandlife.com/cat/tax/2019/01/30/irs-penalty-interest.html
+[interest]: https://www.dol.gov/agencies/ebsa/employers-and-advisers/plan-administration-and-compliance/correction-programs/vfcp/table-of-underpayment-rates
+[other-tax]: http://localhost:4000/cat/tax/2025/01/24/other-tax.html
