@@ -26,7 +26,7 @@ the qualified mortgage interest.
 
 Suppose the following situation occurs:
 
-- First loan is active for the entire year 2024 but is converted to rental use starting September 1, 2024.
+- First loan was active for the entire year 2024 but is converted to rental use starting September 1, 2024.
 - A second loan is obtained on April 30, 2024, to purchase a new principal residence, and it remains active through the end of the year.
 
 Thus, the total principal amounts fluctuate across the year, creating an irregular curve when plotted, as shown
@@ -34,9 +34,12 @@ in the diagram at the beginning of this article.
 
 ### Definition of Qualified Interest
 
-While the [IRS Publication 936][pub936]{:target="_blank"}
-provides "average mortgage balance" method that works for simple cases, for
-more complex cases, its instructions are inconsistent, confusing, and simply incorrect.
+While [IRS Publication 936][pub936]{:target="_blank"}
+provides an "average mortgage balance" method that
+works well for simple cases, it does not clearly define the calculation for
+complex cases involving multiple changes in principal, leading to potential
+confusion.
+
 This is because there is no precise mathematical definition of "average mortgage balance" beyond
 those simple cases, and you cannot calculate something that is not defined.
 
@@ -57,7 +60,7 @@ $$
 \text{Total Interest} = \sum_{i=1}^{n} \int_0^{T} \alpha_i \times L_i \, dt \tag{1}
 $$
 
-Apart from the factor of $$\alpha_i$$, it is represented by the total area under the curve (the light purple and dark purple areas combined) in the digram.
+Apart from the factor of $$\alpha_i$$, the total interest is represented by the total area under the curve (the light purple and dark purple areas combined) in the digram.
 
 The law simply adds a restriction for qualified interest: 
 
@@ -71,7 +74,7 @@ Please note that the law only restricts the total loan amount eligible for the
 deduction; it is up to us to choose which loan amounts to include, and how much
 to include in the qualified interest calculation. We can either allocate
 proportionally or allocate optimally by prioritizing the loan with the higher
-interest rate $$\alpha$.
+interest rate $$\alpha$$.
 
 ### Calculation of Qualified Interest
 
@@ -99,14 +102,14 @@ we developed a tool in Google sheets to automate the calculation. That is, you p
 the final results appear automatically in highlighted blue.
 
 The image below demontrates a calculation using the proportional inclusion method, i.e. we use $$750,000\times \frac{L_1}{L_1+L_2}$$ amount from
-loan 1 and $$750,000\times \frac{L_2}{L_1+L_2}$$ amount from loan 2. I have a optiomal method to include the loan from the highest interest rate
+loan 1 and $$750,000\times \frac{L_2}{L_1+L_2}$$ amount from loan 2. I have an optiomal method to include the loan from the highest interest rate
 as much as possible with slightly modification of logic.
 
 <img src="/assets/images/20250426-google-sheets.png"/>
 
 ### Average loan balance defined
 
-As we previously mentioned, the avergage mortgage balance is not mathematically defined leading to confusion in the accouting community.
+As we previously mentioned, the average mortgage balance is not mathematically defined leading to confusion in the accouting community.
 
 The IRS uses the avergage mortgage balance and the total interest for the year to calculate the yearly qualified interest using Equation (3).
 However, since the yearly qualified interest is mathematically defined, and can be calculated independently, we can reverse the logic
