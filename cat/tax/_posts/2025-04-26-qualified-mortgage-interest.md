@@ -14,44 +14,67 @@ paid on qualified residence loans. Under the Tax Cuts and Jobs Act (TCJA), the
 maximum loan amount eligible for deduction is $750,000 for loans incurred after
 December 15, 2017.
 
-In simple cases, if your mortgage balance is steady throughout the year, you
-can prorate the interest directly based on the loan amount compared to the
-$750,000 limit.
+This post aims to provide a mathematically correct method to compute the
+qualified mortgage interest directly, and re-define the average mortgage balance.
+However, before we do that, let us survey the available methods provided by the
+IRS.
 
-However, in more complex scenarios where the principal amount varies
-dramatically during the year, a more precise method is required to calculate
-the qualified mortgage interest.
+### IRS provided methods
 
-### A complex example
+Under Treasury Regulation [§1.163-10T(h)][reg163]{:target="_blank"},
+several acceptable methods are available for determining the average balance of debt secured by a qualified residence:
 
-Suppose the following situation occurs:
+- Daily basis methid ([Reg. §1.163-10T(h)(3)][reg163]{:target="_blank"}): This method calculates the
+  average mortgage balance by weighting the actual principal outstanding each
+  day over the course of the year.
+
+  This method can favor taxpayers
+  by averaging down the balance when you do not have a loan during some months but
+  while owning the home as a residence. For example, John Smith starts 2024 with a $1.5 million mortgage and pays it off on June 30.
+  under this method, his average balance is about $750,000, allowing full deduction of the interest paid.
+
+- Interest Rate Method ([Reg. §1.163-10T(h)(4)][reg163]{:target="_blank"}): This method calculates the
+  average balance based on the ratio between the interest paid and the stated interest rate of the debt.
+
+- Beginning and Ending Balance Method ([Reg. §1.163-10T(h)(5)][reg163]{:target="_blank"}): This approach
+  allows the taxpayer to determine the average balance by taking the simple
+  average of the beginning and ending loan balances for the year. However, this
+  method may only be used when no new borrowing occurred during the tax year.
+
+- Highest Balance Method ([Reg. §1.163-10T(h)(6)][reg163]{:target="_blank"}): Alternatively, the average
+  balance can be approximated by taking the highest principal balance outstanding at any time during the year.
+
+  This method is generally the most disadvantageous for taxpayers because it
+  often lowers the deductible mortgage interest by locking in the highest debt
+  level, even if the balance dropped later.
+
+  For this reason, I specifically ask for the year-end mortgage balance in my
+  checklist, so that I can apply a more favorable calculation method — which may
+  lower the average balance and thus maximize the mortgage interest deduction
+
+Furthermore, [Reg. §1.163-10T(h)(8)][reg163]{:target="_blank"} establishes an anti-abuse provision. Under
+this rule, if the IRS determines that a taxpayer’s chosen method materially
+overstates the interest deduction, the IRS has the authority to adjust the
+calculation using a more appropriate method to correctly reflect the average
+balance of the debt.
+
+### "Exact" method - Concept
+
+While IRS provided methods based on "average mortgage" balance work well
+for simple cases, none of them work well for complex scenarios. An example was shown in the diagram at the beginning of this article where:
 
 - First loan was active for the entire year 2024 but is converted to rental use starting September 1, 2024.
 - A second loan is obtained on April 30, 2024, to purchase a new principal residence, and it remains active through the end of the year.
 
-Thus, the total principal amounts fluctuate across the year, creating an irregular curve when plotted, as shown
-in the diagram at the beginning of this article.
+To handle any of the situations, we direct resort to the law and mathematics. 
 
-### Definition of Qualified Interest
-
-While [IRS Publication 936][pub936]{:target="_blank"}
-provides an "average mortgage balance" method that
-works well for simple cases, it does not clearly define the calculation for
-complex cases involving multiple changes in principal, leading to potential
-confusion.
-
-This is because there is no precise mathematical definition of "average mortgage balance" beyond
-those simple cases, and you cannot calculate something that is not defined.
-
-Instead, we should stick to the basic text in [IRC 163(h)(3)(B)(ii)][irc163]{:target="_blank"}:
+[IRC 163(h)(3)(B)(ii)][irc163]{:target="_blank"} provides the basis to calculate the qualified mortgage interest:
 
 >The aggregate amount treated as acquisition indebtedness _for any period_ shall not exceed $1,000,000 ($500,000 in the case of a married individual filing a separate return).
 
 where the limit was modified by [IRC 163(h)(3)(F)(i)][irc163]{:target="_blank"}
 
 > Limitation on acquisition indebtedness. Subparagraph (B)(ii) shall be applied by substituting "$750,000 ($375,000" for "$1,000,000 ($500,000".
-
-Please note the phrase _for any period_. 
 
 Not related to the law at all, but in pure mathematics, the defintion of the interest amount for loan i is the integral of the interest per dollar per day ($$\alpha_i$$) multiplied by the loan amount (L_i)
 over time period. The total interest is then the sum over all loans. Expressed as a mathematical formula:
@@ -76,7 +99,7 @@ to include in the qualified interest calculation. We can either allocate
 proportionally or allocate optimally by prioritizing the loan with the higher
 interest rate $$\alpha$$.
 
-### Calculation of Qualified Interest
+### "Exact" method - Calculation
 
 Since we know the total interest paid (the total area), we use the ratio of the
 purple area to the total area to prorate the qualified interest.
@@ -97,6 +120,13 @@ When we have more than one loan at the same time, we need to coordinate the
 the loans so that the total loan amount to include in the qualified interest calculation
 does not exceed the qualified loan limit.
 
+The steps involve using the average mortgage balance method in separate periods, and inside
+each period, if there are more than two loans, we use the exact method similat to the simplified method and the exact method described in
+[Reg. §1.163-10T(d)(3)][reg163]{:target="_blank"}
+and
+[Reg. §1.163-10T(e)(3)(iii)][reg163]{:target="_blank"}
+except the loan amount is not limited by the cost basis but by the qualified limit.
+
 As a spreadsheet is accidentally [Turing complete][turing]{:target="_blank"},
 we developed a tool in Google sheets to automate the calculation. That is, you provide input as shown in purple, and
 the final results appear automatically in highlighted blue.
@@ -109,11 +139,12 @@ as much as possible with slightly modification of logic.
 
 ### Average loan balance defined
 
-As we previously mentioned, the average mortgage balance is not mathematically defined leading to confusion in the accouting community.
+As we calcuale the qualified mortgage interest period by period, the
+yearly average mortgage balance is not needed and not mathematically defined.
 
-The IRS uses the avergage mortgage balance and the total interest for the year to calculate the yearly qualified interest using Equation (3).
-However, since the yearly qualified interest is mathematically defined, and can be calculated independently, we can reverse the logic
-and define the avergage mortgage balance such as equation (3) will give the correct yearly qualified interest using the yearly total interest.
+The IRS uses the yearly avergage mortgage balance and the yearly interest to calculate the yearly qualified interest using Equation (3).
+However, since the yearly qualified interest is already calculated, we can reverse the logic
+and define the yearly avergage mortgage balance such as equation (3) will give the correct result.
 In other words, we reverse the formula and define the Average Principal for the year as:
 
 $$
@@ -130,4 +161,5 @@ Thus, by calculating the Average Principal, we can flexibly apply either the $75
 
 [irc163]: https://www.taxnotes.com/research/federal/usc26/163
 [pub936]: https://www.irs.gov/pub/irs-pdf/p936.pdf
+[reg163]: https://www.taxnotes.com/research/federal/cfr26/1.163-10T
 [turing]: https://en.wikipedia.org/wiki/Turing_completeness
