@@ -112,8 +112,8 @@ First loan:
 
 Second loan:
 
-- 04/30/2024: Borrowed $90,000 to buy a new home.
-- 12/31/2024: Year-end balance of $80,000, interest paid: $25,000
+- 04/30/2024: Borrowed $900,000 to buy a new home.
+- 12/31/2024: Year-end balance of $800,000, interest paid: $25,000
 
 We divided the year into three periods:
 
