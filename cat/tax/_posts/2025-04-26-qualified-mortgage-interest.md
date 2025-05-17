@@ -81,7 +81,7 @@ This limit was subsequently modified by [IRC 163(h)(3)(F)(i)][irc163]{:target="_
 
 From a purely mathematical perspective, independent of tax law, the definition of interest amount for loan $$i$$
 is the integral of the interest per dollar per day ($$\alpha_i$$)
-multiplied by the loan amount (L_i)
+multiplied by the loan amount ($$L_i$$)
 over time. The total interest paid across all loans can be expressed as:
 
 $$
@@ -102,18 +102,26 @@ Please note that the law restricts only the total loan amount eligible for the d
 Therefore, we have flexibility:
 we can allocate proportionally across loans or allocate optimally by prioritizing loans with the higher interest rate $$\alpha$$.
 
-### Direct Method - Example
+### Direct Method - Implementation
+
+- For each loan $$i$$, find the interest rate $$\alpha_i$$ from the total interest paid, beginning and ending principal balances, and the load period, assuming
+the principal balance is a linear decresing function in terms of time.
+- Divide the the year into several periods where the total principal balance is a "continuous" function.
+- Carry out the calculation of interest for loan $$i$$ in each period using approximation of Equation (1).
+- Apply the condition in Equation (2) to derive the deductible interest.
+
+For example:
 
 First loan:
 
 - 01/01/2024: Balance of $500,000
 - 09/01/2024: Converted to rental property.
-- 12/31/2024: Year-end balance of $400,000, interest paid: $20,000
+- 12/31/2024: Year-end balance of $400,000, interest paid: $25,000
 
 Second loan:
 
 - 04/30/2024: Borrowed $900,000 to buy a new home.
-- 12/31/2024: Year-end balance of $800,000, interest paid: $25,000
+- 12/31/2024: Year-end balance of $800,000, interest paid: $20,000
 
 We divided the year into three periods:
 
@@ -121,10 +129,7 @@ We divided the year into three periods:
 - 04/30/2024 - 09/01/2024: Both loans are active.
 - 09/01/2024 - 12/31/2024: Only the second loan is active (the first loan has been converted to rental use).
 
-During each period, we can calculate:
-
-- Beginning and ending balances for each loan by extrapolation, and then determine the average balance.
-- Interest prorated to each period based on the number of days in the period.
+During each period, we can calculate interest rate and interest of each loan based on the principal amount and numver of days in the period.
 
 For periods 1 and 3, we can calculate the qualified interest based on the average loan balance using the following equation:
 
@@ -134,15 +139,14 @@ $$
 
 For period 2, we have two options:
 
-- Average method: Combine the balances and interests of both loans and apply the same formula to the combined amounts.
 - Optimal method: Prioritize including the loan with the higher interest rate first, up to the $750,000 limit.
+- Average method: Combine the balances and interests of both loans and apply the same formula to the combined amounts.
 
 After calculating the qualified interest for each period, we sum them to obtain the yearly total.
 
 Since spreadsheets are accidentally [Turing complete][turing]{:target="_blank"},
 we developed a Google Sheets tool to automate the calculation. You simply enter the input data (highlighted in purple), and the results appear automatically (highlighted in blue).
-
-The image below demonstrates a calculation using the optimal method:
+The image below demonstrates a sample calculation:
 
 <img src="/assets/images/20250426-google-sheets.png"/>
 
@@ -152,23 +156,24 @@ Since we have already calculated the yearly qualified mortgage interest
 directly, we no longer need to compute the yearly average mortgage balance to
 derive it.
 
-The IRS typically uses the yearly average mortgage balance along with the
-yearly interest paid to calculate qualified interest under Equation (3).
+However, we can define the average mortgage balance as the hypothetical loan
+amount that, if kept constant throughout the year, would generate the same
+qualified interest we calculated.
 
-However, because we have already determined the yearly qualified interest
-precisely, we can reverse-engineer the logic and define the average mortgage
-balance in such a way that Equation (3) still produces the correct result.
-
-In other words, we define the Average Principal for the year as:
+In other words, it's the balance that would make the following equation true:
 
 $$
-\text{Average Principal} = 750,000 \times \frac{\text{Interest for the Year}}{\text{Qualified Interest for the Year}} \tag{4}
+\frac{\text{750,000}}{\text{Average Mortgage Balance}} \times \text{Total Interest Paid} = \text{Qualified Interest} \tag{4}
+$$
+
+Solving for the average mortgage balance:
+
+$$
+\text{Average Mortgage Balance} = 750,000 \times \frac{\text{Total Interest Paid}}{\text{Qualified Interest}} \tag{5}
 $$
 
 You might wonder why we still need to calculate the average mortgage balance if
-the qualified interest is already known.
-
-There are two important reasons:
+the qualified interest is already known. There are two important reasons:
 
 - First, the IRS requires the reporting of average mortgage balances in Table 1 of [Publication 936][pub936] to calculate qualified mortgage interest using the total interest paid and the average balance.
 - Second, we must provide the total interest information for state tax returns.
