@@ -153,7 +153,9 @@ After calculating the qualified interest for each period, we sum the results to 
 
 #### Automation:
 
-Since spreadsheets are surprisingly powerful (and even [Turing complete][turing]{:target="_blank"}), we developed a Google Sheets tool to automate the entire process.
+Since spreadsheets are surprisingly powerful (and even [Turing complete][turing]{:target="_blank"}),
+we developed a [Google Sheets tool][google-sheets]{:target="_blank"}
+to automate the entire process.
 
 - You enter the inputs (highlighted in purple) such as loan dates, balances, and use type.
 - The qualified interest results (highlighted in blue) are calculated automatically.
@@ -196,3 +198,4 @@ Thus, by calculating the Average Principal, we retain flexibility to apply eithe
 [pub936]: https://www.irs.gov/pub/irs-pdf/p936.pdf
 [reg163]: https://www.taxnotes.com/research/federal/cfr26/1.163-10T
 [turing]: https://en.wikipedia.org/wiki/Turing_completeness
+[google-sheets]: https://docs.google.com/spreadsheets/d/16bFB4AZZhW9verUqk7qMO7wbAHXqPBy4C4-hUKQOnq4
