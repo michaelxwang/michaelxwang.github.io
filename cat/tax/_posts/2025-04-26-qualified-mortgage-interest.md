@@ -104,13 +104,20 @@ we can allocate proportionally across loans or allocate optimally by prioritizin
 
 ### Direct Method - Implementation
 
-- For each loan $$i$$, find the interest rate $$\alpha_i$$ from the total interest paid, beginning and ending principal balances, and the load period, assuming
-the principal balance is a linear decresing function in terms of time.
-- Divide the the year into several periods where the total principal balance is a "continuous" function.
-- Carry out the calculation of interest for loan $$i$$ in each period using approximation of Equation (1).
-- Apply the condition in Equation (2) to derive the deductible interest.
+To implement the direct method, we follow these steps:
 
-For example:
+- Step 1: For each loan $$i$$, compute the interest rate $$\alpha_i$$ using the
+  total interest paid, beginning and ending principal balances, and the loan
+  period. This assumes the principal balance declines linearly over time.
+- Step 2: Divide the year into several periods such that the total principal
+  balance behaves like a continuous piecewise-linear function - for example,
+  when loans are added, paid down, or change use (e.g., converted to rental).
+- Step 3: For each period, estimate the interest for loan $$i$$ using the
+  interest rate $$\alpha_i$$ and principal balance approximation from Equation (1) in the previous section.
+- Step 4: Apply the loan cap condition in Equation (2), ensuring that the total
+  principal subject to deduction does not exceed $750,000 at any given time. Use this to determine the qualified mortgage interest.
+
+#### Example Scenario:
 
 First loan:
 
@@ -131,22 +138,26 @@ We divided the year into three periods:
 
 During each period, we can calculate interest rate and interest of each loan based on the principal amount and numver of days in the period.
 
-For periods 1 and 3, we can calculate the qualified interest based on the average loan balance using the following equation:
+For periods 1 and 3, since only one loan qualifies in each, the deductible portion is calculated directly:
 
 $$
 \text{Qualified Interest} = \text{Total Interest} \times \min\left(1, \frac{750,000}{\text{Average Balance}}\right) \tag{3}
 $$
 
-For period 2, we have two options:
+For period 2, where both loans are active, we have two options:
 
 - Optimal method: Prioritize including the loan with the higher interest rate first, up to the $750,000 limit.
 - Average method: Combine the balances and interests of both loans and apply the same formula to the combined amounts.
 
-After calculating the qualified interest for each period, we sum them to obtain the yearly total.
+After calculating the qualified interest for each period, we sum the results to arrive at the annual deductible amount.
 
-Since spreadsheets are accidentally [Turing complete][turing]{:target="_blank"},
-we developed a Google Sheets tool to automate the calculation. You simply enter the input data (highlighted in purple), and the results appear automatically (highlighted in blue).
-The image below demonstrates a sample calculation:
+#### Automation:
+
+Since spreadsheets are surprisingly powerful (and even [Turing complete][turing]{:target="_blank"}), we developed a Google Sheets tool to automate the entire process.
+
+- You enter the inputs (highlighted in purple) such as loan dates, balances, and use type.
+- The qualified interest results (highlighted in blue) are calculated automatically.
+- A sample spreadsheet screenshot demonstrates the structure and formulas used.
 
 <img src="/assets/images/20250426-google-sheets.png"/>
 
