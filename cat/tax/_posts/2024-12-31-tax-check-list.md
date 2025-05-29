@@ -574,11 +574,11 @@ Foreign Earned Income Exclusion.
   - Furniture rental
   - Parking rental
   - Repairs
-- Qualified foreign housing expenses do _NOT_ include:  
-  - Mortgage payments  
-  - Domestic labor (maids, housekeepers, etc.)  
-  - Purchased furniture  
-  - Anything deemed “lavish or extravagant”
+  - Qualified foreign housing expenses do _NOT_ include:  
+    - Mortgage payments  
+    - Domestic labor (maids, housekeepers, etc.)  
+    - Purchased furniture  
+    - Anything deemed “lavish or extravagant”
 
 ### Report of Foreign Bank and Financial Accounts (aka FBAR, FinCen Form 114, FATCA) and Form 8938.
 
