@@ -65,7 +65,7 @@ sold for more than the option purchase price.
 
 > Example 1:
 > 
-> - Market price at grant: $100
+> - Market price at exercise: $100
 > - Sale price: $90
 > - Option purchase price: $70
 
@@ -75,7 +75,7 @@ the capital gain is $0 (not to pay tax twice).
 > Example 2:
 > 
 > - Sale price: $120
-> - Market price at grant: $100
+> - Market price at exercise: $100
 > - Option purchase price: $70
 
 The ordinary income (Box 1 of W-2) is $30 ($100 - $70), and
@@ -89,22 +89,30 @@ up paying tax twice.
 
 Same as ISO, you pay tax only when the stocks are sold for ESPP offered under a statutory plan.
 
-- Qualifying Disposition: This occurs when the stock is sold at least two years
-  after the grant date and more than one year after the stock was purchased.
-  The tax treatment for a qualifying disposition involves taxing part of the gain
-  as ordinary income and potentially part as capital gain.
+A qualifying disposition occurs when:
+- The sale happens at least two years after the grant date, and
+- More than one year after the purchase date
 
-> Example:
+Tax Treatment in a Qualifying Disposition
+- Ordinary income = the lesser of:
+  1. The discount based on FMV at grant:<br>
+    FMV at grant – purchase price (based on FMV at grant)
+  2. The actual gain on sale:<br>
+    Sale price – actual purchase price
+- Capital gain = any remaining gain after adjusting for ordinary income.
+
+> Example 3:
 > 
 > - FMV (Fair Market Value) at grant = 100
-> - Sale price: 90
-> - Purchase price (with discount, as if purchased at grant time): 85
+> - Exercise price as if on grant date = 85
+> - FMV at exercise = 200
+> - Exercise price = 170
+> - Sale price: 250
  
-Ordinary income is $90 - $85 = $5 (up to the gain), and the
-capital gain is $0.
+Ordinary income is min(100-85, 250-170) = 15, and the capital gain is 250-(170+15) = 65.
 
-The broker will report that you have a $5 gain ($90 - $85), you
-should increase your basis by $5 to derive $0 gain because the $5
+The broker will report that you have a 80 gain (250 - 170), you
+should increase your basis by 15 to derive 65 gain because the 15
 has been reported as regular income on your W-2.
 
 - Disqualifying disposition must realize ordinary income of bargain element
@@ -112,7 +120,7 @@ has been reported as regular income on your W-2.
 The cost basis is the purchase price plus the bargain element, ie, the
 FMV value.
 
-> Example:
+> Example 4:
 > 
 > - FMV at exercise = 100
 > - Sale price: 90
@@ -124,31 +132,20 @@ The broker will report that you have a $5 gain ($90 - $85), you
 should adjust your basis to reflect a $10 loss because the $15
 has been reported as regular income on your W-2.
 
-Some companies have a look-back provision to determine the purchase
-price, so the purchase price could be much lower than the market
-price, as a result of this the ordinary income could be much larger, and so
-the adjustment on the basis. If you do not make adjustment, then
-you are paying tax twice on this part of income, once as ordinary
-income, and once as capital gain.
+Notes:
+- Some companies include a look-back provision in their ESPP, allowing the
+  purchase price to be based on the lower of the fair market value (FMV) at the
+  grant date or the purchase date.  This can result in the actual purchase price
+  being more than 15% below the FMV at the time of purchase, even though the
+  maximum discount allowed by IRS rules under a qualified plan is still 15%.
+- A qualifying disposition often results in lower ordinary income, as shown in
+  Example 3. However, if the stock price declines between the grant date and
+  the purchase date, then in a disqualifying disposition, the ordinary income may
+  actually be lower than in a qualifying disposition. In general, lower ordinary
+  income is favorable, since it is taxed at a higher rate than long-term capital
+  gains.
 
-The following psudo code can help to visualize the logic:
-
-```
-IF qualified
-  IF Sale price > Purchase price
-    Ordinary income = Sale price - Purchase price
-  ELSE
-    Ordinary income = 0
-ELSE
-  Ordinary income = FMV at exercise - Purchase price
-
-Capital gain = Sale price - (Purchase price + Ordinary income)
-```
-
-Since tax is higher or equal on ordinary income than capital gain, qualified disposition pays less or equal taxes
-than disqualified disposition. When Sale price >= FMV at exercise, they converge.
-
-Most people forget the Ordinary income in above formula in computing capital gain, they pay tax on Ordinary income twice, once as ordinary income
+Most people forget the ordinary income in above formula in computing capital gain, they pay tax on Ordinary income twice, once as ordinary income
 and once as capital gain.
 
 #### RSU
@@ -170,7 +167,7 @@ the taxes.
 > - Purchase price: $0
 > - Share price: $1,000
 
-$10,000 ($1,000 * 100) will be taxed as ordinary income. Suppose 40%
+$10,000 ($1,000 * 10) will be taxed as ordinary income. Suppose 40%
 of tax needs to be paid, then you need either to come up with
 $4,000 to pay taxes from your pocket, you sell 4 shares
 to cover the taxes ($1,000 * 4).
