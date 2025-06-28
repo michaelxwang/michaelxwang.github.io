@@ -8,7 +8,7 @@ categories:
 Many people are confused by the income limitation for the clean vehicle credit.
 To clarify this, let's delve into the primary source.
 
-According to the Internal Revenue Code (IRC) [30D(a)][irc]{:target="_blank"}:
+According to the Internal Revenue Code (IRC) [30D(a)][irc30D]{:target="_blank"}:
 
 > Allowance of credit. There shall be allowed as a credit against the tax imposed
 > by this chapter for the taxable year an amount equal to the sum of the credit
@@ -17,7 +17,7 @@ According to the Internal Revenue Code (IRC) [30D(a)][irc]{:target="_blank"}:
 
 At first glance, this suggests that a credit should be permitted. However, one
 should be cautious, as specific rules come into play later. As per IRC
-[30D(f)(10)(A)][irc]{:target="_blank"}:
+[30D(f)(10)(A)][irc30D]{:target="_blank"}:
 
 > (A) In general. No credit shall be allowed under subsection (a) for any taxable year if --\
 > (i) the lesser of --\
@@ -43,7 +43,7 @@ credit_allowed = min(income_current_year, income_prior_year) <= threshhold
 In simpler terms, if your income in the current year _or the prior year_ is
 below a specified threshold, then you qualify for the clean vehicle credit.
 
-The threshold values are detailed in IRC [30D(f)(10)(B)][irc]{:target="_blank"}:
+The threshold values are detailed in IRC [30D(f)(10)(B)][irc30D]{:target="_blank"}:
 
 > Threshold amount. For purposes of subparagraph (A)(ii), the threshold amount shall be --\
 > (i) in the case of a joint return or a surviving spouse (as defined in section 2(a)), $300,000,\
@@ -60,17 +60,19 @@ thresholds = {
 }
 ```
 
-IRC [30D(f)(10)(C\)][irc]{:target="_blank"} elaborates on the definition of "income" in relation
+IRC [30D(f)(10)(C\)][irc30D]{:target="_blank"} elaborates on the definition of "income" in relation
 to the clean vehicle credit:
 
 > (C\) Modified adjusted gross income. For purposes of this paragraph, the term
 > "modified adjusted gross income" means adjusted gross income increased by any
 > amount excluded from gross income under section 911, 931, or 933.
 
-Essentially, this refers to your adjusted gross income (AGI) unless specific
-modifications are applied. For instance, if you have a foreign earned income
-exclusion, this exclusion should be added back for the clean vehicle credit
-evaluation.
+In plain English, the Modified Adjusted Gross Income (MAGI) is the sum of the following amounts:
+
+- Regular Adjusted Gross Income (AGI) from line 11 (2024) from Form 1040, 1040-SR, or 1040-NR per [Form 8936][form8936]{:target="_blank"}.
+- Foreign income and housing exclusion from [Form 2555][form2555]{:target="_blank"} (under [IRC §911][irc911]{:target="_blank"}).
+- Income from American Samoa (under [IRC §931][irc931]{:target="_blank"}, reported on [Form 4563][form4563]{:target="_blank"}).
+- Income from Puerto Rico (under [IRC §933][irc933]{:target="_blank"}).
 
 In addition to the income restrictions, the vehicle must also meet certain
 qualifications. Please visit [this link][qualify] to determine if your model is
@@ -86,10 +88,15 @@ aliens, and nonresident aliens who file Form 1040-NR. The law doesn't specify
 any limitations based on residency status, and [Form 8936][form8936]{:target="_blank"} clearly
 includes Form 1040-NR.
 
-Additionally, IRC [30D(a)][irc]{:target="_blank"} specifies _each new clean vehicle_. This means
+Additionally, IRC [30D(a)][irc30D]{:target="_blank"} specifies _each new clean vehicle_. This means
 if you purchase N clean vehicles, you are eligible for N credits.
 
-[irc]: https://www.taxnotes.com/research/federal/usc26/30D
-[refundable]: https://taxandlife.com/cat/tax/2023/02/08/refundable.html
+[form2555]: https://www.irs.gov/pub/irs-pdf/f255.pdf
+[form4563]: https://www.irs.gov/pub/irs-pdf/f4563.pdf
 [form8936]: https://www.irs.gov/pub/irs-pdf/f8936.pdf
+[irc30D]: https://www.taxnotes.com/research/federal/usc26/30D
+[irc911]: https://www.taxnotes.com/research/federal/usc26/911
+[irc931]: https://www.taxnotes.com/research/federal/usc26/931
+[irc933]: https://www.taxnotes.com/research/federal/usc26/933
 [qualify]: https://fueleconomy.gov/feg/tax2023.shtml
+[refundable]: https://taxandlife.com/cat/tax/2023/02/08/refundable.html
