@@ -450,9 +450,11 @@ If your vehicle is [qualified](https://fueleconomy.gov/feg/tax2023.shtml){:targe
     
 - [1095-A](https://www.irs.gov/pub/irs-pdf/f1095a.pdf) if you have bought health insurance from the marketplace (aka Obama care).
 - [1095-B](https://www.irs.gov/pub/irs-pdf/f1095b.pdf), or [1095-C](https://www.irs.gov/pub/irs-pdf/f1095c.pdf) if you live in a state that requires insurance coverage:
-  - NJ
-  - CA
-- [1099-HC (MA Health Care Coverage)](https://www.cityofboston.gov/images_documents/ACA%20Information%202016_tcm3-52813.pdf) if you live in MA.
+  - NJ.
+  - CA.
+- [1099-HC (MA Health Care Coverage)](https://www.cityofboston.gov/images_documents/ACA%20Information%202016_tcm3-52813.pdf) if you live in MA, or equivalently the following information on your insurance card:
+  - Name of insurance company.
+  - Subscriber number.
     
 ### Miscellaneous Documents.
     
