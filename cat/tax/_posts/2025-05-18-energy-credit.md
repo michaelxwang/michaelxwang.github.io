@@ -57,14 +57,14 @@ Must meet applicable Energy Star requirements for your climate zone.
 - Glazing Level: ≤ ½2-Lite
   - Climate Zone: All Zones
     - U-Factor: ≤ 0.23
-    - SHGC (Solar Heat Gain Coefficient): ≤ 0.23
+    - SHGC: ≤ 0.23
 - Glazing Level: > ½/-Lite
   - Climate Zone: Northern, North-Central
     - U-Factor: ≤ 0.26
-    - SHGC (Solar Heat Gain Coefficient): ≤ 0.40
+    - SHGC: ≤ 0.40
   - Climate Zone: South-Central, Southern
     - U-Factor: ≤ 0.28
-    - SHGC (Solar Heat Gain Coefficient): ≤ 0.23
+    - SHGC: ≤ 0.23
 
 #### **Residential Windows.**
 
@@ -93,10 +93,10 @@ Meet Energy Star Most Efficient certification requirements.
 
 - Climate Zone: Northern
   - U-Factor: ≤ 0.45
-  - SHGC (Solar Heat Gain Coefficient): Any
+  - SHGC: Any
 - North-Central. South-Central, Southern
   - U-Factor: ≤ 0.50
-  - SHGC (Solar Heat Gain Coefficient): ≤ 0.25
+  - SHGC: ≤ 0.25
 
 #### **Insulation and air sealing materials or systems.**
 
