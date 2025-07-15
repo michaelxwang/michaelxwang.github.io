@@ -27,10 +27,10 @@ The IRS interpreted the law accordingly in its [FAQ][faq]:
 
 > **Did I qualify for the third payment if I'm a resident alien? (Updated March 25, 2022)**
 >
-> A person who’s a qualifying resident alien with a valid Social Security number
+> A person who's a qualifying resident alien with a valid Social Security number
 > was eligible for the payment only if he or she is a qualifying resident alien
 > in 2021 and not claimed as a dependent of another taxpayer. *A nonresident alien
-> in 2021 wasn’t eligible for the payment.* An alien who received a payment but
+> in 2021 wasn't eligible for the payment.* An alien who received a payment but
 > was not a qualifying resident alien for 2021 should return the payment to the
 > IRS by following the instructions as described in Returning the Economic Impact
 > Payment for instructions.
@@ -65,6 +65,27 @@ The IRS has provided specific instructions for returning a misissued EIP3:
 The IRS mailing address for returning the payment depends on where you live,
 and the link provided in the instructions contains a table with the appropriate
 locations.
+
+**Note:** This post was originally written in January 2025. As of June 2025, the IRS has begun requesting repayment of these funds, including interest:
+
+<img src="/assets/images/20250127-1400-back.jpg" style="width:80%;" />
+
+The official IRS guidance is to mail a check. However, I recommend creating an account on [irs.gov](https://www.irs.gov/) if you have not already done so. If your IRS account displays a balance due, as shown below:
+
+<img src="/assets/images/20250127-1400-account.jpg" style="width:80%;" />
+
+You can make a payment directly within your account:
+
+<img src="/assets/images/20250127-1400-payment-within.png" style="width:80%;" />
+
+Alternatively, you may also make a payment online without logging in:
+
+<img src="/assets/images/20250127-1400-payment-outside.jpg" style="width:80%;" />
+
+**Recaputulation:**
+
+- Pay from within your IRS account: [https://sa.www4.irs.gov/ola/payment_options/make_payment](https://sa.www4.irs.gov/ola/payment_options/make_payment)
+- Pay without logging in: [https://www.irs.gov/payments](https://www.irs.gov/payments)
 
 [arpa]: https://www.govinfo.gov/content/pkg/PLAW-117publ2/pdf/PLAW-117publ2.pdf
 [irc]: https://www.taxnotes.com/research/federal/usc26/6428B
