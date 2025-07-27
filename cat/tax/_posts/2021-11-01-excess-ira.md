@@ -5,7 +5,7 @@ categories:
 - tax
 ---
 
-General rule:
+#### General rule:
 
 - Timely correction: You have up to the due date (including extensions) to withdraw excess contribution plus earnings. After filing your return, you can still withdraw within 6 months "pursuant to section 301.9100-2".
 - Distribution - special rule (["Dollar Limited distribution"][tax advisor]).
@@ -18,14 +18,14 @@ General rule:
 - The earnings from timely correction are subject to tax as ordinary income "for the year _in_ which the excess contribution was made."<sup>[2](#fn2)</sup>.
 - Earnings from excess contribution do not need to be withdrawn for untimely correction. "If the taxpayer nevertheless distributes the accumulated income the IRA earned on the excess contribution, the distributed income is subject to tax and is subject to the early-distribution penalty (if no exception applies) (IRS Letter Rulings 9633041, 9118020, and 7926152)." based on the [Tax Advisor article][tax advisor]{:target="_blank"}.
 
-Example 1: Excess contribution to traditional IRA, timely correction.
+#### Example 1: Excess contribution to traditional IRA, timely correction.
 
 - In 2024, Alan had earned income of $3,000, but contributed $7,000 to his traditional IRA which exceeds his earned income limit, so there is an excess contribution of $4,000 which generated $500 earnings.
 - In 2025, before the filing deadline (including extensions) he withdraws $4,000 excess contribution plus the $500 earnings as required for timely correction.
 - In 2026, he will receive a 1099-R with a code P and $500 taxable income. He should have reported the income in advance on 2025 return using 1099-R code 8 or amend it afterwards.
 - He will pay regular tax on the $500 earnings, and that is all. If he has deducted the excess contribution, he should amend the return to remove the deduction.
 
-Example 2: Excess contribution to traditional IRA, untimely correction - special rule, when the total contribution is not more than the maximum amount<sup>[3](#fn3)</sup>.
+#### Example 2: Excess contribution to traditional IRA, untimely correction - special rule, when the total contribution is not more than the maximum amount<sup>[3](#fn3)</sup>.
 
 - In 2024, Bob had earned income of $3,000, but contributed $7,000 to his traditional IRA which exceeds his earned income limit, so there is an excess contribution of $4,000 which generated $500 earnings. 
 - In 2025 before the filing deadline, he did not find the error and contributed the maximum amount to the IRA.
@@ -35,14 +35,14 @@ Example 2: Excess contribution to traditional IRA, untimely correction - special
 - He does _not_ pay regular tax on the excess contribution because it was never deducted.
 - If he has deducted the excess contribution, he should file an amended return to remove it and pay tax for that year.
 
-Example 3: Excess contribution to traditional IRA, untimely correction - absorption.
+#### Example 3: Excess contribution to traditional IRA, untimely correction - absorption.
 
 - In 2024, Charlie had earned income of $3,000, but contributed $7,000 to his traditional IRA which exceeds his earned income limit, so there is an excess contribution of $4,000 which generated $500 earnings. 
 - In 2025, he was able to contribute $7,500 but he contributed $3,500 instead, absorbing the $4,000 excess contribution from 2024.
 - He must pay 6% excise tax on the $4,000 excess for 2024 only.
 - There is no need to distribute earnings, but if you do, you will pay tax and early distribution penalty on it.
 
-Example 4: Excess contribution to traditional IRA, untimely correction - regular distribution.
+#### Example 4: Excess contribution to traditional IRA, untimely correction - regular distribution.
 
 - In 2024, David had earned income of $3,000, but contributed $83,000 to his traditional IRA which exceeds his earned income by $80,000 which is excess contribution. His account balance is $420,000, most of which is due to his prior deductible contributions and earnings.
 - In 2025, he did not find the error, so he missed timely correction; the special rule does not apply as the total contribution exceeds the statutory limit; he cannot use the absorption method as he retired and does not have earned income.
@@ -51,23 +51,23 @@ Example 4: Excess contribution to traditional IRA, untimely correction - regular
 - In this case, the distribution is $98,824 where $18,824 is the return of investment (basis), and $80,000 are the earnings used to reduce the $80,000 excess.
 - If there are not enough earnings to fully reduce the excess contribution to zero, you should distribute the entire account balance. Since 6% excise tax is on the lesser of the excess or the account balance ("The amount of such tax for any taxable year shall not exceed 6 percent of the value of the account or annuity (determined as of the close of the taxable year)." per [IRC Sec. 4973(a)][irc4973]{:target="_blank"}), there is no tax to be paid even though there is still an excess amount in the account.
 
-Example 5: Excess contribution to traditional IRA, untimely correction - recharacterization.
+#### Example 5: Excess contribution to traditional IRA, untimely correction - recharacterization.
 
 - In 2024, Edwards contributed $7,000 to his traditional IRA. He has earned income of $5,000, so he has an excess contribution of $2,000.
 - Recharacterization cannot be used to reduce excess contributions. If Edwards recharacterizes the contribution to Roth IRA, he would still have an excess contribution in the Roth IRA.
 - The excess contribution must be corrected through distribution or absorption as discussed above.
 
-Example 6: Excess contribution to Roth IRA, timely correction.
+#### Example 6: Excess contribution to Roth IRA, timely correction.
 
 - In 2024, Frank contributed $7,000 to Roth IRA, all of which is an excess due to income limit.
 - In 2025 before the filing deadline (including extensions), he withdraws $7,000 plus earnings $200 before the filing deadline.
 - In 2026, he will receive a 1099-R with a code P and $200 taxable income. He should have reported the income in advance on 2025 return using 1099-R code 8 or amend it afterwards.
 
-Example 7: Excess contribution to Roth IRA, untimely correction - special rule, when the total contribution is not more than the maximum amount<sup>[3](#fn3)</sup>.
+#### Example 7: Excess contribution to Roth IRA, untimely correction - special rule, when the total contribution is not more than the maximum amount<sup>[3](#fn3)</sup>.
 
 "Dollar-limited distributions are not available for excess contributions to Roth IRAs." per the [Tax Advisor Article][tax advisor]{:target="_blank"}.
 
-Example 8: Excess contribution to Roth IRA, untimely correction - absorption.
+#### Example 8: Excess contribution to Roth IRA, untimely correction - absorption.
 
 - In 2024, George had a modified adjusted gross income (MAGI) of $161,000 which completely phases out his allowed Roth IRA contribution, but contributed $7,000 to his Roth IRA. The entire $7,000 is an excess contribution that generated $500 earnings. 
 - In 2025, he did not make a timely correction before the filing deadline (including extensions), but his income falls below $152,000, and he did not make any IRA contributions, which allows him to fully absorb the 2024 excess contribution.
@@ -75,7 +75,7 @@ Example 8: Excess contribution to Roth IRA, untimely correction - absorption.
 - He does not pay regular tax nor 10% early distribution penalty as nothing is distributed.
 - The IRS does not require you to withdraw the earnings to reduce the excess, so the earnings from an excess contribution that has been absorbed are treated the same as any other Roth IRA earnings which follow the [Roth IRA distribution rule][roth rule]{:target="_blank"}.
 
-Example 9: Excess contribution to Roth IRA, untimely correction - regular distribution.
+#### Example 9: Excess contribution to Roth IRA, untimely correction - regular distribution.
 
 - In 2024, George had a modified adjusted gross income (MAGI) more than $161,000 which completely phases out his allowed Roth IRA contribution, but contributed $7,000 to his Roth IRA. The entire $7,000 is an excess contribution that generated $500 earnings. 
 - In 2025, he had an MAGI more than $167,000, but he contributed $7,000 as well, which is again an excess contribution.
@@ -86,11 +86,13 @@ Example 9: Excess contribution to Roth IRA, untimely correction - regular distri
 - He pays no regular tax on the $14,000 as this is a withdrawal from the basis per the [Roth IRA distribution rule][roth rule]{:target="_blank"}.
 - The law does not require him to withdraw the earnings, but if he chooses to, it follows the regular [Roth IRA distribution rule][roth rule]{:target="_blank"}.
 
-Example 10: Excess contribution to Roth IRA, untimely correction - recharacterization.
+#### Example 10: Excess contribution to Roth IRA, untimely correction - recharacterization.
 
 - In 2024, Harry had a modified adjusted gross income (MAGI) of $161,000 which completely phases out his allowed Roth IRA contribution, but contributed $7,000 to his Roth IRA. The entire $7,000 is an excess contribution that generated $500 earnings. 
 - In 2025, he found the error, and recharacterized the contribution as one to traditional IRA. The contribution is always allowed, but the deduction depends on the income limit.
 - A few days later, he can _convert_ the traditional IRA contribution to Roth IRA, a method commonly called [backdoor Roth conversion][backdoor roth].
+
+#### Footnotes:
 
 <a name="fn1">1</a> Both [Publication 590-A][590a]{:target="_blank"}
 and [Publication 590-B][590b]{:target="_blank"}
@@ -131,7 +133,8 @@ actually earned, which is the year when the excess contribution happened.
 > file an amended return within 3 years after you filed your
 > return, or 2 years from the time the tax was paid, whichever is later.
 
-References: 
+#### References: 
+
 - [Publication 590-A][590a]{:target="_blank"}
 - [Publication 590-B][590b]{:target="_blank"}
 - [Instructions for Form 5329][i5329]{:target="_blank"}
