@@ -13,12 +13,10 @@ noting that excess contributions to an HSA are unlikely with a single employer,
 as the payroll software should automatically halt contributions once the
 maximum limit is reached.
 
-#### What to do if you overcontribute to an HSA
-
 If you do overcontribute to an HSA, there are a few things you can do to
 rectify the situation. Here are three options:
 
-#### Option 1: Timely correction: treat spending as withdrawal
+#### Option 1: Treat spending as withdrawal (timely correction).
 
 If you had spending from the HSA before the filing deadline (including extensions),
 you can treat distributions as a withdrawal of the excess.
@@ -56,14 +54,14 @@ If you do not have enough spending to withdraw the excess contribution plus earn
 the excess is not considered as withdrawn, and you will need to follow option 2, 3, or 4.
 The excess contribution is either corrected or not corrected, there is no partial correction.
 
-#### Option 2: Timely correction: actual withdrawal
+#### Option 2: Timely correction: actual withdrawal (timely correction).
 
 The process is the same as Option 1 except that you need to contact your HSA custodian
 to have the excess plus earnings withdrawn. This is the most straightforward option,
 but it may also be the most time-consuming, and sometimes costly as some HSA custodians
 charge a fee for the service.
 
-#### Option 3: Untimely correction - Rollover to next year
+#### Option 3: Rollover to next year (untimely correction).
 
 If you have missed the chance, or simply do not want to go through the trouble of contacting the HSA custodian,
 another option is to simply let the excess stay in your account for the current
@@ -89,7 +87,7 @@ Step by step instructions:
 - Adjust your next year's contribution amount so that the total does not exceed the limit.
 - Deduct the excess contributions in the following year, up to the amount that fits the maximum limit.
 
-#### Option 4: Untimely correction - Actual withdrawal
+#### Option 4: Actual withdrawal (untimely correction)
 
 If you have discovered the errors late, and cannot withdraw the excess contribution by spending it out,
 you can always contact your HSA custodian to withdraw the excess.
