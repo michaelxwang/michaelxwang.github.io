@@ -14,7 +14,7 @@ categories:
 - Recharacterization.
 - 6% penalty on excess for untimely correction for every year before the year the excess is removed.
 - 6% excise tax does not apply to earnings.
-- 10% early distribution penalty before 59½ has been eliminated for timely corrective distributions made on or after December 29, 2022 per [SECURE Act 2.0][secure]{:target="_blank"}. This incluides both excess contribution and its earnings<sup>[1](#fn1)</sup>.
+- 10% early distribution penalty before 59½ has been eliminated for timely corrective distributions made on or after December 29, 2022 per [SECURE Act 2.0][secure]{:target="_blank"}. This includes both excess contribution and its earnings<sup>[1](#fn1)</sup>.
 - The earnings from timely correction are subject to tax as ordinary income "for the year _in_ which the excess contribution was made."<sup>[2](#fn2)</sup>.
 - Earnings from excess contribution do not need to be withdrawn for untimely correction. "If the taxpayer nevertheless distributes the accumulated income the IRA earned on the excess contribution, the distributed income is subject to tax and is subject to the early-distribution penalty (if no exception applies) (IRS Letter Rulings 9633041, 9118020, and 7926152)." based on the [Tax Advisor article][tax advisor]{:target="_blank"}.
 
