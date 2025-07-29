@@ -13,8 +13,14 @@ noting that excess contributions to an HSA are unlikely with a single employer,
 as the payroll software should automatically halt contributions once the
 maximum limit is reached.
 
-If you do overcontribute to an HSA, there are a few things you can do to
-rectify the situation. Here are three options:
+Another reason to have excess contribution is that you are ineligible to
+contribute HSA because you are covered by your spouse's
+insurance, or your spouse has a general purpose Flexible Spending Account (FSA) which
+can potentially cover you regardless whether it actually covers or not. Please
+see [HSA/FSA Contribution Rules for Married Couples][chart] to see your eligibility to contribute the HSA.
+
+For one reason or the other, if you have overcontributed your HSA, there are options to
+rectify the situation.
 
 #### Option 1: Treat spending as withdrawal (timely correction).
 
@@ -28,7 +34,7 @@ to such excess contribution." per [IRC Sec 223(f)(2)][irc223]{:target="_blank"})
 "If the excess contribution isn’t included in box 1 of Form W-2, you must
 report the excess as “Other income” on your tax return." ([IRS Publication 969][p969]{:target="_blank"}).
 
-You need also to pay tax on the earnings ("Any net income described
+You also need to pay tax on the earnings ("Any net income described
 in clause (ii) shall be included in the gross income of the individual for the taxable
 year in which it is received.", [IRC Sec 223(f)(2)][irc223]{:target="_blank"}).
 
@@ -65,13 +71,13 @@ charge a fee for the service.
 
 If you have missed the chance, or simply do not want to go through the trouble of contacting the HSA custodian,
 another option is to simply let the excess stay in your account for the current
-year, pay a 6% penalty, and treat it as part of your contribution for the next
+year, pay a 6% excise tax, and treat it as part of your contribution for the next
 year. Be sure to adjust your next year's contribution amount so that the total
 does not exceed the limit<sup>[1](#fn1)</sup>.
 
 Note: You will also need to add the excess contribution (excluding earnings) to your
 current year's income. You can then deduct the excess in the following year, up
-to the amount that fits the maximum limit.
+to the amount that fits within the maximum limit.
 
 For example, let's say you contribute $3,950 to your HSA in 2023, but the
 maximum contribution limit is $3,850. You would have $100 of excess
@@ -82,10 +88,10 @@ taxable income.
 Step by step instructions:
 
 - Let the excess contributions stay in your HSA account.
-- Pay a 6% penalty on the excess contributions.
+- Pay a 6% excise tax on the excess contributions.
 - Add the excess contributions (excluding earnings) to your current year's income.
 - Adjust your next year's contribution amount so that the total does not exceed the limit.
-- Deduct the excess contributions in the following year, up to the amount that fits the maximum limit.
+- Deduct the excess contributions in the following year, up to the amount that fits within the maximum limit.
 
 #### Option 4: Actual withdrawal (untimely correction)
 
@@ -101,7 +107,7 @@ for the year of the contribution.
 
 #### Which option is right for you?
 
-The answer is neither. The best option is not to have an excess contribution, but things happen, so I hope
+The correct answer is: none of the above. The best option is not to have an excess contribution, but things happen, so I hope
 this post provides information to allow you to make a decision that can minimize your cost in
 both of time and dollars.
 
@@ -130,6 +136,7 @@ References:
 3. [Publication 969][p969]{:target="_blank"} - Health Savings Accounts and Other Tax-Favored Health Plans.
 4. [IRC Section 223][irc223]{:target="_blank"}.
 5. [IRC Section 4973][irc4973]{:target="_blank"}.
+6. [HSA/FSA Contribution Rules for Married Couples][chart]{:target="_blank"}.
 
 [f5329]: https://www.irs.gov/pub/irs-pdf/f5329.pdf
 [f8889]: https://www.irs.gov/pub/irs-pdf/f8889.pdf
@@ -138,3 +145,4 @@ References:
 [p969]: https://www.irs.gov/pub/irs-pdf/p969.pdf
 [irc223]: https://www.taxnotes.com/research/federal/usc26/223
 [irc4973]: https://www.law.cornell.edu/uscode/text/26/4973
+[chart]: https://www.chard-snyder.com/uploads/miscellaneous/CS_HSA-FSA_Contribution_Rules.pdf
