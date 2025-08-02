@@ -122,7 +122,7 @@ from the HSA - they only need to be added to income.
 
 #### Footnotes:
 
-<a name="fn1">1</a> [IRS Publication 969][p969] states: 
+<a name="fn1">1</a> [IRS Publication 969][p969]{:target="_blank"} states: 
 >You may be able to deduct excess contributions for previous years that are still in 
 your HSA. The excess contribution you can deduct for the current year is the lesser of:
 - (1) Your maximum HSA contribution limit for the year minus any amounts 
