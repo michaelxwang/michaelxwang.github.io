@@ -116,7 +116,7 @@ that the income should be reported in the year when it was
 actually earned, which is the year when the excess contribution happened.
 
 <a name="fn3">3</a>
-[IRS Publication 590-A (2024)][p590a]{:target="_blank"} based on ([IRC Section 408(d)(5)(A)][irc408]{:target="_blank"}) states:
+[IRS Publication 590-A (2024)][590a]{:target="_blank"} based on [IRC Section 408(d)(5)(A)][irc408]{:target="_blank"} states:
 
 > In general, you must include all distributions (withdrawals) from your traditional IRA in your gross income. However, if the following conditions
 > are met, you can withdraw excess contributions from your IRA and not include the amount withdrawn in your gross income.
