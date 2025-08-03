@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2024 Tax Return Checklist
+title: 2025 Tax Return Checklist
 categories:
 - tax
 ---
@@ -20,7 +20,7 @@ to remove the password, or put the password in the filename. Google Drive alread
 You can create a Google doc or Google sheets after you enter your link by clicking "+ New", or create your own
 simple word or text document and upload it along with tax documents.
 
-### New in 2024.
+### New in 2025.
 
 - None so far.
 
@@ -42,7 +42,7 @@ These items can help you if provided or hurt you if omitted. Highlights here, de
 
 ### Are You a US Citizen, Resident Alien, or Nonresident Alien?
 
-- Were you (or your spouse if married) a citizen, a permanent resident (green card holder), or a professional worker with an H-1B, L1 visa for the entire year of 2024?
+- Were you (or your spouse if married) a citizen, a permanent resident (green card holder), or a professional worker with an H-1B, L1 visa for the entire year of 2025?
 - If you have not been a resident for the current year and the prior year, please list your (and your spouse's if married) *complete* visa (status) history in the format shown below:
 
    -   20XX F1
@@ -52,7 +52,7 @@ These items can help you if provided or hurt you if omitted. Highlights here, de
 
 and be sure to provide information in the _Nonresident_ section at the end of this checklist.
 
-NB, Special benefit for married couples: if one spouse is a resident at the end of the year 2024, you and your nonresident spouse can elect to file jointly as residents.
+NB, Special benefit for married couples: if one spouse is a resident at the end of the year 2025, you and your nonresident spouse can elect to file jointly as residents.
 
 ### What is Your Filing Status?
 
@@ -100,7 +100,7 @@ I do _not_ use it for the filing fee or any other purposes, for new clients or r
 
 ### Virtual Currency Question.
 
-At any time during 2024, did you: (a) receive (as a reward, award, or payment for property or services); or (b) sell,
+At any time during 2025, did you: (a) receive (as a reward, award, or payment for property or services); or (b) sell,
 exchange, gift, or otherwise dispose of a digital asset (or a financial interest in a digital asset) (Yes/No)?
 
 The following actions do not require a Yes answer:
@@ -138,9 +138,9 @@ were abroad. You do not need to include vacations where you did
 not change your state residency. For travel history outside the United States,
 you can retrieve your records from the [I94 Website](https://i94.cbp.dhs.gov/I94/#/history-search){:target="_blank"}.
 
-- 01/01/2024 - 05/15/2024 Maryland (MD)
-- 05/16/2024 - 08/15/2024 China
-- 08/16/2024 - 12/31/2024 Virginia (VA)
+- 01/01/2025 - 05/15/2025 Maryland (MD)
+- 05/16/2025 - 08/15/2025 China
+- 08/16/2025 - 12/31/2025 Virginia (VA)
 
 ### Income and Income Adjustment.
 
@@ -156,7 +156,7 @@ you can retrieve your records from the [I94 Website](https://i94.cbp.dhs.gov/I94
     the source account, showing contributions. If you don't have this form, note
     the date you made the contribution, how much you contributed, and the year it
     was for, based on your records.
-  - Amount Withdrawn: Provide information on distributions made in 2024 from
+  - Amount Withdrawn: Provide information on distributions made in 2025 from
     the source account, using Form 1099-R issued for the year.
   - Remaining Balance in the Source Account(s): Indicate the year-end balance in
     the source account(s), either from Form 5498 or your records. If you have multiple
@@ -165,14 +165,14 @@ you can retrieve your records from the [I94 Website](https://i94.cbp.dhs.gov/I94
   - Destination of the Money: If you have Form 5498 for the target account,
     include it to show rollovers or conversions. If not, specify the type of
     account the money was moved to (IRA, Roth IRA, 401K, Roth 401K, etc.), along
-    with the amount received in 2024, based on your records.
+    with the amount received in 2025, based on your records.
 
   For example:
 
-  - Contribution: I added $6,000 to a traditional IRA on April 1, 2025, for the 2024 tax year. I don't have Form 5498 from the source.
+  - Contribution: I added $6,000 to a traditional IRA on April 1, 2026, for the 2025 tax year. I don't have Form 5498 from the source.
   - Distribution: I moved $6,001.23 from the traditional IRA, as detailed on Form 1099-R.
-  - Remaining Balance: As of December 31, 2024, the **combined** balance of **all** my traditional and rollover IRAs across **all** banks was $0, but I do not have Forms 5498 to show this.
-  - Destination: The $6,001.23 was transferred to a Roth IRA in 2024, but I don't have Form 5498 for the target account.
+  - Remaining Balance: As of December 31, 2025, the **combined** balance of **all** my traditional and rollover IRAs across **all** banks was $0, but I do not have Forms 5498 to show this.
+  - Destination: The $6,001.23 was transferred to a Roth IRA in 2025, but I don't have Form 5498 for the target account.
 
   NB: A Rollover IRA is a type of Traditional IRA that is specifically used to hold money rolled over from an employer-sponsored retirement plan (like a 401(k), 403(b), or pension plan).
 
@@ -312,9 +312,9 @@ deductible items such as donations, medical expenses, and state tax paid.
 The itemized deduction items: 
 
 - Mortgage and home equity interests [Form 1098](https://www.irs.gov/pub/irs-pdf/f1098.pdf).
-- (The **principal amount paid** for the year _OR_ equivalently the ending principal balance on 12/31/2024 _OR_ the average balance) _IF_ the borrowed amount exceeds 750K. The information can be obtained in one of the following ways:
+- (The **principal amount paid** for the year _OR_ equivalently the ending principal balance on 12/31/2025 _OR_ the average balance) _IF_ the borrowed amount exceeds 750K. The information can be obtained in one of the following ways:
   - [Form 1098](https://www.irs.gov/pub/irs-pdf/f1098.pdf).
-  - The final mortgage statement for 2024 that shows the "Interest Paid Year to Date" amount matching your Form 1098. This statement should also include the "Principal Paid Year to Date" amount.
+  - The final mortgage statement for 2025 that shows the "Interest Paid Year to Date" amount matching your Form 1098. This statement should also include the "Principal Paid Year to Date" amount.
   - Use the [mortgage calculator](https://docs.google.com/spreadsheets/d/1siAAS4TWKV-T4j9ARfrzN4CsgjBA2v-XzXNCWAJiFws){:target="_blank"}.
   - For mortgage loans with uneven payments, please provide the average balance
     by adding the outstanding balance of a debt on each month during the
@@ -473,7 +473,7 @@ If your vehicle is [qualified](https://fueleconomy.gov/feg/tax2023.shtml){:targe
   - Account number.
   - Owner name.
   - beneficiary name.
-  - Amount contributed in 2024.
+  - Amount contributed in 2025.
 - MA: rent paid.
   - landlord's name
   - landlord's address
@@ -508,9 +508,9 @@ Please provide the total amount of these purchases, as well as the sales or use 
 ### Nonresident Alien
 
 - Which country are you a citizen of (China, India, or other countries)?
-- If the status ever changed in the current year or a prior year, the date of change (MM/DD/YYYY). For example, "10/01/2024 from F1 to H1B."
-- How many days (including partial days) have you stayed in the US in 2024, 2023, and 2022 respectively? Do not count days when you were a nonresident with F or J visa. You can get your travel history outside the United States from the [I94 Website](https://i94.cbp.dhs.gov/I94/#/history-search) and use the [Days Calculator](https://www.timeanddate.com/date/durationresult.html) to compute days between two dates.
-- Is the number of days in the US in 2024 consistent with the location information provided earlier?
+- If the status ever changed in the current year or a prior year, the date of change (MM/DD/YYYY). For example, "10/01/2025 from F1 to H1B."
+- How many days (including partial days) have you stayed in the US in 2025, 2024, and 2023 respectively? Do not count days when you were a nonresident with F or J visa. You can get your travel history outside the United States from the [I94 Website](https://i94.cbp.dhs.gov/I94/#/history-search) and use the [Days Calculator](https://www.timeanddate.com/date/durationresult.html) to compute days between two dates.
+- Is the number of days in the US in 2025 consistent with the location information provided earlier?
 - Have you applied for a green card (i.e. submitted I-140)?
 - Have you received form 1042-S?
 - Does any wage document include a treaty deduction (we cannot deduct twice)?
@@ -550,7 +550,7 @@ Foreign Earned Income Exclusion.
 - Employer's U.S. address if it has one.
 - Income earned in U.S. dollars, use [IRS published conversion rate](https://www.irs.gov/individuals/international-taxpayers/yearly-average-currency-exchange-rates){:target="_blank"}:
 
-| County          | Currency | 1.00 USD in 2024 |
+| County          | Currency | 1.00 USD in 2025 |
 | :---            | :---     |    ---:          |
 | Australia       | Dollar   |   1.516          |
 | Canada          | Dollar   |   1.370          |
@@ -562,9 +562,9 @@ Foreign Earned Income Exclusion.
 
 - Do you pay income tax to a foreign country on the foreign earned income? If so, please provide a document showing taxable income and tax paid.
 - List travel history to and from the US in the format below from 01/01/2023 until now.
-  - 11/01/2023 - 06/31/2023 in China.
-  - 07/01/2024 - 07/15/2024 in the US, earned $0.
-  - 07/16/2025 - 02/19/2025 in China.
+  - 11/01/2024 - 06/31/2024 in China.
+  - 07/01/2025 - 07/15/2025 in the US, earned $0.
+  - 07/16/2026 - 02/19/2026 in China.
 - Did you maintain a home in the United States while living abroad? 
    - If yes, please provide the address of your home,  rented or not, the names of the occupants, and their relationship to you.
 - The latest year you filed foreign earned income exclusion (Form 2555)?
@@ -594,16 +594,16 @@ please provide information on EACH of the accounts as follows:
 - Address in English including postal code (can use headquarter's address).
 - Account number.
 - The maximum value of the account during the calendar year in US dollars (not taxable).
-- Opened in 2024 (yes or no)?
-- Closed in 2024 (yes or no)?
+- Opened in 2025 (yes or no)?
+- Closed in 2025 (yes or no)?
 - Interest generated from the account in US dollars (taxable).
 - Dividends generated from the account in US dollars (taxable).
 
 Please convert to U.S. dollars using the end of the calendar year exchange
 rate and report in U.S. dollars, you can use the [Currency Exchange Rates Converter](https://fiscaldata.treasury.gov/currency-exchange-rates-converter/){:target="_blank"}
-from the Treasury FiscalData. These are the selected exchange rates on 12/31/2024:
+from the Treasury FiscalData. These are the selected exchange rates on 12/31/2025:
 
-| US Dollar       | 1.00 USD on 12/31/2024 |
+| US Dollar       | 1.00 USD on 12/31/2025 |
 | ---             | ---:     |
 |Australia-Dollar |   1.612  |
 |Canada-Dollar    |   1.438  |
@@ -648,8 +648,8 @@ for each recipient, listing all entries in chronological order. Example:
 
 | Date       | Recipient   | Description            | Amount      |
 | ---------- | ----------- | ---------------------- | -----------:|
-| 04/15/2024 | Xiaohua Mao | Cash                   |   $80,000   |
-| 10/15/2024 | Xiaohua Mao | Cash                   |   $80,000   |
+| 04/15/2025 | Xiaohua Mao | Cash                   |   $80,000   |
+| 10/15/2025 | Xiaohua Mao | Cash                   |   $80,000   |
 | **Total**  |             |                        | **$160,000**|
 
 <a name="fn1">1</a> According to the IRS, a gift is defined as:
@@ -665,10 +665,10 @@ of the funds' source and their intended use in case of inquiries from the
 
 - A _Resident_ Given a Gift
 
-If you give a gift of more than the annual exclusion limit of $18,000 (2024),
+If you give a gift of more than the annual exclusion limit of $18,000 (2025),
 you must file [Form 709][form 709]{:target="_blank"}. However, you do
 not have to pay gift tax unless your lifetime gifts exceed the lifetime gift
-tax limit of $13.61 million (2024). This is the total amount of money or
+tax limit of $13.61 million (2025). This is the total amount of money or
 property that you can give away during your lifetime without having to pay gift
 tax.
 
