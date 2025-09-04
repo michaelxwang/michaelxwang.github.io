@@ -67,6 +67,11 @@ to have the excess plus earnings withdrawn. This is the most straightforward opt
 but it may also be the most time-consuming, and sometimes costly as some HSA custodians
 charge a fee for the service.
 
+The tax treatment of the excess contribution and the earnings is the same as in
+Option 1: the excess is reported as “other income” if not already included in
+your W‑2, earnings are included in gross income, and no 6% excise tax applies
+because the correction is timely.
+
 #### Option 3: Rollover to next year (untimely correction).
 
 If you have missed the chance, or simply do not want to go through the trouble of contacting the HSA custodian,
