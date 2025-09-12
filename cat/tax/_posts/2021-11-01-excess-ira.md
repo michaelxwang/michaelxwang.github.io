@@ -22,7 +22,7 @@ categories:
 
 - In 2024, Alan had earned income of $3,000, but contributed $7,000 to his traditional IRA which exceeds his earned income limit, so there is an excess contribution of $4,000 which generated $500 earnings.
 - In 2025, before the filing deadline (including extensions) he withdraws $4,000 excess contribution plus the $500 earnings as required for timely correction.
-- In 2026, he will receive a 1099-R with a code P and $500 taxable income. He should have reported the income in advance on 2025 return using 1099-R code 8 or amend it afterwards.
+- In 2026, he will receive a 1099-R with a code P and $500 taxable income. He should have reported the income in advance on 2024 return using 1099-R code 8 or amend it afterwards.
 - He will pay regular tax on the $500 earnings, and that is all. If he has deducted the excess contribution, he should amend the return to remove the deduction.
 
 #### Example 2: Excess contribution to traditional IRA, untimely correction - special rule, when the total contribution is not more than the maximum amount<sup>[3](#fn3)</sup>.
@@ -61,7 +61,7 @@ categories:
 
 - In 2024, Frank contributed $7,000 to Roth IRA, all of which is an excess due to income limit.
 - In 2025 before the filing deadline (including extensions), he withdraws $7,000 plus earnings $200 before the filing deadline.
-- In 2026, he will receive a 1099-R with a code P and $200 taxable income. He should have reported the income in advance on 2025 return using 1099-R code 8 or amend it afterwards.
+- In 2026, he will receive a 1099-R with a code P and $200 taxable income. He should have reported the income in advance on 2024 return using 1099-R code 8 or amend it afterwards.
 
 #### Example 7: Excess contribution to Roth IRA, untimely correction - special rule, when the total contribution is not more than the maximum amount<sup>[3](#fn3)</sup>.
 
