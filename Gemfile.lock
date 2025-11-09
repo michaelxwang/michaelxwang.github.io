@@ -3,17 +3,18 @@ GEM
   specs:
     addressable (2.8.4)
       public_suffix (>= 2.0.2, < 6.0)
+    base64 (0.3.0)
+    bigdecimal (3.3.1)
     colorator (1.1.0)
     concurrent-ruby (1.2.2)
+    csv (3.3.5)
     em-websocket (0.5.3)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
     eventmachine (1.2.7)
     ffi (1.15.5)
     forwardable-extended (2.6.0)
-    google-protobuf (3.23.2)
-    google-protobuf (3.23.2-arm64-darwin)
-    google-protobuf (3.23.2-x86_64-darwin)
+    google-protobuf (3.25.8)
     htmlbeautifier (1.4.2)
     htmlcompressor (0.4.0)
     http_parser.rb (0.8.0)
@@ -95,6 +96,9 @@ PLATFORMS
   x86_64-darwin-20
 
 DEPENDENCIES
+  base64
+  bigdecimal
+  csv
   jekyll
   jekyll-remote-theme
   jekyll-tidy
