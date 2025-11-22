@@ -174,13 +174,13 @@ significant public resources such as household registration (hukou), education,
 and healthcare. This is particularly evident in first- and second-tier cities,
 making land cost a core driver of housing prices.
 
-2009年7月23日，国土资源部（现已成为「自然资源部」）下属的中国土地勘测规划院网站公布了全国620个调查项目的地价房价比[调查数据][baidu]{:target="_blank"}。尽管数据年代久远，科学性和准确性尚存争议，但不失为有用的历史数据。
+2009年7月23日，国土资源部（现已成为「自然资源部」）下属的中国土地勘测规划院网站公布了全国620个调查项目的地价房价比[调查数据][baidu]{:target="_blank"}。尽管数据年代久远，科学性和准确性尚存[争议[debate]{:target="_blank"}，但不失为有用的历史数据。
 
 On July 23, 2009, the website of the China Land Surveying and Planning
 Institute (under the former Ministry of Land and Resources, now part of the
 "Ministry of Natural Resources") published the land-price-to-housing-price
 ratio [data][baidu]{:target="_blank"} from a national survey of 620 projects. Although this data is dated,
-and its scientific rigor and accuracy remain debated, it still serves as useful
+and its scientific rigor and accuracy remain [debated][debate]{:target="_blank"}, it still serves as useful
 historical data.
 
 | 地区<br>Area      | 项目调查最值<br>Survey Type | 楼面地价<br>Land Price (RMB/m²) | 开盘均价<br>Sale Price (RMB/m²) | 地价房价比例<br>Land/Price Ratio (%) |
@@ -262,3 +262,4 @@ historical data.
 [redfin]: https://www.redfin.com/news/value-of-house-vs-land/
 [baidu]: https://wenku.baidu.com/view/173a06d376eeaeaad1f330cd
 [fed]: https://www.federalreserve.gov/pubs/feds/2006/200625/200625pap.pdf
+[debate]: https://wiki.mbalib.com/wiki/房价成本公开
