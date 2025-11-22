@@ -94,6 +94,63 @@ areas across the United States based on [redfin][redfin]{:target="_blank"} updat
 
 <img src="/assets/images/20251121-redfin.png" alt="Land to Home Value Ratio"/>
 
+Here are the data on land’s share of home value by region of the U.S. from 1984 to 2004, based on federal reserve [research][fed]{:target="_blank"}:
+
+| Region/City           | 1984   | 1998   | 2004   |
+|-----------------------|-------:|-------:|-------:|
+| **Full sample**       | 0.320  | 0.397  | 0.509  |
+| **Midwest**           | 0.107  | 0.265  | 0.362  |
+| Buffalo               | 0.050  | 0.202  | 0.287  |
+| Chicago               | 0.205  | 0.398  | 0.521  |
+| Cincinnati            | 0.081  | 0.337  | 0.393  |
+| Cleveland             | 0.050  | 0.360  | 0.408  |
+| Columbus              | 0.193  | 0.389  | 0.424  |
+| Detroit               | 0.050  | 0.248  | 0.325  |
+| Indianapolis          | 0.053  | 0.249  | 0.273  |
+| Kansas City           | 0.159  | 0.220  | 0.307  |
+| Milwaukee             | 0.125  | 0.331  | 0.466  |
+| Minneapolis/St. Paul  | 0.121  | 0.251  | 0.458  |
+| Pittsburgh            | 0.050  | 0.126  | 0.260  |
+| Rochester             | 0.205  | 0.219  | 0.281  |
+| St. Louis             | 0.050  | 0.121  | 0.300  |
+| **Southeast**         | 0.267  | 0.359  | 0.415  |
+| Atlanta               | 0.255  | 0.288  | 0.358  |
+| Birmingham            | 0.119  | 0.308  | 0.357  |
+| Charlotte             | 0.559  | 0.577  | 0.565  |
+| Memphis               | 0.136  | 0.295  | 0.305  |
+| Tampa                 | 0.264  | 0.329  | 0.489  |
+| **Southwest**         | 0.346  | 0.308  | 0.384  |
+| Dallas                | 0.586  | 0.425  | 0.462  |
+| Denver                | 0.271  | 0.383  | 0.472  |
+| Fort Worth            | 0.448  | 0.296  | 0.341  |
+| Houston               | 0.274  | 0.189  | 0.312  |
+| New Orleans           | 0.286  | 0.357  | 0.466  |
+| Oklahoma City         | 0.279  | 0.129  | 0.233  |
+| Phoenix               | 0.606  | 0.479  | 0.558  |
+| Salt Lake City        | 0.080  | 0.373  | 0.353  |
+| San Antonio           | 0.284  | 0.141  | 0.258  |
+| **East Coast**        | 0.376  | 0.461  | 0.644  |
+| Baltimore             | 0.403  | 0.484  | 0.645  |
+| Boston                | 0.501  | 0.600  | 0.757  |
+| Hartford              | 0.285  | 0.397  | 0.541  |
+| Miami                 | 0.587  | 0.578  | 0.713  |
+| New York City         | 0.322  | 0.444  | 0.674  |
+| Norfolk               | 0.419  | 0.418  | 0.593  |
+| Philadelphia          | 0.207  | 0.343  | 0.547  |
+| Providence            | 0.193  | 0.390  | 0.654  |
+| Washington DC         | 0.467  | 0.493  | 0.674  |
+| **West Coast**        | 0.550  | 0.608  | 0.738  |
+| Anaheim               | 0.760  | 0.704  | 0.819  |
+| Los Angeles           | 0.608  | 0.649  | 0.787  |
+| Oakland               | 0.607  | 0.646  | 0.781  |
+| Portland              | 0.234  | 0.531  | 0.579  |
+| Sacramento            | 0.376  | 0.394  | 0.638  |
+| San Bernardino        | 0.511  | 0.390  | 0.633  |
+| San Diego             | 0.658  | 0.651  | 0.811  |
+| San Francisco         | 0.749  | 0.811  | 0.885  |
+| San Jose              | 0.682  | 0.756  | 0.824  |
+| Seattle               | 0.318  | 0.548  | 0.626  |
+
 #### Appendix 2: 中国房地产状况 (The Real Estate Landscape in China)
 
 产权： 中国购房者拥有的是「房屋所有权」和「土地使用权」（住宅通常为70年），而美国是永久产权。这使得中国的土地价值在理论上是有期限的「租用」价值。
@@ -127,7 +184,7 @@ and its scientific rigor and accuracy remain debated, it still serves as useful
 historical data.
 
 | 地区<br>Area      | 项目调查最值<br>Survey Type | 楼面地价<br>Land Price (RMB/m²) | 开盘均价<br>Sale Price (RMB/m²) | 地价房价比例<br>Land/Price Ratio (%) |
-|------------------|----------------------|--------------------------|---------------------------|------------------------|
+|------------------|----------------------|-------------------------:|--------------------------:|-----------------------:|
 | 北京 Beijing     | 最低值 Min           | 1333                     | 7400                      | 14.33                  |
 | 北京 Beijing     | 最高值 Max           | 8218                     | 45000                     | 51.36                  |
 | 上海 Shanghai   | 最低值 Min           | 1165                     | 7669                      | 15.19                  |
@@ -204,3 +261,4 @@ historical data.
 [pub946]: https://www.irs.gov/pub/irs-pdf/p946.pdf
 [redfin]: https://www.redfin.com/news/value-of-house-vs-land/
 [baidu]: https://wenku.baidu.com/view/173a06d376eeaeaad1f330cd
+[fed]: https://www.federalreserve.gov/pubs/feds/2006/200625/200625pap.pdf
