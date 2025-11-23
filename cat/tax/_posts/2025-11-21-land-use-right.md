@@ -96,7 +96,7 @@ provides a visual impression:
 
 <img src="/assets/images/20251121-redfin.png" alt="Land to Home Value Ratio"/>
 
-Here are the more comprehensive data (June 2024) across 1,054 U.S. counties publihed by [Federal Housing][housing]{:target="_blank"}:
+Here are the more comprehensive data (June 2022) across 1,054 U.S. counties publihed by [Federal Housing][housing]{:target="_blank"}:
 
 |State|County|FIPS|Year|Land&nbsp;Value<br>(1/4 Acre<br>Lot, Std.)|Land&nbsp;Value<br>(Per Acre, As-Is)|Land&nbsp;Share&nbsp;of<br>Property&nbsp;Value|Property Value (Std.)|Property Value<br>(As-is)|
 |-------|-------|:--:|:--:|------------:|----:|----:|-----:|-----:|
