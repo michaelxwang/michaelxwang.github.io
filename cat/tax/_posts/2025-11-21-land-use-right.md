@@ -1178,7 +1178,7 @@ significant public resources such as household registration (hukou), education,
 and healthcare. This is particularly evident in first- and second-tier cities,
 making land cost a core driver of housing prices.
 
-2009年7月23日，国土资源部（现已成为「自然资源部」）下属的中国土地勘测规划院网站公布了全国620个调查项目的地价房价比[调查数据][baidu]{:target="_blank"}。尽管数据年代久远，科学性和准确性尚存[争议[debate]{:target="_blank"}，但不失为有用的历史数据。
+2009年7月23日，国土资源部（现已成为「自然资源部」）下属的中国土地勘测规划院网站公布了全国620个调查项目的地价房价比[调查数据][baidu]{:target="_blank"}。尽管数据年代久远，科学性和准确性尚存[争议][debate]{:target="_blank"}，但不失为有用的历史数据。
 
 On July 23, 2009, the website of the China Land Surveying and Planning
 Institute (under the former Ministry of Land and Resources, now part of the
