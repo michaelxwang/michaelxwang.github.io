@@ -80,7 +80,7 @@ year, pay a 6% excise tax, and treat it as part of your contribution for the nex
 year. Be sure to adjust your next year's contribution amount so that the total
 does not exceed the limit<sup>[1](#fn1)</sup>.
 
-Note: You will also need to add the excess contribution (excluding earnings) to your
+Note: You will also need to add the excess contribution (excluding earnings<sup>[2](#fn1)</sup>) to your
 current year's income. You can then deduct the excess in the following year, up
 to the amount that fits within the maximum limit.
 
@@ -94,7 +94,7 @@ Step by step instructions:
 
 - Let the excess contributions stay in your HSA account.
 - Pay a 6% excise tax on the excess contributions.
-- Add the excess contributions (excluding earnings) to your current year's income.
+- Add the excess contributions (excluding earnings<sup>[2](#fn1)</sup>) to your current year's income.
 - Adjust your next year's contribution amount so that the total does not exceed the limit.
 - Deduct the excess contributions in the following year, up to the amount that fits within the maximum limit.
 
@@ -107,7 +107,7 @@ You will pay 6% excise tax on the excess contribution that remained on the accou
 "as of the close of the taxable year" ([IRC Section 4973(a)][irc4973]{:target="_blank"}), that is
 December 31st, not the tax filing deadline for untimely correction.
 
-You will also need to pay regular tax on the excess contribution if not included in W-2 (excluding earnings)
+You will also need to pay regular tax on the excess contribution if not included in W-2 (excluding earnings<sup>[2](#fn1)</sup>)
 for the year of the contribution.
 
 #### Which option is right for you?
@@ -133,6 +133,36 @@ your HSA. The excess contribution you can deduct for the current year is the les
 - (1) Your maximum HSA contribution limit for the year minus any amounts 
 contributed to your HSA for the year, or
 - (2) The total excess contributions in your HSA at the beginning of the year.
+
+<a name="fn1">2</a> [IRS Publication 969][p969]{:target="_blank"} states on page 8:
+> ... If the _excess contribution_ isn’t included in box 1 of Form W-2, you must
+> report the excess as “Other income” on your tax return.<br>
+>   Generally, you must pay a 6% excise tax on _excess contributions_. 
+
+This is a general rule for excess HSA contributions: the excess amount itself
+must be included in income if it was not already in Form W‑2 box 1, and any
+excess remaining in the HSA at year‑end is subject to a 6% excise tax for each
+year it remains.
+
+Publication 969 separately requires that earnings be withdrawn and included in
+“Other income” only when a timely corrective distribution (by the tax return
+due date, including extensions) is made to avoid the excise tax.
+
+The logic can be expressed in pseudocode:
+
+<pre>
+  other_income = excess_contribution
+  excise_tax   = 0.06 * excess_contribution
+
+  if timely_withdraw(excess_contribution, earnings):
+      other_income = excess_contribution + earnings
+      excise_tax   = 0
+</pre>
+
+Intuitively, this seems driven by practical considerations. For untimely
+withdrawals, tracking and allocating earnings becomes harder, and the recurring
+excise tax on the excess contribution is used to offset the undue tax advantage
+created by leaving the excess (and its earnings) in the HSA.
 
 References:
 
