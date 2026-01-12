@@ -22,7 +22,7 @@ simple word or text document and upload it along with tax documents.
 
 ### New in 2025.
 
-- None so far.
+- Problem areas identified: ESPP
 
 ### Frequently Forgotten Items.
 
@@ -31,9 +31,9 @@ These items can help you if provided or hurt you if omitted. Highlights here, de
 - Mortgage principal amount paid for loans more than 750K.
 - Car tax (CA, MA, VA, WA).
 - Dependent care expenses (5 pieces of info).
-- E*Trade Stock plan supplemental info.
-- Form 3922 or purchase confirmation.
-- Form 3921 or release confirmation.
+- E*Trade Stock plan supplemental info for "company" (versus personal) stocks sold.
+- Form 3922 or purchase confirmation for sold stocks from ESPP (Employee Stock Purchase Plan).
+- Form 3921 or release confirmation for ISO (Incentive Stock Option).
 - State 529 for your children (3 pieces of info).
 - "Backdoor" Roth IRA conversion (4 pieces of info).
 - Closing doc when you buy, sell, or refinance a home.
@@ -52,7 +52,7 @@ These items can help you if provided or hurt you if omitted. Highlights here, de
 
 and be sure to provide information in the _Nonresident_ section at the end of this checklist.
 
-NB, Special benefit for married couples: if one spouse is a resident at the end of the year 2025, you and your nonresident spouse can elect to file jointly as residents.
+Note, Special benefit for married couples: if one spouse is a resident at the end of the year 2025, you and your nonresident spouse can elect to file jointly as residents.
 
 ### What is Your Filing Status?
 
@@ -169,10 +169,10 @@ you can retrieve your records from the [I94 Website](https://i94.cbp.dhs.gov/I94
 
   For example:
 
-  - Contribution: I added $6,000 to a traditional IRA on April 1, 2026, for the 2025 tax year. I don't have Form 5498 from the source.
-  - Distribution: I moved $6,001.23 from the traditional IRA, as detailed on Form 1099-R.
-  - Remaining Balance: As of December 31, 2025, the **combined** balance of **all** my traditional and rollover IRAs across **all** banks was $0, but I do not have Forms 5498 to show this.
-  - Destination: The $6,001.23 was transferred to a Roth IRA in 2025, but I don't have Form 5498 for the target account.
+  - Contribution: I added $7,000 to a traditional IRA on April 1, 2025, for the 2025 tax year. I don't have Form 5498 from the source right now (usually issued in May).
+  - Distribution: I moved $7,000 from the traditional IRA, as detailed on Form 1099-R.
+  - Remaining Balance: As of December 31, 2025, the **combined** balance of **all** my traditional and rollover IRAs across **all** banks was $6, but I do not have Forms 5498 to show this.
+  - Destination: The $7,000 was transferred to a Roth IRA in 2025, but I don't have Form 5498 for the target account.
 
   NB: A Rollover IRA is a type of Traditional IRA that is specifically used to hold money rolled over from an employer-sponsored retirement plan (like a 401(k), 403(b), or pension plan).
 
@@ -605,13 +605,13 @@ from the Treasury FiscalData. These are the selected exchange rates on 12/31/202
 
 | US Dollar       | 1.00 USD on 12/31/2025 |
 | ---             | ---:     |
-|Australia-Dollar |   1.612  |
-|Canada-Dollar    |   1.438  |
-|China-Renminbi   |   7.299  |
-|Euro Zone-Euro   |   0.961  |
-|Hong Kong-Dollar |   7.766  |
-|India-Rupee      |  85.577  |
-|Japan-Yen        | 156.850  |
+|Australia-Dollar |   1.495  |
+|Canada-Dollar    |   1.369  |
+|China-Renminbi   |   6.998  |
+|Euro Zone-Euro   |   0.851  |
+|Hong Kong-Dollar |   7.784  |
+|India-Rupee      |  89.854  |
+|Japan-Yen        | 156.610  |
 
 ### Gift taxes
 
