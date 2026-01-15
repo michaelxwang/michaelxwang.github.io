@@ -548,17 +548,17 @@ Foreign Earned Income Exclusion.
 - Employer's name.
 - Employer's foreign address including postal code.
 - Employer's U.S. address if it has one.
-- Income earned in U.S. dollars, use [IRS published conversion rate](https://www.irs.gov/individuals/international-taxpayers/yearly-average-currency-exchange-rates){:target="_blank"}:
+- Income earned in U.S. dollars, use [IRS published conversion rate](https://www.irs.gov/individuals/international-taxpayers/yearly-average-currency-exchange-rates){:target="_blank"} if available. The following table is based on quarterly average from the [Treasury Reporting Rates of Exchange](https://fiscaldata.treasury.gov/datasets/treasury-reporting-rates-exchange/treasury-reporting-rates-of-exchange#reports-and-files){:target="_blank"}.
 
 | County          | Currency | 1.00 USD in 2025 |
 | :---            | :---     |    ---:          |
-| Australia       | Dollar   |   1.516          |
-| Canada          | Dollar   |   1.370          |
-| China           | Yuan     |   7.189          |
-| Euro Zone       | Euro     |   0.924          |
-| Hong Kong       | Dollar   |   7.803          |
-| India           | Rupee    |  83.677          |
-| Japan           | Yen      | 151.353          |
+| Australia       | Dollar   |   1.535          |
+| Canada          | Dollar   |   1.391          |
+| China           | Renminbi |   7.134          |
+| Euro Zone       | Euro     |   0.870          |
+| Hong Kong       | Dollar   |   7.798          |
+| India           | Rupee    |  87.450          |
+| Japan           | Yen      | 149.568          |
 
 - Do you pay income tax to a foreign country on the foreign earned income? If so, please provide a document showing taxable income and tax paid.
 - List travel history to and from the US in the format below from 01/01/2023 until now.
