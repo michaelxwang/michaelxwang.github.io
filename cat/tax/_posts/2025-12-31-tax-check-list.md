@@ -22,7 +22,11 @@ simple word or text document and upload it along with tax documents.
 
 ### New in 2025.
 
-- Problem areas identified: ESPP
+- No tax on tips.
+- No tax on overtime.
+- Auto loan interest deduction.
+- SALT (State And Local Taxes) cap increases.
+- Senior deduction.
 
 ### Frequently Forgotten Items.
 
@@ -33,7 +37,6 @@ These items can help you if provided or hurt you if omitted. Highlights here, de
 - Dependent care expenses (5 pieces of info).
 - E*Trade Stock plan supplemental info for "company" (versus personal) stocks sold.
 - Form 3922 or purchase confirmation for sold stocks from ESPP (Employee Stock Purchase Plan).
-- Form 3921 or release confirmation for ISO (Incentive Stock Option).
 - State 529 for your children (3 pieces of info).
 - "Backdoor" Roth IRA conversion (4 pieces of info).
 - Closing doc when you buy, sell, or refinance a home.
@@ -106,8 +109,7 @@ exchange, gift, or otherwise dispose of a digital asset (or a financial interest
 The following actions do not require a Yes answer:
 
 - Holding a digital asset in a wallet or account;
-- Transferring a digital asset from one wallet or account you own or control to another wallet or account that you
-own or control; or
+- Transferring a digital asset from one wallet or account you own or control to another wallet or account that you own or control; or
 - Purchasing digital assets using
 U.S. or other real currency, including
 through the use of electronic platforms
@@ -198,28 +200,34 @@ If you have HSA (Health Savings Account), please provide:
 - Is it a "self-only" plan (insurance only covers yourself) or a family plan? i.e. does the insurance cover only yourself or a family member as well?
 - [1099-SA](https://www.irs.gov/pub/irs-pdf/f1099sa.pdf) or the amount spent from HSA. Zero is also a meaningful number.
 - All the spending from the HSA was used for medical purposes and not reimbursed.
-- The amount you contributed yourself by depositing a check or making a bank transfer.
+- The amount you contributed yourself by depositing a check or making a bank transfer. The contribution via payroll is already excluded from taxable income in W-2.
 - [5498-SA](https://www.irs.gov/pub/irs-pdf/f5498sa.pdf) if you have it (optional).
+- [CA and NJ] They tax HSA investment earnings. Your HSA provider does NOT issue a 1099 for these amounts, so you must provide them from your year-end HSA statement. Please upload a separate file named "HSA_earnings_state_taxable" containing the following information:
+  - Total interest earned in year:
+  - Total dividends received (including reinvested):
+  - Total realized capital gains or losses (from selling investments, use negative number for losses):
 
 ### Financial Assets.
     
 - Interest income statements ([1099-INT](https://www.irs.gov/pub/irs-pdf/f1099int.pdf), [1099-OID](https://www.irs.gov/pub/irs-pdf/f1099oid.pdf)). Please do not forget the interest paid by the IRS and states.
-- Dividend income statements ([1099-DIV](https://www.irs.gov/pub/irs-pdf/f1099div.pdf)).
+- Dividend income statements ([1099-DIV](https://www.irs.gov/pub/irs-pdf/f1099div.pdf)). Some funds from Fidelity and iShares contain a percentage of government securities that is exempted from state tax, please upload a Google sheets file using the [template](https://docs.google.com/spreadsheets/d/19G39gsnyTxaCkJB9Vovb9c8BG2nVYzqea_rmKm1Bg1E){:target="_blank"}.
 - Proceeds from stock, mutual fund, and bond sale ([1099-B](https://www.irs.gov/pub/irs-pdf/f1099b.pdf)).
 - Virtual currencies ([faq](https://www.irs.gov/individuals/international-taxpayers/frequently-asked-questions-on-virtual-currency-transactions)).
 - RSU (Restricted Stock Unit) sale or "sale to cover".
+  - E*Trade [**Stock Plan Transactions Supplemental Info**](/assets/images/20190103-tax-RSU-ESPP.pdf) if your broker is E*Trade.
 - **ESPP** (Employee Stock Purchase Plan) sale:
+  - E*Trade [**Stock Plan Transactions Supplemental Info**](/assets/images/20190103-tax-RSU-ESPP.pdf) if your broker is E*Trade.
   - **Form 3922** covering all of the stocks from the purchasing years or
   - **Purchase and Sale Confirmations** from your broker (if Form 3922 is not available).
   - Specify the document that contains the ESPP sale along with number of shares sold, and proceeds received.
   - For tax theory, see [Tax notes: ISO, ESPP, and RSU](https://taxandlife.com/cat/tax/2019/11/19/ISO-RSU-ESPP.html).
 - ISO (Incentive Stock Option) sale:
+  - E*Trade [**Stock Plan Transactions Supplemental Info**](/assets/images/20190103-tax-RSU-ESPP.pdf) if your broker is E*Trade.
   - **Form 3921** covering all of the stocks from the grant years or
   - **Release and sale Confirmations** from your broker (if Form 3922 is not available).
   - Specify the document that contains the ESPP sale along with number of shares sold, and proceeds received.
   - For tax theory, see [Tax notes: ISO, ESPP, and RSU](https://taxandlife.com/cat/tax/2019/11/19/ISO-RSU-ESPP.html).
 - Early withdrawal penalties on CDs and other time deposits.
-- E*Trade [**Stock Plan Transactions Supplemental Info**](/assets/images/20190103-tax-RSU-ESPP.pdf).
 
 ### Landlord (Property Owner Renting Out Space) or Rental Business.
 
@@ -304,10 +312,10 @@ deductible items such as donations, medical expenses, and state tax paid.
 
 | Filing Status | Standard Deduction Amount |
 | --- | ---: |
-| Single | $12,950 |
-| Married Filing Jointly & Surviving Spouse | $25,900 |
-| Married Filing Separately | $12,950 |
-| Head of Household | $19,400 |
+| Married Filing Jointly & Surviving Spouse | $31,500 |
+| Head of Household | $23,525 |
+| Single | $15,750 |
+| Married Filing Separately | $15,750 |
 
 The itemized deduction items: 
 
