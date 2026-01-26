@@ -35,7 +35,7 @@ These items can help you if provided or hurt you if omitted. Highlights here, de
 - Mortgage principal amount paid for loans more than 750K.
 - Car tax (CA, MA, VA, WA).
 - Dependent care expenses (5 pieces of info).
-- E*Trade Stock plan supplemental info for "company" (versus personal) stocks sold.
+- E\*Trade Stock plan supplemental info for "company" (versus personal) stocks sold.
 - Form 3922 or purchase confirmation for sold stocks from ESPP (Employee Stock Purchase Plan).
 - State 529 for your children (3 pieces of info).
 - "Backdoor" Roth IRA conversion (4 pieces of info).
@@ -214,15 +214,15 @@ If you have HSA (Health Savings Account), please provide:
 - Proceeds from stock, mutual fund, and bond sale ([1099-B](https://www.irs.gov/pub/irs-pdf/f1099b.pdf)).
 - Virtual currencies ([faq](https://www.irs.gov/individuals/international-taxpayers/frequently-asked-questions-on-virtual-currency-transactions)).
 - RSU (Restricted Stock Unit) sale or "sale to cover".
-  - E*Trade [**Stock Plan Transactions Supplemental Info**](/assets/images/20190103-tax-RSU-ESPP.pdf) if your broker is E*Trade.
+  - E\*Trade [**Stock Plan Transactions Supplemental Info**](/assets/images/20190103-tax-RSU-ESPP.pdf) if your broker is E\*Trade.
 - **ESPP** (Employee Stock Purchase Plan) sale:
-  - E*Trade [**Stock Plan Transactions Supplemental Info**](/assets/images/20190103-tax-RSU-ESPP.pdf) if your broker is E*Trade.
+  - E\*Trade [**Stock Plan Transactions Supplemental Info**](/assets/images/20190103-tax-RSU-ESPP.pdf) if your broker is E\*Trade.
   - **Form 3922** covering all of the stocks from the purchasing years or
   - **Purchase and Sale Confirmations** from your broker (if Form 3922 is not available).
   - Specify the document that contains the ESPP sale along with number of shares sold, and proceeds received.
   - For tax theory, see [Tax notes: ISO, ESPP, and RSU](https://taxandlife.com/cat/tax/2019/11/19/ISO-RSU-ESPP.html).
 - ISO (Incentive Stock Option) sale:
-  - E*Trade [**Stock Plan Transactions Supplemental Info**](/assets/images/20190103-tax-RSU-ESPP.pdf) if your broker is E*Trade.
+  - E\*Trade [**Stock Plan Transactions Supplemental Info**](/assets/images/20190103-tax-RSU-ESPP.pdf) if your broker is E\*Trade.
   - **Form 3921** covering all of the stocks from the grant years or
   - **Release and sale Confirmations** from your broker (if Form 3922 is not available).
   - Specify the document that contains the ESPP sale along with number of shares sold, and proceeds received.
