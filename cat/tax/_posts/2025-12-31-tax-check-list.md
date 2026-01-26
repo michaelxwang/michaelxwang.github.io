@@ -101,19 +101,17 @@ I do _not_ use it for the filing fee or any other purposes, for new clients or r
 - Your account type (Checking or Savings).
 - Account holder(s).
 
-### Virtual Currency Question.
+### Virtual Currency
 
-At any time during 2025, did you: (a) receive (as a reward, award, or payment for property or services); or (b) sell,
-exchange, gift, or otherwise dispose of a digital asset (or a financial interest in a digital asset) (Yes/No)?
+- Did you receive a *Form 1099-DA* (new in 2025) reporting Digital Asset (DA) sales or exchanges in 2025?
+- At any time during 2025, did you: (a) receive (as a reward, award, or payment for property or services); or (b) sell,
+exchange, gift, or otherwise dispose of a digital asset (or a financial interest in a digital asset) (Yes/No)? 
 
-The following actions do not require a Yes answer:
+  The following actions do not require a Yes answer:
 
-- Holding a digital asset in a wallet or account;
-- Transferring a digital asset from one wallet or account you own or control to another wallet or account that you own or control; or
-- Purchasing digital assets using
-U.S. or other real currency, including
-through the use of electronic platforms
-such as PayPal and Venmo.
+  - Holding a digital asset in a wallet or account;
+  - Transferring a digital asset from one wallet or account you own or control to another wallet or account that you own or control; or
+  - Purchasing digital assets using U.S. or other real currency, including through the use of electronic platforms such as PayPal and Venmo.
    
 ### Last Year's Tax Returns (for New Client Only).
 
@@ -192,20 +190,6 @@ you can retrieve your records from the [I94 Website](https://i94.cbp.dhs.gov/I94
 - Prizes and awards.
 - Scholarships and fellowships.
 - State and local income tax refunds ([1099-G](https://www.irs.gov/pub/irs-pdf/f1099g.pdf), **if** you did not file with me last year _and_ you have not provided the last year's returns _and_ you have itemized last year).
-
-### HSA.
-
-If you have HSA (Health Savings Account), please provide:
-
-- Is it a "self-only" plan (insurance only covers yourself) or a family plan? i.e. does the insurance cover only yourself or a family member as well?
-- [1099-SA](https://www.irs.gov/pub/irs-pdf/f1099sa.pdf) or the amount spent from HSA. Zero is also a meaningful number.
-- All the spending from the HSA was used for medical purposes and not reimbursed.
-- The amount you contributed yourself by depositing a check or making a bank transfer. The contribution via payroll is already excluded from taxable income in W-2.
-- [5498-SA](https://www.irs.gov/pub/irs-pdf/f5498sa.pdf) if you have it (optional).
-- [CA and NJ] They tax HSA investment earnings. Your HSA provider does NOT issue a 1099 for these amounts, so you must provide them from your year-end HSA statement. Please upload a separate file named "HSA_earnings_state_taxable" containing the following information:
-  - Total interest earned in year:
-  - Total dividends received (including reinvested):
-  - Total realized capital gains or losses (from selling investments, use negative number for losses):
 
 ### Financial Assets.
     
@@ -288,6 +272,20 @@ property, if the taxpayer was involved in a 1031 exchange.
 
 If you qualify for the exclusion, and the capital gain is clearly within the limit, then you do not need to submit
 the list of improvements and expenses related to the sale.
+
+### HSA.
+
+If you have HSA (Health Savings Account), please provide:
+
+- Is it a "self-only" plan (insurance only covers yourself) or a family plan? i.e. does the insurance cover only yourself or a family member as well?
+- [1099-SA](https://www.irs.gov/pub/irs-pdf/f1099sa.pdf) or the amount spent from HSA. Zero is also a meaningful number.
+- All the spending from the HSA was used for medical purposes and not reimbursed.
+- The amount you contributed yourself by depositing a check or making a bank transfer. The contribution via payroll is already excluded from taxable income in W-2.
+- [5498-SA](https://www.irs.gov/pub/irs-pdf/f5498sa.pdf) if you have it (optional).
+- [CA and NJ] They tax HSA investment earnings. Your HSA provider does NOT issue a 1099 for these amounts, so you must provide them from your year-end HSA statement. Please upload a separate file named "HSA_earnings_state_taxable" containing the following information:
+  - Total interest earned in year:
+  - Total dividends received (including reinvested):
+  - Total realized capital gains or losses (from selling investments, use negative number for losses):
 
 ### Homeowner and Itemizing Items
 
@@ -453,6 +451,33 @@ If your vehicle is [qualified](https://fueleconomy.gov/feg/tax2023.shtml){:targe
   - $225,000 for heads of households.
   - $150,000 for all other filers.
 - Home charge station receipt.
+
+### Car Loan Interest.
+
+You can claim car loan interest if you satisfy all the following conditions:
+
+- Vehicle is NEW (not used/certified pre-owned).
+- You purchased between 2025 and 2028.
+- Vehicle was MANUFACTURED in the United States.
+- You have *Form 1098-VLI* from lender showing interest paid.
+- Your income is below $120,000 (Single / Married Filing Separately) or $240,000 (Married Filing Jointly).
+
+### No tax on tips.
+
+- Work in an occupation that “customarily and regularly received tips” BEFORE 2025.
+- Have a valid Social Security Number (SSN).
+- Tips must be VOLUNTARY.
+- File a joint return if married.
+- Income below phase-out threshold ($150,000 if Single and $300,000 if Married Filing Jointly).
+- Not in “Specified Service Trade or Business” (SSTB, legal, medical, consulting, accounting services).
+
+### No tax on overtime.
+
+- Must be a NON-EXEMPT employee under Fair Labor Standards Act (FLSA).
+- Receive FLSA-qualifying overtime pay.
+- Have a valid Social Security Number.
+- Cannot file Married Filing Separately.
+- Income below phase-out threshold ($150,000 if Single and $300,000 if Married Filing Jointly).
 
 ### Medical Insurance Documents
     
