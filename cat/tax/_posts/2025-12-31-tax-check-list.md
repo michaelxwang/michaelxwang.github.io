@@ -27,6 +27,7 @@ simple word or text document and upload it along with tax documents.
 - Auto loan interest deduction.
 - SALT (State And Local Taxes) cap increases.
 - Senior deduction.
+- Trump account.
 
 ### Frequently Forgotten Items.
 
@@ -416,7 +417,7 @@ If you provide the business income and expenses manually, here is a partial list
 - Business income ([1099-NEC](https://www.irs.gov/pub/irs-pdf/f1099nec.pdf) and own records).
 - Partnership SE income (Schedules [K-1](https://www.irs.gov/pub/irs-pdf/f1065sk1.pdf)).
 - Employment taxes and other retirement plan contributions.
-- Auto loans and leases if for business use.
+- Auto loans and leases if for business use, see "Auto Loan Interest" section for personal use.
 - Auto expenses (see "Auto expenses for business use" section).
 - Entertainment and meals.
 - Job hunting expenses.
@@ -452,9 +453,9 @@ If your vehicle is [qualified](https://fueleconomy.gov/feg/tax2023.shtml){:targe
   - $150,000 for all other filers.
 - Home charge station receipt.
 
-### Car Loan Interest.
+### Auto Loan Interest.
 
-You can claim car loan interest if you satisfy all the following conditions:
+You can claim auto loan interest if you satisfy all the following conditions:
 
 - Vehicle is NEW (not used/certified pre-owned).
 - You purchased between 2025 and 2028.
@@ -478,6 +479,16 @@ You can claim car loan interest if you satisfy all the following conditions:
 - Have a valid Social Security Number.
 - Cannot file Married Filing Separately.
 - Income below phase-out threshold ($150,000 if Single and $300,000 if Married Filing Jointly).
+
+### Trump account (also called a 530A account).
+
+- Who qualifies: Any U.S. citizen child under 18, potentially with a $1,000 seed if born 2025 - 2028.
+- Who opens it: Parent/guardian (custodian) files Form 4547 or uses trumpaccounts.gov, then opens a Trump (530A) account at a brokerage once available.
+- Where: Major brokers/banks that support Trump accounts (e.g., Fidelity, Schwab, others - check each firm’s implementation starting mid‑2026).
+- What it invests in: Only very low‑cost U.S. stock index mutual funds/ETFs, no sector bets or leverage.
+- Why open one: To capture the $1,000 federal seed (if eligible) and long‑term tax‑deferred equity growth for a child, with relatively simple, low‑fee investing.
+
+Fun trivia: Form 4547 echoes that Trump is the 45th and 47th president. My tax software does not support the form as of now.
 
 ### Medical Insurance Documents
     
