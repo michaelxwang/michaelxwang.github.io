@@ -195,7 +195,7 @@ you can retrieve your records from the [I94 Website](https://i94.cbp.dhs.gov/I94
 ### Financial Assets.
     
 - Interest income statements ([1099-INT](https://www.irs.gov/pub/irs-pdf/f1099int.pdf), [1099-OID](https://www.irs.gov/pub/irs-pdf/f1099oid.pdf)). Please do not forget the interest paid by the IRS and states.
-- Dividend income statements ([1099-DIV](https://www.irs.gov/pub/irs-pdf/f1099div.pdf)). Some funds from Fidelity and iShares contain a percentage of government securities that is exempted from state tax, please upload a Google sheets file using the [template](https://docs.google.com/spreadsheets/d/19G39gsnyTxaCkJB9Vovb9c8BG2nVYzqea_rmKm1Bg1E){:target="_blank"}.
+- Dividend income statements ([1099-DIV](https://www.irs.gov/pub/irs-pdf/f1099div.pdf)). Some funds, for example, [Fidelity][fidelity 2025]{:target="_blank"} and [iShares][ishare 2025]{:target="_blank"}, contain a percentage of government securities that is exempted from state tax, please upload a Google sheets file using the [template](https://docs.google.com/spreadsheets/d/19G39gsnyTxaCkJB9Vovb9c8BG2nVYzqea_rmKm1Bg1E){:target="_blank"}.
 - Proceeds from stock, mutual fund, and bond sale ([1099-B](https://www.irs.gov/pub/irs-pdf/f1099b.pdf)).
 - Virtual currencies ([faq](https://www.irs.gov/individuals/international-taxpayers/frequently-asked-questions-on-virtual-currency-transactions)).
 - RSU (Restricted Stock Unit) sale or "sale to cover".
@@ -734,3 +734,5 @@ I hope this checklist helps you to prepare your tax documents.
 [big brother]: https://en.wikipedia.org/wiki/Big_Brother_(Nineteen_Eighty-Four)
 [form 709]: https://www.irs.gov/pub/irs-pdf/f709.pdf
 [personal_property_tax]: https://ttlc.intuit.com/turbotax-support/en-us/help-article/tax-credits-deductions/car-registration-fee-deductible/L0NkGtxYR_US_en_US
+[fidelity 2025]: https://drive.google.com/file/d/1x6wfb5MJbmS6YTJwgd0yMSPF76j6Y1CC/view
+[ishare 2025]: https://drive.google.com/file/d/1jXjtgP8buSfT931IeGmIgNT0yWykKybg/view
