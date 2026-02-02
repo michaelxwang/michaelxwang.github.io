@@ -15,7 +15,7 @@ six-step communication protocol which has been tested by so many people over so 
   <li>&rarr; [1a] You provide us "your <mark>Gmail</mark> address", "<mark>first name</mark>", and "<mark>last name</mark>".</li>
   <li>&larr; [1b] We will send you a *secure* Google Drive link for you to upload your tax documents.</li>
   <br>
-  <li>&rarr; [2a] You upload your last year returns, describe what is new in current and special situations to be handled.</li>
+  <li>&rarr; [2a] You upload your last year returns, describe what is new in current and special situations to be handled. Alternatively, you upload your <mark>complete</mark> set of tax documents for the current year according to the <a href="/cat/tax/2025/12/31/tax-check-list.html" target="_blank">checklist</a> (<mark>this is a clickable link</mark>).</li>
   <li>&larr; [2b] We will let you know if we can do it, and if so we will provide an estimate.</li>
   <br>
   <li>&rarr; [3a] You tell us that you agree with the price.</li>
