@@ -603,6 +603,7 @@ Foreign Earned Income Exclusion.
 | Hong Kong       | Dollar   |   7.798          |
 | India           | Rupee    |  87.450          |
 | Japan           | Yen      | 149.568          |
+| Malaysia        | Ringgit  |   4.227          |
 
 - Do you pay income tax to a foreign country on the foreign earned income? If so, please provide a document showing taxable income and tax paid.
 - List travel history to and from the US in the format below from 01/01/2023 until now.
@@ -656,6 +657,7 @@ from the Treasury FiscalData. These are the selected exchange rates on 12/31/202
 |Hong Kong-Dollar |   7.784  |
 |India-Rupee      |  89.854  |
 |Japan-Yen        | 156.610  |
+|Malaysia-Ringgit |   4.056  |
 
 ### Gift taxes
 
@@ -734,5 +736,5 @@ I hope this checklist helps you to prepare your tax documents.
 [big brother]: https://en.wikipedia.org/wiki/Big_Brother_(Nineteen_Eighty-Four)
 [form 709]: https://www.irs.gov/pub/irs-pdf/f709.pdf
 [personal_property_tax]: https://ttlc.intuit.com/turbotax-support/en-us/help-article/tax-credits-deductions/car-registration-fee-deductible/L0NkGtxYR_US_en_US
-[fidelity 2025]: https://drive.google.com/file/d/1x6wfb5MJbmS6YTJwgd0yMSPF76j6Y1CC/view
-[ishare 2025]: https://drive.google.com/file/d/1jXjtgP8buSfT931IeGmIgNT0yWykKybg/view
+[fidelity 2025]: https://www.fidelity.com/bin-public/060_www_fidelity_com/documents/taxes/ty25-gse-supplemental-letter.pdf
+[ishare 2025]: https://www.ishares.com/us/literature/tax-information/2025-ishares-us-government-source-income-information-stamped.pdf
