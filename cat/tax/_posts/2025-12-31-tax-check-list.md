@@ -77,10 +77,10 @@ Please provide the following info for the taxpayer (and spouse if filing jointly
 -  Pronouns (He/Him/His, She/Her/Hers, They/Them/Theirs).
 -  Date of Birth (MM/DD/YYYY).
 -  Social Security Numbers or Individual Tax Identification Number, see ITIN in SPECIAL SITUATION section if you do not have either.
--  Email address.
+-  Occupation.
 -  Address.
 -  Telephone number.
--  Occupation.
+-  Email address.
 -  IP PIN (Identity Protection Personal Identification Number, you know if you have it).
 
 and for EACH dependent (your spouse is not your dependent):
@@ -547,7 +547,13 @@ Please provide the total amount of these purchases, as well as the sales or use 
 - The photo page of the applicant's passport.
 - The visa page of the applicant's passport.
 - The most recent entry stamp page of the applicant's passport.
-- The most recent school transcript (For children under 18).
+- The most recent school transcript (For children under 18) that contains the following information:
+  - Child's official name as appeared in the passport.
+  - Child's home address.
+  - School's name and address.
+  - School term is recent within a year.
+
+  "A combination of the official documents can be used to cover all requirements for the record."
 
 ### Nonresident Alien
 
