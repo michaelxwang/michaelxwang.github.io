@@ -5,20 +5,26 @@ categories:
   - tax
 ---
 
-Overcontributing to a Health Savings Account (HSA) can happen, typically when
-you change jobs. This can happen if your new employer is not informed of the
-contributions you've already made via your previous employer, provided their
-payroll software has the capacity to accommodate this information. It's worth
-noting that excess contributions to an HSA are unlikely with a single employer,
-as the payroll software should automatically halt contributions once the
-maximum limit is reached.
+Overcontributing to a Health Savings Account (HSA) can happen; the most common situations include:
 
-Another reason to have excess contribution is that you are ineligible to
-contribute HSA because you are covered by your spouse's
-insurance, or your spouse has a general purpose Flexible Spending Account (FSA) which
-can potentially cover you regardless whether it actually covers or not. Please
-see [HSA/FSA Contribution Rules for Married Couples][chart] to see your eligibility to contribute the HSA.
+- When you change jobs and your new employer doesn’t know how much was already
+contributed at the prior employer, especially if the new payroll system can’t
+track prior HSA contributions.
 
+- When you are actually ineligible to contribute to an HSA because you’re
+covered under your spouse’s health insurance, or your spouse has a
+general‑purpose Flexible Spending Account (FSA) that can reimburse your medical expenses (even if you never
+use it for you).
+
+- When both spouses are HSA‑eligible and one or both has family coverage: the
+combined limit is still the family limit, but if each spouse contributes
+through separate employers and the companies don’t coordinate, the couple can
+accidentally exceed that family limit.
+
+- When you switch between self‑only and family coverage during the year and don’t
+adjust your contributions properly for the months at each coverage level.
+
+Please see [HSA/FSA Contribution Rules for Married Couples][chart] to see your eligibility to contribute the HSA.
 For one reason or the other, if you have overcontributed your HSA, there are options to
 rectify the situation.
 
