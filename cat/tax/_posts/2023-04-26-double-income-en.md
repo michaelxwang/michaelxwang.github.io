@@ -44,6 +44,25 @@ This method is simple and easy to implement — just check one box — and
 it is a permanent solution, as the tax withholding will automatically
 adjust as your salary increases (or decreases).
 
+A note on supplemental income: The default federal withholding rate on
+supplemental wages (bonuses, stock vesting, commissions, etc.) is a flat 22%.
+For dual-income households, this flat rate often under-withholds because by the
+time the bonus hits, much of your combined income is already being taxed at
+24%, 32%, or higher. If your employer allows it, request that supplemental
+income be withheld at your top marginal tax bracket rather than the default
+22%. Alternatively, increase the amount on W-4 line 4(c) to compensate. For
+supplemental wages exceeding $1 million in a calendar year, the mandatory
+withholding rate is 37%.
+
+For RSU vesting specifically: Many employers only withhold the default 22% (or
+the minimum required to cover FICA and income tax) and do not allow you to
+adjust the rate. In that case, you can handle it manually — at the time of
+vesting, sell additional shares beyond the automatic sell-to-cover amount and
+set the extra cash aside to pay taxes. For example, if your top marginal
+bracket is 32% but the company only withholds 22%, sell enough extra shares to
+cover the 10% gap. This avoids a surprise tax bill at filing time and is
+effectively the same as having the correct amount withheld upfront.
+
 Like other aspects of marriage, when each person takes care of their
 own affairs, the couple will thrive together.
 
