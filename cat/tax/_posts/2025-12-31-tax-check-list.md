@@ -252,7 +252,7 @@ to organize your expenses. If you want to do it the hard way (this feature will 
 
 - [1099-S](https://www.irs.gov/pub/irs-pdf/f1099s.pdf) if issued as part of the closing process.
 - Both [Closing documents][closing doc] when you bought and sold the property.
-- A spreadsheet listing of major improvements (that increase the home value) and sales expenses not in closing documents.
+- A spreadsheet listing of major improvements (that increase the home value) and sales expenses not in closing documents and not in rental depreciation schedule.
   - Date
   - Description of improvement or sale expense
   - Amount
