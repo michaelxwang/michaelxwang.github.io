@@ -209,7 +209,7 @@ you can retrieve your records from the [I94 Website](https://i94.cbp.dhs.gov/I94
 - ISO (Incentive Stock Option) sale:
   - E\*Trade [**Stock Plan Transactions Supplemental Info**](/assets/images/20190103-tax-RSU-ESPP.pdf) if your broker is E\*Trade.
   - **Form 3921** covering all of the stocks from the grant years or
-  - **Release and sale Confirmations** from your broker (if Form 3922 is not available).
+  - **Release and sale Confirmations** from your broker (if Form 3921 is not available).
   - Specify the document that contains the ESPP sale along with number of shares sold, and proceeds received.
   - For tax theory, see [Tax notes: ISO, ESPP, and RSU](https://taxandlife.com/cat/tax/2019/11/19/ISO-RSU-ESPP.html).
 - Early withdrawal penalties on CDs and other time deposits.
