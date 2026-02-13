@@ -252,7 +252,7 @@ to organize your expenses. If you want to do it the hard way (this feature will 
 
 - [1099-S](https://www.irs.gov/pub/irs-pdf/f1099s.pdf) if issued as part of the closing process.
 - Both [Closing documents][closing doc] when you bought and sold the property.
-- A spreadsheet listing of major improvements (that increase the home value) and sales expenses not in closing documents and not in rental depreciation schedule.
+- A spreadsheet listing of major improvements (that increase the home value) and sales expenses not in closing documents, not expensed (rental), and not depreciated (rental).
   - Date
   - Description of improvement or sale expense
   - Amount
@@ -322,12 +322,13 @@ The itemized deduction items:
 - (The **principal amount paid** for the year _OR_ equivalently the ending principal balance on 12/31/2025 _OR_ the average balance) _IF_ the borrowed amount exceeds 750K. The information can be obtained in one of the following ways:
   - [Form 1098](https://www.irs.gov/pub/irs-pdf/f1098.pdf).
   - The final mortgage statement for 2025 that shows the "Interest Paid Year to Date" amount matching your Form 1098. This statement should also include the "Principal Paid Year to Date" amount.
-  - Use the [mortgage calculator](https://docs.google.com/spreadsheets/d/1siAAS4TWKV-T4j9ARfrzN4CsgjBA2v-XzXNCWAJiFws){:target="_blank"}.
   - For mortgage loans with uneven payments, please provide the average balance
     by adding the outstanding balance of a debt on each month during the
     taxable year that the debt is secured by a qualified residence, and dividing
     the sum by the number of months during the taxable year that the residence is a
     qualified residence, per [Reg §1.163-10T](https://www.law.cornell.edu/cfr/text/26/1.163-10T). 
+    Please provide a spreadsheet using the example in "Monthly balance method" in
+    this Google Sheets doc [here][https://docs.google.com/spreadsheets/d/1906CSp8IiGdfGlHGJUj4ddRvvYFU66puhNXlILLfPm8]{:target="_blank"}.
 - [**Closing document**][closing doc] if you bought or refinanced your home in current year.
 - Real estate tax (property tax). If it is not on [Form 1098](https://www.irs.gov/pub/irs-pdf/f1098.pdf), you can get it from your county:
   - CA Alameda County: [search](https://www.acgov.org/ptax_pub_app/RealSearch.do){:target="_blank"}.

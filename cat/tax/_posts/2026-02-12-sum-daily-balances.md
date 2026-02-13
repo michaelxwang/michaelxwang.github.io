@@ -29,7 +29,8 @@ of debt secured by a qualified residence:
 Among these, the Interest Rate and Highest Balance methods are generally
 disadvantageous. They fail to lower the average during periods where your loan
 balance is low. The Beginning and Ending Balance Method is better, but it is
-restricted to loans with "level payments at fixed equal intervals."
+restricted to loans with "level payments at fixed equal intervals." 
+Consequently, you generally cannot use this method if you took out a new loan, refinanced, or made extra principal payments during the year.
 
 The Daily Basis Method calculates the average balance by weighting the actual principal outstanding on each day of the year.
 This often favors taxpayers by reducing the average balance if the loan did not exist for the entire year,
@@ -94,6 +95,14 @@ segment.
 
 This [Google Sheets doc][google-sheets]{:target="_blank"} automates the calculation. If you are in this situation, please
 include the spreadsheet in your tax documents.
+
+The "segment" shortcut described above requires only 2 data points per segment.
+However, if you have many complex segments, it might be easier to simply find
+the balance for each month, sum them up, and divide by the number of months you
+owned the home. While this involves more data entry (up to 12 points per loan) and is slightly
+less accurate, it is conceptually simpler to execute.
+To remain conservative, use the highest balance for each month
+The [Google Sheets doc][google-sheets]{:target="_blank"} also has a tab with an example using this method.
 
 [reg163]: https://www.taxnotes.com/research/federal/cfr26/1.163-10T
 [google-sheets]: https://docs.google.com/spreadsheets/d/1906CSp8IiGdfGlHGJUj4ddRvvYFU66puhNXlILLfPm8
