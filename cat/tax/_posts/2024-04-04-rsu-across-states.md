@@ -30,8 +30,9 @@ reviews to identify doubly taxed income and secure credits accordingly. This
 principle also applies to international relocations, such as Google employees
 moving to Canada or the United Kingdom after not securing an H1-B visa.
 
-To navigate this complex process, I developed a spreadsheet that precisely
-allocates RSU income across jurisdictions. In one case, I calculated the U.S.
+To navigate this complex process, I developed a 
+[spreadsheet](https://docs.google.com/spreadsheets/d/1EZE8JDzpKxF5sM-woPVZC-UYHp877ogWSRnMNRJYYNg){:target="_blank"}
+that precisely allocates RSU income across jurisdictions. In one case, I calculated the U.S.
 and Canada allocation for multiple RSU streams for a Google employee who
 relocated to Canada, confirming her W-2 accurately reflected the U.S. portion
 subject to both U.S. income tax and California state tax as a nonresident.
