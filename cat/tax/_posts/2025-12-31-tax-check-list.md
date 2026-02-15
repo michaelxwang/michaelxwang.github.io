@@ -328,7 +328,7 @@ The itemized deduction items:
     the sum by the number of months during the taxable year that the residence is a
     qualified residence, per [Reg §1.163-10T](https://www.law.cornell.edu/cfr/text/26/1.163-10T). 
     Please provide a spreadsheet using the example in "Monthly balance method" in
-    this Google Sheets doc [here][https://docs.google.com/spreadsheets/d/1906CSp8IiGdfGlHGJUj4ddRvvYFU66puhNXlILLfPm8]{:target="_blank"}.
+    this Google Sheets doc [here](https://docs.google.com/spreadsheets/d/1906CSp8IiGdfGlHGJUj4ddRvvYFU66puhNXlILLfPm8){:target="_blank"}.
 - [**Closing document**][closing doc] if you bought or refinanced your home in current year.
 - Real estate tax (property tax). If it is not on [Form 1098](https://www.irs.gov/pub/irs-pdf/f1098.pdf), you can get it from your county:
   - CA Alameda County: [search](https://www.acgov.org/ptax_pub_app/RealSearch.do){:target="_blank"}.
