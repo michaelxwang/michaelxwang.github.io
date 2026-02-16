@@ -60,7 +60,7 @@ loss), which is the difference between the sale price and the option purchase
 price, and not as compensation.
 
 - Disqualifying disposition: You pay ordinary income tax on the "bargain
-element", the spread betwen market price and purchase price, but only up to the actual gain realized if the stock is
+element", the spread between market price and purchase price, but only up to the actual gain realized if the stock is
 sold for more than the option purchase price.
 
 > Example 1:

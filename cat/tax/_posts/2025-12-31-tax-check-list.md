@@ -349,8 +349,8 @@ The itemized deduction items:
   - SC: The Personal Property Tax paid to your county based on your vehicle’s value.
   - VA: Car tax is deductible. If your car is in Fairfax county, use [this page](https://www.fairfaxcounty.gov/dta_mobileepay/BillQuest.aspx) to get your car tax. In Fairfax city, use [this page](https://eservices.fairfaxva.gov/taxes/default.aspx).
   - WA: In most major metropolitan areas of Pierce, King, and
-  Snohomish counties of Washington state, Regional Transit Authority
-  tax [RTA excise tax](https://www.yelp.com/biz_photos/rainier-vehicle-and-vessel-licensing-seattle?select=ALoVRzNvpNoJxOdA_zJiow)
+  Snohomish counties of Washington state, it is Regional Transit Authority
+  tax ([RTA excise tax](https://www.yelp.com/biz_photos/rainier-vehicle-and-vessel-licensing-seattle?select=ALoVRzNvpNoJxOdA_zJiow))
   which is a line item in car registration is deductible, use [this page](https://dol.wa.gov/fee-history) to find the RTA tax.
 - Gifts to charity (cash).
 - Gifts to charity (non-cash).
