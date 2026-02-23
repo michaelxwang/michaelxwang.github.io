@@ -40,7 +40,7 @@ These items can help you if provided or hurt you if omitted. Highlights here, de
 - Form 3922 or purchase confirmation for sold stocks from ESPP (Employee Stock Purchase Plan).
 - State 529 for your children (3 pieces of info).
 - "Backdoor" Roth IRA conversion (4 pieces of info).
-- Closing doc when you buy, sell, or refinance a home.
+- Closing disclosure when you buy, sell, or refinance a home.
 - F-1/OPT student visa history.
 - Rent paid in the year (MA, NJ only).
 
@@ -75,9 +75,9 @@ Please provide the following info for the taxpayer (and spouse if filing jointly
 -  Middle name.
 -  Last name.
 -  Pronouns (He/Him/His, She/Her/Hers, They/Them/Theirs).
--  Date of Birth (MM/DD/YYYY).
 -  Social Security Numbers or Individual Tax Identification Number, see ITIN in SPECIAL SITUATION section if you do not have either.
 -  Occupation.
+-  Date of Birth (MM/DD/YYYY).
 -  Address.
 -  Telephone number.
 -  Email address.
@@ -241,7 +241,7 @@ to organize your expenses. If you want to do it the hard way (this feature will 
 - Telephone and internet (provided to tenants).
 - Utilities.
 - FIRST-YEAR RENTAL: Rental starting date (MM/DD/YYYY).
-- FIRST-YEAR RENTAL: [Closing document][closing doc], aka settlement doc, HUD-1, ALTA, which is 2-3 pages with numbers (not words for lawyers).
+- FIRST-YEAR RENTAL: [Closing disclosure][closing doc], aka settlement doc, HUD-1, ALTA, which is 2-3 pages with numbers (not words for lawyers).
 - FIRST-YEAR RENTAL: Term of loan (e.g. 15 years, 30 years).
 - FIRST-YEAR RENTAL: [Assessment][assessment] near the rental starting date from the county website.
 - MIXED (RENTAL AND PRIMARY RESIDENT TOGETHER): Rental ratio.
@@ -251,8 +251,8 @@ to organize your expenses. If you want to do it the hard way (this feature will 
 ### Sale of Primary Residence or Rental Home
 
 - [1099-S](https://www.irs.gov/pub/irs-pdf/f1099s.pdf) if issued as part of the closing process.
-- Both [Closing documents][closing doc] when you bought and sold the property.
-- A spreadsheet listing of major improvements (that increase the home value) and sales expenses not in closing documents, not expensed (rental), and not depreciated (rental).
+- Both [Closing disclosure][closing doc] when you bought and sold the property.
+- A spreadsheet listing of major improvements (that increase the home value) and sales expenses not in closing disclosures, not expensed (rental), and not depreciated (rental).
   - Date
   - Description of improvement or sale expense
   - Amount
@@ -329,7 +329,7 @@ The itemized deduction items:
     qualified residence, per [Reg §1.163-10T](https://www.law.cornell.edu/cfr/text/26/1.163-10T). 
     Please provide a spreadsheet using the example in "Monthly balance method" in
     this Google Sheets doc [here](https://docs.google.com/spreadsheets/d/1906CSp8IiGdfGlHGJUj4ddRvvYFU66puhNXlILLfPm8){:target="_blank"}.
-- [**Closing document**][closing doc] if you bought or refinanced your home in current year.
+- [**Closing disclosure**][closing doc] if you bought or refinanced your home in current year.
 - Real estate tax (property tax). If it is not on [Form 1098](https://www.irs.gov/pub/irs-pdf/f1098.pdf), you can get it from your county:
   - CA Alameda County: [search](https://www.acgov.org/ptax_pub_app/RealSearch.do){:target="_blank"}.
   - CA Contra Costa County: [search](https://taxcolp.cccttc.us/lookup/){:target="_blank"}.
