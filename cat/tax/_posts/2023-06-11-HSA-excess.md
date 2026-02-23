@@ -33,9 +33,11 @@ rectify the situation.
 If you had spending from the HSA before the filing deadline (including extensions),
 you can treat distributions as a withdrawal of the excess.
 
-For timely correction, the IRS requires that you withdraw the excess contribution
-plus earnings ("such distribution is accompanied by the amount of net income attributable
+For timely correction, the IRS requires you to withdraw the excess contribution
+plus earnings on that excess ("such distribution is accompanied by the amount of net income attributable
 to such excess contribution." per [IRC Sec 223(f)(2)][irc223]{:target="_blank"}).
+The “year received” means the tax year in which you actually take the corrective distribution out of the HSA.
+The custodian issues Form 1099‑SA for the year of the withdrawal, and the earnings on the excess contribution are reported in Box 2.
 
 "If the excess contribution isn’t included in box 1 of Form W-2, you must
 report the excess as “Other income” on your tax return." ([IRS Publication 969][p969]{:target="_blank"}).
