@@ -334,6 +334,7 @@ The itemized deduction items:
   - CA Alameda County: [search](https://www.acgov.org/ptax_pub_app/RealSearch.do){:target="_blank"}.
   - CA Contra Costa County: [search](https://taxcolp.cccttc.us/lookup/){:target="_blank"}.
   - CA Orange County: [search](https://tax.ocgov.com/tcweb/search_page.asp){:target="_blank"}.
+  - CA San Diego county: [search](https://www.sdttc.com/content/ttc/en/tax-collection/prior-year-tax-records.html){:target="_blank"}.
   - CA San Mateo county: [search](https://sanmateo-ca.county-taxes.com/public/search/gsgx_property_tax){:target="_blank"}.
   - CA Santa Clara County: [search](https://santaclaracounty.telleronline.net/){:target="_blank"}, [example](/assets/images/20230606-ppt.jpg){:target="_blank"}.
   - MD Montgomery County: [search](https://apps.montgomerycountymd.gov/realpropertytax/){:target="_blank"}.
