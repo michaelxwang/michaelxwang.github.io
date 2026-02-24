@@ -39,7 +39,7 @@ These items can help you if provided or hurt you if omitted. Highlights here, de
 - E\*Trade Stock plan supplemental info for "company" (versus personal) stocks sold.
 - Form 3922 or purchase confirmation for sold stocks from ESPP (Employee Stock Purchase Plan).
 - State 529 for your children (3 pieces of info).
-- "Backdoor" Roth IRA conversion (4 pieces of info).
+- "Backdoor" Roth IRA conversion (3 pieces of info).
 - Closing disclosure when you buy, sell, or refinance a home.
 - F-1/OPT student visa history.
 - Rent paid in the year (MA, NJ only).
@@ -147,35 +147,35 @@ you can retrieve your records from the [I94 Website](https://i94.cbp.dhs.gov/I94
 
 - [W-2](https://www.irs.gov/pub/irs-pdf/fw2.pdf) wage forms from ALL employers for the year.
 - Retirement distribution. When dealing with pensions, annuities, distributions
-  from retirement plans, rollovers, and conversions (including **"backdoor" Roth
-  conversions**), you're essentially moving money between two accounts: the account
-  the money is coming from (source) and the account the money is going to
-  (target). I need the following 4 pieces of information. For each transaction, please organize the information into separate
-  folders and include the following details:
+  from retirement plans, rollovers, and conversions.
 
-  - Source of the Money: If possible, provide the information from Form 5498 for
-    the source account, showing contributions. If you don't have this form, note
-    the date you made the contribution, how much you contributed, and the year it
-    was for, based on your records.
-  - Amount Withdrawn: Provide information on distributions made in 2025 from
-    the source account, using Form 1099-R issued for the year.
-  - Remaining Balance in the Source Account(s): Indicate the year-end balance in
-    the source account(s), either from Form 5498 or your records. If you have multiple
-    traditional or rollover IRA accounts, it is the **COMBINED** balance. For tax theory, see 
-    [Backdoor Roth IRA](https://taxandlife.com/cat/tax/2019/12/22/roth-back-door.html){:target="_blank"}.
-  - Destination of the Money: If you have Form 5498 for the target account,
-    include it to show rollovers or conversions. If not, specify the type of
-    account the money was moved to (IRA, Roth IRA, 401K, Roth 401K, etc.), along
-    with the amount received in 2025, based on your records.
+  For **"backdoor" Roth conversions** from a traditional IRA, I need the following information:
 
-  For example:
+  - The gross amount converted (Form 1099-R, box 1).
+  - The **combined** year-end balance of **all** traditional and rollover IRA accounts
+    across **all** financial institutions (as of December 31 of the tax year). A rollover IRA is a type of traditional
+    IRA used to hold pre-tax money rolled over from an
+    employer-sponsored retirement plan (for example, a 401(k), 403(b), or pension).
+  - The after-tax *basis* in your traditional IRA accounts before conversion (the portion of your IRA balance before conversion
+    that has already been taxed and should be reported on Form 8606).
+    For example, if you contributed $7,000 to a traditional
+    IRA account and deducted $3,000 on your tax return, your basis is $4,000. If you rolled over $10,000
+    from your employer's 401(k) plan to a traditional IRA, your basis from that rollover is $0.
 
-  - Contribution: I added $7,000 to a traditional IRA on April 1, 2025, for the 2025 tax year. I don't have Form 5498 from the source right now (usually issued in May).
-  - Distribution: I moved $7,000 from the traditional IRA, as detailed on Form 1099-R.
-  - Remaining Balance: As of December 31, 2025, the **combined** balance of **all** my traditional and rollover IRAs across **all** banks was $6, but I do not have Forms 5498 to show this.
-  - Destination: The $7,000 was transferred to a Roth IRA in 2025, but I don't have Form 5498 for the target account.
+  For a more detailed explanation, see [Backdoor Roth IRA](https://taxandlife.com/cat/tax/2019/12/22/roth-back-door.html){:target="_blank"}.
+  I need these three amounts to calculate the tax-free portion of the conversion as follows:
 
-  NB: A Rollover IRA is a type of Traditional IRA that is specifically used to hold money rolled over from an employer-sponsored retirement plan (like a 401(k), 403(b), or pension plan).
+  $$
+  \text{Tax-free amount} = \text{Cost basis} \times \dfrac{\text{Conversion amount}}{\text{Conversion amount} + \text{Year-end balance}}
+  $$
+
+  Please provide these 3 pieces of information. Here is an example:
+
+  - I converted $7,000 from my traditional IRA to a Roth IRA, as shown on Form 1099-R.
+  - As of December 31, 2025, the **combined** balance of **all** my traditional and rollover IRA accounts across **all** financial institutions was $6.
+  - Of the $7,006 total (conversion plus year-end balance), $7,000 is after-tax
+    basis from my non-deductible contribution to my traditional IRA account
+    made **in** the year 2025 **for* the year 2025.
 
 - Traditional IRA contribution only. Please provide:
   - The date that you contributed or you will contribute (you have until the filing deadline to make contribution).
