@@ -152,10 +152,11 @@ you can retrieve your records from the [I94 Website](https://i94.cbp.dhs.gov/I94
   For **"backdoor" Roth conversions** from a traditional IRA, I need the following information:
 
   - The gross amount converted (Form 1099-R, box 1).
-  - The **combined** year-end balance of **all** traditional and rollover IRA accounts
-    across **all** financial institutions (as of December 31 of the tax year). A rollover IRA is a type of traditional
-    IRA used to hold pre-tax money rolled over from an
+  - The **combined** year-end balance of **all** traditional and rollover (not **Roth**) IRA accounts
+    across **all** financial institutions (as of December 31 of the tax year).
+    A rollover IRA is a type of traditional IRA used to hold pre-tax money rolled over from an
     employer-sponsored retirement plan (for example, a 401(k), 403(b), or pension).
+    Do not count balances in Roth IRA accounts or 401(k) accounts.
   - The after-tax *basis* in your traditional IRA accounts before conversion (the portion of your IRA balance before conversion
     that has already been taxed and should be reported on Form 8606).
     For example, if you contributed $7,000 to a traditional
@@ -604,13 +605,13 @@ Foreign Earned Income Exclusion.
 
 | County          | Currency | 1.00 USD in 2025 |
 | :---            | :---     |    ---:          |
-| Australia       | Dollar   |   1.535          |
-| Canada          | Dollar   |   1.391          |
-| China           | Renminbi |   7.134          |
-| Euro Zone       | Euro     |   0.870          |
-| Hong Kong       | Dollar   |   7.798          |
-| India           | Rupee    |  87.450          |
-| Japan           | Yen      | 149.568          |
+| Australia       | Dollar   |   1.551          |
+| Canada          | Dollar   |   1.398          |
+| China           | Renminbi |   7.129          |
+| Euro Zone       | Euro     |   0.886          |
+| Hong Kong       | Dollar   |   7.796          |
+| India           | Rupee    |  87.133          |
+| Japan           | Yen      | 149.632          |
 | Malaysia        | Ringgit  |   4.227          |
 
 - Do you pay income tax to a foreign country on the foreign earned income? If so, please provide a document showing taxable income and tax paid.
