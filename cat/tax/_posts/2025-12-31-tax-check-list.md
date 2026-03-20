@@ -525,7 +525,7 @@ Fun trivia: Form 4547 echoes that Trump is the 45th and 47th president. My tax s
   - landlord's name
   - landlord's address
   - total rent paid IN the year.
-- MA: commuter expense (MBTA, E-ZPass).
+- MA: commuter expense (MBTA, E-ZPass). Please list eligible commuter expenses separately for each spouse, because Massachusetts applies a 150‑dollar annual threshold per spouse before any deduction is allowed.
 - NJ: rent or property tax paid.
 - VA: Long-term insurance premium is a state deduction.
 
