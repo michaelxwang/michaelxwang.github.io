@@ -331,7 +331,9 @@ The itemized deduction items:
     Please provide a spreadsheet using the example in "Monthly balance method" in
     this Google Sheets doc [here](https://docs.google.com/spreadsheets/d/1906CSp8IiGdfGlHGJUj4ddRvvYFU66puhNXlILLfPm8){:target="_blank"}.
 - [**Closing disclosure**][closing doc] if you bought or refinanced your home in current year.
-- Real estate tax (property tax). If it is not on [Form 1098](https://www.irs.gov/pub/irs-pdf/f1098.pdf), you can get it from your county:
+- Real estate tax (property tax). If it is not on [Form 1098](https://www.irs.gov/pub/irs-pdf/f1098.pdf),
+  you can easily pull your payment history directly from your county's website.
+  Please note: You use the tax amounts paid **IN** the calendar year, regardless of which tax year the bill was **FOR**.
   - CA Alameda County: [search](https://www.acgov.org/ptax_pub_app/RealSearch.do){:target="_blank"}.
   - CA Contra Costa County: [search](https://taxcolp.cccttc.us/lookup/){:target="_blank"}.
   - CA Orange County: [search](https://tax.ocgov.com/tcweb/search_page.asp){:target="_blank"}.
