@@ -176,7 +176,7 @@ you can retrieve your records from the [I94 Website](https://i94.cbp.dhs.gov/I94
   - As of December 31, 2025, the **combined** balance of **all** my traditional and rollover IRA accounts across **all** financial institutions was $6.
   - Of the $7,006 total (conversion plus year-end balance), $7,000 is after-tax
     basis from my non-deductible contribution to my traditional IRA account
-    made **in** the year 2025 **for* the year 2025.
+    made **in** the year 2025 **for** the year 2025.
 
 - Traditional IRA contribution only. Please provide:
   - The date that you contributed or you will contribute (you have until the filing deadline to make contribution).
@@ -195,7 +195,10 @@ you can retrieve your records from the [I94 Website](https://i94.cbp.dhs.gov/I94
 
 ### Financial Assets.
     
-- Interest income statements ([1099-INT](https://www.irs.gov/pub/irs-pdf/f1099int.pdf), [1099-OID](https://www.irs.gov/pub/irs-pdf/f1099oid.pdf)). Please do not forget the interest paid by the IRS and states.
+- Interest income statements ([1099-INT](https://www.irs.gov/pub/irs-pdf/f1099int.pdf), [1099-OID](https://www.irs.gov/pub/irs-pdf/f1099oid.pdf)). 
+  Please note: Don't forget to include any interest paid to you by the IRS or
+  state tax agencies! If your previous tax refunds were delayed, they often add
+  taxable interest to your payout, even if they don't mail you a form.
 - Dividend income statements ([1099-DIV](https://www.irs.gov/pub/irs-pdf/f1099div.pdf)). Some funds, for example, [Fidelity][fidelity 2025]{:target="_blank"} and [iShares][ishare 2025]{:target="_blank"}, contain a percentage of government securities that is exempted from state tax, please upload a Google sheets file using the [template](https://docs.google.com/spreadsheets/d/19G39gsnyTxaCkJB9Vovb9c8BG2nVYzqea_rmKm1Bg1E){:target="_blank"}.
 - Proceeds from stock, mutual fund, and bond sale ([1099-B](https://www.irs.gov/pub/irs-pdf/f1099b.pdf)).
 - Virtual currencies ([faq](https://www.irs.gov/individuals/international-taxpayers/frequently-asked-questions-on-virtual-currency-transactions)).
