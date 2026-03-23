@@ -5,7 +5,7 @@ categories:
 - tax
 ---
 
-根据美国国税局的官方[公告][irs], 国税局已宣布为受近期严重风暴影响的华盛顿州个人和企业提供税务宽减。
+根据美国国税局的官方[公告][irs]{:target="_blank"}, 国税局已宣布为受近期严重风暴影响的华盛顿州个人和企业提供税务宽减。
 
 关于所得税申报的核心要点：
 
@@ -16,7 +16,7 @@ categories:
 - 退休账户和健康储蓄账户：为您的个人退休账户和健康储蓄账户进行 2025 年度供款的截止日期同样延长至2026年5月1日。
 - 自动标识：国税局自动识别您的地址，但如果您意外收到了国税局发出的在此宽限期内的逾期罚款信件，只需拨打信件上的电话，国税局就会为您取消该罚款。
 
-According to the official IRS notice, the IRS has announced tax relief for individuals and businesses affected by severe weather in Washington state.
+According to the official IRS [notice][irs]{:target="_blank"}, the IRS has announced tax relief for individuals and businesses affected by severe weather in Washington state.
 
 Key Highlights for Income Tax Filing:
 
