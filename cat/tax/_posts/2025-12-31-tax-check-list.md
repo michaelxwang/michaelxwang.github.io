@@ -609,7 +609,7 @@ Foreign Earned Income Exclusion.
 - Employer's U.S. address if it has one.
 - Income earned in U.S. dollars, use [IRS published conversion rate](https://www.irs.gov/individuals/international-taxpayers/yearly-average-currency-exchange-rates){:target="_blank"} if available. The following table is based on quarterly average from the [Treasury Reporting Rates of Exchange](https://fiscaldata.treasury.gov/datasets/treasury-reporting-rates-exchange/treasury-reporting-rates-of-exchange#reports-and-files){:target="_blank"}.
 
-| County          | Currency | 1.00 USD in 2025 |
+| County / Region | Currency | 1.00 USD in 2025 |
 | :---            | :---     |    ---:          |
 | Australia       | Dollar   |   1.551          |
 | Canada          | Dollar   |   1.398          |
@@ -619,6 +619,7 @@ Foreign Earned Income Exclusion.
 | India           | Rupee    |  87.133          |
 | Japan           | Yen      | 149.632          |
 | Malaysia        | Ringgit  |   4.227          |
+| Taiwan          | Dollar   |  31.167          |
 
 - Do you pay income tax to a foreign country on the foreign earned income? If so, please provide a document showing taxable income and tax paid.
 - List travel history to and from the US in the format below from 01/01/2023 until now.
@@ -673,6 +674,7 @@ from the Treasury FiscalData. These are the selected exchange rates on 12/31/202
 |India-Rupee      |  89.854  |
 |Japan-Yen        | 156.610  |
 |Malaysia-Ringgit |   4.056  |
+|Taiwan-Dollar    |  31.324  |
 
 ### Gift taxes
 
