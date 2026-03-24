@@ -459,7 +459,8 @@ If your vehicle is [qualified](https://fueleconomy.gov/feg/tax2023.shtml){:targe
   - $300,000 for married couples filing jointly.
   - $225,000 for heads of households.
   - $150,000 for all other filers.
-- Home charge station receipt.
+- Home charge station receipt. The EV charger credit is available only if your address is in an eligible low‑income or non‑urban census tract based on
+  [this mapping tool](https://experience.arcgis.com/experience/3f67d5e82dc64d1589714d5499196d4f/page/Page){:target="_blank"}.
 
 ### Auto Loan Interest.
 
