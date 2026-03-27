@@ -393,7 +393,7 @@ income. Healthy, high-income individuals should use pre-tax HSA or MFS.
   - NJ
   - PA
 
-### **Child and Dependent Care Expenses**
+### **Child and Dependent Care Expenses** (even if already reimbursed by employer)
     
   - Name of the provider.
   - Address of the provider.
