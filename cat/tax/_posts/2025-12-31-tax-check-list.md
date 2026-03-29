@@ -344,6 +344,8 @@ The itemized deduction items:
   - CA San Mateo county: [search](https://sanmateo-ca.county-taxes.com/public/search/gsgx_property_tax){:target="_blank"}.
   - CA Santa Clara County: [search](https://santaclaracounty.telleronline.net/){:target="_blank"}, [example](/assets/images/20230606-ppt.jpg){:target="_blank"}.
   - MD Montgomery County: [search](https://apps.montgomerycountymd.gov/realpropertytax/){:target="_blank"}.
+  - GA Fulton County: [search](https://www.fultoncountytaxes.org/propertytax/search){:target="_blank"}.
+  - GA DeKalb County: [search](https://publicaccess.dekalbtax.org/search/commonsearch.aspx?mode=realprop){:target="_blank"}.
   - VA Fairfax City: [search](https://eservices.fairfaxva.gov/taxes/default.aspx){:target="_blank"}.
   - VA Fairfax County: [search](https://icare.fairfaxcounty.gov/ffxcare/search/commonsearch.aspx?mode=address){:target="_blank"}, [example](/assets/images/20240314-fairfax-ppt.png){:target="_blank"}.
   - VA Loudoun County: [search](https://reparcelasmt.loudoun.gov/pt/search/CommonSearch.aspx?mode=ADDRESS){:target="_blank"}.
