@@ -23,19 +23,31 @@ will accrue
 on any unpaid amount. Therefore, it is important to make a sufficient payment with the extension to avoid penalties.
 Any overpayment can be refunded when you file your return - assuming, of course, before the United States files for bankruptcy.
 
-Now, the question is how to determine the amount you owe. To answer this question, I created a
+Now, the question is how to determine the amount you owe. If your tax situation
+has not changed dramatically from last year, you can simply use your prior-year
+tax liability as a guide (adding a safety buffer amount if you can).
+
+For current-year estimate, I created a
+
 <a href="https://docs.google.com/spreadsheets/d/1BnjUtb6ul_p62k2YEdBXcjHWvZunSVw0Y2E3BqTKao0/edit#gid=895729579" target="_blank">Google sheets document</a>,
 Simply plug in your numbers, and boom, you will get your answer.
 
-This simply app does not consider [other tax][other-tax]{:target="_blank"}. Until it is enhanced, you should manuallu add:
+This simply app does not consider [other tax][other-tax]{:target="_blank"}. Until it is enhanced, you should manually add:
 
 - 0.9% Additional Medicare Tax on Medicare wages (Box 5 of your W-2) above $200,000 for single filers or $250,000 for joint filers.
 - 3.8% of Net Investment Income Tax (NIIT) on your investment income if your Modified Adjusted Gross Income (MAGI) exceeds $200,000 (or $250,000 if married filing jointly).
 
 Once you know the amount, you can click the <a href="https://www.irs.gov/payments/direct-pay" target="_blank">IRS Direct Pay</a> to make an extension payment.
-The screen looks like the following, please select "Extention", and current year.
+The screen looks like the following, please select "Form 1040 - Income Tax", "Extention", and type in the current year.
 
 <img src="/assets/images/20230325-extension.png"/>
+
+On the next screen, the IRS will ask you to verify your identity using a **prior tax year**.
+Choose a recent year for which you have already filed, and have that
+tax return handy. They will ask you to provide your Social Security Number,
+date of birth, filing status, and the address exactly as it appeared on the tax
+return for the year you chose. Once your identity is successfully verified, you
+will proceed to the payment screen to enter your bank account information.
 
 If you are sure you do not owe taxes, the IRS has this to say in <a href="https://www.irs.gov/pub/irs-news/fs-08-12.pdf" target="_blank"> its document</a>:
 
@@ -58,11 +70,19 @@ or if you plan to make contributions to a retirement account and want those cont
 Note, however, that IRA contributions (Traditional or Roth) must be made by the original tax deadline - typically April 15 - and not the extended deadline.
 Only certain plans, such as SEP IRAs or Solo 401(k)s, may allow contributions up to the extended deadline if the plan was established on time and an extension was filed.
 
-State taxes can be estimated similarly to federal taxes, but you should review
-the tax laws specific to your state. I do not have a spreadsheet calculator for
-each state, but as a rough estimate, you can multiply your state taxable income
-by the highest marginal tax rate in your state, then subtract any state income
-tax already withheld or paid.
+While many states automatically grant you a filing extension when you file a
+federal extension (or offer them completely automatically, like CA and VA),
+this is not a universal rule. Places like New York and the District of Columbia
+strictly require you to file their own state-specific extension forms to avoid
+penalties. Because the rules vary so widely, you must always verify the
+extension requirements with your specific state's Department of Revenue.
+
+If you do owe state taxes, estimating your balance is similar to the federal
+process. Because I do not have a spreadsheet calculator tailored to every
+individual state, a safe, conservative approach is to calculate a "worst-case
+scenario." You can do this by multiplying your estimated state taxable income
+by the highest marginal tax rate in your state, and then subtracting any state
+income tax you have already had withheld or paid during the year.
 
 For your convenience, the table below lists the highest tax rate and payment URL for each state, as well as the District of Columbia and the United States (federal government).
 
