@@ -27,9 +27,7 @@ Now, the question is how to determine the amount you owe. If your tax situation
 has not changed dramatically from last year, you can simply use your prior-year
 tax liability as a guide (adding a safety buffer amount if you can).
 
-For current-year estimate, I created a
-
-<a href="https://docs.google.com/spreadsheets/d/1BnjUtb6ul_p62k2YEdBXcjHWvZunSVw0Y2E3BqTKao0/edit#gid=895729579" target="_blank">Google sheets document</a>,
+For current-year estimate, I created a <a href="https://docs.google.com/spreadsheets/d/1BnjUtb6ul_p62k2YEdBXcjHWvZunSVw0Y2E3BqTKao0/edit#gid=895729579" target="_blank">Google sheets document</a>,
 Simply plug in your numbers, and boom, you will get your answer.
 
 This simply app does not consider [other tax][other-tax]{:target="_blank"}. Until it is enhanced, you should manually add:
