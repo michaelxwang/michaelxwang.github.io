@@ -529,6 +529,7 @@ Fun trivia: Form 4547 echoes that Trump is the 45th and 47th president. My tax s
   - Owner name.
   - beneficiary name.
   - Amount contributed in 2025.
+  - Carryover amount from prior year (for new clients only).
 - MA: rent paid.
   - landlord's name
   - landlord's address
