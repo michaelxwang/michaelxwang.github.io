@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Avoid the Underpayment Tax Penalty
+title: The Ultimate Guide to Proper Tax Withholding (W-4, RSUs, and Investments)
 categories:
 - tax
 ---
