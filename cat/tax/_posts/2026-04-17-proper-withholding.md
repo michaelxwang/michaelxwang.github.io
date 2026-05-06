@@ -78,8 +78,8 @@ The federal withholding rules treat bonuses, RSU vests, and other supplemental
 wages differently from regular salary. For most employees, employers may use a
 flat federal rate on supplemental wages:
 
-- 22% on cumulative supplemental wages up to 1,000,000 dollars during the calendar year, and
-- 37% on the portion of supplemental wages above 1,000,000 dollars in that year (mandatory flat rate).
+- 22% on cumulative supplemental wages up to $1,000,000 during the calendar year, and
+- 37% on the portion of supplemental wages above $1,000,000 in that year (mandatory flat rate).
 
 For high‑income taxpayers, that 22% rate is a trap. By the time your bonuses
 and RSUs vest, your total income may already place you in the 24%, 32%, 35%, or
@@ -116,8 +116,9 @@ For 2025, the top bracket starts at:
 - $1,485,906 for married filers
 - $1,010,417 for head of household filers
 
-For 2025, the top marginal California rate is 13.30%: 12.30% personal income tax plus a 1.00% Behavioral Health Services Tax on taxable
-income over 1,000,000 dollars.
+For 2025, the top marginal California rate is 13.30%: 12.30% personal income
+tax plus a 1.00% tax under the Behavioral Health Services Act (formerly the
+Mental Health Services Act) on taxable income over $1,000,000.
 
 If you are in this high‑income category, the 10.23% flat withholding on bonuses
 and RSUs can leave you materially under‑withheld at the state level. In that
@@ -142,7 +143,7 @@ If this income is substantial, relying solely on payroll withholding will almost
 For federal tax purposes:
 
 - Ordinary investment income (interest, non‑qualified dividends, short‑term gains) is taxed at your regular marginal tax rate.
-- For higher‑income taxpayers above the Net Investment Income Tax (NIIT) threshold (generally 200,000 dollars single, 250,000 dollars MFJ, etc.), an additional 3.8% NIIT applies to net investment income.
+- For higher‑income taxpayers above the Net Investment Income Tax (NIIT) threshold (generally $200,000 single, $250,000 MFJ, etc.), an additional 3.8% NIIT applies to net investment income.
 - Long‑term capital gains and qualified dividends are taxed at preferential rates; at the top end, the combined federal rate can reach 23.8% (20% capital‑gains bracket plus 3.8% NIIT) for taxpayers subject to NIIT.
 
 The cleanest way to handle investment‑income tax for many W‑2 employees is to push it through payroll:
@@ -171,32 +172,32 @@ total paid‑in tax during the year (withholding plus timely estimated payments)
 satisfies at least one of these:
 
 - 90% of your current‑year total federal tax, or
-- 100% of your prior‑year total federal tax if your prior‑year AGI was 150,000 dollars or less (75,000 dollars if MFS), or
-- 110% of your prior‑year total federal tax if your prior‑year AGI was over 150,000 dollars (75,000 dollars if MFS).
+- 100% of your prior‑year total federal tax if your prior‑year AGI was $150,000 or less ($75,000 if MFS), or
+- 110% of your prior‑year total federal tax if your prior‑year AGI was over $150,000 ($75,000 if MFS).
 
 If you hit the appropriate 100% or 110% prior‑year safe harbor, you can have a
 big jump in income (e.g., RSU windfalls, large bonuses) in the current year and
 still avoid a federal underpayment penalty, even though you will owe additional
 tax when you file next April.
 
-**California safe harbor – plus the 1,000,000 dollar cliff**
+**California safe harbor – plus the $1,000,000 cliff**
 
 California has similar, but not identical, safe‑harbor rules. To avoid
 California’s underpayment penalty, your paid‑in CA tax during the year
 (withholding plus estimates) must be at least:
 
 - 90% of your current‑year California tax, or
-- 100% of your prior‑year California tax if your prior‑year CA AGI is 150,000 dollars or less (75,000 dollars MFS), or
-- 110% of your prior‑year California tax if your prior‑year CA AGI is over 150,000 dollars and under 1,000,000 dollars (over 75,000 and under 500,000 dollars MFS).
+- 100% of your prior‑year California tax if your prior‑year CA AGI is $150,000 or less ($75,000 MFS), or
+- 110% of your prior‑year California tax if your prior‑year CA AGI is over $150,000 and under $1,000,000 (over $75,000 and under $500,000 MFS).
 
-Once your California AGI hits 1,000,000 dollars or more (500,000 dollars if
+Once your California AGI hits $1,000,000 or more ($500,000 if
 MFS), the prior‑year‑tax safe harbor disappears. In that situation, you must
 pay in at least 90% of your current‑year California tax to avoid the CA
 underpayment penalty; paying 100% or 110% of last year’s CA tax is no longer
 sufficient.
 
 This is why high‑income California taxpayers with big RSU events (often pushing
-AGI over 1,000,000 dollars) can be “safe” at the federal level under the 110%
+AGI over $1,000,000) can be “safe” at the federal level under the 110%
 rule but still underpaid for California.
 
 ### 5. Withhold more tax through payroll
@@ -209,7 +210,7 @@ On the current federal Form W‑4, line 4(c) “Extra withholding” allows you 
 specify an additional dollar amount of federal income tax to be withheld from
 each paycheck.
 
-- Example: If you enter “500” on line 4(c), your employer withholds your normal federal tax plus 500 dollars extra from every paycheck.
+- Example: If you enter “500” on line 4(c), your employer withholds your normal federal tax plus $500 extra from every paycheck.
 - This extra withholding continues on each paycheck indefinitely until you file a new W‑4 changing or removing it.
 
 **California – Form DE‑4 additional amount**
@@ -218,7 +219,7 @@ On California Form DE‑4, line 2 is labeled “Additional amount, if any, you w
 withheld each pay period.” This allows you to request an extra dollar amount of
 California Personal Income Tax to be withheld per paycheck.
 
-- Example: If you enter “300” on line 2, your employer withholds your normal CA PIT plus 300 dollars extra from each paycheck.
+- Example: If you enter “300” on line 2, your employer withholds your normal CA PIT plus $300 extra from each paycheck.
 - Like the federal form, this continues every pay period until you submit a new DE‑4.
 
 **Why extra payroll withholding is so powerful**
