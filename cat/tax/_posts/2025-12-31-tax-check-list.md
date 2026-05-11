@@ -610,7 +610,8 @@ Foreign Earned Income Exclusion.
 - Employer's name.
 - Employer's foreign address including postal code.
 - Employer's U.S. address if it has one.
-- Income earned in U.S. dollars, use [IRS published conversion rate](https://www.irs.gov/individuals/international-taxpayers/yearly-average-currency-exchange-rates){:target="_blank"} if available. The following table is based on quarterly average from the [Treasury Reporting Rates of Exchange](https://fiscaldata.treasury.gov/datasets/treasury-reporting-rates-exchange/treasury-reporting-rates-of-exchange#reports-and-files){:target="_blank"}.
+- Income earned in U.S. dollars, use [IRS published conversion rate](https://www.irs.gov/individuals/international-taxpayers/yearly-average-currency-exchange-rates){:target="_blank"} if available. The following table is based on quarterly average from the [Treasury Reporting Rates of Exchange](https://fiscaldata.treasury.gov/datasets/treasury-reporting-rates-exchange/treasury-reporting-rates-of-exchange#reports-and-files){:target="_blank"}. 
+Example: [China Income and Tax Paid Record](/assets/images/20260510-china-tax-record.png){:target="_blank"}.
 
 | County / Region | Currency | 1.00 USD in 2025 |
 | :---            | :---     |    ---:          |
@@ -624,7 +625,7 @@ Foreign Earned Income Exclusion.
 | Malaysia        | Ringgit  |   4.227          |
 | Taiwan          | Dollar   |  31.167          |
 
-- Do you pay income tax to a foreign country on the foreign earned income? If so, please provide a document showing taxable income and tax paid.
+- Do you pay income tax to a foreign country on the foreign earned income? If so, please provide a document showing taxable income and tax paid. Example: [China Income and Tax Paid Record](/assets/images/20260510-china-tax-record.png){:target="_blank"}
 - List travel history to and from the US in the format below from 01/01/2023 until now.
   - 11/01/2024 - 06/31/2024 in China.
   - 07/01/2025 - 07/15/2025 in the US, earned $0.
