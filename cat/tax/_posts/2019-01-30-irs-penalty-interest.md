@@ -58,11 +58,11 @@ on:
 
 Using the aforementioned parameters, the penalty is formulated as:
 
-<img src="https://latex.codecogs.com/svg.latex?\small&space;P = \frac{T}{4} (\frac{12}{12}I_1 + \frac{10}{12}I_2 + \frac{7}{12}I_3 + \frac{3}{12}I_4)">
+\\(P = \frac{T}{4} (\frac{12}{12}I_1 + \frac{10}{12}I_2 + \frac{7}{12}I_3 + \frac{3}{12}I_4)\\)
 
 For the fiscal year 2016, given that I<sub>1</sub> = I<sub>2</sub> = I<sub>3</sub> = I<sub>4</sub>= 4%, the formula simplifies to:
 
-<img src="https://latex.codecogs.com/svg.latex?\small&space;P = T \times 2.667%">
+\\(P = T \times 2.667\%\\)
 
 The value in line 15 of the [form 2210 for 2016][f2210-2016]{:target="_blank"}
 is 2.656% (as indicated by "Multiply line 14 by 0.02656"). This gives insight
@@ -112,15 +112,15 @@ you neither filed nor paid your 2014 taxes, which were due on 2015-04-15, until
    month, for up to a maximum of 5 months. It's reduced by the fail to pay
    penalty which is 0.5% per month or part of a month. The calculation is:
   
-   ![\text{Fail to file penalty} = \$10,000 \times 5% \times 5 - \$10,000 \times 0.5% \times 5 = \$2,250](https://latex.codecogs.com/svg.latex?\small&space;\text{Fail to file penalty} = \$10,000 \times 5% \times 5 - \$10,000 \times 0.5% \times 5 = \$2,250)
+   \\(\text{Fail to file penalty} = \$10,000 \times 5\% \times 5 - \$10,000 \times 0.5\% \times 5 = \$2,250\\)
 
 2. **Fail to Pay Penalty**: This is assessed at 0.5% per month or part of a month. Given that the period extends across 31 full or partial months (from 2015-04-15 to 2017-10-26), the penalty becomes:
   
-   ![\text{Fail to pay penalty} = \$10,000 \times 0.5% \times 31 = \$1,550](https://latex.codecogs.com/svg.latex?\small&space;\text{Fail to pay penalty} = \$10,000 \times 0.5% \times 31 = \$1,550)
+   \\(\text{Fail to pay penalty} = \$10,000 \times 0.5\% \times 31 = \$1,550\\)
 
 3. **Interest**: The interest rate was 3% for the first 351 days (from 2015-04-15 to 2016-03-31) and 4% for the subsequent 574 days (from 2016-04-01 to 2017-10-26). This interest is compounded daily, so the total accumulated interest is:
 
-   ![\text{Interest} = \$12,250[(1+\frac{3%}{365})^{351} + (1+\frac{3%}{366})^{574} - 1] = \$1,174.79](https://latex.codecogs.com/svg.latex?\small&space;\text{Interest} = \$12,250[(1+\frac{3%}{365})^{351} + (1+\frac{3%}{366})^{574} - 1] = \$1,174.79)
+   \\(\text{Interest} = \$12,250[(1+\frac{3%}{365})^{351} \times (1+\frac{4%}{366})^{574} - 1] = \$1,174.79\\)
 
    *Note: The base amount for calculating interest includes both the tax owed and the fail to file penalty. Also, remember that 2016 was a leap year, having 366 days.*
 
