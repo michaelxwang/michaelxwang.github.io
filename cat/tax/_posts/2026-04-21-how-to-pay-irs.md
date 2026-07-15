@@ -11,7 +11,7 @@ directly to the IRS using any of the following three methods:
 - Bank Account (IRS Direct Pay): You can pay directly from your checking or
 savings account for free [here](https://irs.gov/directpay){:target="_blank"}.
 
-- Debit or Credit Card: You can pay via card [here](https://irs.gov/paybycard){:target="_blank"}.
+- Debit or Credit Card: You can pay via card [here](https://www.irs.gov/payments/pay-your-taxes-by-debit-or-credit-card){:target="_blank"}.
 Please note: The IRS uses third-party processors that will charge a convenience
 fee—typically around 2% for credit cards, or a flat ~$2.50 fee for debit
 cards.
