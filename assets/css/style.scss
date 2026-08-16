@@ -5,3 +5,9 @@
 @import
 //"minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
+
+.apa-references p {
+  padding-left: 0.5in;
+  text-indent: -0.5in;
+  margin: 0 0 0.5rem 0;
+}

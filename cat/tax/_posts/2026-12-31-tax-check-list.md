@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2025 Tax Return Checklist
+title: 2026 Tax Return Checklist
 categories:
 - tax
 ---
@@ -146,8 +146,7 @@ you can retrieve your records from the [I94 Website](https://i94.cbp.dhs.gov/I94
 ### Income and Income Adjustment.
 
 - [W-2](https://www.irs.gov/pub/irs-pdf/fw2.pdf) wage forms from ALL employers for the year.
-- Retirement distribution. When dealing with pensions, annuities, distributions
-  from retirement plans, rollovers, and conversions.
+- [1099-R][1099-r] retirement distribution from pensions, annuities, distributions from retirement plans, rollovers, and conversions.
 
   For **"backdoor" Roth conversions** from a traditional IRA, I need the following information:
 
@@ -178,7 +177,7 @@ you can retrieve your records from the [I94 Website](https://i94.cbp.dhs.gov/I94
     basis from my non-deductible contribution to my traditional IRA account
     made **in** the year 2025 **for** the year 2025.
 
-- Traditional IRA contribution only. Please provide:
+- Traditional IRA contribution only (401k is not IRA). Please provide:
   - The date that you contributed or you will contribute (you have until the filing deadline to make contribution).
   - The amount of contribution.
   - The year allocated to.
@@ -759,3 +758,4 @@ I hope this checklist helps you to prepare your tax documents.
 [personal_property_tax]: https://ttlc.intuit.com/turbotax-support/en-us/help-article/tax-credits-deductions/car-registration-fee-deductible/L0NkGtxYR_US_en_US
 [fidelity 2025]: https://www.fidelity.com/bin-public/060_www_fidelity_com/documents/taxes/ty25-gse-supplemental-letter.pdf
 [ishare 2025]: https://www.ishares.com/us/literature/tax-information/2025-ishares-us-government-source-income-information-stamped.pdf
+[1099-r]: https://www.irs.gov/pub/irs-pdf/f1099r.pdf
