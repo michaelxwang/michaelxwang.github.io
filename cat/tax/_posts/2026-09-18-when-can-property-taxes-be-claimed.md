@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tax Memo: When Can Property Taxes Be Claimed?"
+title: "Tax Research Memo: When Can Property Taxes Be Claimed?"
 date: 2026-09-18
 categories: tax
 tags: [property tax, itemized deductions, real estate, IRC 164]
