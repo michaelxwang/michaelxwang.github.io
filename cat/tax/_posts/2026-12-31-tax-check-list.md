@@ -564,6 +564,7 @@ Please provide the total amount of these purchases, as well as the sales or use 
   - Child's home address.
   - School's name and address.
   - School term is recent within a year.
+- Foreign address.
 
   "A combination of the official documents can be used to cover all requirements for the record."
 
