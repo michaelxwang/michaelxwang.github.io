@@ -574,7 +574,7 @@ Please provide the total amount of these purchases, as well as the sales or use 
 - If the status ever changed in the current year or a prior year, the date of change (MM/DD/YYYY). For example, "10/01/2025 from F1 to H1B."
 - How many days (including partial days) have you stayed in the US in 2025, 2024, and 2023 respectively? Do not count days when you were a nonresident with F or J visa. You can get your travel history outside the United States from the [I94 Website](https://i94.cbp.dhs.gov/I94/#/history-search) and use the [Days Calculator](https://www.timeanddate.com/date/durationresult.html) to compute days between two dates.
 - Is the number of days in the US in 2025 consistent with the location information provided earlier?
-- Have you applied for a green card (i.e. submitted I-140)?
+- Have you applied for a green card (i.e. submitted I-485)?
 - Have you received form 1042-S?
 - Does any wage document include a treaty deduction (we cannot deduct twice)?
 - [New client only] Did you file last year? If so, what form was used (1040, 1040A, 1040EZ, 1040NR, 1040NR-EZ)?
@@ -680,6 +680,16 @@ from the Treasury FiscalData. These are the selected exchange rates on 12/31/202
 |Japan-Yen        | 156.610  |
 |Malaysia-Ringgit |   4.056  |
 |Taiwan-Dollar    |  31.324  |
+
+### PFIC (Passive Foreign Investment Company) Fund
+
+A Passive Foreign Investment Company (PFIC) defined under [IRC § 1297](https://www.taxnotes.com/research/federal/usc26/1297){:target="_blank"} is generally any non-U.S. corporation, mutual fund, or ETF where:
+
+- 75% or more of its gross income comes from passive sources (like interest, dividends, or capital gains), or
+- 50% or more of its assets produce passive income.
+
+If you are a U.S. taxpayer and hold shares in foreign mutual funds, foreign ETFs, or certain foreign corporations (often found in foreign investment accounts), the IRS classifies those investments as PFIC's.
+Please see [Tax notes: PFIC](/cat/tax/2026/09/27/pfic.html){:target="_blank"} for details.
 
 ### Gift taxes
 

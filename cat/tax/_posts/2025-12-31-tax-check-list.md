@@ -680,6 +680,16 @@ from the Treasury FiscalData. These are the selected exchange rates on 12/31/202
 |Malaysia-Ringgit |   4.056  |
 |Taiwan-Dollar    |  31.324  |
 
+### PFIC (Passive Foreign Investment Company) Fund
+
+A Passive Foreign Investment Company (PFIC) defined under [IRC § 1297](https://www.taxnotes.com/research/federal/usc26/1297){:target="_blank"} is generally any non-U.S. corporation, mutual fund, or ETF where:
+
+- 75% or more of its gross income comes from passive sources (like interest, dividends, or capital gains), or
+- 50% or more of its assets produce passive income.
+
+If you are a U.S. taxpayer and hold shares in foreign mutual funds, foreign ETFs, or certain foreign corporations (often found in foreign investment accounts), the IRS classifies those investments as PFIC's.
+Please see [Tax notes: PFIC](/cat/tax/2026/09/27/pfic.html){:target="_blank"} for details.
+
 ### Gift taxes
 
 | Donor | Recipient | Amount | Reportable | Taxable |
