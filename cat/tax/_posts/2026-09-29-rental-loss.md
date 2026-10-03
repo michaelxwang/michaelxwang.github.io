@@ -76,6 +76,6 @@ Even if you meet the requirements of either path, accumulated losses from prior 
 
 A contemporaneous daily log is not strictly required by law — [Treas. Reg. §1.469-5T(f)(4)](https://www.taxnotes.com/research/federal/cfr26/1.469-5T){:target="_blank"} explicitly provides:
 
-Contemporaneous daily time reports, logs, or similar documents are not required if the extent of such participation may be established by other reasonable means. Reasonable means for purposes of this paragraph may include but are not limited to the identification of services performed over a period of time and the approximate number of hours spent performing such services during such period, based on appointment books, calendars, or narrative summaries.
+> Contemporaneous daily time reports, logs, or similar documents are not required if the extent of such participation may be established by other reasonable means. Reasonable means for purposes of this paragraph may include but are not limited to the identification of services performed over a period of time and the approximate number of hours spent performing such services during such period, based on appointment books, calendars, or narrative summaries.
 
 Therefore, the key is maintaining reliable documentation that can be cross-verified with other supporting facts.
