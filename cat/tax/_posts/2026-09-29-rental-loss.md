@@ -7,7 +7,7 @@ tags:
   - Rental loss
   - Schedule E
   - Material participation
-  - Real estate professioanl
+  - Real estate professional
 ---
 
 Rental real estate is treated, by default, as a "passive activity" under the Internal Revenue Code — meaning losses from it can normally only offset passive income, not wages, business profits, or other ordinary income. For most taxpayers, the only relief is a modest \$25,000 allowance that disappears entirely once income rises above \$150,000. This note explains the two statutory paths that remove rental losses from that income-based limitation altogether, and the specific hour and participation requirements each path demands.
@@ -38,7 +38,7 @@ Critically, [Section 469(c)(4)](https://www.taxnotes.com/research/federal/usc26/
 
 **Material Participation**
 
-Meeting these two tests only establishes REP status; it does not, by itself, make any specific rental non-passive. The statute requires an additional, separate step: the taxpayer must materially participate in each specific rental activity under the seven tests set out in [Temp. Treas. Reg. §1.469-5T(a)](https://www.taxnotes.com/research/federal/cfr26/1.469-5T){:target="_blank"}: 
+Meeting these two tests only establishes REP status; it does not, by itself, make any specific rental non-passive. The statute requires an additional, separate step: the taxpayer must materially participate in each specific rental activity under the seven tests set out in [Temp. Treas. Reg. §1.469-5T(a)](https://www.taxnotes.com/research/federal/cfr26/1.469-5T){:target="_blank"}:
 
 1. **500-Hour Test (Temp. Treas. Reg. § 1.469-5T(a)(1)):** Participation for more than 500 hours during the year.
 
@@ -67,3 +67,15 @@ Because such short-term rental activity falls outside the statutory definition o
 **What Happens Without Either Path**
 
 If a taxpayer is not a real estate professional, does not qualify for the short-term rental exception, and earns too much to benefit from the Section 469(i) allowance, the loss is not lost — it is suspended. Under [IRC §469(b)](https://www.taxnotes.com/research/federal/usc26/469){:target="_blank"}, disallowed passive losses "shall be treated as a deduction or credit allocable to such activity in the next taxable year," carrying forward indefinitely until offset by passive income from any source, or released in full under [Section 469(g)](https://www.taxnotes.com/research/federal/usc26/469){:target="_blank"} upon a fully taxable disposition of the taxpayer's entire interest in the activity.
+
+**Former passive activity**
+
+Even if you meet the requirements of either path, accumulated losses from prior passive years will not be released immediately. [IRC §469(f)(1)](https://www.taxnotes.com/research/federal/usc26/469){:target="_blank"} explicitly provides that "if an activity is a former passive activity for any taxable year, \[it\] shall continue to be treated as arising from a passive activity."
+
+**Proof for Material Participation**
+
+A contemporaneous daily log is not strictly required by law — [Treas. Reg. §1.469-5T(f)(4)](https://www.taxnotes.com/research/federal/cfr26/1.469-5T){:target="_blank"} explicitly provides:
+
+Contemporaneous daily time reports, logs, or similar documents are not required if the extent of such participation may be established by other reasonable means. Reasonable means for purposes of this paragraph may include but are not limited to the identification of services performed over a period of time and the approximate number of hours spent performing such services during such period, based on appointment books, calendars, or narrative summaries.
+
+Therefore, the key is maintaining reliable documentation that can be cross-verified with other supporting facts.
