@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RSU Wash-sale timing: vesting or release?"
+title: "RSU wash-sale timing: vesting or release?"
 date: 2026-10-19
 categories: tax
 tags:
